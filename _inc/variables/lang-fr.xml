@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<theme>
+
+	<formatVersion>7</formatVersion>
+	
+	<variables>
+
+		<subset.controller>contrôleur d'activité</subset.controller>
+		<subset.controller.stick>arcade</subset.controller.stick>
+		<subset.controller.player>icônes de joueurs</subset.controller.player>
+		<subset.controller.gamepad>manettes génériques</subset.controller.gamepad>
+		<subset.controller.nes>manettes nes / famicom</subset.controller.nes>
+		<subset.controller.snes>manettes snes / super famicom</subset.controller.snes>
+		<subset.controller.n64>manettes nintendo 64</subset.controller.n64>
+		<subset.controller.cube>manettes gamecube</subset.controller.cube>
+		<subset.controller.megadrive>manettes megadrive</subset.controller.megadrive>
+		<subset.controller.megadrive6>manettes megadrive ( 6 buttons )</subset.controller.megadrive6>
+		<subset.controller.xbox>manettes xbox</subset.controller.xbox>
+		<subset.controller.psx>sony dualshock</subset.controller.psx>
+		<subset.controller.ps4>sony dualshock 4</subset.controller.ps4>
+		<subset.controller.ps5>sony dualshock 5</subset.controller.ps5>
+	
+		<subset.helpIcons>boutons de l'aide</subset.helpIcons>
+		<subset.helpIcons.default>génériques</subset.helpIcons.default>
+		<subset.helpIcons.psx>psx</subset.helpIcons.psx>
+		<subset.helpIcons.snes>snes - super famicom</subset.helpIcons.snes>
+		<subset.helpIcons.snesAlt>snes - super famicom (alt)</subset.helpIcons.snesAlt>
+		<subset.helpIcons.xbox>xbox</subset.helpIcons.xbox>
+		<subset.helpIcons.xboxOne>xbox one</subset.helpIcons.xboxOne>
+
+		<subset.themeColors>couleurs du thème</subset.themeColors>
+		<subset.themeColors.heinsenberg>heinsenberg</subset.themeColors.heinsenberg>
+		<subset.themeColors.redAstaire>red astaire</subset.themeColors.redAstaire>
+		<subset.themeColors.pinkman>pink man</subset.themeColors.pinkman>
+		<subset.themeColors.tribeca>tribeca</subset.themeColors.tribeca>
+		<subset.themeColors.reactorPluid>reactor pluid</subset.themeColors.reactorPluid>
+		<subset.themeColors.smoke>monochrome</subset.themeColors.smoke>
+		<subset.themeColors.smokeBlue>monochrome / bleu</subset.themeColors.smokeBlue>
+		<subset.themeColors.smokeRed>monochrome / rouge</subset.themeColors.smokeRed>
+		<subset.themeColors.smokePink>monochrome / rose</subset.themeColors.smokePink>
+		<subset.themeColors.smokeOrange>monochrome / orange</subset.themeColors.smokeOrange>
+		<subset.themeColors.smokeGreen>monochrome / vert</subset.themeColors.smokeGreen>
+
+		<subset.neogeo>neogeo</subset.neogeo>
+		<subset.neogeo.mvs>multi video system</subset.neogeo.mvs>
+		<subset.neogeo.aes>advanced entertainment system</subset.neogeo.aes>
+
+		<subset.forceRegion>thème • forcer la région ( rafraîchir via f5 ou maj jeux )</subset.forceRegion>
+		<subset.forceRegion.no>non</subset.forceRegion.no>
+		<subset.forceRegion.eu>eu</subset.forceRegion.eu>
+		<subset.forceRegion.us>us</subset.forceRegion.us>
+		<subset.forceRegion.jp>jp</subset.forceRegion.jp>
+
+		<subset.atmosphere>atmosphère</subset.atmosphere>
+		<subset.atmosphere.Recalbox>morceaux recalbox</subset.atmosphere.Recalbox>
+		<subset.atmosphere.MrBoom>morceaux mr boom</subset.atmosphere.MrBoom>
+		<subset.atmosphere.OldBatocera>morceaux waterflame</subset.atmosphere.OldBatocera>
+		<subset.atmosphere.ComixZone>album comix zone</subset.atmosphere.ComixZone>
+		<subset.atmosphere.retrobat>morceaux retrobat</subset.atmosphere.retrobat>
+		<subset.atmosphere.randomAudio>audio aléatoire des jeux</subset.atmosphere.randomAudio>
+		<subset.atmosphere.allowGeneral>paramètres généraux</subset.atmosphere.allowGeneral>
+		<subset.atmosphere.notAllowMusic>jouer du silence</subset.atmosphere.notAllowMusic>
+
+		<subset.randomVideo>vue système • vidéos aléatoires</subset.randomVideo>
+		<subset.randomVideo.no>non</subset.randomVideo.no>
+		<subset.randomVideo.yes>oui</subset.randomVideo.yes>
+		<subset.randomVideo.justVideo>oui, mais sans audio</subset.randomVideo.justVideo>
+
+		<lang.library>librairie</lang.library>
+
+		<lang.elements>éléments</lang.elements>
+		<lang.favorites>favoris</lang.favorites>
+		<lang.favoritesReplacement>retrouvez ici vos favoris</lang.favoritesReplacement>
+		<lang.played>lancés</lang.played>
+		<lang.mostPlayed>le plus fréquent</lang.mostPlayed>
+		<lang.lastPlayedDate>dernier lancé le</lang.lastPlayedDate>
+
+		<lang.developedBy>développé par</lang.developedBy>
+		<lang.publiedIn>publié en</lang.publiedIn>
+		<lang.publied>publié</lang.publied>
+		<lang.by>par</lang.by>
+		<lang.and>et</lang.and>
+		<lang.noRating>notation absente</lang.noRating>
+		<lang.neverPlayed>jamais joué</lang.neverPlayed>
+		<lang.gamePlayers>nombre de joueurs</lang.gamePlayers>
+		<lang.timesPlayed>sessions</lang.timesPlayed>
+		<lang.lastPlayed>dernière fois</lang.lastPlayed>
+		<lang.releasedIn>sorti en</lang.releasedIn>
+		<lang.released>sorti</lang.released>
+
+<!-- Use upper and lower case ponctuation -->
+
+		<lang.noDesc>Désolé, aucune description pour celui-ci.
+Vous pouvez tenter un scrape ou bien éditer manuellement le fichier gamelist.xml depuis le dossier de roms approprié.</lang.noDesc>
+
+<!-- Use Alt+0160 Spaces, respect line break -->
+
+<lang.spacerSmallText> 
+</lang.spacerSmallText>
+
+<lang.canBeApplied>applicable depuis les listes de jeux ou la vue système
+</lang.canBeApplied>
+
+<lang.mustBeApplied>paramètre individuel, à utiliser uniquement depuis la gamelist
+</lang.mustBeApplied>
+
+<lang.forceRegion.explain>forcer la région d'un ou plusieurs systèmes
+</lang.forceRegion.explain>
+
+<lang.randomVideo.explain>affiche les vidéos aléatoires sur la vue système
+</lang.randomVideo.explain>
+	
+	</variables>
+
+</theme>

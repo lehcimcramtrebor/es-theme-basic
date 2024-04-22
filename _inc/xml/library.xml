@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<theme>
+
+	<formatVersion>7</formatVersion>
+	
+	<customView name="library" inherits="detailed" displayName="${lang.library}">
+
+		<video name="md_video"
+		
+			origin="0.5 0.5"
+			pos="${v.frameRight.pos}"
+			maxSize="0.48 0.62"
+			
+		/>
+		
+		<image name="md_thumbnail"
+		
+			visible="false"
+
+		/>
+
+		<image name="md_marquee"
+		
+			visible="false"
+
+		/>
+				
+		<text name="md_description"
+		
+			visible="false"
+			
+		/>
+
+		<text name="noDescription"
+		
+			extra="true"
+			visible="false"
+
+		/>
+
+		<text name=	"
+					gameRating,gameNorating,
+					gameCounts,gameCounts_NoPlay,
+					gameInfoExt_Complete,
+					gameInfoExt_NoYear,gameInfoExt_JustYear,
+					gameInfoExt_NoGenre,gameInfoExt_JustGenre,
+					gameInfoExt_NoDev,gameInfoExt_JustDev,
+					gameInfoExt_NoPub,gameInfoExt_JustPub,
+					gameInfoExt_Year_Dev,
+					gameInfoExt_Year_Pub,
+					gameInfoExt_Year_Genre,
+					gameInfoExt_Dev_Pub,
+					gameInfoExt_Dev_Genre,
+					gameInfoExt_Pub_Genre
+					"
+		
+			extra="true"
+			visible="false"
+			
+		/>
+	
+	</customView>
+
+</theme>

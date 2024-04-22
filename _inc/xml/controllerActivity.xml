@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<theme>
+
+	<formatVersion>7</formatVersion>
+	
+	<view name="screen">
+	
+		<controllerActivity name="controllerActivity"
+		
+			pos="${v.controllerActivity.x} 0.009"
+			size="0.185 0.023"
+			color="${c.text}"
+			activityColor="${c.textHeader}"
+			hotkeyColor="ff3030"
+			gunPath="./../parts/controllerActivity/gun.svg"
+			wheelPath="./../parts/controllerActivity/wheel.svg"
+			imagePath="./../parts/controllerActivity/${v.controllerActivity.imagePath}.svg"
+			itemSpacing="${v.controllerActivity.itemSpacing}"
+			
+		/>
+		
+	</view>
+	
+</theme>

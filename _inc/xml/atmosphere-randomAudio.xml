@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<theme>
+
+	<formatVersion>7</formatVersion>
+	
+	<view name="system">
+	
+        <sound name="bgsound"
+		
+            path="./../music/silence.ogg"
+			
+        />
+		
+		<video name="randomVideo"
+		
+			extra="true"
+			path="{random}"
+			zIndex="0"
+			scale="0"
+			pos="2 2"
+			delay="0.3"
+			
+		/>
+		
+	</view>
+	
+</theme>

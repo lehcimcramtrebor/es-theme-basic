@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<theme>
+
+	<formatVersion>7</formatVersion>
+	
+	<variables>
+	
+		<c.menubg>162224</c.menubg>
+		<c.textHeader>4e97d1</c.textHeader>
+		<c.main>${c.textHeader}</c.main>
+		<c.menuSelector>00527c</c.menuSelector>
+		<ce.menuSelector>003f5d</ce.menuSelector>
+	
+	</variables>
+
+</theme>

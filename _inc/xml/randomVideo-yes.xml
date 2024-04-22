@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<theme>
+
+	<formatVersion>7</formatVersion>
+	
+	<view name="system">
+
+		<video name="randomVideo"
+		
+			extra="true"
+			linearSmooth="true"
+			saturation="0.75"
+			color="efefef"
+			path="{random}"
+			zIndex="810"
+			scale="1"
+			origin="0 1"
+			pos="0.0125 0.935"
+			maxSize="0.3621 0.2546"
+			delay="0.3"
+			effect="none"
+			roundCorners="0.013"
+			audio="true"
+			offsetX="-1"
+			
+		>
+		
+			<path>./../../${system.theme}/video.mp4</path>
+			<path>./../../${system.theme}/video.m3u</path>
+			
+			<shader>./../shaders/scanlinesBright.glsl</shader>
+
+			<storyboard>
+			
+				<animation property="offsetX"		from="-1"		to="0"			duration="250"			mode="easeOut"		begin="600"		/>
+			
+			</storyboard>
+
+		</video>
+
+	</view>
+
+</theme>

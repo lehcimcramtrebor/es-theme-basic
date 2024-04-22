@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<theme>
+
+	<formatVersion>7</formatVersion>
+	
+	<view name="system">
+
+		<text name="system.infos.manufacturer,system.infos.name,system.infos.favorites,system.infos.played,system.infos.mostPlayed,system.infos.lastPlayed"
+		
+			extra="true"
+			zIndex="3000"
+            glowColor="${c.glowColor}"
+			glowOffset="2"
+			glowSize="1"
+ 			alignment="left"
+			verticalAlignment="top"
+			origin="0.5 0.5"
+			pos="0.5 0.5"
+			w="0.975"
+			forceUppercase="true"
+			visible="true"
+					
+		/>
+
+		<text name="system.infos.manufacturer"
+		
+			extra="true"
+			fontPath="./../fonts/${f.mb}"
+			h="0.9"
+			fontSize="0.036"
+			color="${c.textHeader}"
+			text="${system.manufacturer}"
+			
+		/>
+				
+		<text name="system.infos.name"
+		
+			extra="true"
+			fontPath="./../fonts/${f.mb}"
+			h="0.8"
+			fontSize="0.024"
+			color="${c.text}"
+			text="${system.fullName} ${v.py} ${system.releaseYearOrNull}"
+			
+		/>
+		
+		<text name="system.infos.favorites,system.infos.mostPlayed,system.infos.lastPlayed"
+		
+			extra="true"
+			fontPath="./../fonts/${f.mb}"
+			h="0.7265"
+			fontSize="0.021"
+			color="${c.yellow}"
+			
+		/>
+				
+		<text name="system.infos.favorites"
+		
+			extra="true"
+			text="${lang.favorites}: {binding:favorites}"
+			
+		>
+			
+			<text if="${system.name} == 'favorites'">${lang.favoritesReplacement}</text>
+			
+			<storyboard
+			
+				repeat="forever"
+				
+			>
+			
+                <animation		property="scale"			from="1"			to="1"				duration="9000"			mode="linear"								/>
+                <animation		property="opacity"			from="1"			to="1"				duration="2900"			mode="linear"								/>
+                <animation		property="opacity"			from="1"			to="0"				duration="100"			mode="easeInOut"		begin="2900"		/>
+			
+			</storyboard>
+			
+		</text>
+	
+		<text name="system.infos.mostPlayed"
+		
+			extra="true"
+			text="${lang.mostPlayed}:  {binding:mostPlayed}"
+			
+		>
+			
+			<storyboard
+			
+				repeat="forever"
+				
+			>
+			
+                <animation		property="scale"			from="1"			to="1"				duration="9000"			mode="linear"								/>
+                <animation		property="opacity"			from="0"			to="0"				duration="3000"			mode="linear"								/>
+                <animation		property="opacity"			from="0"			to="1"				duration="100"			mode="easeInOut"		begin="3000"		/>
+                <animation		property="opacity"			from="1"			to="0"				duration="100"			mode="easeInOut"		begin="5900"		/>
+			
+			</storyboard>
+		
+		</text>
+		
+		<text name="system.infos.lastPlayed"
+		
+			extra="true"
+			text="${lang.lastPlayedDate}:  {binding:lastPlayedDate}"
+			
+		>
+			
+			<storyboard
+			
+				repeat="forever"
+				
+			>
+			
+                <animation		property="scale"			from="1"			to="1"				duration="9000"			mode="linear"								/>
+                <animation		property="opacity"			from="0"			to="0"				duration="6000"			mode="linear"								/>
+                <animation		property="opacity"			from="0"			to="1"				duration="100"			mode="easeInOut"		begin="6000"		/>
+                <animation		property="opacity"			from="1"			to="0"				duration="100"			mode="easeInOut"		begin="8900"		/>
+			
+			</storyboard>
+
+		</text>
+
+		<carousel name="systemcarousel"
+		
+			zIndex="1000"
+			color="00000000"
+			defaultTransition="fade &amp; slide"
+			scrollSound="./../parts/scroll.wav"
+			origin="0.5 0.5"
+			pos="0.5 0.5"
+			size="1 0.3"
+			logoSize="0.33 0.18"
+			
+		>
+			
+			<maxLogoCount if="${s.notWide}">2</maxLogoCount>
+			<maxLogoCount if="${s.ultraWide}">4</maxLogoCount>
+		
+			<logoSize if="${s.notWide}">0.5 0.18</logoSize>
+			<logoSize if="${s.ultraWide}">0.25 0.18</logoSize>
+		
+		</carousel>
+
+		<screenshader name="blurCarousel"
+		
+			extra="true"
+			zIndex="900"
+			pos="0 0.35"
+			size="1 0.3"
+	
+		>
+		
+			<path>./../shaders/kawase_blur_3pass.glslp</path>
+
+		</screenshader>
+
+		<image name="glare"
+		
+			extra="true"
+			linearSmooth="true"
+			zIndex="899"
+			path="./../parts/glare.png"
+			maxSize="1 0.30"
+			origin="0.5 0.5"
+			pos="0.5 0.5"
+			color="${c.main}"
+			opacity="0.075"
+
+		/>
+
+		<image name="darken"
+		
+			extra="true"
+			linearSmooth="true"
+			zIndex="898"
+			path="./../parts/white.png"
+			size="1 0.30"
+			origin="0.5 0.5"
+			pos="0.5 0.5"
+			color="000000"
+			opacity="0.25"
+
+		/>
+
+		<image name="lighten"
+		
+			extra="true"
+			linearSmooth="true"
+			zIndex="897"
+			path="./../parts/white.png"
+			size="1 0.30"
+			origin="0.5 0.5"
+			pos="0.5 0.5"
+			color="${c.main}"
+			opacity="0.125"
+
+		/>
+		
+		<image name="lineUpCarousel,lineDownCarousel"
+		
+			extra="true"
+			zIndex="1000"
+			path="./../parts/white.png"
+			size="1 ${v.line.h}"
+			opacity="0.15"
+		
+		/>
+
+		<image name="lineUpCarousel"
+		
+			extra="true"
+			origin="0.5 1"
+			pos="0.5 0.35"
+			color="000000"
+			colorEnd="${c.base}"
+			gradientType="vertical"
+			
+		/>
+
+		<image name="lineDownCarousel"
+		
+			extra="true"
+			origin="0.5 0"
+			pos="0.5 0.65"
+			color="${c.base}"
+			colorEnd="000000"
+			gradientType="vertical"
+		
+		/>
+
+		<image name="shadowUpCarousel,shadowDownCarousel"
+		
+			extra="true"
+			zIndex="899"
+			path="./../parts/white.png"
+			size="1 0.04"
+			opacity="0.7"
+		
+		/>
+
+		<image name="shadowUpCarousel"
+		
+			extra="true"
+			origin="0.5 1"
+			pos="0.5 0.35"
+			color="${c.base}00"
+			colorEnd="${c.base}66"
+			gradientType="vertical"
+		
+		/>
+
+		<image name="shadowDownCarousel"
+		
+			extra="true"
+			origin="0.5 0"
+			pos="0.5 0.65"
+			color="${c.base}66"
+			colorEnd="${c.base}00"
+			gradientType="vertical"
+		
+		/>
+
+		<text name="systemInfo"
+			
+			zIndex="1000"
+            pos="0 0.66"
+            backgroundColor="00000000"
+            color="${c.text}"
+			fontPath="./../fonts/${f.mb}"
+            fontSize="0.024"
+            glowColor="${c.glowColor}"
+			glowOffset="2"
+			glowSize="1"
+            opacity="0"
+		>
+		
+			<storyboard>
+			
+                <animation		property="opacity"			from="0"			to="1"				duration="100"			mode="easeIn"		/>
+				
+            </storyboard>
+			
+		</text>
+
+		<image name="art"
+		
+			extra="true"
+			linearSmooth="true"
+			zIndex="800"
+			path="./../../${system.theme}/art.png"
+			origin="1 1"
+			pos="0.96 0.97"
+			maxSize="0.92 0.9"
+			autoFade="true"
+		
+		>
+		
+			<shader>./../shaders/shadow.glsl</shader>
+
+
+		</image>
+
+	</view>
+
+</theme>

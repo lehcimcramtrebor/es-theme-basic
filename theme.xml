@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<theme>
+
+<formatVersion>7</formatVersion>
+
+	<include>./_inc/variables/lang-default.xml</include>
+	<include>./_inc/variables/lang-${lang}.xml</include>
+
+    <variables>
+		
+		<v.allViews>system,basic,detailed</v.allViews>
+		<v.allGamelists>basic,detailed</v.allGamelists>
+
+		<v.line.h>2 / ${screen.height}</v.line.h>
+		<v.line.w>2 / ${screen.width}</v.line.w>
+
+		<v.lineScroll>1 / ${screen.width}</v.lineScroll>
+
+		<v.frame.x>0.5</v.frame.x>
+		<v.frameLeft.x>0.22</v.frameLeft.x>
+		<v.frameRight.x>0.705</v.frameRight.x>
+
+		<v.frame.y>0.565</v.frame.y>
+
+		<v.frame.w>0.95</v.frame.w>
+		<v.frameLeft.w>0.39</v.frameLeft.w>
+		<v.frameRight.w>0.54</v.frameRight.w>
+
+		<v.frame.h>0.72</v.frame.h>
+
+		<v.frameBorders.w>0.95 + (${v.line.w})</v.frameBorders.w>
+		<v.frameLeftBorders.w>0.39 + (${v.line.w})</v.frameLeftBorders.w>
+		<v.frameRightBorders.w>0.54 + (${v.line.w})</v.frameRightBorders.w>
+
+		<v.frameBorders.h>0.72 + (${v.line.h})</v.frameBorders.h>
+
+		<v.frame.size>${v.frame.w} ${v.frame.h}</v.frame.size>
+		<v.frameLeft.size>${v.frameLeft.w} ${v.frame.h}</v.frameLeft.size>
+		<v.frameRight.size>${v.frameRight.w} ${v.frame.h}</v.frameRight.size>
+
+		<v.frame.pos>${v.frame.x} ${v.frame.y}</v.frame.pos>
+		<v.frameLeft.pos>${v.frameLeft.x} ${v.frame.y}</v.frameLeft.pos>
+		<v.frameRight.pos>${v.frameRight.x} ${v.frame.y}</v.frameRight.pos>
+
+		<v.frameBorders.size>${v.frameBorders.w} ${v.frameBorders.h}</v.frameBorders.size>
+		<v.frameLeftBorders.size>${v.frameLeftBorders.w} ${v.frameBorders.h}</v.frameLeftBorders.size>
+		<v.frameRightBorders.size>${v.frameRightBorders.w} ${v.frameBorders.h}</v.frameRightBorders.size>
+
+		<v.gamelist.fontSize>0.024</v.gamelist.fontSize>
+		
+		<v.py if="${system.releaseYear} &gt; '1958'">•</v.py>
+		
+		<s.notWide>${screen.height} &gt; ${screen.width}/1.6</s.notWide>
+		<s.ultraWide>${screen.width} &gt; ${screen.height}*1.8</s.ultraWide>
+
+		<c.frame>161616</c.frame>
+		<c.base>121212</c.base>
+		<c.scroll>808080</c.scroll>
+		<c.text>cccccc</c.text>
+		<c.glowColor>0000004d</c.glowColor>
+		<c.selected>ffffff</c.selected>
+		<c.yellow>e8e337</c.yellow>
+		
+		<f.mb>bariol_bold-webfont.ttf</f.mb>
+		<f.mbi>bariol_bold_italic-webfont.ttf</f.mbi>
+		<f.mr>bariol_regular-webfont.ttf</f.mr>
+		<f.mri>bariol_regular_italic-webfont.ttf</f.mri>
+		<f.ml>bariol_light-webfont.ttf</f.ml>
+		<f.mli>bariol_light_italic-webfont.ttf</f.mli>
+		
+    </variables>
+
+    <subset name="controller"
+	
+		displayName="${subset.controller}"
+		
+	>
+	
+        <include			name="stick"					displayName="${subset.controller.stick}"					>./_inc/variables/controller-stick.xml</include>
+        <include			name="player" 					displayName="${subset.controller.player}"					>./_inc/variables/controller-player.xml</include>
+        <include 			name="gamepad" 					displayName="${subset.controller.gamepad}"					>./_inc/variables/controller-gamepad.xml</include>
+        <include 			name="nes" 						displayName="${subset.controller.nes}"						>./_inc/variables/controller-nes.xml</include>
+        <include 			name="snes" 					displayName="${subset.controller.snes}"						>./_inc/variables/controller-snes.xml</include>
+        <include 			name="n64" 						displayName="${subset.controller.n64}"						>./_inc/variables/controller-n64.xml</include>
+        <include 			name="cube" 					displayName="${subset.controller.cube}"						>./_inc/variables/controller-cube.xml</include>
+        <include 			name="megadrive" 				displayName="${subset.controller.megadrive}"				>./_inc/variables/controller-megadrive.xml</include>
+        <include 			name="megadrive6" 				displayName="${subset.controller.megadrive6}"				>./_inc/variables/controller-megadrive6.xml</include>
+        <include 			name="xbox" 					displayName="${subset.controller.xbox}"						>./_inc/variables/controller-xbox.xml</include>
+        <include 			name="psx" 						displayName="${subset.controller.psx}"						>./_inc/variables/controller-psx.xml</include>
+        <include 			name="ps4" 						displayName="${subset.controller.ps4}"						>./_inc/variables/controller-ps4.xml</include>
+        <include 			name="ps5" 						displayName="${subset.controller.ps5}"						>./_inc/variables/controller-ps5.xml</include>
+		
+    </subset>
+	
+	<subset name="helpIcons"
+	
+		displayName="${subset.helpIcons}"
+		
+	>
+	
+		<include			name="default"					displayName="${subset.helpIcons.default}"					/>
+		<include			name="psx"						displayName="${subset.helpIcons.psxIcons}"					>./_inc/variables/helpIcons-psx.xml</include>
+		<include			name="snes"						displayName="${subset.helpIcons.snes}"						>./_inc/variables/helpIcons-snes.xml</include>
+		<include			name="snesAlt"					displayName="${subset.helpIcons.snesAlt}"					>./_inc/variables/helpIcons-snesAlt.xml</include>
+		<include			name="xbox"						displayName="${subset.helpIcons.xbox}"						>./_inc/variables/helpIcons-xbox.xml</include>
+		<include			name="xboxOne"					displayName="${subset.helpIcons.xboxOne}"					>./_inc/variables/helpIcons-xboxOne.xml</include>
+	
+	</subset>
+	
+	<subset name="themeColors"
+	
+		displayName="${subset.themeColors}"
+		
+	>
+	
+		<include			name="heinsenberg"				displayName="${subset.themeColors.heinsenberg}"				>./_inc/variables/themeColors-heinsenberg.xml</include>
+		<include			name="redAstaire"				displayName="${subset.themeColors.redAstaire}"				>./_inc/variables/themeColors-redAstaire.xml</include>
+		<include			name="pinkman"					displayName="${subset.themeColors.pinkman}"					>./_inc/variables/themeColors-pinkman.xml</include>
+		<include			name="tribeca"					displayName="${subset.themeColors.tribeca}"					>./_inc/variables/themeColors-tribeca.xml</include>
+		<include			name="reactorPluid"				displayName="${subset.themeColors.reactorPluid}"			>./_inc/variables/themeColors-reactorPluid.xml</include>
+		<include			name="smoke"					displayName="${subset.themeColors.smoke}"					>./_inc/variables/themeColors-smoke.xml</include>
+		<include			name="smokeBlue"				displayName="${subset.themeColors.smokeBlue}"				>./_inc/variables/themeColors-smokeBlue.xml</include>
+		<include			name="smokeRed"					displayName="${subset.themeColors.smokeRed}"				>./_inc/variables/themeColors-smokeRed.xml</include>
+		<include			name="smokePink"				displayName="${subset.themeColors.smokePink}"				>./_inc/variables/themeColors-smokePink.xml</include>
+		<include			name="smokeOrange"				displayName="${subset.themeColors.smokeOrange}"				>./_inc/variables/themeColors-smokeOrange.xml</include>
+		<include			name="smokeGreen"				displayName="${subset.themeColors.smokeGreen}"				>./_inc/variables/themeColors-smokeGreen.xml</include>
+	
+	</subset>
+	
+	<subset name="neogeo"
+	
+		displayName="${subset.neogeo}"
+		
+	>
+	
+		<include			name="mvs"						displayName="${subset.neogeo.mvs}"							/>
+		<include			name="aes"						displayName="${subset.neogeo.aes}"							>./_inc/variables/neogeo-aes.xml</include>
+	
+	</subset>
+ 
+	<subset name="atmosphere"
+		
+		displayName="${subset.atmosphere}"
+			
+	>
+		
+        <include			name="Recalbox"					displayName="${subset.atmosphere.Recalbox}"					>./_inc/xml/atmosphere-recalbox.xml</include>
+        <include			name="MrBoom"					displayName="${subset.atmosphere.MrBoom}"					>./_inc/xml/atmosphere-MrBoom.xml</include>
+        <include			name="OldBatocera" 				displayName="${subset.atmosphere.OldBatocera}"				>./_inc/xml/atmosphere-oldBatocera.xml</include>
+        <include 			name="ComixZone"				displayName="${subset.atmosphere.ComixZone}"				>./_inc/xml/atmosphere-ComixZone.xml</include>
+        <include 			name="Retrobat"					displayName="${subset.atmosphere.Retrobat}"					>./_inc/xml/atmosphere-retrobat.xml</include>
+        <include 			name="randomAudio"				displayName="${subset.atmosphere.randomAudio}"				>./_inc/xml/atmosphere-randomAudio.xml</include>
+        <include			name="notAllowMusic"			displayName="${subset.atmosphere.notAllowMusic}"			>./_inc/xml/atmosphere-notAllow.xml</include>
+        <include			name="allowGeneral"				displayName="${subset.atmosphere.allowGeneral}"				/>
+		
+	</subset>
+	
+	<subset name="randomVideo"
+	
+		displayName="${subset.randomVideo}"
+		appliesTo="${lang.spacerSmallText}${lang.randomVideo.explain}[ ${lang.canBeApplied}${v.allViews} ]${lang.spacerSmallText}"
+		
+	>
+	
+		<include			name="justVideo"				displayName="${subset.randomVideo.justVideo}"				>./_inc/xml/randomVideo-justVideo.xml</include>
+		<include			name="yes"						displayName="${subset.randomVideo.yes}"						>./_inc/xml/randomVideo-yes.xml</include>
+		<include			name="no"						displayName="${subset.randomVideo.no}"						/>
+	
+	</subset>
+	
+	<subset name="forceRegion"
+	
+		displayName="${subset.forceRegion}"
+		appliesTo="${lang.spacerSmallText}${lang.forceRegion.explain}[ ${lang.mustBeApplied}${v.allGamelists} ]${lang.spacerSmallText}"
+		
+	>
+	
+		<include			name="no"						displayName="${subset.forceRegion.no}"						/>
+		<include			name="eu"						displayName="${subset.forceRegion.eu}"						/>
+		<include			name="us"						displayName="${subset.forceRegion.us}"						/>
+		<include			name="jp"						displayName="${subset.forceRegion.jp}"						/>
+	
+	</subset>
+
+	<view name="system,basic,detailed">
+	
+		<image name="hide"
+		
+			extra="true"
+			zIndex="100"
+			path="./_inc/parts/white.png"
+			size="1 1"
+			color="${c.base}"
+		
+		/>
+		
+		<image name="colorMask"
+		
+			extra="true"
+			linearSmooth="true"
+			zIndex="500"
+			path="./_inc/parts/white.png"
+			origin="0.5 0.5"
+			pos="0.5 0.5"
+			minSize="1 1"
+			color="${c.base}"
+			colorEnd="${c.main}00"
+			gradientType="vertical"
+			opacity="0.5"
+			
+		/>
+
+		<image name="colorTop,colorBottom"
+		
+			extra="true"
+			zIndex="200"
+			path="./_inc/parts/white.png"
+			size="1 0.5"
+			origin="1 0"
+			x="1"
+			opacity="0.15"
+			gradientType="vertical"
+		
+		/>
+
+		<image name="colorTop"
+		
+			extra="true"
+			y="0"
+			color="${c.main}00"
+			colorEnd="${c.main}80"
+		
+		/>
+
+		<image name="colorBottom"
+		
+			extra="true"
+			y="0.5"
+			color="${c.main}80"
+			colorEnd="${c.main}00"
+		
+		/>
+	
+		<image name="barUp,barDown"
+		
+			extra="true"
+			zIndex="2000"
+			path="./_inc/parts/white.png"
+			size="1.2 0.04"
+			color="${c.menubg}"
+		
+		/>
+	
+		<image name="barUp"
+		
+			extra="true"
+			origin="0.5 0"
+			pos="0.5 0"
+	
+		>
+		
+			<shader>./_inc/shaders/shadowBarUp.glsl</shader>
+		
+		</image>
+		
+		<image name="barDown"
+		
+			extra="true"
+			origin="0.5 1"
+			pos="0.5 1"
+		
+		>
+		
+			<shader>./_inc/shaders/shadowBarDown.glsl</shader>
+		
+		</image>
+	
+	</view>
+  
+	<include>./_inc/xml/menu.xml</include>
+	<include>./_inc/xml/help.xml</include>
+	<include>./_inc/xml/batteryIndicator.xml</include>
+	<include>./_inc/xml/controllerActivity.xml</include>
+	<include>./_inc/xml/logo.xml</include>
+	<include>./_inc/xml/system.xml</include>
+	<include>./_inc/xml/basic.xml</include>
+	<include>./_inc/xml/detailed.xml</include>
+	<include>./_inc/xml/library.xml</include>
+	
+</theme>
