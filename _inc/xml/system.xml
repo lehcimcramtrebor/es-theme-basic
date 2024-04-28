@@ -302,6 +302,24 @@
 
 		</image>
 
+		<image name="artBand"
+		
+			extra="true"
+			linearSmooth="true"
+			zIndex="799"
+			path="./../../${system.theme}/art.png"
+			minSize="1 0.30"
+			origin="0.5 0.5"
+			pos="0.5 0.5"
+			saturation="0.35"
+			color="ffffff80"
+			colorEnd="${c.textHeader}00"
+			gradientType="horizontal"
+			opacity="0.35"
+			autoFade="true"
+		
+		/>
+		
 	</view>
 
 </theme>
