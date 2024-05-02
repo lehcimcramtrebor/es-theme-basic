@@ -192,14 +192,15 @@
 					gameRating,gameNorating,
 					gameCounts,gameCounts_NoPlay,
 					gameInfoExt_Complete,
-					gameInfoExt_NoYear,gameInfoExt_JustYear,
-					gameInfoExt_NoGenre,gameInfoExt_JustGenre,
+					gameInfoExt_Complete_SameDevPub,
+					gameInfoExt_NoYear,gameInfoExt_NoYear_SameDevPub,gameInfoExt_JustYear,
+					gameInfoExt_NoGenre,gameInfoExt_NoGenre_SameDevPub,gameInfoExt_JustGenre,
 					gameInfoExt_NoDev,gameInfoExt_JustDev,
 					gameInfoExt_NoPub,gameInfoExt_JustPub,
 					gameInfoExt_Year_Dev,
 					gameInfoExt_Year_Pub,
 					gameInfoExt_Year_Genre,
-					gameInfoExt_Dev_Pub,
+					gameInfoExt_Dev_Pub,gameInfoExt_Dev_Pub_SameDevPub
 					gameInfoExt_Dev_Genre,
 					gameInfoExt_Pub_Genre
 					"
@@ -279,6 +280,7 @@ ${lang.neverPlayed} !</text>
 						&amp;&amp;	!empty({game:genre})
 						&amp;&amp;	!empty({game:releaseyear})
 						&amp;&amp;	!empty({game:publisher})
+						&amp;&amp;	{game:developer} != {game:publisher}
 					"
 			
 		>
@@ -293,6 +295,28 @@ ${lang.neverPlayed} !</text>
 
 		</text>
 		
+		<text name="gameInfoExt_Complete_SameDevPub"
+		
+			extra="true"
+			visible="				!empty({game:developer})
+						&amp;&amp;	!empty({game:genre})
+						&amp;&amp;	!empty({game:releaseyear})
+						&amp;&amp;	!empty({game:publisher})
+						&amp;&amp;	{game:developer} == {game:publisher}
+					"
+			
+		>
+			<!-- text must begin by alt+0160 space -->
+			<text> 
+
+
+
+
+
+{game:genre}, ${lang.developedAndPubliedIn} {game:releaseyear} ${lang.by} {game:developer}</text>
+
+		</text>
+		
 		<text name="gameInfoExt_NoYear"
 		
 			extra="true"
@@ -300,6 +324,7 @@ ${lang.neverPlayed} !</text>
 						&amp;&amp;	!empty({game:genre})
 						&amp;&amp;	empty({game:releaseyear})
 						&amp;&amp;	!empty({game:publisher})
+						&amp;&amp;	{game:developer} != {game:publisher}
 					"
 			
 		>
@@ -311,6 +336,28 @@ ${lang.neverPlayed} !</text>
 
 
 {game:genre}, ${lang.developedBy} {game:developer} ${lang.and} ${lang.publied} ${lang.by} {game:publisher}</text>
+
+		</text>
+		
+		<text name="gameInfoExt_NoYear_SameDevPub"
+		
+			extra="true"
+			visible="				!empty({game:developer})
+						&amp;&amp;	!empty({game:genre})
+						&amp;&amp;	empty({game:releaseyear})
+						&amp;&amp;	!empty({game:publisher})
+						&amp;&amp;	{game:developer} == {game:publisher}
+					"
+			
+		>
+			<!-- text must begin by alt+0160 space -->
+			<text> 
+
+
+
+
+
+{game:genre}, ${lang.developedAndPubliedBy} {game:developer}</text>
 
 		</text>
 		
@@ -342,6 +389,7 @@ ${lang.releasedIn} {game:releaseyear}</text>
 						&amp;&amp;	empty({game:genre})
 						&amp;&amp;	!empty({game:releaseyear})
 						&amp;&amp;	!empty({game:publisher})
+						&amp;&amp;	{game:developer} != {game:publisher}
 					"
 			
 		>
@@ -353,6 +401,28 @@ ${lang.releasedIn} {game:releaseyear}</text>
 
 
 ${lang.developedBy} {game:developer} ${lang.and} ${lang.publiedIn} {game:releaseyear} ${lang.by} {game:publisher}</text>
+
+		</text>
+		
+		<text name="gameInfoExt_NoGenre_SameDevPub"
+		
+			extra="true"
+			visible="				!empty({game:developer})
+						&amp;&amp;	empty({game:genre})
+						&amp;&amp;	!empty({game:releaseyear})
+						&amp;&amp;	!empty({game:publisher})
+						&amp;&amp;	{game:developer} == {game:publisher}
+					"
+			
+		>
+			<!-- text must begin by alt+0160 space -->
+			<text> 
+
+
+
+
+
+${lang.developedAndPubliedIn} {game:releaseyear} ${lang.by} {game:developer}</text>
 
 		</text>
 		
@@ -531,6 +601,7 @@ ${lang.publiedIn} {game:releaseyear} ${lang.by} {game:publisher}</text>
 						&amp;&amp;	empty({game:genre})
 						&amp;&amp;	empty({game:releaseyear})
 						&amp;&amp;	!empty({game:publisher})
+						&amp;&amp;	{game:developer} != {game:publisher}
 					"
 			
 		>
@@ -542,6 +613,28 @@ ${lang.publiedIn} {game:releaseyear} ${lang.by} {game:publisher}</text>
 
 
 ${lang.developedBy} {game:developer} ${lang.and} ${lang.publied} ${lang.by} {game:publisher}</text>
+
+		</text>
+		
+		<text name="gameInfoExt_Dev_Pub_SameDevPub"
+		
+			extra="true"
+			visible="				!empty({game:developer})
+						&amp;&amp;	empty({game:genre})
+						&amp;&amp;	empty({game:releaseyear})
+						&amp;&amp;	!empty({game:publisher})
+						&amp;&amp;	{game:developer} == {game:publisher}
+					"
+			
+		>
+			<!-- text must begin by alt+0160 space -->
+			<text> 
+
+
+
+
+
+${lang.developedAndPubliedBy} {game:developer}</text>
 
 		</text>
 		
