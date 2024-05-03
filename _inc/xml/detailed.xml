@@ -255,7 +255,7 @@
 
 ${lang.gamePlayers}: {game:players}
 ${lang.timesPlayed}: {game:playcount}
-${lang.lastPlayed}: {game:lastplayed}</text>
+${lang.lastPlayed} ${lang.at} {game:lastplayed}</text>
 
 		</text>
 		
@@ -269,7 +269,7 @@ ${lang.lastPlayed}: {game:lastplayed}</text>
 			<text> 
 
 ${lang.gamePlayers}: {game:players}
-${lang.neverPlayed} !</text>
+( ${lang.neverPlayed} )</text>
 
 		</text>
 		

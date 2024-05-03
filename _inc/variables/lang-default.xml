@@ -75,6 +75,7 @@
 		<lang.played>launched</lang.played>
 		<lang.mostPlayed>most launched</lang.mostPlayed>
 		<lang.lastPlayedDate>last launch</lang.lastPlayedDate>
+		<lang.at>at</lang.at>
 
 		<lang.developedBy>developed by</lang.developedBy>
 		<lang.publiedIn>published in</lang.publiedIn>
@@ -84,10 +85,10 @@
 		<lang.by>by</lang.by>
 		<lang.and>and</lang.and>
 		<lang.noRating>no rating</lang.noRating>
-		<lang.neverPlayed>never played</lang.neverPlayed>
+		<lang.neverPlayed>never launched</lang.neverPlayed>
 		<lang.gamePlayers>number of players</lang.gamePlayers>
 		<lang.timesPlayed>times played</lang.timesPlayed>
-		<lang.lastPlayed>last played</lang.lastPlayed>
+		<lang.lastPlayed>last time</lang.lastPlayed>
 		<lang.releasedIn>released in</lang.releasedIn>
 		<lang.released>released</lang.released>
 

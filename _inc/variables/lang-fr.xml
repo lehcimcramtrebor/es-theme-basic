@@ -75,6 +75,7 @@
 		<lang.played>lancés</lang.played>
 		<lang.mostPlayed>le plus fréquent</lang.mostPlayed>
 		<lang.lastPlayedDate>dernier lancé le</lang.lastPlayedDate>
+		<lang.at>le</lang.at>
 
 		<lang.developedBy>développé par</lang.developedBy>
 		<lang.publiedIn>publié en</lang.publiedIn>
@@ -84,10 +85,10 @@
 		<lang.by>par</lang.by>
 		<lang.and>et</lang.and>
 		<lang.noRating>notation absente</lang.noRating>
-		<lang.neverPlayed>jamais joué</lang.neverPlayed>
+		<lang.neverPlayed>jamais lancé</lang.neverPlayed>
 		<lang.gamePlayers>nombre de joueurs</lang.gamePlayers>
 		<lang.timesPlayed>sessions</lang.timesPlayed>
-		<lang.lastPlayed>dernière fois</lang.lastPlayed>
+		<lang.lastPlayed>la dernière</lang.lastPlayed>
 		<lang.releasedIn>sorti en</lang.releasedIn>
 		<lang.released>sorti</lang.released>
 
