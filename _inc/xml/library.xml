@@ -25,6 +25,12 @@
 			visible="false"
 
 		/>
+
+		<image name="md_fanart"
+		
+			visible="false"
+
+		/>
 				
 		<text name="md_description"
 		
