@@ -42,6 +42,27 @@
 			
 		/>
 
+		<image name="md_fanart"
+		
+			zIndex="601"
+			linearSmooth="false"
+			origin="0.5 0.5"
+			minSize="${v.frameRight.size}"
+			pos="${v.frameRight.pos}"
+			saturation="0.35"
+			color="80808033"
+			colorEnd="${c.textHeader}06"
+			gradientType="vertical"
+			opacity="0.8"
+			autoFade="true"
+			
+		>
+		
+			<shader>./../shaders/scanlines.glsl</shader>
+
+
+		</image>
+
 		<image name="frameRightBorders"
 		
 			extra="true"
