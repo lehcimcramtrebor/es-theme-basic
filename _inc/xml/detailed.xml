@@ -50,10 +50,10 @@
 			minSize="${v.frameRight.size}"
 			pos="${v.frameRight.pos}"
 			saturation="0.35"
-			color="80808033"
-			colorEnd="${c.textHeader}06"
-			gradientType="vertical"
-			opacity="0.8"
+			color="${c.textHeader}06"
+			colorEnd="80808080"
+			gradientType="horizontal"
+			opacity="0.7"
 			autoFade="true"
 			
 		>
