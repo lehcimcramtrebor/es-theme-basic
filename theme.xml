@@ -8,6 +8,9 @@
 	<include>./_inc/variables/lang-${lang}.xml</include>
 
     <variables>
+
+		<p.custom>../../_BasicCustom</p.custom>
+		<p.custom ifArch="windows">../../../../_BasicCustom</p.custom>
 		
 		<v.allViews>system,basic,detailed</v.allViews>
 		<v.allGamelists>basic,detailed</v.allGamelists>
@@ -278,6 +281,8 @@
 	
 	</view>
   
+	<include>./${p.custom}/${system.theme}/infos.xml</include>
+
 	<include>./_inc/xml/menu.xml</include>
 	<include>./_inc/xml/help.xml</include>
 	<include>./_inc/xml/batteryIndicator.xml</include>

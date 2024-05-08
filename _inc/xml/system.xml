@@ -280,16 +280,26 @@
 			
 		</text>
 
-		<image name="art"
+		<image name="art,artBand"
 		
 			extra="true"
 			linearSmooth="true"
+			autoFade="true"
+		
+		>
+		
+			<path>./../../${system.theme}/art.png</path>
+			<path>./../../${p.custom}/${system.theme}/art.png</path>
+		
+		</image>
+
+		<image name="art"
+		
+			extra="true"
 			zIndex="800"
-			path="./../../${system.theme}/art.png"
 			origin="1 1"
 			pos="0.96 0.97"
 			maxSize="0.92 0.9"
-			autoFade="true"
 		
 		>
 
@@ -300,9 +310,7 @@
 		<image name="artBand"
 		
 			extra="true"
-			linearSmooth="true"
 			zIndex="901"
-			path="./../../${system.theme}/art.png"
 			minSize="1 0.30"
 			origin="0.5 0.5"
 			pos="0.5 0.5"
@@ -311,7 +319,6 @@
 			colorEnd="${c.textHeader}00"
 			gradientType="horizontal"
 			opacity="0.35"
-			autoFade="true"
 		
 		>
 
@@ -331,7 +338,7 @@
 			forceUppercase="false"
 			alignment="left"
 			verticalAlignment="top"
-			w="0.3"
+			w="0.35"
 			origin="0 0"
 			pos ="0.013 0.18"
 			opacity="0"

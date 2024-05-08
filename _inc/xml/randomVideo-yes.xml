@@ -28,6 +28,9 @@
 		
 			<path>./../../${system.theme}/video.mp4</path>
 			<path>./../../${system.theme}/video.m3u</path>
+		
+			<path>./../../${p.custom}/${system.theme}/video.mp4</path>
+			<path>./../../${p.custom}/${system.theme}/video.m3u</path>
 			
 			<shader>./../shaders/scanlinesBright.glsl</shader>
 

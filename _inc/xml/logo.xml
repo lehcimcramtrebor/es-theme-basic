@@ -103,6 +103,15 @@
 			<path>./../../${system.theme}/jp/logo.png</path>
 			
 		</image>
+		
+		<image name="logo"
+		
+		>
+		
+			<path>./../../${p.custom}/${system.theme}/logo.png</path>
+			<path>./../../${p.custom}/${system.theme}/logo.svg</path>
+			
+		</image>
 
 	</view>
 	
