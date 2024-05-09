@@ -1,6 +1,6 @@
 French:
 
-Le dossier "_BasicCustom" permet de personnaliser votre thème sans toucher au thème installé affin de permettre les mises à jour sans pertes de données.
+Le dossier "_BasicCustom" permet de personnaliser votre thème sans toucher au thème installé afin de permettre les mises à jour sans pertes de données.
 Copiez-le à la racine de "SHARE" si vous utilisez Batocera, ou à la racine de Retrobat.
 
 Une fois le dossier copié, ouvrez-le, vous y trouverez un dossier "_TEMPLATE_" : c'est le modèle à dupliquer pour commencer à personnaliser un système.
