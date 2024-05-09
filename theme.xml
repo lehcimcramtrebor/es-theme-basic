@@ -162,7 +162,7 @@
 	<subset name="randomVideo"
 	
 		displayName="${subset.randomVideo}"
-		appliesTo="${lang.spacerSmallText}${lang.randomVideo.explain}[ ${lang.canBeApplied}${v.allViews} ]${lang.spacerSmallText}"
+		appliesTo="${lang.spacerSmallText}${lang.randomVideo.explain}[ ${lang.canBeApplied} ${v.allViews} ]${lang.spacerSmallText}"
 		
 	>
 	
@@ -175,7 +175,7 @@
 	<subset name="forceRegion"
 	
 		displayName="${subset.forceRegion}"
-		appliesTo="${lang.spacerSmallText}${lang.forceRegion.explain}[ ${lang.mustBeApplied}${v.allGamelists} ]${lang.spacerSmallText}"
+		appliesTo="${lang.spacerSmallText}${lang.forceRegion.explain}[ ${lang.mustBeApplied} ${v.allGamelists} ]${lang.spacerSmallText}"
 		
 	>
 	
