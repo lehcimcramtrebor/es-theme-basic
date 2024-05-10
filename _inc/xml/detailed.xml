@@ -704,23 +704,52 @@ ${lang.developedAndPubliedBy} {game:developer}</text>
 	
 		<image name="md_kidgame, md_notkidgame"
 		
+			zIndex="900"
+			linearSmooth="true"
+			origin="0.5 0"
+			pos="0.8799479166666667 0.34"
+			path="./../parts/kid.svg"
+			maxSize="0.12 0.28"
+			color="${c.text}"
+			opacity="0.2"
+			
+		>
+
+			<shader>./../shaders/scanlines.glsl</shader>
+
+		</image>
+		
+		<image name="md_hidden"
+		
 			zIndex="1002"
 			linearSmooth="true"
-			origin="1 0"
-			pos="0.9661458333333333 0.2203703703703704"
-			path="./../parts/kid.svg"
+			origin="0.5 0"
+			pos="0.964 0.899"
+			path="./../parts/hidden.svg"
 			maxSize="0.02 0.02"
-			color="${c.text}"
+			color="${c.yellow}"
 			opacity="0.9"
+					
+		>
+		
+			<storyboard
 			
-		/>
+				repeat="forever"
+				
+			>
+			
+                <animation		property="opacity"			from="0.1"			to="0.9"				duration="250"			mode="easeInOut"		autoreverse="true"		/>
+				
+            </storyboard>		
 
+		</image>
+		
 		<image name="md_notkidgame"
 		
 			opacity="0"
 			
 		/>
-	
+		
 	</view>
 
 </theme>
