@@ -80,8 +80,9 @@
 		
 	>
 	
-		<include			name="on"					displayName="${subset.shaders.on}"					/>
-		<include			name="off"					displayName="${subset.shaders.off}"					>./_inc/variables/helpIcons-psx.xml</include>
+		<include			name="off"					displayName="${subset.shaders.off}"					tinyScreen="true"		/>
+		<include			name="on"					displayName="${subset.shaders.on}"											/>
+		<include			name="off"					displayName="${subset.shaders.off}"					tinyScreen="false"		/>
 	
 	</subset>
 
