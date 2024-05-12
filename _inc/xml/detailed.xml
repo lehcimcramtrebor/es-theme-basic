@@ -701,7 +701,30 @@ ${lang.developedAndPubliedBy} {game:developer}</text>
 
 		</text>
 
-	
+		<text name=	"
+					gameInfoExt_Complete,
+					gameInfoExt_Complete_SameDevPub,
+					gameInfoExt_NoYear,gameInfoExt_NoYear_SameDevPub,gameInfoExt_JustYear,
+					gameInfoExt_NoGenre,gameInfoExt_NoGenre_SameDevPub,gameInfoExt_JustGenre,
+					gameInfoExt_NoDev,gameInfoExt_JustDev,
+					gameInfoExt_NoPub,gameInfoExt_JustPub,
+					gameInfoExt_Year_Dev,
+					gameInfoExt_Year_Pub,
+					gameInfoExt_Year_Genre,
+					gameInfoExt_Dev_Pub,gameInfoExt_Dev_Pub_SameDevPub
+					gameInfoExt_Dev_Genre,
+					gameInfoExt_Pub_Genre
+					"
+
+			extra="true"
+			
+		>
+		
+			<visible tinyScreen="true">false</visible>
+		
+		</text>
+		
+		
 		<image name="md_kidgame, md_notkidgame"
 		
 			zIndex="900"
