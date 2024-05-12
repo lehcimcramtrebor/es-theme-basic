@@ -20,7 +20,11 @@
 		<subset.controller.psx>sony dualshock</subset.controller.psx>
 		<subset.controller.ps4>sony dualshock 4</subset.controller.ps4>
 		<subset.controller.ps5>sony dualshock 5</subset.controller.ps5>
-	
+
+		<subset.shaders>améliorations visuelles ( shaders glsl )</subset.shaders>
+		<subset.shaders.on>activées</subset.shaders.on>
+		<subset.shaders.off>désactivées</subset.shaders.off>
+
 		<subset.helpIcons>boutons de l'aide</subset.helpIcons>
 		<subset.helpIcons.default>génériques</subset.helpIcons.default>
 		<subset.helpIcons.psx>psx</subset.helpIcons.psx>

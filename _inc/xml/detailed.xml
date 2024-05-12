@@ -58,7 +58,7 @@
 			
 		>
 		
-			<shader>./../shaders/scanlines.glsl</shader>
+			<shader ifSubset="shaders:on">./../shaders/scanlines.glsl</shader>
 
 
 		</image>
@@ -140,7 +140,7 @@
 			
 		>
 		
-			<shader>./../shaders/scanlinesBright.glsl</shader>		
+			<shader ifSubset="shaders:on">./../shaders/scanlinesBright.glsl</shader>		
 		
 		</video>
 
@@ -166,7 +166,7 @@
 
 		>
 		
-			<shader>./../shaders/shadowMarquee.glsl</shader>		
+			<shader ifSubset="shaders:on">./../shaders/shadowMarquee.glsl</shader>		
 		
 		</image>
 
@@ -715,7 +715,7 @@ ${lang.developedAndPubliedBy} {game:developer}</text>
 			
 		>
 
-			<shader>./../shaders/scanlines.glsl</shader>
+			<shader ifSubset="shaders:on">./../shaders/scanlines.glsl</shader>
 
 		</image>
 		

@@ -145,6 +145,7 @@
 
 		<screenshader name="blurCarousel"
 		
+			ifSubset="shaders:on"
 			extra="true"
 			zIndex="900"
 			pos="0 0.35"
@@ -303,7 +304,7 @@
 		
 		>
 
-			<shader>./../shaders/shadow.glsl</shader>
+			<shader ifSubset="shaders:on">./../shaders/shadow.glsl</shader>
 		
 		</image>
 		
@@ -322,7 +323,7 @@
 		
 		>
 
-			<shader>./../shaders/kawase_blur_9pass.glslp</shader>
+			<shader ifSubset="shaders:on">./../shaders/kawase_blur_9pass.glslp</shader>
 		
 		</image>
 

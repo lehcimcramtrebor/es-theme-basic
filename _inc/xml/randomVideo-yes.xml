@@ -32,7 +32,7 @@
 			<path>./../../${p.custom}/${system.theme}/video.mp4</path>
 			<path>./../../${p.custom}/${system.theme}/video.m3u</path>
 			
-			<shader>./../shaders/scanlinesBright.glsl</shader>
+			<shader ifSubset="shaders:on">./../shaders/scanlinesBright.glsl</shader>
 
 			<storyboard>
 			

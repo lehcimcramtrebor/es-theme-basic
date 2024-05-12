@@ -74,6 +74,17 @@
 		
     </variables>
 
+	<subset name="shaders"
+	
+		displayName="${subset.shaders}"
+		
+	>
+	
+		<include			name="on"					displayName="${subset.shaders.on}"					/>
+		<include			name="off"					displayName="${subset.shaders.off}"					>./_inc/variables/helpIcons-psx.xml</include>
+	
+	</subset>
+
     <subset name="controller"
 	
 		displayName="${subset.controller}"
@@ -263,7 +274,7 @@
 	
 		>
 		
-			<shader>./_inc/shaders/shadowBarUp.glsl</shader>
+			<shader ifSubset="shaders:on">./_inc/shaders/shadowBarUp.glsl</shader>
 		
 		</image>
 		
@@ -275,7 +286,7 @@
 		
 		>
 		
-			<shader>./_inc/shaders/shadowBarDown.glsl</shader>
+			<shader ifSubset="shaders:on">./_inc/shaders/shadowBarDown.glsl</shader>
 		
 		</image>
 	

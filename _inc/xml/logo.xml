@@ -14,7 +14,7 @@
 			
 		>
 		
-			<shader>./../shaders/shadowLogo.glsl</shader>
+			<shader ifSubset="shaders:on">./../shaders/shadowLogo.glsl</shader>
 		
 		</image>
 		
