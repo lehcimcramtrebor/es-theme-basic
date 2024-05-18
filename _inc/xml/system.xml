@@ -32,7 +32,11 @@
 			color="${c.textHeader}"
 			text="${system.manufacturer}"
 			
-		/>
+		>
+		
+			<fontSize tinyScreen="true">0.046</fontSize>
+		
+		</text>
 				
 		<text name="system.infos.name"
 		
@@ -43,7 +47,12 @@
 			color="${c.selected}"
 			text="${system.fullName} ${v.py} ${system.releaseYearOrNull}"
 			
-		/>
+		>
+		
+			<fontSize tinyScreen="true">0.03</fontSize>
+			<offsetY tinyScreen="true">0.020</offsetY>
+		
+		</text>
 		
 		<text name="system.infos.favorites,system.infos.mostPlayed,system.infos.lastPlayed"
 		
@@ -53,7 +62,12 @@
 			fontSize="0.021"
 			color="${c.yellow}"
 			
-		/>
+		>
+		
+			<fontSize tinyScreen="true">0.03</fontSize>
+			<offsetY tinyScreen="true">0.03</offsetY>
+		
+		</text>
 				
 		<text name="system.infos.favorites"
 		
@@ -272,6 +286,9 @@
 			glowSize="1"
             opacity="0"
 		>
+
+			<fontSize tinyScreen="true">0.03</fontSize>
+			<color tinyScreen="true">${c.selected}</color>
 		
 			<storyboard>
 			

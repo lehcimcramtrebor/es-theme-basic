@@ -33,14 +33,22 @@
 			selectedColor="${c.selected}"
 			selectorGradientType="horizontal"
 			
-		/>
+		>
+		
+			<fontSize tinyScreen="true">0.032</fontSize>
+		
+		</menuText>
 
 		<menuTextSmall name="menutextsmall"
 		
 			fontPath="./../fonts/${f.mr}"
 			fontSize="0.021"
 			
-		/>
+		>
+		
+			<fontSize tinyScreen="true">0.026</fontSize>
+		
+		</menuTextSmall>
 
 		<menuGroup name="menugroup"
 		

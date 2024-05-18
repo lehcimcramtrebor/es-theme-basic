@@ -18,7 +18,13 @@
 			imagePath="./../parts/controllerActivity/${v.controllerActivity.imagePath}.svg"
 			itemSpacing="${v.controllerActivity.itemSpacing}"
 			
-		/>
+		>
+		
+			<color tinyScreen="true">00000000</color>
+			<activityColor tinyScreen="true">00000000</activityColor>
+			<hotkeyColor tinyScreen="true">00000000</hotkeyColor>
+		
+		</controllerActivity>
 		
 	</view>
 	

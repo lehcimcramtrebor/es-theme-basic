@@ -265,7 +265,11 @@
 			size="1.2 0.04"
 			color="${c.menubg}"
 		
-		/>
+		>
+		
+			<h tinyScreen="true">0.05</h>
+		
+		</image>
 	
 		<image name="barUp"
 		

@@ -30,6 +30,8 @@
 			iconSelect="./../parts/help/icon_${v.helpIcons}_select.png"
 			
 		>
+			<fontSize tinyScreen="true">0.030</fontSize>
+			<pos tinyScreen="true">0.0104 0.975</pos>
 		
 			<iconColor ifSubset="helpIcons:default">${c.textHeader}</iconColor>
 		

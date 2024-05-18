@@ -5,6 +5,23 @@
 	<formatVersion>7</formatVersion>
 	
 	<view name="screen">
+
+		<text name="clock"
+			
+			fontPath="./../fonts/${f.mb}"
+			color="${c.text}"
+            glowColor="${c.glowColor}"
+			glowOffset="2"
+			glowSize="1"
+				
+		>
+		
+			<size tinyScreen="true">0.1 0.03</size>
+			<offsetX tinyScreen="true">-0.05</offsetX>
+			<offsetY tinyScreen="true">0.018</offsetY>
+			<fontSize tinyScreen="true">0.030</fontSize>
+		
+		</text>
 	
 		<batteryIndicator name="batteryIndicator"
 
@@ -20,7 +37,10 @@
 			separator="2"
 			reverse="true"
 		>
-		
+			
+			<size tinyScreen="true">0.58 0.045</size>
+			<pos tinyScreen="true">0.4165 0.006</pos>
+			
 			<batteryText name="ss.batterytext"
 			
 				fontSize="0.018"
@@ -28,7 +48,11 @@
 				color="${c.text}"
 				padding="12 0"
 				
-			/>
+			>
+			
+			<fontSize tinyScreen="true">0.026</fontSize>
+			
+			</batteryText>
 	
 			<batteryIcon name="ss.battery"
 			
@@ -84,7 +108,11 @@
 				color="${c.text}"
 				forceUppercase="true"
 				
-			/>
+			>
+			
+			<fontSize tinyScreen="true">0.026</fontSize>
+			
+			</text>
 
 			<text name="ss.separator2"
 			

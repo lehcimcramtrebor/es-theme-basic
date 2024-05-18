@@ -59,6 +59,7 @@
 		>
 		
 			<shader ifSubset="shaders:on">./../shaders/scanlines.glsl</shader>
+			<visible tinyScreen="true">false</visible>
 
 
 		</image>
@@ -121,7 +122,12 @@
 			scrollSound="./../parts/scroll.wav"
 			lines="15"
 			
-		/>
+		>
+		
+			<fontSize tinyScreen="true">0.030</fontSize>
+			<lines tinyScreen="true">11</lines>
+		
+		</textlist>
 
 		<video name="md_video"
 		
@@ -141,6 +147,9 @@
 		>
 		
 			<shader ifSubset="shaders:on">./../shaders/scanlinesBright.glsl</shader>		
+			<origin tinyScreen="true">0.5 1</origin>
+			<x tinyScreen="true">0.705</x>
+			<y tinyScreen="true">0.57</y>
 		
 		</video>
 
@@ -154,7 +163,14 @@
 			maxSize="0.1369791666666667 0.2259259259259259"
 			roundCorners="0.018"
 
-		/>
+		>
+		
+			<y tinyScreen="true">0.6</y>
+			<x tinyScreen="true">0.45</x>
+			<origin tinyScreen="true">0 1</origin>
+			<maxSize tinyScreen="true">0.16 0.226</maxSize>
+		
+		</image>
 
 		<image name="md_marquee"
 			zIndex="1001"
@@ -167,6 +183,10 @@
 		>
 		
 			<shader ifSubset="shaders:on">./../shaders/shadowMarquee.glsl</shader>		
+			<maxSize tinyScreen="true">0.25 0.16</maxSize>
+			<origin tinyScreen="true">1 0</origin>
+			<x tinyScreen="true">0.96</x>
+			<y tinyScreen="true">0.22</y>
 		
 		</image>
 
@@ -185,9 +205,8 @@
 			glowOffset="2"
 			glowSize="1"
 
+			/>
 			
-		/>
-
 		<text name="noDescription"
 		
 			zIndex="1001"
@@ -206,8 +225,23 @@
 			text="${lang.noDesc}"
 			visible="empty({game:desc})"
 
+			/>
+
+		<text name="md_description,noDescription"
+		
+			extra="true"
 			
-		/>
+		>
+		
+			<fontSize tinyScreen="true">0.030</fontSize>
+			<w tinyScreen="true">0.5</w>
+			<forceUppercase tinyScreen="true">true</forceUppercase>
+			<fontPath tinyScreen="true">./../fonts/${f.mb}</fontPath>
+			<color tinyScreen="true">${c.text}ef</color>
+			<backgroundColor tinyScreen="true">${c.textHeader}05</backgroundColor>
+			<y tinyScreen="true">0.62</y>
+		
+		</text>
 
 		<text name=	"
 					gameRating,gameNorating,
@@ -240,7 +274,13 @@
 			glowOffset="2"
 			glowSize="1"
 			
-		/>
+		>
+		
+			<fontSize tinyScreen="true">0.033</fontSize>
+			<y tinyScreen="true">0.54</y>
+			<alignment tinyScreen="true">left</alignment>
+		
+		</text>
 		
 		<text name="gameRating"
 		
@@ -702,6 +742,7 @@ ${lang.developedAndPubliedBy} {game:developer}</text>
 		</text>
 
 		<text name=	"
+					gameCounts,gameCounts_NoPlay,
 					gameInfoExt_Complete,
 					gameInfoExt_Complete_SameDevPub,
 					gameInfoExt_NoYear,gameInfoExt_NoYear_SameDevPub,gameInfoExt_JustYear,
@@ -739,6 +780,7 @@ ${lang.developedAndPubliedBy} {game:developer}</text>
 		>
 
 			<shader ifSubset="shaders:on">./../shaders/scanlines.glsl</shader>
+			<visible tinyScreen="true">false</visible>
 
 		</image>
 		
@@ -754,6 +796,8 @@ ${lang.developedAndPubliedBy} {game:developer}</text>
 			opacity="0.9"
 					
 		>
+
+			<visible tinyScreen="true">false</visible>
 		
 			<storyboard
 			

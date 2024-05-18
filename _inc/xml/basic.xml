@@ -69,7 +69,12 @@
 			scrollSound="./../parts/scroll.wav"
 			lines="15"
 			
-		/>
+		>
+		
+			<fontSize tinyScreen="true">0.030</fontSize>
+			<lines tinyScreen="true">11</lines>
+		
+		</textlist>
 
 	</view>
 
