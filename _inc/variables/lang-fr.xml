@@ -25,6 +25,10 @@
 		<subset.shaders.on>activées</subset.shaders.on>
 		<subset.shaders.off>désactivées</subset.shaders.off>
 
+		<subset.arts>illustrations du système</subset.arts>
+		<subset.arts.yes>oui</subset.arts.yes>
+		<subset.arts.no>non</subset.arts.no>
+
 		<subset.helpIcons>boutons de l'aide</subset.helpIcons>
 		<subset.helpIcons.default>génériques</subset.helpIcons.default>
 		<subset.helpIcons.psx>psx</subset.helpIcons.psx>

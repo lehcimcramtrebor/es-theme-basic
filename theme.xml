@@ -86,6 +86,17 @@
 	
 	</subset>
 
+	<subset name="arts"
+	
+		displayName="${subset.arts}"
+		
+	>
+	
+		<include			name="yes"					displayName="${subset.arts.yes}"								/>
+		<include			name="no"					displayName="${subset.arts.no}"									/>
+	
+	</subset>
+
     <subset name="controller"
 	
 		displayName="${subset.controller}"

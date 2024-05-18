@@ -24,6 +24,10 @@
 		<subset.shaders>visual improvements ( glsl shaders )</subset.shaders>
 		<subset.shaders.on>on</subset.shaders.on>
 		<subset.shaders.off>off</subset.shaders.off>
+
+		<subset.arts>system arts</subset.arts>
+		<subset.arts.yes>yes</subset.arts.yes>
+		<subset.arts.no>no</subset.arts.no>
 	
 		<subset.helpIcons>help buttons</subset.helpIcons>
 		<subset.helpIcons.default>generic</subset.helpIcons.default>

@@ -313,6 +313,7 @@
 
 		<image name="art"
 		
+			ifSubset="arts:yes"
 			extra="true"
 			zIndex="800"
 			origin="1 1"
