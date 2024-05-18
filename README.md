@@ -2,6 +2,8 @@
 
 Theme for Retrobat and Batocera
 
+Compatibility for Handheld devices (tiny screens)
+
 Customize your theme with special folder out of your theme, you can add your images,videos, logo etc.. 
 
 French:
@@ -136,3 +138,9 @@ than the infos.xml file and use the logos, illustrations of the theme etc..
 ![EmulationStation - emulator frontend 09-05-2024 08-44-39-168](https://github.com/lehcimcramtrebor/es-theme-basic/assets/59354081/c2264114-59df-499b-a2b3-91b3d56ef4d7)
 ![EmulationStation - emulator frontend 09-05-2024 08-44-59-363](https://github.com/lehcimcramtrebor/es-theme-basic/assets/59354081/8a2a7d58-0ee8-41af-a959-53e595eca8ad)
 ![EmulationStation - emulator frontend 09-05-2024 08-45-11-553](https://github.com/lehcimcramtrebor/es-theme-basic/assets/59354081/de9d919c-0e91-4961-83da-26906230ce12)
+
+
+Handheld devices display:
+
+![EmulationStation 18-05-2024 09-07-03-389](https://github.com/lehcimcramtrebor/es-theme-basic/assets/59354081/118b9a9c-354e-4f1b-94d2-06a155cb0ba6)
+![EmulationStation 18-05-2024 09-06-57-344](https://github.com/lehcimcramtrebor/es-theme-basic/assets/59354081/6b2eaef4-3689-42e6-a3e1-6621c63af490)
