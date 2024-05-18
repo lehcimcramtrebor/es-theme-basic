@@ -98,8 +98,7 @@
 
 <!-- Use upper and lower case ponctuation -->
 
-		<lang.noDesc>Désolé, aucune description pour celui-ci.
-Vous pouvez tenter un scrape ou bien éditer manuellement le fichier gamelist.xml depuis le dossier de roms approprié.</lang.noDesc>
+		<lang.noDesc>Désolé, aucune description pour celui-ci. Vous pouvez tenter un scrape ou bien éditer manuellement le fichier gamelist.xml.</lang.noDesc>
 
 <!-- Use Alt+0160 Spaces, respect line break -->
 

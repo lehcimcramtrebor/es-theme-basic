@@ -302,6 +302,10 @@
 		>
 		
 			<text>${lang.noRating}</text>
+			<text tinyScreen="true">??</text>
+			<color tinyScreen="true">${c.yellow}</color>
+			<alignment tinyScreen="true">right</alignment>
+			<fontSize tinyScreen="true">0.046</fontSize>
 
 		</text>
 		
