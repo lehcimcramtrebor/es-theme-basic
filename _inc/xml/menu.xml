@@ -35,7 +35,7 @@
 			
 		>
 		
-			<fontSize tinyScreen="true">0.032</fontSize>
+			<fontSize tinyScreen="true">0.034</fontSize>
 		
 		</menuText>
 
@@ -46,7 +46,7 @@
 			
 		>
 		
-			<fontSize tinyScreen="true">0.026</fontSize>
+			<fontSize tinyScreen="true">0.028</fontSize>
 		
 		</menuTextSmall>
 
