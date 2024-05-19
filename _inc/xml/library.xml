@@ -19,6 +19,12 @@
 			visible="false"
 
 		/>
+		
+		<image name="md_flag"
+		
+			visible="false"
+
+		/>
 
 		<image name="md_marquee"
 		
