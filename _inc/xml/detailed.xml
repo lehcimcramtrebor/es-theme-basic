@@ -184,11 +184,28 @@
 		>
 		
 			<shader ifSubset="shaders:on">./../shaders/shadowMarquee.glsl</shader>		
-			<maxSize tinyScreen="true">0.3 0.25</maxSize>
+			<maxSize tinyScreen="true">0.3 0.235</maxSize>
 			<origin tinyScreen="true">1 0.5</origin>
 			<x tinyScreen="true">0.96</x>
 			<y tinyScreen="true">0.63</y>
 		
+		</image>
+
+		<image name="md_flag"
+		
+			zIndex="1010"
+			linearSmooth="true"
+			origin="0.5 0.5"
+			pos="0.8799479166666667 0.363"
+			maxSize="0.0286458333333333 0.025"
+			roundCorners="0.018"
+
+		>
+			
+			<x tinyScreen="true">0.942</x>
+			<y tinyScreen="true">0.24</y>
+			<maxSize tinyScreen="true">0.044 0.04</maxSize>
+			
 		</image>
 
 		<text name="md_description"
@@ -281,7 +298,6 @@
 		>
 		
 			<fontSize tinyScreen="true">0.033</fontSize>
-			<y tinyScreen="true">0.54</y>
 			<alignment tinyScreen="true">left</alignment>
 		
 		</text>
@@ -293,8 +309,9 @@
 			visible="{game:rating} ? 1 : 0"
 			
 		>
-		
-			<text>{game:stars}</text>
+			<!-- text must begin by alt+0160 space -->
+			<text> 
+{game:stars}</text>
 
 		</text>
 		
@@ -304,8 +321,9 @@
 			visible="{game:rating} ? 0 : 1"
 			
 		>
-		
-			<text>${lang.noRating}</text>
+			<!-- text must begin by alt+0160 space -->
+			<text> 
+${lang.noRating}</text>
 			<text tinyScreen="true"> </text>
 			<color tinyScreen="true">${c.yellow}</color>
 
@@ -319,7 +337,7 @@
 		>
 		
 			<x tinyScreen="true">0.45</x>
-			<y tinyScreen="true">0.67</y>
+			<y tinyScreen="true">0.61</y>
 
 		</text>
 		
@@ -331,6 +349,7 @@
 		>
 			<!-- text must begin by alt+0160 space -->
 			<text> 
+
 
 ${lang.gamePlayers}: {game:players}
 ${lang.timesPlayed}: {game:playcount}
@@ -346,6 +365,7 @@ ${lang.lastPlayed} ${lang.at} {game:lastplayed}</text>
 		>
 			<!-- text must begin by alt+0160 space -->
 			<text> 
+
 
 ${lang.gamePlayers}: {game:players}
 ( ${lang.neverPlayed} )</text>
@@ -365,6 +385,7 @@ ${lang.gamePlayers}: {game:players}
 		>
 			<!-- text must begin by alt+0160 space -->
 			<text> 
+
 
 
 
@@ -392,6 +413,7 @@ ${lang.gamePlayers}: {game:players}
 
 
 
+
 {game:genre}, ${lang.developedAndPubliedIn} {game:releaseyear} ${lang.by} {game:developer}</text>
 
 		</text>
@@ -409,6 +431,7 @@ ${lang.gamePlayers}: {game:players}
 		>
 			<!-- text must begin by alt+0160 space -->
 			<text> 
+
 
 
 
@@ -436,6 +459,7 @@ ${lang.gamePlayers}: {game:players}
 
 
 
+
 {game:genre}, ${lang.developedAndPubliedBy} {game:developer}</text>
 
 		</text>
@@ -452,6 +476,7 @@ ${lang.gamePlayers}: {game:players}
 		>
 			<!-- text must begin by alt+0160 space -->
 			<text> 
+
 
 
 
@@ -479,6 +504,7 @@ ${lang.releasedIn} {game:releaseyear}</text>
 
 
 
+
 ${lang.developedBy} {game:developer} ${lang.and} ${lang.publiedIn} {game:releaseyear} ${lang.by} {game:publisher}</text>
 
 		</text>
@@ -496,6 +522,7 @@ ${lang.developedBy} {game:developer} ${lang.and} ${lang.publiedIn} {game:release
 		>
 			<!-- text must begin by alt+0160 space -->
 			<text> 
+
 
 
 
@@ -522,6 +549,7 @@ ${lang.developedAndPubliedIn} {game:releaseyear} ${lang.by} {game:developer}</te
 
 
 
+
 {game:genre}</text>
 
 		</text>
@@ -538,6 +566,7 @@ ${lang.developedAndPubliedIn} {game:releaseyear} ${lang.by} {game:developer}</te
 		>
 			<!-- text must begin by alt+0160 space -->
 			<text> 
+
 
 
 
@@ -564,6 +593,7 @@ ${lang.developedAndPubliedIn} {game:releaseyear} ${lang.by} {game:developer}</te
 
 
 
+
 ${lang.developedBy} {game:developer}</text>
 
 		</text>
@@ -580,6 +610,7 @@ ${lang.developedBy} {game:developer}</text>
 		>
 			<!-- text must begin by alt+0160 space -->
 			<text> 
+
 
 
 
@@ -606,6 +637,7 @@ ${lang.developedBy} {game:developer}</text>
 
 
 
+
 ${lang.released} ${lang.by} {game:publisher}</text>
 
 		</text>
@@ -622,6 +654,7 @@ ${lang.released} ${lang.by} {game:publisher}</text>
 		>
 			<!-- text must begin by alt+0160 space -->
 			<text> 
+
 
 
 
@@ -648,6 +681,7 @@ ${lang.developedBy} {game:developer} ${lang.and} ${lang.releasedIn} {game:releas
 
 
 
+
 ${lang.publiedIn} {game:releaseyear} ${lang.by} {game:publisher}</text>
 
 		</text>
@@ -664,6 +698,7 @@ ${lang.publiedIn} {game:releaseyear} ${lang.by} {game:publisher}</text>
 		>
 			<!-- text must begin by alt+0160 space -->
 			<text> 
+
 
 
 
@@ -691,6 +726,7 @@ ${lang.publiedIn} {game:releaseyear} ${lang.by} {game:publisher}</text>
 
 
 
+
 ${lang.developedBy} {game:developer} ${lang.and} ${lang.publied} ${lang.by} {game:publisher}</text>
 
 		</text>
@@ -708,6 +744,7 @@ ${lang.developedBy} {game:developer} ${lang.and} ${lang.publied} ${lang.by} {gam
 		>
 			<!-- text must begin by alt+0160 space -->
 			<text> 
+
 
 
 
@@ -734,6 +771,7 @@ ${lang.developedAndPubliedBy} {game:developer}</text>
 
 
 
+
 {game:genre}, ${lang.developedBy} {game:developer}</text>
 
 		</text>
@@ -750,6 +788,7 @@ ${lang.developedAndPubliedBy} {game:developer}</text>
 		>
 			<!-- text must begin by alt+0160 space -->
 			<text> 
+
 
 
 
