@@ -143,4 +143,4 @@ than the infos.xml file and use the logos, illustrations of the theme etc..
 Handheld devices display:
 
 ![EmulationStation 18-05-2024 09-06-57-344](https://github.com/lehcimcramtrebor/es-theme-basic/assets/59354081/6b2eaef4-3689-42e6-a3e1-6621c63af490)
-![EmulationStation 19-05-2024 07-44-55-536](https://github.com/lehcimcramtrebor/es-theme-basic/assets/59354081/2285d254-9a7e-4f4d-89c0-88a75a9d6440)
+![EmulationStation 19-05-2024 21-59-18-293](https://github.com/lehcimcramtrebor/es-theme-basic/assets/59354081/b41d73f4-efbe-4772-ab8e-b66da099cf1f)
