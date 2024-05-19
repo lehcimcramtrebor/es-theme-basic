@@ -20,8 +20,9 @@
 		
 			<size tinyScreen="true">0.1 0.03</size>
 			<offsetX tinyScreen="true">-0.05</offsetX>
-			<offsetY tinyScreen="true">0.018</offsetY>
-			<fontSize tinyScreen="true">0.030</fontSize>
+			<offsetY tinyScreen="true">0.034</offsetY>
+			<origin tinyScreen="true">0 0.5</origin>
+			<fontSize tinyScreen="true">0.028</fontSize>
 		
 		</text>
 	
@@ -41,7 +42,7 @@
 		>
 			
 			<size tinyScreen="true">0.58 0.045</size>
-			<pos tinyScreen="true">0.4165 0.006</pos>
+			<pos tinyScreen="true">0.4165 0</pos>
 			
 			<batteryText name="ss.batterytext"
 			
