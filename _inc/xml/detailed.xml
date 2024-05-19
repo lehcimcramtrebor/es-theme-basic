@@ -243,6 +243,7 @@
 			<color tinyScreen="true">${c.text}ef</color>
 			<backgroundColor tinyScreen="true">${c.textHeader}05</backgroundColor>
 			<y tinyScreen="true">0.62</y>
+			<lineSpacing tinyScreen="true">1.58</lineSpacing>
 		
 		</text>
 
