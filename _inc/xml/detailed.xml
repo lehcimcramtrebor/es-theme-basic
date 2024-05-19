@@ -148,8 +148,9 @@
 		
 			<shader ifSubset="shaders:on">./../shaders/scanlinesBright.glsl</shader>		
 			<origin tinyScreen="true">0.5 1</origin>
+			<maxSize tinyScreen="true">0.45 0.4</maxSize>
 			<x tinyScreen="true">0.705</x>
-			<y tinyScreen="true">0.57</y>
+			<y tinyScreen="true">0.62</y>
 		
 		</video>
 
@@ -165,10 +166,10 @@
 
 		>
 		
-			<y tinyScreen="true">0.6</y>
+			<y tinyScreen="true">0.66</y>
 			<x tinyScreen="true">0.45</x>
 			<origin tinyScreen="true">0 1</origin>
-			<maxSize tinyScreen="true">0.16 0.226</maxSize>
+			<maxSize tinyScreen="true">0.18 0.26</maxSize>
 		
 		</image>
 
@@ -183,10 +184,10 @@
 		>
 		
 			<shader ifSubset="shaders:on">./../shaders/shadowMarquee.glsl</shader>		
-			<maxSize tinyScreen="true">0.25 0.16</maxSize>
-			<origin tinyScreen="true">1 0</origin>
+			<maxSize tinyScreen="true">0.3 0.25</maxSize>
+			<origin tinyScreen="true">1 0.5</origin>
 			<x tinyScreen="true">0.96</x>
-			<y tinyScreen="true">0.22</y>
+			<y tinyScreen="true">0.63</y>
 		
 		</image>
 
@@ -235,6 +236,8 @@
 		
 			<fontSize tinyScreen="true">0.030</fontSize>
 			<w tinyScreen="true">0.5</w>
+			<h tinyScreen="true">0.18</h>
+			<offsetY tinyScreen="true">0.113</offsetY>
 			<forceUppercase tinyScreen="true">true</forceUppercase>
 			<fontPath tinyScreen="true">./../fonts/${f.mb}</fontPath>
 			<color tinyScreen="true">${c.text}ef</color>
@@ -302,10 +305,20 @@
 		>
 		
 			<text>${lang.noRating}</text>
-			<text tinyScreen="true">??</text>
+			<text tinyScreen="true"> </text>
 			<color tinyScreen="true">${c.yellow}</color>
-			<alignment tinyScreen="true">right</alignment>
-			<fontSize tinyScreen="true">0.046</fontSize>
+
+		</text>
+
+		
+		<text name="gameRating,gameNorating"
+		
+			extra="true"
+			
+		>
+		
+			<x tinyScreen="true">0.45</x>
+			<y tinyScreen="true">0.67</y>
 
 		</text>
 		
