@@ -45,6 +45,7 @@
 		<image name="md_fanart"
 		
 			zIndex="601"
+			ifSubset="fanarts:yes"
 			linearSmooth="false"
 			origin="0.5 0.5"
 			minSize="${v.frameRight.size}"

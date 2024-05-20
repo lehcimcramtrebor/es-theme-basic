@@ -99,6 +99,7 @@
 
     <subset name="controller"
 	
+		tinyScreen="false"
 		displayName="${subset.controller}"
 		
 	>
@@ -185,7 +186,7 @@
 	<subset name="randomVideo"
 	
 		displayName="${subset.randomVideo}"
-		appliesTo="${lang.spacerSmallText}${lang.randomVideo.explain}[ ${lang.canBeApplied} ${v.allViews} ]${lang.spacerSmallText}"
+		appliesTo="${lang.spacerSmallText}${lang.randomVideo.explain}${lang.canBeApplied}(${v.allViews})${lang.spacerSmallText}"
 		
 	>
 	
@@ -198,7 +199,7 @@
 	<subset name="forceRegion"
 	
 		displayName="${subset.forceRegion}"
-		appliesTo="${lang.spacerSmallText}${lang.forceRegion.explain}[ ${lang.mustBeApplied} ${v.allGamelists} ]${lang.spacerSmallText}"
+		appliesTo="${lang.spacerSmallText}${lang.forceRegion.explain}${lang.mustBeApplied}(${v.allGamelists})${lang.spacerSmallText}"
 		
 	>
 	
@@ -206,6 +207,19 @@
 		<include			name="eu"						displayName="${subset.forceRegion.eu}"						/>
 		<include			name="us"						displayName="${subset.forceRegion.us}"						/>
 		<include			name="jp"						displayName="${subset.forceRegion.jp}"						/>
+	
+	</subset>
+	
+	<subset name="fanarts"
+	
+		tinyScreen="false"
+		displayName="${subset.fanarts}"
+		appliesTo="${lang.spacerSmallText}${lang.fanarts.explain}${lang.canBeApplied}(${v.allGamelists})${lang.spacerSmallText}"
+		
+	>
+	
+		<include			name="yes"						displayName="${subset.fanarts.yes}"						/>
+		<include			name="no"						displayName="${subset.fanarts.no}"						/>
 	
 	</subset>
 

@@ -75,6 +75,11 @@
 		<subset.randomVideo.yes>oui</subset.randomVideo.yes>
 		<subset.randomVideo.justVideo>oui, mais sans audio</subset.randomVideo.justVideo>
 
+
+		<subset.fanarts>liste de jeux • fanarts en arrière-plan</subset.fanarts>
+		<subset.fanarts.no>non</subset.fanarts.no>
+		<subset.fanarts.yes>oui</subset.fanarts.yes>
+
 		<lang.library>librairie</lang.library>
 
 		<lang.elements>éléments</lang.elements>
@@ -109,17 +114,20 @@
 <lang.spacerSmallText> 
 </lang.spacerSmallText>
 
-<lang.canBeApplied>applicable depuis les listes de jeux ou la vue système
+<lang.canBeApplied>applicable depuis une liste ou la vue système.
 </lang.canBeApplied>
 
-<lang.mustBeApplied>paramètre individuel, à utiliser uniquement depuis la gamelist
+<lang.mustBeApplied>paramètre individuel... à utiliser uniquement depuis la gamelist !
 </lang.mustBeApplied>
 
-<lang.forceRegion.explain>forcer la région d'un ou plusieurs systèmes
+<lang.forceRegion.explain>force la région d'un ou plusieurs systèmes.
 </lang.forceRegion.explain>
 
-<lang.randomVideo.explain>affiche les vidéos aléatoires sur la vue système
+<lang.randomVideo.explain>affiche les vidéos sur la vue système.
 </lang.randomVideo.explain>
+
+<lang.fanarts.explain>affiche les fanarts derrière les métadonnées.
+</lang.fanarts.explain>
 	
 	</variables>
 

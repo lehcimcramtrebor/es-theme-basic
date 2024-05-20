@@ -75,6 +75,10 @@
 		<subset.randomVideo.yes>yes</subset.randomVideo.yes>
 		<subset.randomVideo.justVideo>yes, but without audio</subset.randomVideo.justVideo>
 
+		<subset.fanarts>gamelist • faded fanarts</subset.fanarts>
+		<subset.fanarts.no>no</subset.fanarts.no>
+		<subset.fanarts.yes>yes</subset.fanarts.yes>
+
 		<lang.library>library</lang.library>
 
 		<lang.elements>items</lang.elements>
@@ -109,17 +113,20 @@
 <lang.spacerSmallText> 
 </lang.spacerSmallText>
 
-<lang.canBeApplied>can be applied both from game lists or system view
+<lang.canBeApplied>can be applied from gamelists or system view.
 </lang.canBeApplied>
 
-<lang.mustBeApplied>individual parameter, must be applied only from game lists
+<lang.mustBeApplied>individual parameter... must be applied only from game lists !
 </lang.mustBeApplied>
 
-<lang.forceRegion.explain>force a specific region for one system
+<lang.forceRegion.explain>force a specific region for one system.
 </lang.forceRegion.explain>
 
-<lang.randomVideo.explain>display random videos on system view
+<lang.randomVideo.explain>display videos on system view.
 </lang.randomVideo.explain>
+
+<lang.fanarts.explain>display faded fanarts behind metadatas.
+</lang.fanarts.explain>
 	
 	</variables>
 
