@@ -186,7 +186,7 @@
 	<subset name="randomVideo"
 	
 		displayName="${subset.randomVideo}"
-		appliesTo="${lang.spacerSmallText}${lang.randomVideo.explain}${lang.canBeApplied}(${v.allViews})${lang.spacerSmallText}"
+		appliesTo="${v.allViews}"
 		
 	>
 	
@@ -199,7 +199,7 @@
 	<subset name="forceRegion"
 	
 		displayName="${subset.forceRegion}"
-		appliesTo="${lang.spacerSmallText}${lang.forceRegion.explain}${lang.mustBeApplied}(${v.allGamelists})${lang.spacerSmallText}"
+		appliesTo="${v.allGamelists}"
 		
 	>
 	
@@ -214,7 +214,7 @@
 	
 		tinyScreen="false"
 		displayName="${subset.fanarts}"
-		appliesTo="${lang.spacerSmallText}${lang.fanarts.explain}${lang.canBeApplied}(${v.allGamelists})${lang.spacerSmallText}"
+		appliesTo="${v.allGamelists}"
 		
 	>
 	

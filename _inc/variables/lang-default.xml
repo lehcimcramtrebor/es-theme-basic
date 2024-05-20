@@ -107,26 +107,6 @@
 <!-- Use upper and lower case ponctuation -->
 
 		<lang.noDesc>Sorry, no description for this file was found. You can try to scrape it or manually edit the gamelist.xml file.</lang.noDesc>
-
-<!-- Use Alt+0160 Spaces, respect line break -->
-
-<lang.spacerSmallText> 
-</lang.spacerSmallText>
-
-<lang.canBeApplied>can be applied from gamelists or system view.
-</lang.canBeApplied>
-
-<lang.mustBeApplied>individual parameter... must be applied only from game lists !
-</lang.mustBeApplied>
-
-<lang.forceRegion.explain>force a specific region for one system.
-</lang.forceRegion.explain>
-
-<lang.randomVideo.explain>display videos on system view.
-</lang.randomVideo.explain>
-
-<lang.fanarts.explain>display faded fanarts behind metadatas.
-</lang.fanarts.explain>
 	
 	</variables>
 
