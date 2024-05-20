@@ -12,8 +12,8 @@
 		<p.custom>../../_BasicCustom</p.custom>
 		<p.custom ifArch="windows">../../../../_BasicCustom</p.custom>
 		
-		<v.allViews>system,basic,detailed</v.allViews>
-		<v.allGamelists>basic,detailed</v.allGamelists>
+		<v.allViews>system,basic,detailed,library</v.allViews>
+		<v.allGamelists>basic,detailed,library</v.allGamelists>
 
 		<v.line.h>2 / ${screen.height}</v.line.h>
 		<v.line.w>2 / ${screen.width}</v.line.w>
