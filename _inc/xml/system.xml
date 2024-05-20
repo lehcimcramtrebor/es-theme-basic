@@ -329,6 +329,7 @@
 		<image name="artBand"
 		
 			extra="true"
+			ifSubset="arts:yes"
 			zIndex="901"
 			minSize="1 0.30"
 			origin="0.5 0.5"
