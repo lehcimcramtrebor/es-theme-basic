@@ -54,7 +54,7 @@
 		<subset.neogeo.mvs>multi video system</subset.neogeo.mvs>
 		<subset.neogeo.aes>advanced entertainment system</subset.neogeo.aes>
 
-		<subset.forceRegion>thème • forcer la région ( rafraîchir via f5 ou maj jeux )</subset.forceRegion>
+		<subset.forceRegion>thème • forcer une région ( rafraîchir via f5 ou maj jeux )</subset.forceRegion>
 		<subset.forceRegion.no>non</subset.forceRegion.no>
 		<subset.forceRegion.eu>eu</subset.forceRegion.eu>
 		<subset.forceRegion.us>us</subset.forceRegion.us>
