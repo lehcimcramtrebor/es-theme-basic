@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<theme>
+
+	<formatVersion>7</formatVersion>
+	
+	<customView name="detailed_unified" inherits="detailed" displayName="${lang.detailed_unified}">
+		
+		<image name="frameLeft,frameLeftBorders,frameRight,frameRightBorders,frameLeftRightShadow"
+		
+			extra="true"
+			visible="false"
+
+		/>
+
+		<image name="frame"
+		
+			extra="true"
+			zIndex="600"
+			path="./../parts/white.png"
+			origin="0.5 0.5"
+			size="${v.frame.size}"
+			pos="${v.frame.pos}"
+			color="${c.frame}80"
+			
+		/>
+
+		<image name="frameBorders"
+		
+			extra="true"
+			zIndex="599"
+			path="./../parts/white.png"
+			origin="0.5 0.5"
+			size="${v.frameBorders.size}"
+			pos="${v.frame.pos}"
+			color="${c.main}33"
+			
+		/>
+			
+		<image name="frameShadow"
+		
+			extra="true"
+			linearSmooth="true"
+			zIndex="598"
+			path="./../parts/frameShadow.png"
+			origin="0.5 0.5"
+			pos="0.5 0.5"
+			size="1 1"
+			color="${c.glowColor}"
+			opacity="0.5"
+			
+		/>
+			
+		<image name="gamelistLine"
+		
+			extra="true"
+			linearSmooth="true"
+			zIndex="1010"
+			path="./../parts/white.png"
+			origin="0 0.5"
+			pos="0.415 0.565"
+			size="${v.line4.w} ${v.frame.h}"
+			color="${c.frame}"
+			opacity="0.2"
+			
+		/>
+
+		<image name="md_fanart"
+		
+			ifSubset="fanarts:yes"
+			minSize="${v.frame.size}"
+			pos="${v.frame.pos}"
+			
+		/>
+		
+		<textlist name="gamelist"
+		
+			selectorImagePath="./../parts/selectorFree2.png"	  		
+			selectorColor="${c.textHeader}"	  		
+			selectorColorEnd="${c.menuSelector}"	  		
+			
+		/>
+	
+	</customView>
+
+</theme>

@@ -80,6 +80,7 @@
 		<subset.fanarts.yes>yes</subset.fanarts.yes>
 
 		<lang.library>library</lang.library>
+		<lang.detailed_unified>detailed (unified)</lang.detailed_unified>
 
 		<lang.elements>items</lang.elements>
 		<lang.favorites>favorites</lang.favorites>

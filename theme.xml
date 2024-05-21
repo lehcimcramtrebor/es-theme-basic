@@ -12,11 +12,12 @@
 		<p.custom>../../_BasicCustom</p.custom>
 		<p.custom ifArch="windows">../../../../_BasicCustom</p.custom>
 		
-		<v.allViews>system,basic,detailed,library</v.allViews>
-		<v.allGamelists>basic,detailed,library</v.allGamelists>
+		<v.allViews>system,basic,detailed,detailed_unified,library</v.allViews>
+		<v.allGamelists>basic,detailed,detailed_unified,library</v.allGamelists>
 
 		<v.line.h>2 / ${screen.height}</v.line.h>
 		<v.line.w>2 / ${screen.width}</v.line.w>
+		<v.line4.w>4 / ${screen.width}</v.line4.w>
 
 		<v.lineScroll>1 / ${screen.width}</v.lineScroll>
 
@@ -332,6 +333,7 @@
 	<include>./_inc/xml/system.xml</include>
 	<include>./_inc/xml/basic.xml</include>
 	<include>./_inc/xml/detailed.xml</include>
+	<include>./_inc/xml/detailed_unified.xml</include>
 	<include>./_inc/xml/library.xml</include>
 	
 </theme>
