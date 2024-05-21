@@ -12,8 +12,9 @@
 		<p.custom>../../_BasicCustom</p.custom>
 		<p.custom ifArch="windows">../../../../_BasicCustom</p.custom>
 		
-		<v.allViews>system,basic,detailed,detailed_unified,library</v.allViews>
-		<v.allGamelists>basic,detailed,detailed_unified,library</v.allGamelists>
+		<v.allViews>system,basic,detailed,detailed_unified,library,grid</v.allViews>
+		<v.allGamelists>basic,detailed,detailed_unified,library,grid</v.allGamelists>
+		<v.textGamelists>basic,detailed,detailed_unified,library</v.textGamelists>
 
 		<v.line.h>2 / ${screen.height}</v.line.h>
 		<v.line.w>2 / ${screen.width}</v.line.w>
@@ -74,6 +75,12 @@
 		<f.mli>bariol_light_italic-webfont.ttf</f.mli>
 		
     </variables>
+
+	<!--menu views order -->
+	<view name="basic,detailed"></view>
+	<customView name="detailed_unified"></customView>
+	<view name="grid"></view>
+	<customView name="library"></customView>
 
 	<subset name="shaders"
 	
@@ -223,8 +230,20 @@
 		<include			name="no"						displayName="${subset.fanarts.no}"						/>
 	
 	</subset>
+	
+	<subset name="loops"
+	
+		displayName="${subset.loops}"
+		appliesTo="${v.textGamelists}"
+		
+	>
+	
+		<include			name="no"						displayName="${subset.loops.no}"						/>
+		<include			name="yes"						displayName="${subset.loops.yes}"						/>
+	
+	</subset>
 
-	<view name="system,basic,detailed">
+	<view name="system,basic,detailed,grid">
 	
 		<image name="hide"
 		
@@ -334,6 +353,7 @@
 	<include>./_inc/xml/basic.xml</include>
 	<include>./_inc/xml/detailed.xml</include>
 	<include>./_inc/xml/detailed_unified.xml</include>
+	<include>./_inc/xml/grid.xml</include>
 	<include>./_inc/xml/library.xml</include>
 	
 </theme>

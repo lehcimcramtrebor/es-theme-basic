@@ -4,41 +4,43 @@
 
 	<formatVersion>7</formatVersion>
 	
-	<view name="detailed">
+	<view name="grid">
 
-		<image name="frameLeft"
+		<image name="frame"
 		
 			extra="true"
 			zIndex="600"
 			path="./../parts/white.png"
 			origin="0.5 0.5"
-			size="${v.frameLeft.size}"
-			pos="${v.frameLeft.pos}"
+			size="${v.frame.size}"
+			pos="${v.frame.pos}"
 			color="${c.frame}80"
 			
 		/>
 
-		<image name="frameLeftBorders"
+		<image name="frameBorders"
 		
 			extra="true"
 			zIndex="599"
 			path="./../parts/white.png"
 			origin="0.5 0.5"
-			size="${v.frameLeftBorders.size}"
-			pos="${v.frameLeft.pos}"
+			size="${v.frameBorders.size}"
+			pos="${v.frame.pos}"
 			color="${c.main}33"
 			
 		/>
-
-		<image name="frameRight"
+			
+		<image name="frameShadow"
 		
 			extra="true"
-			zIndex="600"
-			path="./../parts/white.png"
+			linearSmooth="true"
+			zIndex="598"
+			path="./../parts/frameShadow.png"
 			origin="0.5 0.5"
-			size="${v.frameRight.size}"
-			pos="${v.frameRight.pos}"
-			color="${c.frame}80"
+			pos="0.5 0.5"
+			size="1 1"
+			color="${c.glowColor}"
+			opacity="0.5"
 			
 		/>
 
@@ -48,8 +50,8 @@
 			ifSubset="fanarts:yes"
 			linearSmooth="false"
 			origin="0.5 0.5"
-			minSize="${v.frameRight.size}"
-			pos="${v.frameRight.pos}"
+			minSize="${v.frame.size}"
+			pos="${v.frame.pos}"
 			saturation="0.35"
 			color="${c.textHeader}06"
 			colorEnd="80808080"
@@ -65,115 +67,121 @@
 
 		</image>
 
-		<image name="frameRightBorders"
-		
-			extra="true"
-			zIndex="599"
-			path="./../parts/white.png"
-			origin="0.5 0.5"
-			size="${v.frameRightBorders.size}"
-			pos="${v.frameRight.pos}"
-			color="${c.main}33"
-			
-		/>
-			
-		<image name="frameLeftRightShadow"
-		
-			extra="true"
-			linearSmooth="true"
-			zIndex="598"
-			path="./../parts/frameLeftRightShadow.png"
-			origin="0.5 0.5"
-			pos="0.5 0.5"
-			size="1 1"
-			color="${c.glowColor}"
-			opacity="0.5"
-			
-		/>
-
 		<image name="logo"
 		
 			origin="0 0.5"
 			x="0.025"
 		
 		/>
-		
-		<textlist name="gamelist"
-		
-			zIndex="1000"
-			glowOffset="2"
-			glowSize="1"
-            glowColor="${c.glowColor}"
-			origin="0.5 0.5"
-			size="0.39 0.72"
-			pos="0.22 0.565"
-			selectedColor="${c.selected}"
-			primaryColor="${c.text}"
-			secondaryColor="${c.text}"
-			extraTextColor="${c.textHeader}"
-			extraTextSelectedColor="${c.selected}"
-			selectorColor="${c.menuSelector}"	  		
-			selectorColorEnd="${ce.menuSelector}"	  		
-			selectorImagePath="./../parts/selector.png"	  		
-			fontPath="./../fonts/${f.mb}"
-			fontSize="${v.gamelist.fontSize}"
-			alignment="left"
-            horizontalMargin="0.01"
-			forceUppercase="true"
-			scrollSound="./../parts/scroll.wav"
-			lines="15"
-			
-		>
-		
-			<fontSize tinyScreen="true">0.030</fontSize>
-			<lines tinyScreen="true">11</lines>
-		
-		</textlist>
 
-		<video name="md_video"
-		
-			zIndex="1000"
-			linearSmooth="true"
-			saturation="0.75"
-			color="efefef"
-			origin="0 0"
-			pos="0.4526041666666667 0.2296296296296296"
-			maxSize="0.3322916666666667 0.3453703703703704"
-			showSnapshotNoVideo="true"	
-			showSnapshotDelay="true"
-			effect="none"
-			delay="1"
-			roundCorners="0.018"
-			
-		>
-		
-			<loops ifSubset="loops:no">1</loops>
-			<shader ifSubset="shaders:on">./../shaders/scanlinesBright.glsl</shader>		
-			<origin tinyScreen="true">0.5 1</origin>
-			<maxSize tinyScreen="true">0.45 0.4</maxSize>
-			<x tinyScreen="true">0.705</x>
-			<y tinyScreen="true">0.62</y>
-		
-		</video>
-
-		<image name="md_thumbnail"
+		<imagegrid name="gamegrid"
 		
 			zIndex="1001"
-			linearSmooth="true"
-			saturation="1.1"
-			origin="0.5 0"
-			pos="0.8799479166666667 0.6740740740740741"
-			maxSize="0.1369791666666667 0.2259259259259259"
-			roundCorners="0.018"
+			pos="0.025 0.205"
+			size="0.76 0.72"
+			margin="0.03 0.05"
+			padding="0.025 0.04 0.025 0.03"
+			autoLayout="4 2"
+			animateSelection="false"
+			centerSelection="false"
+			scrollbarColor="${c.textHeader}"
+			scrollbarCorner="0.9"
+			scrollbarSize="0.0026041666666667"
+			autoLayoutSelectedZoom="1.1"
+			scrollbarAlignment="right"
+			imageSource="image"
+			showVideoAtDelay="3"
+			scrollSound="./../parts/scroll.wav"
 
 		>
 		
-			<y tinyScreen="true">0.66</y>
-			<x tinyScreen="true">0.45</x>
-			<origin tinyScreen="true">0 1</origin>
-			<maxSize tinyScreen="true">0.18 0.26</maxSize>
+			<autoLayout if="${s.notWide}">3 2</autoLayout>
+			<autoLayout if="${s.ultraWide}">5 2</autoLayout>
+			<size tinyScreen="true">${v.frame.size}</size>
+			<imageSource tinyScreen="true">thumbnail</imageSource>
+			<margin tinyScreen="true">0.02 0.03</margin>
+
+		</imagegrid>
+
+		<gridtile name="default"
+		
+			backgroundColor="00000000"
+			backgroundEdgeColor="00000000"
+			backgroundCenterColor="00000000"
+			backgroundCornerSize="9 9"
+			selectionMode="image"
+			imageSizeMode="minSize"
+			padding="6 6"
+			imageColor="ffffff"
+			reflexion="0 0"
+			
+		>
+		
+			<imageSizeMode tinyScreen="true">maxSize</imageSizeMode>
+		
+		</gridtile>
+
+		<gridtile name="selected"
+		
+			backgroundCenterColor="${c.textHeader}"
+			backgroundEdgeColor="${c.textHeader}"
+			imageColor="ffffff"
+			
+		/>
+
+		<text name="gridtile"
+		
+			fontPath="./../fonts/${f.mb}"
+			fontSize="0.018"
+			color="${c.text}"
+			glowColor="${c.glowColor}"
+			glowSize="1"
+			glowOffset="2"
+			verticalAlignment="center"
+			alignment="left"
+			forceUppercase="false"
+			
+		>
+		
+			<visible tinyScreen="true">false</visible>
+		
+		</text>
+
+		<text name="gridtile:selected"
+		
+			color="${c.selected}"
+			
+	   >
+	   
+			<visible tinyScreen="true">false</visible>
+	   
+	   </text>
+
+		<image name="gridtile.favorite"
+		
+			path="./../parts/favorite.png"
+			pos="0 0"
+			maxSize="0.13 0.13"
+			origin="0.5 0.5"
+			
+		>
+		
+			<maxSize tinyScreen="true">0.2 0.2</maxSize>
 		
 		</image>
+
+		<image name="gridtile.image"
+		
+			linearSmooth="true"
+			roundCorners="0.02"
+			
+		/>  
+
+		<ninepatch name="gridtile.background:selected"
+		
+			animateColor="${c.menuSelector}"
+			animateColorTime="160"
+		/>
 
 		<image name="md_marquee"
 			zIndex="1001"
@@ -186,10 +194,10 @@
 		>
 		
 			<shader ifSubset="shaders:on">./../shaders/shadowMarquee.glsl</shader>		
-			<maxSize tinyScreen="true">0.3 0.235</maxSize>
+			<maxSize tinyScreen="true">0.28 0.1203703703703704</maxSize>
 			<origin tinyScreen="true">1 0.5</origin>
-			<x tinyScreen="true">0.96</x>
-			<y tinyScreen="true">0.63</y>
+			<x tinyScreen="true">0.975</x>
+			<y tinyScreen="true">0.12</y>
 		
 		</image>
 
@@ -203,30 +211,76 @@
 			roundCorners="0.018"
 
 		>
-			
-			<x tinyScreen="true">0.942</x>
-			<y tinyScreen="true">0.24</y>
+		
+			<x tinyScreen="true">0.6</x>
+			<y tinyScreen="true">0.1</y>
 			<maxSize tinyScreen="true">0.044 0.04</maxSize>
+
+		</image>
+		
+		<image name="md_thumbnail"
+		
+			zIndex="1001"
+			linearSmooth="true"
+			saturation="1.1"
+			origin="0.5 0"
+			pos="0.8799479166666667 0.6740740740740741"
+			maxSize="0.1369791666666667 0.2259259259259259"
+			roundCorners="0.018"
+			opacity="0"
+			scale="0"
 			
+		>
+
+			<storyboard event="open">
+				<animation property="scale" from="0" to="1" mode="linear" duration="1"/>
+				<animation property="opacity" from="0" to="0" mode="linear" duration="10"/>
+				<animation property="opacity" from="0" to="1" mode="linear" duration="50" begin="10"/>
+				<animation property="opacity" to="0" mode="linear" duration="250" begin="1250"/>
+			</storyboard>
+			<storyboard event="activateNext">
+				<animation property="scale" from="0" to="1" mode="linear" duration="1"/>
+				<animation property="opacity" from="0" to="0" mode="linear" duration="10"/>
+				<animation property="opacity" from="0" to="1" mode="linear" duration="50" begin="10"/>
+				<animation property="opacity" to="0" mode="linear" duration="250" begin="1250"/>
+			</storyboard>
+			<storyboard event="activatePrev">
+				<animation property="scale" from="0" to="1" mode="linear" duration="1"/>
+				<animation property="opacity" from="0" to="0" mode="linear" duration="10"/>
+				<animation property="opacity" from="0" to="1" mode="linear" duration="50" begin="10"/>
+				<animation property="opacity" to="0" mode="linear" duration="250" begin="1250"/>
+			</storyboard>
+			<storyboard event="deactivatePrev">
+				<animation property="opacity" to="0" mode="linear" duration="10"/>
+			</storyboard>
+			<storyboard event="deactivateNext">
+				<animation property="opacity" to="0" mode="linear" duration="10"/>
+			</storyboard>
+
+			<visible tinyScreen="true">false</visible>
+		
 		</image>
 
 		<text name="md_description"
 		
 			zIndex="1001"
 			forceUppercase="false"
-			alignment="left"
+			alignment="center"
 			verticalAlignment="top"
 			fontPath="./../fonts/${f.mri}"
-            pos="0.4526041666666667 0.6148148148148148"
-            size="0.3322916666666667 0.2851851851851852"
+			origin="0.5 0"
+            pos="0.8799479166666667 0.6648148148148148"
+            size="0.1546875 0.2351851851851852"
             fontSize="0.024"
 			color="${c.selected}"
             glowColor="${c.glowColor}"
 			glowOffset="2"
 			glowSize="1"
-
-			/>
+			autoScrollSpeed="50"
+			lineSpacing="1.4"
 			
+			/>
+						
 		<text name="noDescription"
 		
 			zIndex="1001"
@@ -235,8 +289,8 @@
 			alignment="left"
 			verticalAlignment="top"
 			fontPath="./../fonts/${f.mri}"
-            pos="0.4526041666666667 0.6148148148148148"
-            size="0.3322916666666667 0.2851851851851852"
+            pos="0.8799479166666667 0.6648148148148148"
+            size="0.1546875 0.2351851851851852"
             fontSize="0.024"
 			color="${c.selected}"
             glowColor="${c.glowColor}"
@@ -247,24 +301,33 @@
 
 			/>
 
-		<text name="md_description,noDescription"
+		<control name="md_description,noDescription">
+
+			<storyboard event="open">
+				<animation property="scale" from="0" to="1" mode="linear" duration="1"/>
+				<animation property="opacity" from="0" to="0" mode="linear" duration="1500"/>
+				<animation property="opacity" to="1" mode="linear" duration="250" begin="1500"/>
+			</storyboard>
+			<storyboard event="activateNext">
+				<animation property="scale" from="0" to="1" mode="linear" duration="1"/>
+				<animation property="opacity" from="0" to="0" mode="linear" duration="1500"/>
+				<animation property="opacity" to="1" mode="linear" duration="250" begin="1500"/>
+			</storyboard>
+			<storyboard event="activatePrev">
+				<animation property="scale" from="0" to="1" mode="linear" duration="1"/>
+				<animation property="opacity" from="0" to="0" mode="linear" duration="1500"/>
+				<animation property="opacity" to="1" mode="linear" duration="250" begin="1500"/>
+			</storyboard>
+			<storyboard event="deactivatePrev">
+				<animation property="opacity" to="0" mode="linear" duration="10"/>
+			</storyboard>
+			<storyboard event="deactivateNext">
+				<animation property="opacity" to="0" mode="linear" duration="10"/>
+			</storyboard>
+
+			<visible tinyScreen="true">false</visible>
 		
-			extra="true"
-			
-		>
-		
-			<fontSize tinyScreen="true">0.030</fontSize>
-			<w tinyScreen="true">0.5</w>
-			<h tinyScreen="true">0.18</h>
-			<offsetY tinyScreen="true">0.113</offsetY>
-			<forceUppercase tinyScreen="true">true</forceUppercase>
-			<fontPath tinyScreen="true">./../fonts/${f.mb}</fontPath>
-			<color tinyScreen="true">${c.text}ef</color>
-			<backgroundColor tinyScreen="true">${c.textHeader}05</backgroundColor>
-			<y tinyScreen="true">0.62</y>
-			<lineSpacing tinyScreen="true">1.58</lineSpacing>
-		
-		</text>
+		</control>
 
 		<text name=	"
 					gameRating,gameNorating,
@@ -297,12 +360,7 @@
 			glowOffset="2"
 			glowSize="1"
 			
-		>
-		
-			<fontSize tinyScreen="true">0.033</fontSize>
-			<alignment tinyScreen="true">left</alignment>
-		
-		</text>
+		/>
 		
 		<text name="gameRating"
 		
@@ -314,6 +372,7 @@
 			<!-- text must begin by alt+0160 space -->
 			<text> 
 {game:stars}</text>
+			<fontSize tinyScreen="true">0.03</fontSize>
 
 		</text>
 		
@@ -327,7 +386,6 @@
 			<text> 
 ${lang.noRating}</text>
 			<text tinyScreen="true"> </text>
-			<color tinyScreen="true">${c.yellow}</color>
 
 		</text>
 
@@ -338,9 +396,11 @@ ${lang.noRating}</text>
 			
 		>
 		
-			<x tinyScreen="true">0.45</x>
-			<y tinyScreen="true">0.61</y>
-
+			<origin tinyScreen="true">1 0.5</origin>
+			<alignment tinyScreen="true">right</alignment>
+			<x tinyScreen="true">0.628</x>
+			<y tinyScreen="true">0.182</y>
+		
 		</text>
 		
 		<text name="gameCounts"
@@ -821,8 +881,9 @@ ${lang.developedAndPubliedBy} {game:developer}</text>
 		>
 		
 			<visible tinyScreen="true">false</visible>
-		
+
 		</text>
+				
 			
 		<image name="md_kidgame,md_notkidgame"
 		
@@ -838,7 +899,6 @@ ${lang.developedAndPubliedBy} {game:developer}</text>
 		>
 
 			<shader ifSubset="shaders:on">./../shaders/scanlines.glsl</shader>
-			<visible tinyScreen="true">false</visible>
 
 		</image>
 			
@@ -860,8 +920,6 @@ ${lang.developedAndPubliedBy} {game:developer}</text>
 			opacity="0.9"
 					
 		>
-
-			<visible tinyScreen="true">false</visible>
 		
 			<storyboard
 			

@@ -79,6 +79,10 @@
 		<subset.fanarts.no>no</subset.fanarts.no>
 		<subset.fanarts.yes>yes</subset.fanarts.yes>
 
+		<subset.loops>text gamelist • looping videos</subset.loops>
+		<subset.loops.no>no</subset.loops.no>
+		<subset.loops.yes>yes</subset.loops.yes>
+
 		<lang.library>library</lang.library>
 		<lang.detailed_unified>detailed (unified)</lang.detailed_unified>
 

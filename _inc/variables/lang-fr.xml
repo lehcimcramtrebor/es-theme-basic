@@ -75,10 +75,13 @@
 		<subset.randomVideo.yes>oui</subset.randomVideo.yes>
 		<subset.randomVideo.justVideo>oui, mais sans audio</subset.randomVideo.justVideo>
 
-
 		<subset.fanarts>liste de jeux • fanarts en arrière-plan</subset.fanarts>
 		<subset.fanarts.no>non</subset.fanarts.no>
 		<subset.fanarts.yes>oui</subset.fanarts.yes>
+
+		<subset.loops>liste de jeux (texte) • vidéos en boucle</subset.loops>
+		<subset.loops.no>non</subset.loops.no>
+		<subset.loops.yes>oui</subset.loops.yes>
 
 		<lang.library>librairie</lang.library>
 		<lang.detailed_unified>détaillé (unifié)</lang.detailed_unified>

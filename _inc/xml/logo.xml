@@ -4,7 +4,7 @@
 
 	<formatVersion>7</formatVersion>
 	
-	<view name="system,basic,detailed">
+	<view name="system,basic,detailed,grid">
 	
 		<image name="logo"
 		
@@ -217,7 +217,7 @@
 	
 	</view>
 
-	<view name="basic,detailed">
+	<view name="basic,detailed,grid">
 	
 		<image name="logo"
 		
