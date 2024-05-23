@@ -55,14 +55,15 @@
 					gameRating,gameNorating,
 					gameCounts,gameCounts_NoPlay,
 					gameInfoExt_Complete,
-					gameInfoExt_NoYear,gameInfoExt_JustYear,
-					gameInfoExt_NoGenre,gameInfoExt_JustGenre,
+					gameInfoExt_Complete_SameDevPub,
+					gameInfoExt_NoYear,gameInfoExt_NoYear_SameDevPub,gameInfoExt_JustYear,
+					gameInfoExt_NoGenre,gameInfoExt_NoGenre_SameDevPub,gameInfoExt_JustGenre,
 					gameInfoExt_NoDev,gameInfoExt_JustDev,
 					gameInfoExt_NoPub,gameInfoExt_JustPub,
 					gameInfoExt_Year_Dev,
 					gameInfoExt_Year_Pub,
 					gameInfoExt_Year_Genre,
-					gameInfoExt_Dev_Pub,
+					gameInfoExt_Dev_Pub,gameInfoExt_Dev_Pub_SameDevPub
 					gameInfoExt_Dev_Genre,
 					gameInfoExt_Pub_Genre
 					"
