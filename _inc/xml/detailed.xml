@@ -16,7 +16,12 @@
 			pos="${v.frameLeft.pos}"
 			color="${c.frame}80"
 			
-		/>
+		>
+		
+			<shader ifSubset="shaders:on">./../shaders/scanlines.glsl</shader>
+		
+		
+		</image>
 
 		<image name="frameLeftBorders"
 		
@@ -40,7 +45,12 @@
 			pos="${v.frameRight.pos}"
 			color="${c.frame}80"
 			
-		/>
+		>
+		
+			<shader ifSubset="shaders:on">./../shaders/scanlines.glsl</shader>
+		
+		
+		</image>
 
 		<image name="md_fanart"
 		

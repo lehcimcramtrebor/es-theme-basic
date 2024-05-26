@@ -218,7 +218,7 @@
 			extra="true"
 			zIndex="1000"
 			path="./../parts/white.png"
-			size="1 ${v.line.h}"
+			size="1 ${v.line.hc}"
 			opacity="0.15"
 		
 		/>
@@ -228,7 +228,7 @@
 			extra="true"
 			origin="0.5 1"
 			pos="0.5 0.35"
-			color="000000"
+			color="${c.main}"
 			
 		/>
 
@@ -237,7 +237,7 @@
 			extra="true"
 			origin="0.5 0"
 			pos="0.5 0.65"
-			color="000000"
+			color="${c.main}"
 		
 		/>
 

@@ -16,6 +16,7 @@
 		<v.allGamelists>basic,detailed,detailed_unified,library,grid</v.allGamelists>
 		<v.textGamelists>basic,detailed,detailed_unified,library</v.textGamelists>
 
+		<v.line.hc>1 / ${screen.height}</v.line.hc>
 		<v.line.h>2 / ${screen.height}</v.line.h>
 		<v.line.w>2 / ${screen.width}</v.line.w>
 		<v.line4.w>4 / ${screen.width}</v.line4.w>
