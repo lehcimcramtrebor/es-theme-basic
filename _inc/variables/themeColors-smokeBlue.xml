@@ -6,6 +6,9 @@
 	
 	<variables>
 	
+		<c.frame>161616</c.frame>
+		<c.base>121212</c.base>
+		<c.scroll>808080</c.scroll>
 		<c.menubg>272727</c.menubg>
 		<c.textHeader>3cc7ff</c.textHeader>
 		<c.main>dadada</c.main>

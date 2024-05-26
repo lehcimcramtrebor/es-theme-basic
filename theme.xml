@@ -60,9 +60,6 @@
 		<s.notWide>${screen.height} &gt; ${screen.width}/1.6</s.notWide>
 		<s.ultraWide>${screen.width} &gt; ${screen.height}*1.8</s.ultraWide>
 
-		<c.frame>161616</c.frame>
-		<c.base>121212</c.base>
-		<c.scroll>808080</c.scroll>
 		<c.text>cccccc</c.text>
 		<c.glowColor>0000004d</c.glowColor>
 		<c.selected>ffffff</c.selected>

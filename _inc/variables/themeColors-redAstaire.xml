@@ -6,7 +6,10 @@
 	
 	<variables>
 	
-		<c.menubg>221010</c.menubg>
+		<c.frame>161010</c.frame>
+		<c.base>161212</c.base>
+		<c.scroll>808080</c.scroll>
+		<c.menubg>241616</c.menubg>
 		<c.textHeader>d61e33</c.textHeader>
 		<c.main>${c.textHeader}</c.main>
 		<c.menuSelector>9b1919</c.menuSelector>
