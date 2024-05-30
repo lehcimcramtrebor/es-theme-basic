@@ -303,7 +303,7 @@
             glowColor="${c.glowColor}"
 			glowOffset="2"
 			glowSize="1"
-			text="${lang.noDesc}"
+			text=" "
 			visible="empty({game:desc})"
 			lineSpacing="1.37"
 
