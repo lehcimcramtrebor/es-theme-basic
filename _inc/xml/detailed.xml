@@ -306,11 +306,28 @@
             glowColor="${c.glowColor}"
 			glowOffset="2"
 			glowSize="1"
+			opacity="0"
 			
 		>
 		
 			<fontSize tinyScreen="true">0.033</fontSize>
 			<alignment tinyScreen="true">left</alignment>
+
+			<storyboard event="open">
+				<animation property="opacity" from="0" to="1" mode="linear" duration="1"/>
+			</storyboard>
+			<storyboard event="activateNext">
+				<animation property="opacity" from="0" to="1" mode="linear" duration="1"/>
+			</storyboard>
+			<storyboard event="activatePrev">
+				<animation property="opacity" from="0" to="1" mode="linear" duration="1"/>
+			</storyboard>
+			<storyboard event="deactivatePrev">
+				<animation property="opacity" to="0" mode="linear" duration="1"/>
+			</storyboard>
+			<storyboard event="deactivateNext">
+				<animation property="opacity" to="0" mode="linear" duration="1"/>
+			</storyboard>
 		
 		</text>
 		

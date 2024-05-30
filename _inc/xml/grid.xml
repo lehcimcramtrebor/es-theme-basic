@@ -83,15 +83,15 @@
 		
 			zIndex="1001"
 			pos="0.025 0.205"
-			size="0.76 0.72"
+			size="${v.frame.w} 0.72"
 			margin="0.03 0.05"
-			padding="0.025 0.04 0.025 0.03"
+			padding="0.025 0.04 0.205 0.03"
 			autoLayout="4 2"
 			animateSelection="false"
 			centerSelection="false"
 			scrollbarColor="${c.textHeader}"
 			scrollbarCorner="0.9"
-			scrollbarSize="0.0026041666666667"
+			scrollbarSize="${v.line.hc}"
 			autoLayoutSelectedZoom="1.1"
 			scrollbarAlignment="right"
 			imageSource="image"
@@ -105,6 +105,7 @@
 			<size tinyScreen="true">${v.frame.size}</size>
 			<imageSource tinyScreen="true">thumbnail</imageSource>
 			<margin tinyScreen="true">0.02 0.03</margin>
+			<padding tinyScreen="true">0.025 0.04 0.025 0.03</padding>
 
 		</imagegrid>
 
@@ -366,8 +367,27 @@
             glowColor="${c.glowColor}"
 			glowOffset="2"
 			glowSize="1"
+			opacity="0"
 			
-		/>
+		>
+
+			<storyboard event="open">
+				<animation property="opacity" from="0" to="1" mode="linear" duration="1"/>
+			</storyboard>
+			<storyboard event="activateNext">
+				<animation property="opacity" from="0" to="1" mode="linear" duration="1"/>
+			</storyboard>
+			<storyboard event="activatePrev">
+				<animation property="opacity" from="0" to="1" mode="linear" duration="1"/>
+			</storyboard>
+			<storyboard event="deactivatePrev">
+				<animation property="opacity" to="0" mode="linear" duration="1"/>
+			</storyboard>
+			<storyboard event="deactivateNext">
+				<animation property="opacity" to="0" mode="linear" duration="1"/>
+			</storyboard>
+
+		</text>
 		
 		<text name="gameRating"
 		
@@ -906,7 +926,7 @@ ${lang.developedAndPubliedBy} {game:developer}</text>
 		>
 
 			<shader ifSubset="shaders:on">./../shaders/scanlines.glsl</shader>
-
+			<visible tinyScreen="true">false</visible>
 		</image>
 			
 		<image name="md_notkidgame"
