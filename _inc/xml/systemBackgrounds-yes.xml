@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<theme>
+
+	<formatVersion>7</formatVersion>
+	
+	<view name="system">
+
+		<image name="systemBackgrounds"
+		
+			extra="true"
+			zIndex="150"
+			linearSmooth="false"
+			origin="0.5 0.5"
+			minSize="1 1"
+			pos="0.5 0.5"
+			saturation="0.35"
+			color="${c.textHeader}00"
+			colorEnd="80808080"
+			gradientType="horizontal"
+			opacity="0.7"
+			autoFade="true"
+			path="{random:fanart}"
+			
+		>
+		
+			<shader ifSubset="shaders:on">./../shaders/scanlinesBright.glsl</shader>
+			<visible tinyScreen="true">false</visible>
+			<path>./../../${p.custom}/default-bg.png</path>
+			<path>./../../${p.custom}/default-bg.jpg</path>
+			<path>./../../${system.theme}/bg.png</path>
+			<path>./../../${system.theme}/bg.jpg</path>
+			<path>./../../${system.theme}/bg.m3u</path>
+			<path>./../../${p.custom}/${system.theme}/bg.png</path>
+			<path>./../../${p.custom}/${system.theme}/bg.jpg</path>
+			<path>./../../${p.custom}/${system.theme}/bg.m3u</path>
+			<path>./../../${p.custom}/bg.png</path>
+			<path>./../../${p.custom}/bg.jpg</path>
+
+		</image>
+
+	</view>
+
+</theme>

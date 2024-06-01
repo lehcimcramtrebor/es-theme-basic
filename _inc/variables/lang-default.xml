@@ -75,6 +75,10 @@
 		<subset.randomVideo.yes>yes</subset.randomVideo.yes>
 		<subset.randomVideo.justVideo>yes, but without audio</subset.randomVideo.justVideo>
 
+		<subset.systemBackgrounds>system view • backgrounds</subset.systemBackgrounds>
+		<subset.systemBackgrounds.no>no</subset.systemBackgrounds.no>
+		<subset.systemBackgrounds.yes>yes</subset.systemBackgrounds.yes>
+
 		<subset.fanarts>gamelist • faded fanarts</subset.fanarts>
 		<subset.fanarts.no>no</subset.fanarts.no>
 		<subset.fanarts.yes>yes</subset.fanarts.yes>
