@@ -10,7 +10,7 @@
 		
 			extra="true"
 			zIndex="150"
-			linearSmooth="false"
+			linearSmooth="true"
 			origin="0.5 0.5"
 			minSize="1 1"
 			pos="0.5 0.5"
@@ -36,6 +36,30 @@
 			<path>./../../${p.custom}/${system.theme}/bg.m3u</path>
 			<path>./../../${p.custom}/bg.png</path>
 			<path>./../../${p.custom}/bg.jpg</path>
+			<opacity ifSubset="shaders:off">0.5</opacity>
+		</image>
+
+		<image name="systemBackgroundsLightShade"
+		
+			extra="true"
+			zIndex="160"
+			linearSmooth="false"
+			origin="0.5 0.5"
+			minSize="1 1"
+			pos="0.5 0.5"
+			saturation="0"
+			color="${c.textHeader}00"
+			colorEnd="ffffff"
+			gradientType="horizontal"
+			opacity="0.05"
+			autoFade="true"
+			path="./../parts/white.png"
+			
+		>
+		
+			<shader ifSubset="shaders:on">./../shaders/scanlinesBright.glsl</shader>
+			<visible tinyScreen="true">false</visible>
+			<opacity ifSubset="shaders:off">0.03</opacity>
 
 		</image>
 
