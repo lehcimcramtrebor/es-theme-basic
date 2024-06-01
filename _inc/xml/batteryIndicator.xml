@@ -102,9 +102,9 @@
 				
 			/>
 
-			<text name="ss.cheevosUser" if="${global.cheevos}"
+			<text name="ss.cheevosUser"
 			
-				text=" ${global.cheevos.username} "
+				text=" ${custom.name} "
 				alignment="center"
 				fontPath="./../fonts/${f.mb}"
 				fontSize="0.018"

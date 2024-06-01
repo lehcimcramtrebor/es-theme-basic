@@ -93,10 +93,16 @@ que le fichier infos.xml et utiliser les logos, illustrations du thème etc..
 
 PERSONNALISATION GENERALE DU THEME:
 
-Vous pouvez mettre un fichier bg.png ou bg.jpg à la racine du dossier "_BasicCustom" afin d'avoir un unique arrière-plan pour tout le thème.
+	-Vous pouvez mettre un fichier bg.png ou bg.jpg à la racine du dossier "_BasicCustom" afin d'avoir un unique arrière-plan pour tout le thème.
 
-Vous pouvez sinon y placer un fichier default-bg.png ou default-bg.jpg afin d'avoir un arrière-plan par défaut quand aucun custom ou random n'existe.
+	-Vous pouvez sinon y placer un fichier default-bg.png ou default-bg.jpg afin d'avoir un arrière-plan par défaut quand aucun custom ou random n'existe.
 
+	-Vous pouvez éditer le fichier custom-name.xml pour afficher votre nom en haut à droite du thème, pour cela retirez <!-- et --> autour de <custom.name>Your_name_here</custom.name>:
+
+		"<!--<custom.name>Your_name_here</custom.name>"--> doit devenir "<custom.name>Your_name_here</custom.name>".
+		
+		Par défaut, le login des rétro succès s'affiche lorsque ces derniers sont activés.
+		
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
@@ -195,8 +201,15 @@ than the infos.xml file and use the logos, illustrations of the theme etc..
 
 GENERAL THEME CUSTOMIZATION:
 
-You can put a bg.png or bg.jpg file at the root of the "_BasicCustom" folder in order to have a single background for the entire theme.
-You can otherwise place a default-bg.png or default-bg.jpg file there in order to have a default background when no custom or random exists.
+	- You can put a bg.png or bg.jpg file at the root of the "_BasicCustom" folder in order to have a single background for the entire theme.
+
+	-You can otherwise place a default-bg.png or default-bg.jpg file there in order to have a default background when no custom or random exists.
+	
+	-You can edit the custom-name.xml file to display your name at the top right of the theme, to do this remove <!-- and --> around <custom.name>Your_name_here</custom.name>:
+
+		"<!--<custom.name>Your_name_here</custom.name>"--> should become "<custom.name>Your_name_here</custom.name>".
+		
+		By default, the login for retro achievements is displayed when they are activated.
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
