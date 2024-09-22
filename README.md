@@ -4,7 +4,7 @@ Theme for Retrobat and Batocera
 
 Compatibility for Handheld devices (tiny screens)
 
-Customize your theme with special folder out of your theme, you can add your images,videos, logo etc.. 
+Customize and / or finalize your theme with special folder out of your theme, you can add your images,videos, logo etc.. 
 
 French:
 
