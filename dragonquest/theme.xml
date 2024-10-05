@@ -10,9 +10,9 @@
 
 		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
 
-		<!--<system.fullName>name</system.fullName>-->
+		<system.fullName>dragon quest</system.fullName>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+		<system.releaseYearOrNull>1986</system.releaseYearOrNull>
 
 		<!--<desc>description</desc>-->
 		

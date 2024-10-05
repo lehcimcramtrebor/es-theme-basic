@@ -57,6 +57,7 @@
 		<v.gamelist.fontSize>0.024</v.gamelist.fontSize>
 		
 		<v.py if="${system.releaseYear} &gt; '1958'">•</v.py>
+		<v.py if="${system.releaseYearOrNull} &gt; '1958'">•</v.py>
 		
 		<s.notWide>${screen.height} &gt; ${screen.width}/1.6</s.notWide>
 		<s.ultraWide>${screen.width} &gt; ${screen.height}*1.8</s.ultraWide>
