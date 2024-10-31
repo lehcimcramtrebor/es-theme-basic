@@ -204,6 +204,19 @@
 	
 	</subset>
 	
+	<subset name="randomGames"
+	
+		displayName="${subset.randomGames}"
+		appliesTo="${v.allViews}"
+		
+	>
+	
+		<include			name="no"						displayName="${subset.randomGames.no}"						/>
+		<include			name="marquees"					displayName="${subset.randomGames.marquees}"				>./_inc/xml/randomGames.xml</include>
+		<include			name="thumbnails"				displayName="${subset.randomGames.thumbnails}"				>./_inc/xml/randomGames.xml</include>
+	
+	</subset>
+	
 	<subset name="systemBackgrounds"
 	
 		displayName="${subset.systemBackgrounds}"

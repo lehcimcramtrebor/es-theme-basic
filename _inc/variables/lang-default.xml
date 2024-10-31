@@ -75,6 +75,11 @@
 		<subset.randomVideo.yes>yes</subset.randomVideo.yes>
 		<subset.randomVideo.justVideo>yes, but without audio</subset.randomVideo.justVideo>
 
+		<subset.randomGames>system view • random games</subset.randomGames>
+		<subset.randomGames.no>no</subset.randomGames.no>
+		<subset.randomGames.marquees>logos</subset.randomGames.marquees>
+		<subset.randomGames.thumbnails>boxes</subset.randomGames.thumbnails>
+
 		<subset.systemBackgrounds>system view • backgrounds</subset.systemBackgrounds>
 		<subset.systemBackgrounds.no>no</subset.systemBackgrounds.no>
 		<subset.systemBackgrounds.yes>yes</subset.systemBackgrounds.yes>
