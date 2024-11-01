@@ -441,7 +441,7 @@ ${lang.noRating}</text>
 
 ${lang.gamePlayers}: {game:players}
 ${lang.timesPlayed}: {game:playcount}
-${lang.lastPlayed} ${lang.at} {game:lastplayed}</text>
+( ${lang.lastPlayed} ${lang.at} {game:lastplayed} )</text>
 
 		</text>
 		
