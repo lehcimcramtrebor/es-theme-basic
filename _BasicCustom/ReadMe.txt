@@ -102,6 +102,8 @@ PERSONNALISATION GENERALE DU THEME:
 		"<!--<custom.name>Your_name_here</custom.name>"--> doit devenir "<custom.name>Your_name_here</custom.name>".
 		
 		Par défaut, le login des rétro succès s'affiche lorsque ces derniers sont activés.
+
+	-override.xml: dans ce fichier qui se lit à la fin du thème, vous pouvez faire ce que vous voulez, reprenez les objets du thème et modifiez-les ou ajoutez en de nouveaux.
 		
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
@@ -210,6 +212,8 @@ GENERAL THEME CUSTOMIZATION:
 		"<!--<custom.name>Your_name_here</custom.name>"--> should become "<custom.name>Your_name_here</custom.name>".
 		
 		By default, the login for retro achievements is displayed when they are activated.
+
+	-override.xml: in this file which is read at the end of the theme, you can do what you want, take the theme objects and modify them or add new ones.
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
