@@ -84,6 +84,10 @@
 		<subset.systemBackgrounds.no>non</subset.systemBackgrounds.no>
 		<subset.systemBackgrounds.yes>oui</subset.systemBackgrounds.yes>
 
+		<subset.systemLogoAnimation>animation du logo en arrière-plan</subset.systemLogoAnimation>
+		<subset.systemLogoAnimation.no>non</subset.systemLogoAnimation.no>
+		<subset.systemLogoAnimation.yes>oui</subset.systemLogoAnimation.yes>
+
 		<subset.fanarts>liste de jeux • fanarts en arrière-plan</subset.fanarts>
 		<subset.fanarts.no>non</subset.fanarts.no>
 		<subset.fanarts.yes>oui</subset.fanarts.yes>

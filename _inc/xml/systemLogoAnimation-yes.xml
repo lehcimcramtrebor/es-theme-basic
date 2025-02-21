@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<theme>
+
+	<formatVersion>7</formatVersion>
+	
+	<view name="system">
+	
+		<image name="logoAnime"
+		
+			extra="true"
+			linearSmooth="false"
+			zIndex="200"
+			saturation="0"
+			maxSize="99 0.3"
+			origin="0 0.5"
+			pos="1 0.5"
+			opacity="1"
+			reflexion="0.1 0.5"
+			
+		>
+		
+			<shader ifSubset="shaders:on">./../shaders/blur.glsl</shader>
+
+			<storyboard repeatAt="250">
+			
+                <animation property="y"				from="0.5"			to="0.5"			duration="250"			mode="linear"																	/>
+                <animation property="maxSize"		from="99 0.9"		to="99 0.9"			duration="250"			mode="linear"																	/>
+                <animation property="opacity"		from="0"			to="1"				duration="125"			mode="linear"			autoreverse="true"										/>
+                <animation property="x"				from="1"			to="0"				duration="250"			mode="easeInOut"																/>
+                <animation property="origin"		from="0. 0.5"		to="1 0.5"			duration="250"			mode="easeInOut"																/>
+                <animation property="opacity"		from="0.9"			to="0.9"			duration="60000"		mode="linear"									begin="250"						/>
+                <animation property="y"				from="0.30"			to="0.30"			duration="100"		mode="linear"									begin="250"						/>
+                <animation property="maxSize"		from="99 0.4"		to="99 0.4"			duration="60000"		mode="linear"									begin="250"						/>
+                <animation property="x"				from="1"			to="0"				duration="60000"		mode="linear"									begin="250"						/>
+                <animation property="origin"		from="0 0.5"		to="1 0.5"			duration="60000"		mode="linear"									begin="250"						/>
+                <animation property="y"				from="-0.5"			to="0.5"			duration="50"			mode="easeInOut"								begin="10250"	 repeat="5"		/>
+                <animation property="y"				from="0.3"			to="0.3"			duration="9750"			mode="linear"									begin="10500"	 				/>
+                <animation property="y"				from="-0.5"			to="0.5"			duration="50"			mode="easeInOut"								begin="20250"	 repeat="2"		/>
+                <animation property="y"				from="0.3"			to="0.3"			duration="9900"			mode="linear"									begin="20350"	 				/>
+                <animation property="y"				from="-0.5"			to="0.5"			duration="50"			mode="easeInOut"								begin="30250"	 repeat="5"		/>
+                <animation property="y"				from="0.3"			to="0.3"			duration="9750"			mode="linear"									begin="30500"	 				/>
+                <animation property="y"				from="-0.5"			to="0.5"			duration="50"			mode="easeInOut"								begin="40250"	 repeat="2"		/>
+                <animation property="y"				from="0.3"			to="0.3"			duration="9900"			mode="linear"									begin="40350"	 				/>
+                <animation property="y"				from="-0.5"			to="0.5"			duration="50"			mode="easeInOut"								begin="50250"	 repeat="5"		/>
+                <animation property="y"				from="0.3"			to="0.3"			duration="9750"			mode="linear"									begin="50450"	 				/>
+				
+           </storyboard>
+		
+		</image>
+		
+		<image name="logoAnime"
+		
+			
+			extra="true"
+			ifSubset="forceRegion:no"
+			region="eu"
+			
+		>
+		
+			<path>./../../${system.theme}/logo.png</path>
+			<path>./../../${system.theme}/logo-${lang}.png</path>
+            <path ifSubset="neogeo:aes" if="{system.name} == 'neogeo'">./../../${system.theme}${v.neogeo}/logo.png</path>
+			
+		</image>
+		
+		<image name="logoAnime"
+		
+			
+			extra="true"
+			ifSubset="forceRegion:no"
+			region="us"
+
+		>
+		
+			<path>./../../${system.theme}/logo.png</path>
+			<path>./../../${system.theme}/logo-${lang}.png</path>
+            <path ifSubset="neogeo:aes" if="{system.name} == 'neogeo'">./../../${system.theme}${v.neogeo}/logo.png</path>
+			<path>./../../${system.theme}/us/logo.png</path>
+			
+		>
+		
+		
+		</image>
+		
+		<image name="logoAnime"
+		
+			
+			extra="true"
+			ifSubset="forceRegion:no"
+			region="jp"
+			
+		>
+		
+			<path>./../../${system.theme}/logo.png</path>
+			<path>./../../${system.theme}/logo-${lang}.png</path>
+            <path ifSubset="neogeo:aes" if="{system.name} == 'neogeo'">./../../${system.theme}${v.neogeo}/logo.png</path>
+			<path>./../../${system.theme}/jp/logo.png</path>
+		
+		</image>
+		
+		<image name="logoAnime"
+		
+			extra="true"
+			ifSubset="forceRegion:eu"
+			
+		>
+		
+			<path>./../../${system.theme}/logo.png</path>
+			<path>./../../${system.theme}/logo-${lang}.png</path>
+            <path ifSubset="neogeo:aes" if="{system.name} == 'neogeo'">./../../${system.theme}${v.neogeo}/logo.png</path>
+		
+		</image>
+		
+		<image name="logoAnime"
+		
+			extra="true"
+			ifSubset="forceRegion:us"
+			
+		>
+		
+			<path>./../../${system.theme}/logo.png</path>
+			<path>./../../${system.theme}/logo-${lang}.png</path>
+            <path ifSubset="neogeo:aes" if="{system.name} == 'neogeo'">./../../${system.theme}${v.neogeo}/logo.png</path>
+			<path>./../../${system.theme}/us/logo.png</path>
+
+			
+		</image>
+		
+		<image name="logoAnime"
+		
+			extra="true"
+			ifSubset="forceRegion:jp"
+			
+		>
+		
+			<path>./../../${system.theme}/logo.png</path>
+			<path>./../../${system.theme}/logo-${lang}.png</path>
+            <path ifSubset="neogeo:aes" if="{system.name} == 'neogeo'">./../../${system.theme}${v.neogeo}/logo.png</path>
+			<path>./../../${system.theme}/jp/logo.png</path>
+			
+		</image>
+		
+		<image name="logoAnime"
+
+			extra="true"
+		
+		>
+		
+			<path>./../../${p.custom}/${system.theme}/logo.png</path>
+			<path>./../../${p.custom}/${system.theme}/logo.svg</path>
+			
+		</image>
+
+	</view>
+
+</theme>

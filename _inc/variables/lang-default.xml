@@ -84,6 +84,10 @@
 		<subset.systemBackgrounds.no>no</subset.systemBackgrounds.no>
 		<subset.systemBackgrounds.yes>yes</subset.systemBackgrounds.yes>
 
+		<subset.systemLogoAnimation>background logo animations</subset.systemLogoAnimation>
+		<subset.systemLogoAnimation.no>no</subset.systemLogoAnimation.no>
+		<subset.systemLogoAnimation.yes>yes</subset.systemLogoAnimation.yes>
+
 		<subset.fanarts>gamelist • faded fanarts</subset.fanarts>
 		<subset.fanarts.no>no</subset.fanarts.no>
 		<subset.fanarts.yes>yes</subset.fanarts.yes>

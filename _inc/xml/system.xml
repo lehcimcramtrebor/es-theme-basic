@@ -323,6 +323,12 @@
 		>
 
 			<shader ifSubset="shaders:on">./../shaders/shadow.glsl</shader>
+
+			<storyboard tinyScreen="false">
+			
+                <animation property="scale"		from="0.99"		to="1"		duration="5000"	mode="easeInOut"			/>
+				
+           </storyboard>
 		
 		</image>
 		

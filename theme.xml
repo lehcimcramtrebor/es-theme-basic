@@ -267,6 +267,17 @@
 		<include			name="yes"						displayName="${subset.loops.yes}"						/>
 	
 	</subset>
+	
+	<subset name="systemLogoAnimation"
+	
+		displayName="${subset.systemLogoAnimation}"
+		tinyScreen="false"
+	>
+	
+		<include			name="yes"						displayName="${subset.systemLogoAnimation.yes}"				>./_inc/xml/systemLogoAnimation-yes.xml</include>
+		<include			name="no"						displayName="${subset.systemLogoAnimation.no}"				/>
+	
+	</subset>
 
 	<view name="system,basic,detailed,grid">
 	
