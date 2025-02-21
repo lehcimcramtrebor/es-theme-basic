@@ -381,5 +381,7 @@
 	<include>./_inc/xml/detailed_unified.xml</include>
 	<include>./_inc/xml/grid.xml</include>
 	<include>./_inc/xml/library.xml</include>
+
+	<include>./${p.custom}/override.xml</include>
 	
 </theme>
