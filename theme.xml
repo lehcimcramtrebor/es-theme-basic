@@ -149,16 +149,16 @@
 		
 	>
 	
-		<include			name="heinsenberg"				displayName="${subset.themeColors.heinsenberg}"				>./_inc/variables/themeColors-heinsenberg.xml</include>
 		<include			name="smokeBlue"				displayName="${subset.themeColors.smokeBlue}"				>./_inc/variables/themeColors-smokeBlue.xml</include>
-		<include			name="redAstaire"				displayName="${subset.themeColors.redAstaire}"				>./_inc/variables/themeColors-redAstaire.xml</include>
+		<include			name="heinsenberg"				displayName="${subset.themeColors.heinsenberg}"				>./_inc/variables/themeColors-heinsenberg.xml</include>
 		<include			name="smokeRed"					displayName="${subset.themeColors.smokeRed}"				>./_inc/variables/themeColors-smokeRed.xml</include>
-		<include			name="pinkman"					displayName="${subset.themeColors.pinkman}"					>./_inc/variables/themeColors-pinkman.xml</include>
+		<include			name="redAstaire"				displayName="${subset.themeColors.redAstaire}"				>./_inc/variables/themeColors-redAstaire.xml</include>
 		<include			name="smokePink"				displayName="${subset.themeColors.smokePink}"				>./_inc/variables/themeColors-smokePink.xml</include>
-		<include			name="tribeca"					displayName="${subset.themeColors.tribeca}"					>./_inc/variables/themeColors-tribeca.xml</include>
+		<include			name="pinkman"					displayName="${subset.themeColors.pinkman}"					>./_inc/variables/themeColors-pinkman.xml</include>
 		<include			name="smokeOrange"				displayName="${subset.themeColors.smokeOrange}"				>./_inc/variables/themeColors-smokeOrange.xml</include>
-		<include			name="reactorPluid"				displayName="${subset.themeColors.reactorPluid}"			>./_inc/variables/themeColors-reactorPluid.xml</include>
+		<include			name="tribeca"					displayName="${subset.themeColors.tribeca}"					>./_inc/variables/themeColors-tribeca.xml</include>
 		<include			name="smokeGreen"				displayName="${subset.themeColors.smokeGreen}"				>./_inc/variables/themeColors-smokeGreen.xml</include>
+		<include			name="reactorPluid"				displayName="${subset.themeColors.reactorPluid}"			>./_inc/variables/themeColors-reactorPluid.xml</include>
 		<include			name="smoke"					displayName="${subset.themeColors.smoke}"					>./_inc/variables/themeColors-smoke.xml</include>
 	
 	</subset>
@@ -224,8 +224,8 @@
 		tinyScreen="false"
 	>
 	
-		<include			name="no"						displayName="${subset.systemBackgrounds.no}"				/>
 		<include			name="yes"						displayName="${subset.systemBackgrounds.yes}"				>./_inc/xml/systemBackgrounds-yes.xml</include>
+		<include			name="no"						displayName="${subset.systemBackgrounds.no}"				/>
 	
 	</subset>
 	

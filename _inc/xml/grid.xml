@@ -57,11 +57,11 @@
 			origin="0.5 0.5"
 			minSize="${v.frame.size}"
 			pos="${v.frame.pos}"
-			saturation="0.35"
-			color="${c.textHeader}06"
-			colorEnd="80808080"
+			saturation="0"
+			color="ffffff0d"
+			colorEnd="ffffff33"
 			gradientType="horizontal"
-			opacity="0.7"
+			opacity="0.6"
 			autoFade="true"
 			
 		>

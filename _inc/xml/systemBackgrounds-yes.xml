@@ -14,11 +14,11 @@
 			origin="0.5 0.5"
 			minSize="1 1"
 			pos="0.5 0.5"
-			saturation="0.35"
-			color="${c.textHeader}00"
-			colorEnd="80808080"
-			gradientType="horizontal"
-			opacity="0.7"
+			saturation="0"
+			color="ffffff"
+			colorEnd="000000"
+			gradientType="vertical"
+			opacity="0.8"
 			autoFade="true"
 			
 		>
