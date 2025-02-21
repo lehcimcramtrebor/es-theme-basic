@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<theme>
+
+	<formatVersion>7</formatVersion>
+
+	<!-- THIS SECTION AFFECT SYSTEM BACKGROUNDS, "systemBackgroundsLightShade" is shade applied over background -->
+
+	<!--
+	<view name="system">
+
+		<image name="systemBackgrounds"
+		
+			saturation="1"
+			color="ffffff"
+			colorEnd="ffffff"
+			gradientType="horizontal"
+			opacity="1"
+			
+		/>
+
+		<image name="systemBackgroundsLightShade"
+		
+			opacity="0"
+			
+		/>
+
+	</view>
+	-->
+	
+</theme>
