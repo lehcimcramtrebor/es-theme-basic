@@ -70,6 +70,7 @@
 		<subset.atmosphere.allowGeneral>paramètres généraux</subset.atmosphere.allowGeneral>
 		<subset.atmosphere.notAllowMusic>jouer du silence</subset.atmosphere.notAllowMusic>
 		<subset.atmosphere.arcadeRoom>fond sonore de salle d'arcade</subset.atmosphere.arcadeRoom>
+		<subset.atmosphere.synthClub>synth / club</subset.atmosphere.synthClub>
 
 		<subset.randomVideo>vue système • vidéos aléatoires</subset.randomVideo>
 		<subset.randomVideo.no>non</subset.randomVideo.no>
