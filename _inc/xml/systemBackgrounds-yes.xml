@@ -38,6 +38,13 @@
 			<path>./../../${p.custom}/bg.png</path>
 			<path>./../../${p.custom}/bg.jpg</path>
 			<opacity ifSubset="shaders:off">0.5</opacity>
+
+			<storyboard repeat="forever">
+			
+                <animation property="scale"				from="1"			to="1.05"			duration="20000"			mode="easeInOut"		autoreverse="true"			/>
+				
+           </storyboard>
+
 		</image>
 
 		<image name="systemBackgroundsLightShade"
