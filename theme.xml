@@ -180,12 +180,12 @@
 			
 	>
 		
+        <include 			name="synthClub"				displayName="${subset.atmosphere.synthClub}"				>./_inc/xml/atmosphere-synthClub.xml</include>
         <include			name="Recalbox"					displayName="${subset.atmosphere.Recalbox}"					>./_inc/xml/atmosphere-recalbox.xml</include>
         <include			name="MrBoom"					displayName="${subset.atmosphere.MrBoom}"					>./_inc/xml/atmosphere-MrBoom.xml</include>
         <include			name="OldBatocera" 				displayName="${subset.atmosphere.OldBatocera}"				>./_inc/xml/atmosphere-oldBatocera.xml</include>
         <include 			name="ComixZone"				displayName="${subset.atmosphere.ComixZone}"				>./_inc/xml/atmosphere-ComixZone.xml</include>
         <include 			name="Retrobat"					displayName="${subset.atmosphere.Retrobat}"					>./_inc/xml/atmosphere-retrobat.xml</include>
-        <include 			name="synthClub"				displayName="${subset.atmosphere.synthClub}"				>./_inc/xml/atmosphere-synthClub.xml</include>
         <include 			name="randomAudio"				displayName="${subset.atmosphere.randomAudio}"				>./_inc/xml/atmosphere-randomAudio.xml</include>
         <include			name="notAllowMusic"			displayName="${subset.atmosphere.notAllowMusic}"			>./_inc/xml/atmosphere-notAllow.xml</include>
         <include			name="arcadeRoom"				displayName="${subset.atmosphere.arcadeRoom}"				>./_inc/xml/atmosphere-arcadeRoom.xml</include>
@@ -213,9 +213,9 @@
 		
 	>
 	
-		<include			name="no"						displayName="${subset.randomGames.no}"						/>
 		<include			name="marquees"					displayName="${subset.randomGames.marquees}"				>./_inc/xml/randomGames.xml</include>
 		<include			name="thumbnails"				displayName="${subset.randomGames.thumbnails}"				>./_inc/xml/randomGames.xml</include>
+		<include			name="no"						displayName="${subset.randomGames.no}"						/>
 	
 	</subset>
 	
