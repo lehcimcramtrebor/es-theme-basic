@@ -326,7 +326,8 @@
 
 			<storyboard tinyScreen="false">
 			
-                <animation property="scale"		from="0.99"		to="1"		duration="5000"	mode="easeInOut"			/>
+                <animation property="scale"		from="0.96"		to="1"		duration="20000"	mode="easeOut"			/>
+                <animation property="opacity"	from="0"		to="1"		duration="175"		mode="easeIn"			/>
 				
            </storyboard>
 		

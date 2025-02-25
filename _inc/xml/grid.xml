@@ -6,6 +6,34 @@
 	
 	<view name="grid">
 
+		<text name="md_name"
+		
+			zIndex="1001"
+			forceUppercase="true"
+			alignment="center"
+			verticalAlignment="center"
+			fontPath="./../fonts/${f.mb}"
+			origin="0.5 0.5"
+            pos="0.5 0.555"
+            size="0.5 0.017"
+            fontSize="0.024"
+			color="${c.yellow}"
+            glowColor="${c.glowColor}"
+			glowOffset="0"
+			glowSize="8"
+			opacity="0"
+
+			>
+
+			<storyboard>
+			
+                <animation property="opacity"		to="1"		duration="1"		mode="linear"						/>
+                <animation property="opacity"		to="0"		duration="50"		mode="linear"		begin="350"		/>
+				
+           </storyboard>
+
+			</text>
+			
 		<image name="frame"
 		
 			extra="true"
