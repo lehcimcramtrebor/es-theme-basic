@@ -14,13 +14,13 @@
 			verticalAlignment="center"
 			fontPath="./../fonts/${f.mb}"
 			origin="0.5 0.5"
-            pos="0.5 0.555"
+            pos="0.416 0.555"
             size="0.5 0.017"
-            fontSize="0.024"
+            fontSize="0.016"
 			color="${c.yellow}"
             glowColor="${c.glowColor}"
 			glowOffset="0"
-			glowSize="8"
+			glowSize="4"
 			opacity="0"
 
 			>
@@ -252,7 +252,7 @@
 
 		</image>
 		
-		<image name="md_thumbnail"
+		<image name="md_thumbnail,md_image"
 		
 			zIndex="1001"
 			linearSmooth="true"
@@ -294,7 +294,17 @@
 			<visible tinyScreen="true">false</visible>
 		
 		</image>
+		
+		<image name="md_image"
+		
+			visible="false"
+			
+		>
 
+			<shader ifSubset="shaders:on">./../shaders/scanlinesBright.glsl</shader>		
+
+		</image>
+		
 		<text name="md_description"
 		
 			zIndex="1001"

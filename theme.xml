@@ -13,8 +13,8 @@
 		<p.custom ifArch="windows">../../../../_BasicCustom</p.custom>
 		<custom.name>${global.cheevos.username}</custom.name>
 		
-		<v.allViews>system,basic,detailed,detailed_unified,library,grid</v.allViews>
-		<v.allGamelists>basic,detailed,detailed_unified,library,grid</v.allGamelists>
+		<v.allViews>system,basic,detailed,detailed_unified,library,grid,grid_boxes</v.allViews>
+		<v.allGamelists>basic,detailed,detailed_unified,library,grid,grid_boxes</v.allGamelists>
 		<v.textGamelists>basic,detailed,detailed_unified,library</v.textGamelists>
 
 		<v.line.hc>1 / ${screen.height}</v.line.hc>
@@ -80,6 +80,7 @@
 	<view name="basic,detailed"></view>
 	<customView name="detailed_unified"></customView>
 	<view name="grid"></view>
+	<customView name="grid_boxes"></customView>
 	<customView name="library"></customView>
 
 	<subset name="shaders"
@@ -393,6 +394,7 @@
 	<include>./_inc/xml/detailed.xml</include>
 	<include>./_inc/xml/detailed_unified.xml</include>
 	<include>./_inc/xml/grid.xml</include>
+	<include>./_inc/xml/grid_boxes.xml</include>
 	<include>./_inc/xml/library.xml</include>
 
 	<include>./${p.custom}/override.xml</include>

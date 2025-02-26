@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<theme>
+
+	<formatVersion>7</formatVersion>
+	
+	<customView name="grid_boxes" inherits="grid" displayName="${lang.grid_boxes}">
+
+		<text name="md_name"
+		
+            pos="0.416 0.568"
+
+			/>
+
+		<image name="md_image"
+		
+			visible="true"
+
+		/>
+
+		<image name="md_thumbnail"
+		
+			visible="false"
+
+		/>
+		
+		<imagegrid name="gamegrid"
+		
+			imageSource="thumbnail"
+
+		/>
+
+		<gridtile name="default"
+		
+			imageSizeMode="maxSize"
+			
+		/>
+
+		<text name="gridtile"
+		
+			visible="false"
+			
+		/>
+	
+	</customView>
+
+</theme>
