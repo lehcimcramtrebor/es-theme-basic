@@ -16,6 +16,7 @@
 		<v.allViews>system,basic,detailed,detailed_unified,library,grid,grid_boxes</v.allViews>
 		<v.allGamelists>basic,detailed,detailed_unified,library,grid,grid_boxes</v.allGamelists>
 		<v.textGamelists>basic,detailed,detailed_unified,library</v.textGamelists>
+		<v.gridGamelists>grid,grid_boxes</v.gridGamelists>
 
 		<v.line.hc>1 / ${screen.height}</v.line.hc>
 		<v.line.h>2 / ${screen.height}</v.line.h>
@@ -268,6 +269,18 @@
 	
 		<include			name="no"						displayName="${subset.loops.no}"						/>
 		<include			name="yes"						displayName="${subset.loops.yes}"						/>
+	
+	</subset>
+	
+	<subset name="gridNames"
+	
+		displayName="${subset.gridNames}"
+		appliesTo="${v.gridGamelists}"
+		
+	>
+	
+		<include			name="yes"						displayName="${subset.gridNames.yes}"						/>
+		<include			name="no"						displayName="${subset.gridNames.no}"						/>
 	
 	</subset>
 	

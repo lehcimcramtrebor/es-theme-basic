@@ -12,15 +12,15 @@
 			forceUppercase="true"
 			alignment="center"
 			verticalAlignment="center"
-			fontPath="./../fonts/${f.mb}"
+			fontPath="./../fonts/${f.mbi}"
 			origin="0.5 0.5"
             pos="0.416 0.555"
             size="0.5 0.017"
             fontSize="0.016"
-			color="${c.yellow}"
+			color="${c.textHeader}"
             glowColor="${c.glowColor}"
-			glowOffset="0"
-			glowSize="4"
+			glowOffset="2"
+			glowSize="2"
 			opacity="0"
 
 			>
@@ -30,7 +30,9 @@
                 <animation property="opacity"		to="1"		duration="1"		mode="linear"						/>
                 <animation property="opacity"		to="0"		duration="50"		mode="linear"		begin="350"		/>
 				
-           </storyboard>
+			</storyboard>
+
+			<visible ifSubset="gridNames:no">false</visible>
 
 			</text>
 			

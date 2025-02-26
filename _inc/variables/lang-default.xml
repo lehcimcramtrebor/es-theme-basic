@@ -98,6 +98,10 @@
 		<subset.loops.no>no</subset.loops.no>
 		<subset.loops.yes>yes</subset.loops.yes>
 
+		<subset.gridNames>grid gamelist • display few seconds selected game name in grid</subset.gridNames>
+		<subset.gridNames.no>no</subset.gridNames.no>
+		<subset.gridNames.yes>yes</subset.gridNames.yes>
+
 		<lang.library>library</lang.library>
 		<lang.detailed_unified>detailed (unified)</lang.detailed_unified>
 		<lang.grid_boxes>grid (boxes)</lang.grid_boxes>

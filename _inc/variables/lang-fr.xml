@@ -98,6 +98,10 @@
 		<subset.loops.no>non</subset.loops.no>
 		<subset.loops.yes>oui</subset.loops.yes>
 
+		<subset.gridNames>grille de jeux • afficher brièvement le nom du jeu selectionné</subset.gridNames>
+		<subset.gridNames.no>non</subset.gridNames.no>
+		<subset.gridNames.yes>oui</subset.gridNames.yes>
+
 		<lang.library>librairie</lang.library>
 		<lang.detailed_unified>détaillé (unifié)</lang.detailed_unified>
 		<lang.grid_boxes>grille (boîtes)</lang.grid_boxes>
