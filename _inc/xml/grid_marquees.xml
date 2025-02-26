@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<theme>
+
+	<formatVersion>7</formatVersion>
+	
+	<customView name="grid_marquees" inherits="grid" displayName="${lang.grid_marquees}">
+
+		<text name="md_name"
+		
+            pos="0.416 0.568"
+
+			/>
+
+		<image name="md_image"
+		
+			visible="false"
+
+		/>
+
+		<image name="md_thumbnail"
+		
+			visible="true"
+
+		/>
+		
+		<imagegrid name="gamegrid"
+		
+			imageSource="marquee"
+			autoLayout="4 4"
+
+		>
+
+			<autoLayout if="${s.notWide}">3 4</autoLayout>
+			<autoLayout if="${s.ultraWide}">5 4</autoLayout>
+
+		</imagegrid>
+		
+		<gridtile name="default"
+		
+			imageSizeMode="maxSize"
+			
+		/>
+
+		<text name="gridtile"
+		
+			visible="false"
+			
+		/>
+	
+	</customView>
+
+</theme>

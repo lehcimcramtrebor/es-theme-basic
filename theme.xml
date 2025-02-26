@@ -13,10 +13,10 @@
 		<p.custom ifArch="windows">../../../../_BasicCustom</p.custom>
 		<custom.name>${global.cheevos.username}</custom.name>
 		
-		<v.allViews>system,basic,detailed,detailed_unified,library,grid,grid_boxes</v.allViews>
-		<v.allGamelists>basic,detailed,detailed_unified,library,grid,grid_boxes</v.allGamelists>
+		<v.allViews>system,basic,detailed,detailed_unified,library,grid,grid_boxes,grid_marquees</v.allViews>
+		<v.allGamelists>basic,detailed,detailed_unified,library,grid,grid_boxes,grid_marquees</v.allGamelists>
 		<v.textGamelists>basic,detailed,detailed_unified,library</v.textGamelists>
-		<v.gridGamelists>grid,grid_boxes</v.gridGamelists>
+		<v.gridGamelists>grid,grid_boxes,grid_marquees</v.gridGamelists>
 
 		<v.line.hc>1 / ${screen.height}</v.line.hc>
 		<v.line.h>2 / ${screen.height}</v.line.h>
@@ -82,6 +82,7 @@
 	<customView name="detailed_unified"></customView>
 	<view name="grid"></view>
 	<customView name="grid_boxes"></customView>
+	<customView name="grid_marquees"></customView>
 	<customView name="library"></customView>
 
 	<subset name="shaders"
@@ -272,6 +273,18 @@
 	
 	</subset>
 	
+	<subset name="gridVideos"
+	
+		displayName="${subset.gridVideos}"
+		appliesTo="${v.gridGamelists}"
+		
+	>
+	
+		<include			name="yes"						displayName="${subset.gridVideos.yes}"						/>
+		<include			name="no"						displayName="${subset.gridVideos.no}"						/>
+	
+	</subset>
+	
 	<subset name="gridNames"
 	
 		displayName="${subset.gridNames}"
@@ -408,6 +421,7 @@
 	<include>./_inc/xml/detailed_unified.xml</include>
 	<include>./_inc/xml/grid.xml</include>
 	<include>./_inc/xml/grid_boxes.xml</include>
+	<include>./_inc/xml/grid_marquees.xml</include>
 	<include>./_inc/xml/library.xml</include>
 
 	<include>./${p.custom}/override.xml</include>
