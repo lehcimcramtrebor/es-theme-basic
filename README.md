@@ -211,6 +211,9 @@ You can otherwise place a default-bg.png or default-bg.jpg file there in order t
 
 ![EmulationStation - emulator frontend 09-05-2024 08-42-08-330](https://github.com/lehcimcramtrebor/es-theme-basic/assets/59354081/c2a72d73-585a-45c7-b3c8-0d8c1db3d9c2)
 ![EmulationStation 19-05-2024 21-59-58-335](https://github.com/lehcimcramtrebor/es-theme-basic/assets/59354081/b426a404-1075-4779-954c-b74167af161c)
+![Capture d'écran 2025-02-27 225140](https://github.com/user-attachments/assets/80375521-504e-4bc9-9d61-9f79f20b7940)
+![Capture d'écran 2025-02-27 225214](https://github.com/user-attachments/assets/e4e50fdd-1029-4f2b-a10a-8466f32f5d3f)
+![Capture d'écran 2025-02-27 225247](https://github.com/user-attachments/assets/25d66e27-da1a-4880-9032-59689706f516)
 ![EmulationStation - emulator frontend 09-05-2024 08-44-12-830](https://github.com/lehcimcramtrebor/es-theme-basic/assets/59354081/90eb041b-4ba5-4930-8eb3-8743fab6dca7)
 ![EmulationStation - emulator frontend 09-05-2024 08-44-27-23](https://github.com/lehcimcramtrebor/es-theme-basic/assets/59354081/e1dcdfe7-d291-4175-bfaa-75935111a8fe)
 ![EmulationStation - emulator frontend 09-05-2024 08-44-39-168](https://github.com/lehcimcramtrebor/es-theme-basic/assets/59354081/c2264114-59df-499b-a2b3-91b3d56ef4d7)
