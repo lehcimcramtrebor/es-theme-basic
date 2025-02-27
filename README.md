@@ -210,6 +210,7 @@ You can otherwise place a default-bg.png or default-bg.jpg file there in order t
 
 
 ![EmulationStation - emulator frontend 09-05-2024 08-42-08-330](https://github.com/lehcimcramtrebor/es-theme-basic/assets/59354081/c2a72d73-585a-45c7-b3c8-0d8c1db3d9c2)
+![Capture d'écran 2025-02-27 230804](https://github.com/user-attachments/assets/32368dde-dc10-4c42-8bbd-b1b84ffec597)
 ![EmulationStation 19-05-2024 21-59-58-335](https://github.com/lehcimcramtrebor/es-theme-basic/assets/59354081/b426a404-1075-4779-954c-b74167af161c)
 ![Capture d'écran 2025-02-27 225140](https://github.com/user-attachments/assets/80375521-504e-4bc9-9d61-9f79f20b7940)
 ![Capture d'écran 2025-02-27 225214](https://github.com/user-attachments/assets/e4e50fdd-1029-4f2b-a10a-8466f32f5d3f)
@@ -219,6 +220,10 @@ You can otherwise place a default-bg.png or default-bg.jpg file there in order t
 ![EmulationStation - emulator frontend 09-05-2024 08-44-39-168](https://github.com/lehcimcramtrebor/es-theme-basic/assets/59354081/c2264114-59df-499b-a2b3-91b3d56ef4d7)
 ![EmulationStation - emulator frontend 09-05-2024 08-44-59-363](https://github.com/lehcimcramtrebor/es-theme-basic/assets/59354081/8a2a7d58-0ee8-41af-a959-53e595eca8ad)
 ![EmulationStation - emulator frontend 09-05-2024 08-45-11-553](https://github.com/lehcimcramtrebor/es-theme-basic/assets/59354081/de9d919c-0e91-4961-83da-26906230ce12)
+![Capture d'écran 2025-02-27 230946](https://github.com/user-attachments/assets/36a3b7b1-368f-4729-b74d-41d83b6e6de0)
+![Capture d'écran 2025-02-27 231319](https://github.com/user-attachments/assets/867c5d41-b6b1-4d23-9dfc-d911c518ca50)
+![Capture d'écran 2025-02-27 231349](https://github.com/user-attachments/assets/69164236-e676-4c3c-91cf-9639766dacc9)
+
 
 
 Handheld devices display:
