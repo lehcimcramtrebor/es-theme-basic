@@ -6,8 +6,9 @@
 	
 	<customView name="grid_marquees" inherits="grid" displayName="${lang.grid_marquees}">
 
-		<text name="md_name"
+		<text name="gameName"
 		
+			extra="true"
             pos="0.416 0.568"
 
 			/>

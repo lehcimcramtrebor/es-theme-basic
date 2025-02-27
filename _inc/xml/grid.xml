@@ -6,8 +6,9 @@
 	
 	<view name="grid">
 
-		<text name="md_name"
+		<text name="gameName"
 		
+			extra="true"
 			zIndex="1001"
 			forceUppercase="true"
 			alignment="center"
@@ -17,18 +18,45 @@
             pos="0.416 0.555"
             size="0.5 0.017"
             fontSize="0.016"
-			color="${c.textHeader}"
+			color="${c.yellow}"
             glowColor="${c.glowColor}"
 			glowOffset="2"
 			glowSize="2"
 			opacity="0"
+			text="{game:name} ({game:system:name})"
 
 			>
-
-			<storyboard>
 			
-                <animation property="opacity"		to="1"		duration="1"		mode="linear"						/>
-                <animation property="opacity"		to="0"		duration="50"		mode="linear"		begin="350"		/>
+			<storyboard event="open">
+			
+				<animation property="opacity" to="1" mode="linear" />
+				<animation property="opacity" to="0" mode="linear" duration="50" begin="500"/>
+				
+			</storyboard>
+			
+			<storyboard event="activateNext">
+			
+				<animation property="opacity" to="1" mode="linear" />
+				<animation property="opacity" to="0" mode="linear" duration="50" begin="500"/>
+				
+			</storyboard>
+			
+			<storyboard event="activatePrev">
+			
+				<animation property="opacity" to="1" mode="linear" />
+				<animation property="opacity" to="0" mode="linear" duration="50" begin="500"/>
+				
+			</storyboard>
+			
+			<storyboard event="deactivatePrev">
+			
+				<animation property="opacity" to="0" mode="linear" duration="10"/>
+				
+			</storyboard>
+			
+			<storyboard event="deactivateNext">
+			
+				<animation property="opacity" to="0" mode="linear" duration="10"/>
 				
 			</storyboard>
 
