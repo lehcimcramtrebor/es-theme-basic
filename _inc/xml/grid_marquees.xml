@@ -16,7 +16,11 @@
 		
 			visible="true"
 
-		/>
+		>
+
+			<visible tinyScreen="true">false</visible>
+
+		</image>
 		
 		<imagegrid name="gamegrid"
 		

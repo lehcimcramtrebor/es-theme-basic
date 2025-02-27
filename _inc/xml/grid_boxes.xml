@@ -10,8 +10,12 @@
 		
 			visible="true"
 
-		/>
+		>
 
+			<visible tinyScreen="true">false</visible>
+
+		</image>
+		
 		<image name="md_thumbnail"
 		
 			visible="false"
