@@ -6,13 +6,6 @@
 	
 	<customView name="grid_boxes" inherits="grid" displayName="${lang.grid_boxes}">
 
-		<text name="gameName"
-		
-			extra="true"
-            pos="0.416 0.5685"
-
-			/>
-
 		<image name="md_image"
 		
 			visible="true"

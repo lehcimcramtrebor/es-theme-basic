@@ -27,6 +27,10 @@
 
 			>
 			
+			<pos tinyScreen="true">0.5 0.5685</pos>
+			<fontSize tinyScreen="true">0.036</fontSize>
+			<size tinyScreen="true">0.9 0.1</size>
+			
 			<storyboard event="open">
 			
 				<animation property="opacity" to="1" mode="linear" />
@@ -159,7 +163,6 @@
 		
 			<autoLayout if="${s.notWide}">3 2</autoLayout>
 			<autoLayout if="${s.ultraWide}">5 2</autoLayout>
-			<imageSource tinyScreen="true">thumbnail</imageSource>
 			<margin tinyScreen="true">0.02 0.03</margin>
 			<padding tinyScreen="true">0.025 0.04 0.025 0.03</padding>
 			<showVideoAtDelay ifSubset="gridVideos:yes">3</showVideoAtDelay>
