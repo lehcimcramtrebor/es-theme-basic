@@ -102,9 +102,10 @@
 		<subset.gridVideos.no>no</subset.gridVideos.no>
 		<subset.gridVideos.yes>yes</subset.gridVideos.yes>
 
-		<subset.gridNames>grid gamelist • display few seconds selected game name in grid</subset.gridNames>
-		<subset.gridNames.no>no</subset.gridNames.no>
-		<subset.gridNames.yes>yes</subset.gridNames.yes>
+		<subset.gridNames>grid gamelist • selection displayed</subset.gridNames>
+		<subset.gridNames.no>off</subset.gridNames.no>
+		<subset.gridNames.yes>game only</subset.gridNames.yes>
+		<subset.gridNames.system>game + system</subset.gridNames.system>
 
 		<lang.library>library</lang.library>
 		<lang.detailed_unified>detailed (unified)</lang.detailed_unified>

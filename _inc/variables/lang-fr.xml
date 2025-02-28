@@ -94,7 +94,7 @@
 		<subset.fanarts.no>non</subset.fanarts.no>
 		<subset.fanarts.yes>oui</subset.fanarts.yes>
 
-		<subset.loops>liste de jeux (texte) • vidéos en boucle</subset.loops>
+		<subset.loops>liste de jeux (texte) • répéter les vidéos</subset.loops>
 		<subset.loops.no>non</subset.loops.no>
 		<subset.loops.yes>oui</subset.loops.yes>
 
@@ -102,9 +102,10 @@
 		<subset.gridVideos.no>non</subset.gridVideos.no>
 		<subset.gridVideos.yes>oui</subset.gridVideos.yes>
 
-		<subset.gridNames>grille de jeux • afficher brièvement le nom du jeu selectionné</subset.gridNames>
-		<subset.gridNames.no>non</subset.gridNames.no>
-		<subset.gridNames.yes>oui</subset.gridNames.yes>
+		<subset.gridNames>grille de jeux • sélection brièvement affichée</subset.gridNames>
+		<subset.gridNames.no>aucune</subset.gridNames.no>
+		<subset.gridNames.yes>jeu seulement</subset.gridNames.yes>
+		<subset.gridNames.system>jeu et système</subset.gridNames.system>
 
 		<lang.library>librairie</lang.library>
 		<lang.detailed_unified>détaillé (unifié)</lang.detailed_unified>
