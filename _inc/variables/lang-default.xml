@@ -86,6 +86,10 @@
 		<subset.systemBackgrounds.no>no</subset.systemBackgrounds.no>
 		<subset.systemBackgrounds.yes>yes</subset.systemBackgrounds.yes>
 
+		<subset.textDesc>allow scroll text in carousel</subset.textDesc>
+		<subset.textDesc.no>no</subset.textDesc.no>
+		<subset.textDesc.yes>yes</subset.textDesc.yes>
+
 		<subset.systemLogoAnimation>background logo animations</subset.systemLogoAnimation>
 		<subset.systemLogoAnimation.no>no</subset.systemLogoAnimation.no>
 		<subset.systemLogoAnimation.yes>yes</subset.systemLogoAnimation.yes>

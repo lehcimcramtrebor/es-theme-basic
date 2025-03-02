@@ -1,0 +1,143 @@
+Ton objectif est de te renseigner sur des consoles, systèmes d'arcade, ordinateurs, jeux, ports, et collection de jeux dans but de créer un fichier XML avec une indentation parfaite, destiné à afficher ces informations dans un frontend.
+
+
+
+Commençons à construire le XML, commençons par ces lignes:
+
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<theme>
+
+
+
+	<formatVersion>7</formatVersion>
+
+
+
+    <include>./../theme.xml</include>
+
+
+
+	<variables><region.priority region="eu"/>
+
+
+
+
+
+Instructions détaillées:
+
+
+
+Je te donne un nom de système, de console, d'ordinateurs, de studio de jeux, d'émulateurs ou encore un type de jeux, ton rôle est d'aller chercher les informations et de renseigner le xml très précisément comme suit:
+
+
+
+1 - Le fabricant:
+
+
+
+Si tu le renseignes tu écris, pas de "multiples", soit on trouve le manufacturer exact, soit on ne renseigne rien, si c'est pertinent car différent selon la région du monde alors écris ces lignes selon les différentes régions (sans variable c'est l'Europe, "us" correspond à l'Amérique du nord et "jp" au Japon):
+
+
+
+<system.manufacturer>manufacturer</system.manufacturer>
+
+<system.manufacturer region="us">manufacturer</system.manufacturer>
+
+<system.manufacturer region="jp">manufacturer</system.manufacturer>
+
+
+
+Si tu ne le renseigne pas alors n'écrit rien:
+
+
+
+
+
+
+
+2 - Le nom complet:
+
+
+
+Si tu le renseignes tu écris les lignes suivante si le système se nomme différemment selon la région, sachant que sans variable de région on renseigne le nom européen et que si ce n'est pas pertinent on retire le nom du fabricant au libellé du nom, étant donné que nous renseignons le fabricant plus haut:
+
+
+
+<system.fullName region>Nom européen</system.fullName>
+
+<system.fullName region="us">Nom Américain</system.fullName>
+
+<system.fullName region="jp">Nom Japonais</system.fullName>
+
+
+
+précisions: si c'est le japon alors c'est "jp" et si c'est l'Amérique du nord c'est "us".
+
+
+
+Il me faut aussi une version française si c'est pertinent comme dans cet exemple:
+
+
+
+<system.fullName>Fighting games</system.fullName>
+
+<system.fullName lang="fr">Jeux de combat</system.fullName>
+
+
+
+3 - Date de sortie:
+
+
+
+Si la date est pertinente et précisément la date du système concerné alors tu la renseigne comme ceci sachant que sans précision de région on utilise la date européenne et comme les date de sortie peuvent différer dans le monde ,  alors ajoute le même système de régions que pour le nom du système comme ceci:
+
+
+
+<system.releaseYearOrNull>2023</system.releaseYearOrNull>
+
+<system.releaseYearOrNull region="us">2022</system.releaseYearOrNull><system.releaseYearOrNull region="jp">2021</system.releaseYearOrNull>
+
+
+
+Si la date n'est pas pertinente ni précise parce qu'il s'agit d'une collection de jeux par exemple ou encore que je précise sans date dans ma requête alors n'écrit rien.
+
+
+
+4 - Les descriptions:
+
+
+
+Il me faut en anglais et Français les descriptions de chaque variables régionales lorsque c'est pertinent, aussi lorsque qu'un nom de système sera différent ou encore la date de sortie en Amérique du nord ou au Japon il faudra écrire les descriptions comme ceci en utilisant les informations respectives telles que la date de sortie correspondante, le nom de système régional etc, tu n'as pas de limite de longueur de texte, ajoutes si c'est pertinent des anecdotes, décrits ses composants, les jeux les plus populaires etc mais ne fais pas dans la longueur si il n'y a rien de spécial à ajouter:
+
+
+
+<desc>description</desc>
+
+<desc region="us">description</desc>
+
+<desc region="jp">description</desc>
+
+
+
+<desc lang="fr">description</desc>
+
+<desc lang="fr" region="us">description</desc>
+
+<desc lang="fr" region="jp">description</desc>
+
+
+
+Enfin  tu termines le fichier textuellement par:
+
+
+
+</variables>
+
+
+
+</theme>

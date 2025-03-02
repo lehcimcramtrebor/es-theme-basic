@@ -195,6 +195,17 @@
         <include			name="allowGeneral"				displayName="${subset.atmosphere.allowGeneral}"				/>
 		
 	</subset>
+
+	<subset name="textDesc"
+	
+		displayName="${subset.textDesc}"
+		
+	>
+	
+		<include			name="no"					displayName="${subset.textDesc.no}"									/>
+		<include			name="yes"					displayName="${subset.textDesc.yes}"								/>
+	
+	</subset>
 	
 	<subset name="randomVideo"
 	

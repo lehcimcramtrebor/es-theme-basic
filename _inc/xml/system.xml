@@ -354,6 +354,8 @@
 		</image>
 
 		<text
+			
+			ifSubset="textDesc:yes"
 			tinyScreen="false"
 			name="infosDesc"
 			extra="true"
@@ -368,12 +370,10 @@
 			verticalAlignment="top"
 			w="1"
 			origin="0 0"
-			pos ="0 0.6255"
+			pos ="0 0.6235"
 			opacity="1"
 			color="${c.text}"
 			text="                                                                                                                                                               
-			                                                                                                                                                                     
-			                                                                                                                                                                     
 			                                                                                                                                                                     
 			                                                                                                                                                                     
 			                                                                                                                                                                     
