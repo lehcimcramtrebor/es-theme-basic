@@ -354,37 +354,42 @@
 		</image>
 
 		<text
+			tinyScreen="false"
 			name="infosDesc"
 			extra="true"
-			zIndex="999"
-			fontSize="0.018"
-			fontPath="./../fonts/${f.mbi}"
+			zIndex="1001"
+			fontSize="0.016"
+			fontPath="./../fonts/${f.mb}"
 			glowColor="${c.base}"
 			glowOffset="2"
 			glowSize="1"
 			forceUppercase="false"
 			alignment="left"
 			verticalAlignment="top"
-			w="0.35"
+			w="1"
 			origin="0 0"
-			pos ="0.013 0.18"
-			opacity="0"
+			pos ="0 0.6255"
+			opacity="1"
 			color="${c.text}"
-			text="${desc}"
+			text="                                                                                                                                                               
+			                                                                                                                                                                     
+			                                                                                                                                                                     
+			                                                                                                                                                                     
+			                                                                                                                                                                     
+			                                                                                                                                                                     
+${desc}			                                                                                                                                                         
+			                                                                                                                                                                     
+			                                                                                                                                                                     
+			                                                                                                                                                                     
+			                                                                                                                                                                     
+			                                                                                                                                                                     
+			                                                                                                                                                                     
+			                                                                                                                                                                     
+"
+
+			singleLineScroll="true"
+			autoScrollDelay="600"
 		>
-
-			<storyboard
-				
-				repeat="forever"
-				
-			>
-				<animation property="opacity"			from="0"			to="0"				 					duration="1400" 		mode="linear"									/>
-				<animation property="opacity"								to="1"				begin="1400" 		duration="100" 			mode="linear"									/>
-				<animation property="offsetY"			from="0.01"			to="0"				begin="1400" 		duration="200" 			mode="easeOut"									/>
-				<animation property="opacity"								to="0"				begin="16400" 		duration="100" 			mode="linear"									/>
-				<animation property="opacity"			from="0"			to="0"				begin="16500" 		duration="8600" 		mode="linear"									/>
-
-			</storyboard>
 
 			<visible tinyScreen="true">false</visible>
 		
