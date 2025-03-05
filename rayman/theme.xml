@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Ubisoft</system.manufacturer>
+		<system.fullName>Rayman Series</system.fullName>
+		<system.fullName lang="fr">Série Rayman</system.fullName>
+		<desc>Rayman is a platform video game series created by Michel Ancel and owned by Ubisoft. The series follows the adventures of the titular character, Rayman, as he fights to save his world from various threats. The games are known for their colorful graphics, creative level design, and challenging gameplay.</desc>
+		<desc lang="fr">Rayman est une série de jeux vidéo de plateforme créée par Michel Ancel et détenue par Ubisoft. La série suit les aventures du personnage titulaire, Rayman, alors qu'il se bat pour sauver son monde de diverses menaces. Les jeux sont connus pour leurs graphismes colorés, leur conception de niveaux créative et leur gameplay stimulant.</desc>
 	</variables>
-
 </theme>

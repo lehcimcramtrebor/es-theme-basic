@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Team17</system.manufacturer>
+<system.fullName>Team17 Games</system.fullName>
+<desc>Team17 is a British video game developer and publisher known for a wide range of titles across various genres. They are particularly famous for the Worms series, a turn-based strategy game featuring humorous battles between worms. Team17 has also published and developed numerous indie games, showcasing their commitment to supporting independent developers. Their portfolio includes titles like Overcooked, The Escapists, and Yooka-Laylee.</desc>
+<desc lang="fr">Team17 est un développeur et éditeur de jeux vidéo britannique connu pour une large gamme de titres dans divers genres. Ils sont particulièrement célèbres pour la série Worms, un jeu de stratégie au tour par tour mettant en scène des batailles humoristiques entre vers. Team17 a également publié et développé de nombreux jeux indépendants, démontrant son engagement à soutenir les développeurs indépendants. Leur portfolio comprend des titres tels que Overcooked, The Escapists et Yooka-Laylee.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

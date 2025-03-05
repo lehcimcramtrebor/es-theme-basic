@@ -1,23 +1,17 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+        <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<variables><region.priority region="eu"/>
+<system.manufacturer>Nintendo</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.fullName>Game Boy MSU-1</system.fullName>
+<system.fullName lang="fr">Game Boy MSU-1</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+<desc>Game Boy MSU-1 refers to the use of the MSU-1 chip with Game Boy games, enabling enhanced audio and video capabilities. This modification allows for CD-quality audio, including streamed music and voice acting, as well as full-motion video playback. While not an official Nintendo product, the MSU-1 enhancement is used by homebrew developers and enthusiasts to create enhanced versions of Game Boy games, offering a richer and more immersive gaming experience. It requires specific hardware or emulators that support the MSU-1 chip.</desc>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+<desc lang="fr">Game Boy MSU-1 fait référence à l'utilisation de la puce MSU-1 avec les jeux Game Boy, permettant des capacités audio et vidéo améliorées. Cette modification permet un audio de qualité CD, y compris la musique en streaming et le doublage, ainsi que la lecture de vidéos plein écran. Bien qu'il ne s'agisse pas d'un produit officiel de Nintendo, l'amélioration MSU-1 est utilisée par les développeurs homebrew et les passionnés pour créer des versions améliorées des jeux Game Boy, offrant une expérience de jeu plus riche et plus immersive. Elle nécessite du matériel ou des émulateurs spécifiques qui prennent en charge la puce MSU-1.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

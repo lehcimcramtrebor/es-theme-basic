@@ -1,23 +1,21 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Sega</system.manufacturer>
+        <system.fullName>Mega-CD</system.fullName>
+        <system.fullName region="us">Sega CD</system.fullName>
+        <system.fullName region="jp">Mega-CD</system.fullName>
+        <system.releaseYearOrNull>1992</system.releaseYearOrNull>
+        <system.releaseYearOrNull region="us">1992</system.releaseYearOrNull>
+        <system.releaseYearOrNull region="jp">1991</system.releaseYearOrNull>
+        <desc>The Mega-CD, known as the Sega CD in North America, is a CD-ROM peripheral for the Sega Mega Drive/Genesis video game console. It was designed to enhance the capabilities of the Mega Drive by adding CD-ROM support, improved graphics, and enhanced sound capabilities.</desc>
+        <desc region="us">The Sega CD is a CD-ROM peripheral for the Sega Genesis video game console. It was designed to enhance the capabilities of the Genesis by adding CD-ROM support, improved graphics, and enhanced sound capabilities.</desc>
+        <desc region="jp">The Mega-CD is a CD-ROM peripheral for the Sega Mega Drive video game console. It was designed to enhance the capabilities of the Mega Drive by adding CD-ROM support, improved graphics, and enhanced sound capabilities.</desc>
+        <desc lang="fr">Le Mega-CD, connu sous le nom de Sega CD en Amérique du Nord, est un périphérique CD-ROM pour la console de jeux vidéo Sega Mega Drive/Genesis. Il a été conçu pour améliorer les capacités de la Mega Drive en ajoutant le support CD-ROM, des graphismes améliorés et des capacités sonores améliorées.</desc>
+        <desc lang="fr" region="us">Le Sega CD est un périphérique CD-ROM pour la console de jeux vidéo Sega Genesis. Il a été conçu pour améliorer les capacités de la Genesis en ajoutant le support CD-ROM, des graphismes améliorés et des capacités sonores améliorées.</desc>
+        <desc lang="fr" region="jp">Le Mega-CD est un périphérique CD-ROM pour la console de jeux vidéo Sega Mega Drive. Il a été conçu pour améliorer les capacités de la Mega Drive en ajoutant le support CD-ROM, des graphismes améliorés et des capacités sonores améliorées.</desc>
+    </variables>
 </theme>

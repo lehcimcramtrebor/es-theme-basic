@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+  <variables>
+    <region.priority region="eu"/>
+    <system.manufacturer>Daisuke Amaya</system.manufacturer>
+    <system.fullName>Cave Story</system.fullName>
+    <system.fullName lang="fr">Cave Story</system.fullName>
+    <system.releaseYearOrNull>2004</system.releaseYearOrNull>
+    <desc>Cave Story, also known as Doukutsu Monogatari, is a 2004 Metroidvania action-adventure game by Daisuke "Pixel" Amaya. Praised for its compelling story, charming characters, and challenging gameplay, it gained a cult following and influenced indie game development. Its success led to various ports and remakes, solidifying its position as an indie classic.</desc>
+    <desc lang="fr">Cave Story, également connu sous le nom de Doukutsu Monogatari, est un jeu d'action-aventure Metroidvania de 2004 par Daisuke "Pixel" Amaya. Salué pour son histoire captivante, ses personnages charmants et son gameplay stimulant, il a acquis un public culte et a influencé le développement de jeux indépendants. Son succès a conduit à divers portages et remakes, consolidant sa position de classique indépendant.</desc>
+  </variables>
 </theme>

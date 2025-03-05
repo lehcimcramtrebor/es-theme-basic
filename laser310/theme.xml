@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+	<variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Video Technology</system.manufacturer>
+        <system.fullName>Laser 310</system.fullName>
+        <system.releaseYearOrNull>1984</system.releaseYearOrNull>
+        <desc>The Laser 310 is a home computer released by Video Technology in 1984. It was designed to be an entry-level computer for home users, and it was relatively inexpensive compared to other computers on the market at the time. It was compatible with the Laser 200, but had a number of improvements, including a larger memory and a mechanical keyboard.</desc>
+        <desc lang="fr">Le Laser 310 est un ordinateur personnel sorti par Video Technology en 1984. Il a été conçu comme un ordinateur d'entrée de gamme pour les utilisateurs à domicile, et il était relativement peu coûteux par rapport aux autres ordinateurs sur le marché à l'époque. Il était compatible avec le Laser 200, mais comportait un certain nombre d'améliorations, notamment une mémoire plus importante et un clavier mécanique.</desc>
+    </variables>
 </theme>

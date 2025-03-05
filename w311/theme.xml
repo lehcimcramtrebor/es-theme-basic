@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Microsoft</system.manufacturer>
+<system.fullName>Windows 3.11</system.fullName>
+<system.releaseYearOrNull>1993</system.releaseYearOrNull>
+<desc>Windows 3.11 is a graphical user interface operating environment developed by Microsoft. It was released in 1993 as an update to Windows 3.1 and was widely used on personal computers throughout the 1990s. Windows 3.11 introduced several improvements and features, including support for networking, multimedia, and accessibility. It played a significant role in the adoption of personal computers and paved the way for later versions of Windows.</desc>
+<desc lang="fr">Windows 3.11 est un environnement d'exploitation à interface graphique utilisateur développé par Microsoft. Il est sorti en 1993 en tant que mise à jour de Windows 3.1 et a été largement utilisé sur les ordinateurs personnels tout au long des années 1990. Windows 3.11 a introduit plusieurs améliorations et fonctionnalités, notamment la prise en charge de la mise en réseau, du multimédia et de l'accessibilité. Il a joué un rôle important dans l'adoption des ordinateurs personnels et a ouvert la voie aux versions ultérieures de Windows.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

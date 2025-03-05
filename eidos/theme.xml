@@ -1,23 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+        <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
+        <variables>
+        <region.priority region="eu"/>
 
-	<variables><region.priority region="eu"/>
+                <system.manufacturer>Eidos Interactive</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+                <system.fullName>Eidos Interactive</system.fullName>
+                <system.fullName lang="fr">Eidos Interactive</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+                <system.releaseYearOrNull>1990</system.releaseYearOrNull>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+                <desc>Eidos Interactive was a British video game publisher founded in 1990. It was best known for publishing popular franchises such as Tomb Raider, Deus Ex, and Thief. Eidos Interactive was acquired by Square Enix in 2009 and became Square Enix Europe.</desc>
+                <desc lang="fr">Eidos Interactive était un éditeur de jeux vidéo britannique fondé en 1990. Il était surtout connu pour avoir publié des franchises populaires telles que Tomb Raider, Deus Ex et Thief. Eidos Interactive a été racheté par Square Enix en 2009 et est devenu Square Enix Europe.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+        </variables>
 </theme>

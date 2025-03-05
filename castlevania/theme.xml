@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+  <variables>
+    <region.priority region="eu"/>
+    <system.manufacturer>Konami</system.manufacturer>
+    <system.fullName>Castlevania</system.fullName>
+    <system.fullName lang="fr">Castlevania</system.fullName>
+    <system.releaseYearOrNull>1986</system.releaseYearOrNull>
+    <desc>Castlevania is a gothic horror action-adventure video game series created and developed by Konami. The series is known for its challenging gameplay, its memorable characters (such as Simon Belmont and Dracula), its atmospheric music, and its gothic horror setting. The first game in the series, Castlevania, was released in 1986 for the Nintendo Entertainment System (NES).</desc>
+    <desc lang="fr">Castlevania est une série de jeux vidéo d'action-aventure et d'horreur gothique créée et développée par Konami. La série est connue pour son gameplay stimulant, ses personnages mémorables (tels que Simon Belmont et Dracula), sa musique atmosphérique et son décor d'horreur gothique. Le premier jeu de la série, Castlevania, est sorti en 1986 sur Nintendo Entertainment System (NES).</desc>
+  </variables>
 </theme>

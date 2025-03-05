@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>MAME Team</system.manufacturer>
+		<system.fullName>HBMAME</system.fullName>
+		<system.releaseYearOrNull/>
+		<desc>HBMAME is a variant of the MAME (Multiple Arcade Machine Emulator) project, focusing on preserving and emulating obscure, bootleg, and homebrew arcade games. Unlike standard MAME, which prioritizes commercially released arcade titles, HBMAME delves into the less documented and often experimental side of arcade history. It provides a platform to experience games that might otherwise be lost to time, contributing to the comprehensive preservation of arcade software.</desc>
+		<desc lang="fr">HBMAME est une variante du projet MAME (Multiple Arcade Machine Emulator), se concentrant sur la préservation et l'émulation de jeux d'arcade obscurs, bootlegs et homebrews. Contrairement à MAME standard, qui privilégie les titres d'arcade commercialisés, HBMAME se penche sur le côté moins documenté et souvent expérimental de l'histoire de l'arcade. Il fournit une plateforme pour découvrir des jeux qui pourraient autrement être perdus dans le temps, contribuant ainsi à la préservation complète des logiciels d'arcade.</desc>
 	</variables>
-
 </theme>

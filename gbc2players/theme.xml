@@ -4,20 +4,16 @@
 
 	<formatVersion>7</formatVersion>
 
-    <include>./../theme.xml</include>
+<include>./../theme.xml</include>
 
 	<variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.manufacturer>Nintendo</system.manufacturer>
+<system.fullName>Game Boy Color 2 Players</system.fullName>
+<system.fullName lang="fr">Game Boy Color 2 Joueurs</system.fullName>
+<desc>Game Boy Color 2 Players refers to the collection of games on the Game Boy Color that offered two-player functionality. This was typically achieved by connecting two Game Boy Color consoles using a Game Link Cable. This feature allowed for competitive or cooperative gameplay in various titles, such as Pokémon Gold and Silver, Tetris DX, and The Legend of Zelda: Oracle of Ages/Seasons. It enhanced the social aspect of handheld gaming, enabling players to connect and enjoy multiplayer experiences.</desc>
+<desc lang="fr">Game Boy Color 2 Joueurs fait référence à la collection de jeux sur Game Boy Color qui offraient une fonctionnalité à deux joueurs. Cela était généralement réalisé en connectant deux consoles Game Boy Color à l'aide d'un câble Game Link. Cette fonctionnalité permettait un gameplay compétitif ou coopératif dans divers titres, tels que Pokémon Or et Argent, Tetris DX et The Legend of Zelda : Oracle of Ages/Seasons. Il a amélioré l'aspect social du jeu portable, permettant aux joueurs de se connecter et de profiter d'expériences multijoueurs.</desc>
 
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+</variables>
 
 </theme>

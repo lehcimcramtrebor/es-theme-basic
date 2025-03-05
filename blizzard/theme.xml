@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+  <variables>
+    <region.priority region="eu"/>
+    <system.manufacturer>Blizzard Entertainment</system.manufacturer>
+    <system.fullName>Blizzard Entertainment Games</system.fullName>
+    <system.fullName lang="fr">Jeux Blizzard Entertainment</system.fullName>
+    <system.releaseYearOrNull>1991</system.releaseYearOrNull>
+    <desc>Blizzard Entertainment is an American video game developer and publisher known for creating some of the industry's most iconic franchises, including Warcraft, Diablo, StarCraft, and Overwatch.  Founded in 1991, Blizzard has consistently delivered high-quality games with engaging gameplay, immersive worlds, and dedicated communities.</desc>
+    <desc lang="fr">Blizzard Entertainment est un développeur et éditeur américain de jeux vidéo connu pour avoir créé certaines des franchises les plus emblématiques de l'industrie, notamment Warcraft, Diablo, StarCraft et Overwatch. Fondé en 1991, Blizzard a toujours proposé des jeux de haute qualité avec un gameplay engageant, des mondes immersifs et des communautés dévouées.</desc>
+  </variables>
 </theme>

@@ -1,23 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Sony</system.manufacturer>
+		<system.fullName>PlayStation</system.fullName>
+		<system.fullName lang="fr">PlayStation</system.fullName>
+		<system.releaseYearOrNull>1994</system.releaseYearOrNull>
+		<system.releaseYearOrNull region="us">1995</system.releaseYearOrNull>
+		<system.releaseYearOrNull region="jp">1994</system.releaseYearOrNull>
+		<desc>The PlayStation (PSX) is a 32-bit fifth-generation home video game console developed by Sony Computer Entertainment. It was first released on December 3, 1994 in Japan, September 9, 1995 in North America, and September 29, 1995 in Europe. The console was a massive success, selling over 100 million units worldwide.</desc>
+		<desc lang="fr">La PlayStation (PSX) est une console de jeux vidéo de salon 32 bits de cinquième génération développée par Sony Computer Entertainment. Elle est sortie le 3 décembre 1994 au Japon, le 9 septembre 1995 en Amérique du Nord et le 29 septembre 1995 en Europe. La console a connu un énorme succès, se vendant à plus de 100 millions d'unités dans le monde.</desc>
 	</variables>
-
 </theme>

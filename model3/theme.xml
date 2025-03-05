@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Sega</system.manufacturer>
+        <system.fullName>Sega Model 3</system.fullName>
+        <system.releaseYearOrNull>1996</system.releaseYearOrNull>
+        <desc>The Sega Model 3 is an arcade system board released by Sega in 1996. It was a significant upgrade from the Model 2, offering vastly improved 3D graphics, texture filtering, and enhanced sound capabilities. The Model 3 powered several iconic arcade games, including Virtua Fighter 3, Sega Rally 2, and The House of the Dead 2, which helped solidify Sega's position as a leader in the arcade scene during the late 1990s.</desc>
+        <desc lang="fr">Le Sega Model 3 est une carte système d'arcade commercialisée par Sega en 1996. Il s'agissait d'une amélioration significative par rapport au Model 2, offrant des graphismes 3D considérablement améliorés, le filtrage de textures et des capacités sonores améliorées. Le Model 3 a alimenté plusieurs jeux d'arcade emblématiques, dont Virtua Fighter 3, Sega Rally 2 et The House of the Dead 2, qui ont contribué à consolider la position de Sega en tant que leader de la scène arcade à la fin des années 1990.</desc>
+    </variables>
 </theme>

@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+  <variables>
+    <region.priority region="eu"/>
+    <system.manufacturer>Various</system.manufacturer>
+    <system.fullName>Vertical Arcade Games</system.fullName>
+    <system.fullName lang="fr">Jeux d'arcade verticaux</system.fullName>
+    <desc>Vertical arcade games are a genre of arcade games that are typically played on a monitor rotated 90 degrees, providing a taller, more vertical screen orientation. This format is commonly used for shoot 'em up games, as well as some other genres like racing games and puzzle games. The vertical orientation allows for a greater field of view, which can be beneficial in games where players need to see more of the playing area.</desc>
+    <desc lang="fr">Les jeux d'arcade verticaux sont un genre de jeux d'arcade qui sont généralement joués sur un moniteur tourné à 90 degrés, offrant une orientation d'écran plus haute et plus verticale. Ce format est couramment utilisé pour les jeux de shoot 'em up, ainsi que pour certains autres genres comme les jeux de course et les jeux de puzzle. L'orientation verticale permet un champ de vision plus large, ce qui peut être bénéfique dans les jeux où les joueurs doivent voir une plus grande partie de l'aire de jeu.</desc>
+  </variables>
 </theme>

@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+	<variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>XBMC Foundation</system.manufacturer>
+        <system.fullName>Kodi</system.fullName>
+        <desc>Kodi is a free and open-source media player software application developed by the XBMC Foundation. It supports a wide range of media formats, including video, audio, and images, and offers a customizable interface.</desc>
+        <desc lang="fr">Kodi est une application logicielle de lecteur multimédia gratuite et open source développée par la XBMC Foundation. Il prend en charge une large gamme de formats multimédias, y compris la vidéo, l'audio et les images, et offre une interface personnalisable.</desc>
+    </variables>
 </theme>

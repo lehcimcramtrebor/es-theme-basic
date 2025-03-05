@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Löve Team</system.manufacturer>
+        <system.fullName>Löve 2D</system.fullName>
+        <system.fullName lang="fr">Löve 2D</system.fullName>
+        <system.releaseYearOrNull>2008</system.releaseYearOrNull>
+        <desc>Löve 2D is a free and open-source 2D game engine written in C++ and Lua. It allows for cross-platform game development, targeting Windows, macOS, Linux, Android, and iOS. Known for its simplicity and ease of use, Löve 2D has garnered a strong following within the indie game development community.</desc>
+        <desc lang="fr">Löve 2D est un moteur de jeu 2D gratuit et open-source écrit en C++ et Lua. Il permet le développement de jeux multiplateformes, ciblant Windows, macOS, Linux, Android et iOS. Reconnu pour sa simplicité et sa facilité d'utilisation, Löve 2D a gagné un fort soutien au sein de la communauté du développement de jeux indépendants.</desc>
+    </variables>
 </theme>

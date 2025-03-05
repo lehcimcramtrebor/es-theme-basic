@@ -4,20 +4,16 @@
 
 	<formatVersion>7</formatVersion>
 
-    <include>./../theme.xml</include>
+<include>./../theme.xml</include>
 
 	<variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.manufacturer>Nintendo</system.manufacturer>
+<system.fullName>Game &amp; Watch</system.fullName>
+<system.releaseYearOrNull>1980</system.releaseYearOrNull>
+<desc>The Game &amp; Watch is a series of handheld electronic games designed and manufactured by Nintendo from 1980 to 1991. Conceived by Gunpei Yokoi, each Game &amp; Watch device featured a single game on an LCD screen, along with a clock and alarm function. These devices were instrumental in popularizing the handheld gaming market. Their simple yet addictive gameplay, combined with their portability, made them a significant part of early video game history. The series included a variety of game genres, from sports to platformers, and introduced the now-iconic D-pad on later models.</desc>
+<desc lang="fr">La Game &amp; Watch est une série de jeux électroniques portables conçus et fabriqués par Nintendo de 1980 à 1991. Conçue par Gunpei Yokoi, chaque Game &amp; Watch présentait un seul jeu sur un écran LCD, ainsi qu'une fonction d'horloge et d'alarme. Ces appareils ont joué un rôle déterminant dans la popularisation du marché des jeux portables. Leur gameplay simple mais addictif, combiné à leur portabilité, en a fait une partie importante de l'histoire des premiers jeux vidéo. La série comprenait une variété de genres de jeux, du sport aux jeux de plateforme, et a introduit le D-pad désormais emblématique sur les modèles ultérieurs.</desc>
 
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+</variables>
 
 </theme>

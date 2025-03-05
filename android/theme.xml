@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Google</system.manufacturer>
+		<system.fullName>Android</system.fullName>
+		<system.fullName lang="fr">Android</system.fullName>
+		<system.releaseYearOrNull>2008</system.releaseYearOrNull>
+		<desc>Android is a mobile operating system developed by Google. It is based on the Linux kernel and other open-source software, and is designed primarily for touchscreen mobile devices such as smartphones and tablets. Android is known for its open ecosystem, allowing for a wide range of devices and customizations. It supports a vast library of applications through the Google Play Store, catering to various needs and interests. Android has become the most widely used mobile operating system in the world.</desc>
+		<desc lang="fr">Android est un système d'exploitation mobile développé par Google. Il est basé sur le noyau Linux et d'autres logiciels open source, et est conçu principalement pour les appareils mobiles à écran tactile tels que les smartphones et les tablettes. Android est connu pour son écosystème ouvert, permettant une large gamme d'appareils et de personnalisations. Il prend en charge une vaste bibliothèque d'applications via le Google Play Store, répondant à divers besoins et intérêts. Android est devenu le système d'exploitation mobile le plus utilisé au monde.</desc>
 	</variables>
-
 </theme>

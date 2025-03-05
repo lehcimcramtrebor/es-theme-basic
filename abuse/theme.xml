@@ -1,23 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
+<include>./../theme.xml</include>
 	<variables><region.priority region="eu"/>
+<system.manufacturer>Crack dot Com</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.fullName>Abuse</system.fullName>
+<system.fullName lang="fr">Abuse</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+<system.releaseYearOrNull>1996</system.releaseYearOrNull>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+<desc>Abuse is a 2D run and gun video game developed by Crack dot Com and published by Electronic Arts in 1996. It features a unique control scheme that uses the mouse to aim and the keyboard to move.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+<desc lang="fr">Abuse est un jeu vidéo de tir et de course en 2D développé par Crack dot Com et publié par Electronic Arts en 1996. Il propose un schéma de contrôle unique qui utilise la souris pour viser et le clavier pour se déplacer.</desc>
+</variables>
 
 </theme>

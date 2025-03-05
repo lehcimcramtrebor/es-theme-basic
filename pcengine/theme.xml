@@ -1,23 +1,21 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
+<include>./../theme.xml</include>
 	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+<system.manufacturer>NEC</system.manufacturer>
+<system.fullName>PC Engine</system.fullName>
+<system.fullName region="us">TurboGrafx-16</system.fullName>
+<system.fullName region="jp">PC Engine</system.fullName>
+<system.fullName lang="fr">PC Engine</system.fullName>
+<system.releaseYearOrNull>1987</system.releaseYearOrNull>
+<system.releaseYearOrNull region="us">1989</system.releaseYearOrNull>
+<system.releaseYearOrNull region="jp">1987</system.releaseYearOrNull>
+<desc>The PC Engine, known as the TurboGrafx-16 in North America, is a fourth-generation home video game console developed by Hudson Soft and NEC. It was released in 1987 in Japan and 1989 in North America. The PC Engine was known for its innovative graphics and sound capabilities, as well as its wide range of games, including arcade ports, role-playing games, and action games. It was also one of the first consoles to support CD-ROM games.</desc>
+<desc region="us">The TurboGrafx-16 is a fourth-generation home video game console developed by Hudson Soft and NEC. It was released in 1989 in North America. The TurboGrafx-16 was known for its innovative graphics and sound capabilities, as well as its wide range of games, including arcade ports, role-playing games, and action games. It was also one of the first consoles to support CD-ROM games.</desc>
+<desc region="jp">The PC Engine is a fourth-generation home video game console developed by Hudson Soft and NEC. It was released in 1987 in Japan. The PC Engine was known for its innovative graphics and sound capabilities, as well as its wide range of games, including arcade ports, role-playing games, and action games. It was also one of the first consoles to support CD-ROM games.</desc>
+<desc lang="fr">La PC Engine, connue sous le nom de TurboGrafx-16 en Amérique du Nord, est une console de jeux vidéo domestique de quatrième génération développée par Hudson Soft et NEC. Elle est sortie en 1987 au Japon et en 1989 en Amérique du Nord. La PC Engine était connue pour ses capacités graphiques et sonores innovantes, ainsi que pour sa large gamme de jeux, y compris les ports d'arcade, les jeux de rôle et les jeux d'action. Ce fut également l'une des premières consoles à prendre en charge les jeux sur CD-ROM.</desc>
+<desc lang="fr" region="us">Le TurboGrafx-16 est une console de jeux vidéo domestique de quatrième génération développée par Hudson Soft et NEC. Il est sorti en 1989 en Amérique du Nord. Le TurboGrafx-16 était connu pour ses capacités graphiques et sonores innovantes, ainsi que pour sa large gamme de jeux, y compris les ports d'arcade, les jeux de rôle et les jeux d'action. Ce fut également l'une des premières consoles à prendre en charge les jeux sur CD-ROM.</desc>
+<desc lang="fr" region="jp">La PC Engine est une console de jeux vidéo domestique de quatrième génération développée par Hudson Soft et NEC. Elle est sortie en 1987 au Japon. La PC Engine était connue pour ses capacités graphiques et sonores innovantes, ainsi que pour sa large gamme de jeux, y compris les ports d'arcade, les jeux de rôle et les jeux d'action. Ce fut également l'une des premières consoles à prendre en charge les jeux sur CD-ROM.</desc>
+</variables>
 </theme>

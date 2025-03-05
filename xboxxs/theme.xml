@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
+<include>./../theme.xml</include>
 	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+<system.manufacturer>Microsoft</system.manufacturer>
+<system.fullName>Xbox Series X/S</system.fullName>
+<system.releaseYearOrNull>2020</system.releaseYearOrNull>
+<desc>The Xbox Series X and Series S are home video game consoles developed by Microsoft. Both consoles were released on November 10, 2020 as the fourth generation of the Xbox console family, succeeding the Xbox One. The Xbox Series X is the higher-end model, featuring a more powerful GPU and more storage. The Xbox Series S is a less powerful and less expensive model, lacking a disc drive and having less storage.</desc>
+<desc lang="fr">Les Xbox Series X et Series S sont des consoles de jeux vidéo de salon développées par Microsoft. Les deux consoles sont sorties le 10 novembre 2020 en tant que quatrième génération de la famille de consoles Xbox, succédant à la Xbox One. La Xbox Series X est le modèle haut de gamme, doté d'un GPU plus puissant et de plus de stockage. La Xbox Series S est un modèle moins puissant et moins cher, dépourvu de lecteur de disque et ayant moins de stockage.</desc>
+</variables>
 </theme>

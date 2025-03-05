@@ -1,23 +1,17 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+        <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<variables><region.priority region="eu"/>
+<system.manufacturer>Various Creators</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.fullName>Genesis / Mega Drive Hacks</system.fullName>
+<system.fullName lang="fr">Hacks Genesis / Mega Drive</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+<desc>Genesis / Mega Drive hacks consist of modified versions of original Sega Genesis/Mega Drive games. These alterations range from simple tweaks, such as color palette changes or difficulty adjustments, to more complex overhauls involving new levels, storylines, characters, and gameplay mechanics. Created by dedicated fans and enthusiasts using various tools and software, these hacks aim to enhance or reimagine classic Genesis/Mega Drive experiences. Notable examples include hacks that introduce new stages to Sonic the Hedgehog games, modify character abilities, or even create entirely new games using the console's engine. These modifications often showcase the creativity and technical skill of the hacking community, breathing new life into beloved retro titles.</desc>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+<desc lang="fr">Les hacks Genesis / Mega Drive consistent en des versions modifiées des jeux Sega Genesis/Mega Drive originaux. Ces altérations vont de simples ajustements, tels que des changements de palette de couleurs ou des ajustements de difficulté, à des remaniements plus complexes impliquant de nouveaux niveaux, scénarios, personnages et mécanismes de jeu. Créés par des fans et des passionnés dévoués utilisant divers outils et logiciels, ces hacks visent à améliorer ou à réimaginer les expériences classiques de la Genesis/Mega Drive. Les exemples notables incluent des hacks qui introduisent de nouvelles étapes dans les jeux Sonic the Hedgehog, modifient les capacités des personnages ou créent même des jeux entièrement nouveaux en utilisant le moteur de la console. Ces modifications mettent souvent en valeur la créativité et les compétences techniques de la communauté du hacking, insufflant une nouvelle vie aux titres rétro bien-aimés.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

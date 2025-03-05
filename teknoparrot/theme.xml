@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Teknoparrot</system.manufacturer>
+<system.fullName>Teknoparrot</system.fullName>
+<desc>Teknoparrot is a software development company specializing in emulation and virtualization solutions for arcade games. They are known for their work on preserving and making arcade games accessible on PC, particularly those running on the Windows operating system. Their software allows for accurate emulation of various arcade hardware, enabling players to experience classic arcade titles on modern PCs.</desc>
+<desc lang="fr">Teknoparrot est une société de développement de logiciels spécialisée dans les solutions d'émulation et de virtualisation pour les jeux d'arcade. Ils sont connus pour leur travail de préservation et de mise à disposition de jeux d'arcade sur PC, en particulier ceux fonctionnant sous le système d'exploitation Windows. Leurs logiciels permettent une émulation précise de divers matériels d'arcade, permettant aux joueurs de découvrir des titres d'arcade classiques sur des PC modernes.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

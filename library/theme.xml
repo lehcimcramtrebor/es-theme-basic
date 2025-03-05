@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
-<theme defaultView="library">
-
-	<formatVersion>7</formatVersion>
-
+<theme>
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Various</system.manufacturer> 
+        <system.fullName>Library Media</system.fullName>
+        <system.fullName lang="fr">Médiathèque</system.fullName>
+        <desc>A digital library system designed to organize and present various media types, including videos, images, retro magazines, and vintage advertisements. It allows users to browse and enjoy a diverse collection of digital content.</desc>
+        <desc lang="fr">Un système de bibliothèque numérique conçu pour organiser et présenter divers types de médias, y compris des vidéos, des images, des magazines rétro et des publicités anciennes. Il permet aux utilisateurs de parcourir et de profiter d'une collection diversifiée de contenu numérique.</desc>
+    </variables>
 </theme>

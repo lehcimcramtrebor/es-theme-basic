@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Origin Systems</system.manufacturer>
+        <system.fullName>Wing Commander</system.fullName>
+        <system.fullName lang="fr">Wing Commander</system.fullName>
+        <system.releaseYearOrNull>1990</system.releaseYearOrNull>
+        <desc>Wing Commander is a space combat simulator video game series created by Chris Roberts and Origin Systems. The first game, released in 1990, revolutionized space combat games with its cinematic storytelling, branching mission paths, and high-quality graphics for its time. Players take on the role of a pilot in the Terran Confederation, fighting against the Kilrathi, a feline alien race. The series is known for its immersive gameplay, compelling narrative, and memorable characters. Popular titles include Wing Commander II: Vengeance of the Kilrathi and Wing Commander III: Heart of the Tiger, which featured live-action cutscenes with notable actors.</desc>
+        <desc lang="fr">Wing Commander est une série de jeux vidéo de simulation de combat spatial créée par Chris Roberts et Origin Systems. Le premier jeu, sorti en 1990, a révolutionné les jeux de combat spatial avec sa narration cinématographique, ses chemins de mission ramifiés et ses graphismes de haute qualité pour son époque. Les joueurs incarnent un pilote de la Confédération Terrane, combattant les Kilrathi, une race extraterrestre féline. La série est connue pour son gameplay immersif, son récit captivant et ses personnages mémorables. Les titres populaires incluent Wing Commander II: Vengeance of the Kilrathi et Wing Commander III: Heart of the Tiger, qui comportaient des cinématiques en direct avec des acteurs notables.</desc>
+    </variables>
 </theme>

@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Microsoft</system.manufacturer>
+        <system.fullName>Windows</system.fullName>
+        <system.fullName lang="fr">Windows</system.fullName>
+        <system.releaseYearOrNull>1985</system.releaseYearOrNull>
+        <desc>Microsoft Windows has a rich history of gaming, evolving from early titles like Solitaire and Minesweeper to modern blockbusters. It supports a vast library of games, ranging from indie titles to AAA releases. Key gaming features include DirectX for enhanced graphics, and Xbox integration through the Xbox App. Windows is the most popular PC gaming platform, known for its compatibility and versatility. Popular games on Windows include Minecraft, Forza Horizon, and Microsoft Flight Simulator, showcasing the platform's diverse gaming capabilities.</desc>
+        <desc lang="fr">Microsoft Windows a une riche histoire dans le domaine du jeu, évoluant de titres anciens comme Solitaire et Démineur à des blockbusters modernes. Il prend en charge une vaste bibliothèque de jeux, allant des titres indépendants aux sorties AAA. Les principales fonctionnalités de jeu incluent DirectX pour des graphismes améliorés et l'intégration Xbox via l'application Xbox. Windows est la plateforme de jeu PC la plus populaire, connue pour sa compatibilité et sa polyvalence. Les jeux populaires sur Windows incluent Minecraft, Forza Horizon et Microsoft Flight Simulator, mettant en valeur les diverses capacités de jeu de la plateforme.</desc>
+    </variables>
 </theme>

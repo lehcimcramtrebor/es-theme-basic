@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Mitchell Corporation</system.manufacturer>
+        <system.fullName>Mitchell Games</system.fullName>
+        <system.fullName lang="fr">Jeux Mitchell</system.fullName>
+        <system.releaseYearOrNull>1980</system.releaseYearOrNull>
+        <desc>Mitchell Corporation was a Japanese video game developer and publisher active from the 1980s to the 2000s. The company was known for its arcade games, including Pang (also known as Buster Bros.), which was a popular title in arcades worldwide. Mitchell also developed and published games for various home consoles, contributing to the rich history of arcade and console gaming.</desc>
+        <desc lang="fr">Mitchell Corporation était un développeur et éditeur de jeux vidéo japonais actif des années 1980 aux années 2000. La société était connue pour ses jeux d'arcade, notamment Pang (également connu sous le nom de Buster Bros.), qui était un titre populaire dans les arcades du monde entier. Mitchell a également développé et publié des jeux pour diverses consoles de salon, contribuant à la riche histoire des jeux d'arcade et de console.</desc>
+    </variables>
 </theme>

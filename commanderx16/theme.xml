@@ -1,23 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+        <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
+        <variables>
+                <region.priority region="eu"/>
 
-	<variables><region.priority region="eu"/>
+        <system.manufacturer>David Murray</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+        <system.fullName>Commander X16</system.fullName>
+        <system.fullName lang="fr">Commander X16</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+        <system.releaseYearOrNull>2023</system.releaseYearOrNull>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+                <desc>The Commander X16 is a home computer inspired by the Commodore 64, designed by David Murray and developed by a community of enthusiasts. It aims to recreate the experience of 8-bit computing with modern components. The system features a custom 65C02-based CPU, a graphics chip capable of various display modes, and enhanced sound capabilities. It's designed to be programmable in both BASIC and assembly language, making it ideal for retro computing enthusiasts and those interested in learning low-level programming.</desc>
+                <desc lang="fr">Le Commander X16 est un ordinateur domestique inspiré du Commodore 64, conçu par David Murray et développé par une communauté de passionnés. Il vise à recréer l'expérience de l'informatique 8 bits avec des composants modernes. Le système dispose d'un processeur personnalisé basé sur le 65C02, d'une puce graphique capable de divers modes d'affichage et de capacités sonores améliorées. Il est conçu pour être programmable en BASIC et en langage d'assemblage, ce qui le rend idéal pour les amateurs de rétro-informatique et ceux qui souhaitent apprendre la programmation de bas niveau.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+        </variables>
 </theme>

@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+  <variables>
+    <region.priority region="eu"/>
+    <system.manufacturer>Capcom</system.manufacturer>
+    <system.fullName>Capcom Games</system.fullName>
+    <system.fullName lang="fr">Jeux Capcom</system.fullName>
+    <system.releaseYearOrNull>1979</system.releaseYearOrNull>
+    <desc>Capcom is a Japanese video game developer and publisher founded in 1979.  The company has created numerous iconic and influential game franchises, including Street Fighter, Mega Man, Resident Evil, Monster Hunter, Devil May Cry, and Ace Attorney. Known for its innovative gameplay, memorable characters, and high production values, Capcom continues to be a leading force in the video game industry.</desc>
+    <desc lang="fr">Capcom est un développeur et éditeur de jeux vidéo japonais fondé en 1979. La société a créé de nombreuses franchises de jeux emblématiques et influentes, notamment Street Fighter, Mega Man, Resident Evil, Monster Hunter, Devil May Cry et Ace Attorney. Connu pour son gameplay innovant, ses personnages mémorables et ses valeurs de production élevées, Capcom continue d'être une force majeure dans l'industrie du jeu vidéo.</desc>
+  </variables>
 </theme>

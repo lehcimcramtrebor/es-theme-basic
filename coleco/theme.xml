@@ -1,23 +1,22 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Coleco</system.manufacturer>
+<system.manufacturer region="us">Coleco</system.manufacturer>
 
-    <include>./../theme.xml</include>
+<system.fullName>Coleco</system.fullName>
 
-	<variables><region.priority region="eu"/>
+<system.releaseYearOrNull>1932</system.releaseYearOrNull>
+<system.releaseYearOrNull region="us">1932</system.releaseYearOrNull>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<desc>Coleco, originally the Connecticut Leather Company, was an American manufacturing company that diversified into the toy and video game industry. While best known for the ColecoVision home video game console in the early 1980s, Coleco's history spans decades, including the production of various toys, swimming pools, and even electronic learning toys. Their foray into video games was marked by a commitment to arcade-quality graphics and innovative hardware, though their ventures were not limited to electronics. Coleco's diverse product line reflects its adaptability and impact on the toy and entertainment markets.</desc>
+<desc region="us">Coleco, originally the Connecticut Leather Company, was an American manufacturing company that diversified into the toy and video game industry. While best known for the ColecoVision home video game console in the early 1980s, Coleco's history spans decades, including the production of various toys, swimming pools, and even electronic learning toys. Their foray into video games was marked by a commitment to arcade-quality graphics and innovative hardware, though their ventures were not limited to electronics. Coleco's diverse product line reflects its adaptability and impact on the toy and entertainment markets. Coleco was an American company.</desc>
 
-		<!--<system.fullName>name</system.fullName>-->
+<desc lang="fr">Coleco, à l'origine la Connecticut Leather Company, était une entreprise de fabrication américaine qui s'est diversifiée dans l'industrie du jouet et des jeux vidéo. Bien que surtout connue pour la console de jeux vidéo domestique ColecoVision au début des années 1980, l'histoire de Coleco s'étend sur des décennies, y compris la production de divers jouets, piscines et même jouets d'apprentissage électroniques. Leur incursion dans les jeux vidéo a été marquée par un engagement envers les graphismes de qualité arcade et le matériel innovant, bien que leurs entreprises ne se soient pas limitées à l'électronique. La gamme de produits diversifiée de Coleco reflète son adaptabilité et son impact sur les marchés du jouet et du divertissement.</desc>
+<desc lang="fr" region="us">Coleco, à l'origine la Connecticut Leather Company, était une entreprise de fabrication américaine qui s'est diversifiée dans l'industrie du jouet et des jeux vidéo. Bien que surtout connue pour la console de jeux vidéo domestique ColecoVision au début des années 1980, l'histoire de Coleco s'étend sur des décennies, y compris la production de divers jouets, piscines et même jouets d'apprentissage électroniques. Leur incursion dans les jeux vidéo a été marquée par un engagement envers les graphismes de qualité arcade et le matériel innovant, bien que leurs entreprises ne se soient pas limitées à l'électronique. La gamme de produits diversifiée de Coleco reflète son adaptabilité et son impact sur les marchés du jouet et du divertissement. Coleco était une entreprise américaine.</desc>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

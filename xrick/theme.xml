@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>BigEvilCorporation</system.manufacturer>
+		<system.fullName>XRick</system.fullName>
+		<system.releaseYearOrNull>1992</system.releaseYearOrNull>
+		<desc>XRick is a free and open-source recreation of Rick Dangerous, a platform game released by Core Design in 1989. It was initially released in 1999 and is currently maintained by BigEvilCorporation. The latest version of XRick is 0.2023.08.20, released on August 20, 2023. It is available for a variety of platforms, including Linux, macOS, Windows, and DOS.</desc>
+		<desc lang="fr">XRick est une recréation gratuite et open source de Rick Dangerous, un jeu de plateforme sorti par Core Design en 1989. Il a été initialement publié en 1999 et est actuellement maintenu par BigEvilCorporation. La dernière version de XRick est la version 0.2023.08.20, publiée le 20 août 2023. Il est disponible pour une variété de plateformes, notamment Linux, macOS, Windows et DOS.</desc>
 	</variables>
-
 </theme>

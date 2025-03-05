@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>VTech</system.manufacturer>
+<system.fullName>V.Smile</system.fullName>
+<system.releaseYearOrNull>2004</system.releaseYearOrNull>
+<desc>The V.Smile is an educational video game console designed for young children. It features a variety of interactive games that teach basic skills such as reading, math, and problem-solving. The console uses a unique joystick controller and comes with a variety of educational cartridges featuring popular characters from children's television shows and movies.</desc>
+<desc lang="fr">La V.Smile est une console de jeux vidéo éducative conçue pour les jeunes enfants. Elle propose une variété de jeux interactifs qui enseignent des compétences de base telles que la lecture, les mathématiques et la résolution de problèmes. La console utilise un joystick unique et est livrée avec une variété de cartouches éducatives mettant en vedette des personnages populaires d'émissions de télévision et de films pour enfants.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

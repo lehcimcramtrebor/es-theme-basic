@@ -4,20 +4,16 @@
 
 	<formatVersion>7</formatVersion>
 
-    <include>./../theme.xml</include>
+<include>./../theme.xml</include>
 
 	<variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.manufacturer>Tiger Electronics</system.manufacturer>
+<system.fullName>game.com</system.fullName>
+<system.releaseYearOrNull>1997</system.releaseYearOrNull>
+<desc>The game.com is a handheld game console released by Tiger Electronics in 1997. It was notable for being one of the first handhelds to feature a touchscreen and internet connectivity via a built-in modem. The system aimed to provide a more mature gaming experience with features like PDA functionalities and internet capabilities. However, its limited game library and technical shortcomings contributed to its commercial failure. Despite its innovations, the game.com struggled to compete with established handhelds like the Game Boy.</desc>
+<desc lang="fr">La game.com est une console de jeux portable lancée par Tiger Electronics en 1997. Elle était remarquable pour être l'une des premières consoles portables à disposer d'un écran tactile et d'une connectivité Internet via un modem intégré. Le système visait à offrir une expérience de jeu plus mature avec des fonctionnalités telles que les fonctionnalités PDA et les capacités Internet. Cependant, sa bibliothèque de jeux limitée et ses lacunes techniques ont contribué à son échec commercial. Malgré ses innovations, la game.com a eu du mal à rivaliser avec les consoles portables établies comme la Game Boy.</desc>
 
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+</variables>
 
 </theme>

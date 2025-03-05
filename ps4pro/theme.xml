@@ -1,23 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Sony</system.manufacturer>
+		<system.fullName>PlayStation 4 Pro</system.fullName>
+		<system.fullName lang="fr">PlayStation 4 Pro</system.fullName>
+		<system.releaseYearOrNull>2016</system.releaseYearOrNull>
+		<system.releaseYearOrNull region="us">2016</system.releaseYearOrNull>
+		<system.releaseYearOrNull region="jp">2016</system.releaseYearOrNull>
+		<desc>The PlayStation 4 Pro (PS4 Pro) is a home video game console developed by Sony Interactive Entertainment. It was unveiled on September 7, 2016, and launched on November 10, 2016. It is a more powerful version of the PlayStation 4, with improved graphics and processing capabilities that support 4K resolution and HDR.</desc>
+		<desc lang="fr">La PlayStation 4 Pro (PS4 Pro) est une console de jeux vidéo de salon développée par Sony Interactive Entertainment. Elle a été dévoilée le 7 septembre 2016 et lancée le 10 novembre 2016. Il s'agit d'une version plus puissante de la PlayStation 4, avec des capacités graphiques et de traitement améliorées qui prennent en charge la résolution 4K et le HDR.</desc>
 	</variables>
-
 </theme>

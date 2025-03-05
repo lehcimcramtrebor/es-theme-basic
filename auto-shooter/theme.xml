@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+  <variables>
+    <region.priority region="eu"/>
+    <system.manufacturer>Various</system.manufacturer>
+    <system.fullName>Shooter Games</system.fullName>
+    <system.fullName lang="fr">Jeux de tir</system.fullName>
+    <desc>Shooter games are a genre of video games that involve using ranged weapons to defeat enemies. They are known for their fast-paced action, challenging gameplay, and immersive environments.</desc>
+    <desc lang="fr">Les jeux de tir sont un genre de jeux vidéo qui consistent à utiliser des armes à distance pour vaincre les ennemis. Ils sont connus pour leur action rapide, leur gameplay stimulant et leurs environnements immersifs.</desc>
+  </variables>
 </theme>

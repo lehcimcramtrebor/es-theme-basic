@@ -2,22 +2,20 @@
 
 <theme>
 
-	<formatVersion>7</formatVersion>
+        <formatVersion>7</formatVersion>
 
-    <include>./../theme.xml</include>
+        <include>./../theme.xml</include>
 
-	<variables><region.priority region="eu"/>
+        <variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+        <system.manufacturer>Sega</system.manufacturer>
 
-		<!--<system.fullName>name</system.fullName>-->
+        <system.fullName>Sega</system.fullName>
+        <system.fullName lang="fr">Sega</system.fullName>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+        <desc>Sega is a multinational video game developer and publisher known for its innovative hardware and software. From its early arcade roots to its home console dominance in the 1990s, Sega has produced iconic franchises like Sonic the Hedgehog, Phantasy Star, and Virtua Fighter. The company has a rich history of pushing technological boundaries and creating memorable gaming experiences across various platforms.</desc>
+        <desc lang="fr">Sega est un développeur et éditeur de jeux vidéo multinational connu pour son matériel et ses logiciels innovants. De ses débuts dans les arcades à sa domination des consoles de salon dans les années 1990, Sega a produit des franchises emblématiques telles que Sonic the Hedgehog, Phantasy Star et Virtua Fighter. L'entreprise a une riche histoire de repoussement des limites technologiques et de création d'expériences de jeu mémorables sur diverses plateformes.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+</variables>
 
 </theme>

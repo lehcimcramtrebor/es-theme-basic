@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Zen Studios</system.manufacturer>
+		<system.fullName>Pinball FX 2</system.fullName>
+		<system.fullName lang="fr">Pinball FX 2</system.fullName>
+		<desc>Pinball FX 2 is a pinball video game developed by Zen Studios. Released in 2010, it's a sequel to Pinball FX, enhancing the pinball experience with improved graphics, physics, and a wide array of new tables. This edition further solidified Zen Studios' reputation for creating high-quality digital pinball games, featuring licensed tables from popular franchises like Marvel and Star Wars.</desc>
+		<desc lang="fr">Pinball FX 2 est un jeu vidéo de flipper développé par Zen Studios. Sorti en 2010, il s'agit d'une suite de Pinball FX, améliorant l'expérience du flipper avec des graphismes, une physique et une large gamme de nouvelles tables améliorées. Cette édition a renforcé la réputation de Zen Studios en matière de création de jeux de flipper numériques de haute qualité, avec des tables sous licence de franchises populaires comme Marvel et Star Wars.</desc>
 	</variables>
-
 </theme>

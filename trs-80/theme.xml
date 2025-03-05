@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Tandy Corporation</system.manufacturer>
+<system.fullName>TRS-80</system.fullName>
+<system.releaseYearOrNull>1977</system.releaseYearOrNull>
+<desc>The TRS-80, also known as the "Trash-80," was a line of home computers produced by Tandy Corporation and sold through their RadioShack stores. It was one of the earliest mass-produced personal computers, making computing technology more accessible to the general public. The TRS-80 line included various models, from the original Model I to the more advanced Model III and Model 4, each with different features and capabilities. It played a significant role in the personal computer revolution of the late 1970s and early 1980s.</desc>
+<desc lang="fr">Le TRS-80, également connu sous le nom de "Trash-80", était une gamme d'ordinateurs personnels produits par Tandy Corporation et vendus dans leurs magasins RadioShack. Il a été l'un des premiers ordinateurs personnels produits en série, rendant la technologie informatique plus accessible au grand public. La gamme TRS-80 comprenait divers modèles, du modèle I original aux modèles III et IV plus avancés, chacun avec des caractéristiques et des capacités différentes. Il a joué un rôle important dans la révolution de l'ordinateur personnel de la fin des années 1970 et du début des années 1980.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

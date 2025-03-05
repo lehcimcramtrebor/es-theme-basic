@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Various</system.manufacturer>
+		<system.fullName>Pygame Games</system.fullName>
+		<system.fullName lang="fr">Jeux Pygame</system.fullName>
+		<desc>Pygame is a cross-platform set of Python modules designed for writing video games. It includes computer graphics and sound libraries designed to be used with the Python programming language. This category features a diverse collection of games created using Pygame, showcasing the versatility and power of this library.</desc>
+		<desc lang="fr">Pygame est un ensemble multiplateforme de modules Python conçus pour l'écriture de jeux vidéo. Il comprend des bibliothèques de graphiques et de sons informatiques conçues pour être utilisées avec le langage de programmation Python. Cette catégorie présente une collection diversifiée de jeux créés à l'aide de Pygame, mettant en valeur la polyvalence et la puissance de cette bibliothèque.</desc>
 	</variables>
-
 </theme>

@@ -2,22 +2,22 @@
 
 <theme>
 
-	<formatVersion>7</formatVersion>
+        <formatVersion>7</formatVersion>
 
-    <include>./../theme.xml</include>
+        <include>./../theme.xml</include>
 
-	<variables><region.priority region="eu"/>
+        <variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+        <system.manufacturer>MGT Computer Systems</system.manufacturer>
 
-		<!--<system.fullName>name</system.fullName>-->
+        <system.fullName>Sam Coupé</system.fullName>
+        <system.fullName lang="fr">Sam Coupé</system.fullName>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+        <system.releaseYearOrNull>1989</system.releaseYearOrNull>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
+        <desc>The Sam Coupé is an 8-bit home computer known for its advanced graphics and sound capabilities compared to other systems of its era. It featured a Z80 processor, custom graphics and sound chips, and a wide range of expansion options. Despite its technical strengths, it faced tough competition and had a relatively short lifespan. It has a cult following and is known for some very impressive demos, and games that pushed the hardware to its limits.</desc>
+        <desc lang="fr">Le Sam Coupé est un ordinateur personnel 8 bits connu pour ses capacités graphiques et sonores avancées par rapport aux autres systèmes de son époque. Il était doté d'un processeur Z80, de puces graphiques et sonores personnalisées et d'une large gamme d'options d'extension. Malgré ses atouts techniques, il a dû faire face à une concurrence difficile et a eu une durée de vie relativement courte. Il a un public culte et est connu pour des démos très impressionnantes, et des jeux qui ont poussé le matériel à ses limites.</desc>
 
-	</variables>
+</variables>
 
 </theme>

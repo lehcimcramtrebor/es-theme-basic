@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
+<include>./../theme.xml</include>
 	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+<system.manufacturer>Interplay Productions</system.manufacturer>
+<system.fullName>Descent 3: Rebirth</system.fullName>
+<system.releaseYearOrNull>1999</system.releaseYearOrNull>
+<desc>Descent 3: Rebirth, often referred to as DXX-Rebirth, is a source port and enhancement project for the classic first-person shooter Descent 3. It aims to improve the game's compatibility with modern systems, enhance its graphics, and introduce various gameplay tweaks and improvements. The original Descent 3, developed by Outrage Entertainment and published by Interplay, was known for its six-degrees-of-freedom movement, allowing players to navigate and combat in any direction within a 3D environment. DXX-Rebirth keeps this core gameplay while bringing the game up to date with modern standards.</desc>
+<desc lang="fr">Descent 3: Rebirth, souvent appelé DXX-Rebirth, est un portage de code source et un projet d'amélioration du jeu de tir à la première personne classique Descent 3. Il vise à améliorer la compatibilité du jeu avec les systèmes modernes, à améliorer ses graphismes et à introduire divers ajustements et améliorations de gameplay. Le Descent 3 original, développé par Outrage Entertainment et publié par Interplay, était connu pour son mouvement à six degrés de liberté, permettant aux joueurs de naviguer et de combattre dans n'importe quelle direction dans un environnement 3D. DXX-Rebirth conserve ce gameplay de base tout en mettant le jeu à jour avec les normes modernes.</desc>
+</variables>
 </theme>

@@ -1,23 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Philips</system.manufacturer>
+<system.fullName>Videopac+ G7400</system.fullName>
+<system.fullName region="us">Odyssey²</system.fullName>
+<system.releaseYearOrNull>1983</system.releaseYearOrNull>
+<system.releaseYearOrNull region="us">1983</system.releaseYearOrNull>
+<desc>The Videopac+ G7400, also known as the Odyssey² in North America, is an 8-bit home video game console released by Philips in 1983. It is the successor to the Videopac+ and features several improvements, including a new design and additional hardware capabilities. The console is known for its unique keyboard and its diverse library of games.</desc>
+<desc lang="fr">La Videopac+ G7400, également connue sous le nom d'Odyssey² en Amérique du Nord, est une console de jeux vidéo domestique 8 bits sortie par Philips en 1983. Elle succède à la Videopac+ et présente plusieurs améliorations, notamment un nouveau design et des capacités matérielles supplémentaires. La console est connue pour son clavier unique et sa bibliothèque de jeux diversifiée.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

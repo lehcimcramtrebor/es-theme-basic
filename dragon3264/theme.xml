@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Dragon Data</system.manufacturer>
+		<system.fullName>Dragon 64</system.fullName>
+		<desc>The Dragon 64 is an 8-bit home computer that was developed in the United Kingdom by Dragon Data. It was first released in 1983. The Dragon 64 was a more powerful version of the Dragon 32, and it was popular with hobbyists and programmers. The computer was discontinued in 1985.</desc>
+		<desc lang="fr">Le Dragon 64 est un ordinateur personnel 8 bits qui a été développé au Royaume-Uni par Dragon Data. Il a été commercialisé pour la première fois en 1983. Le Dragon 64 était une version plus puissante du Dragon 32, et il était populaire auprès des amateurs et des programmeurs. L'ordinateur a été abandonné en 1985.</desc>
 	</variables>
-
 </theme>

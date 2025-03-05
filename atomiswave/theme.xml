@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Sammy Corporation</system.manufacturer>
+		<system.fullName>Atomiswave</system.fullName>
+		<system.fullName lang="fr">Atomiswave</system.fullName>
+		<system.releaseYearOrNull>2003</system.releaseYearOrNull>
+		<desc>The Atomiswave is an arcade system board developed by Sammy Corporation. It is based on the Sega Dreamcast console, and it is known for its high-quality graphics and sound. The Atomiswave was used to power a number of popular arcade games, such as Guilty Gear X and The King of Fighters Neowave.</desc>
+		<desc lang="fr">L'Atomiswave est une carte système d'arcade développée par Sammy Corporation. Il est basé sur la console Sega Dreamcast et est connu pour ses graphismes et son son de haute qualité. L'Atomiswave a été utilisé pour alimenter un certain nombre de jeux d'arcade populaires, tels que Guilty Gear X et The King of Fighters Neowave.</desc>
 	</variables>
-
 </theme>

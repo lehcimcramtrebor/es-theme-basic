@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Namco</system.manufacturer>
+<system.fullName>Wangan Midnight Maximum Tune</system.fullName>
+<desc>Wangan Midnight Maximum Tune is a series of arcade racing games developed by Namco, based on the popular Japanese street racing manga and anime series, Wangan Midnight. The games are known for their fast-paced racing action, customization options, and focus on high-speed highway racing. Players can compete against other players online or locally, and can customize their cars with various performance upgrades and visual modifications.</desc>
+<desc lang="fr">Wangan Midnight Maximum Tune est une série de jeux d'arcade de course développés par Namco, basés sur la populaire série de mangas et d'animes de course de rue japonaise, Wangan Midnight. Les jeux sont connus pour leur action de course rapide, leurs options de personnalisation et leur accent sur les courses sur autoroute à grande vitesse. Les joueurs peuvent affronter d'autres joueurs en ligne ou localement, et peuvent personnaliser leurs voitures avec diverses améliorations de performances et modifications visuelles.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

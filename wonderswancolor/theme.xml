@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Bandai</system.manufacturer>
+        <system.fullName>WonderSwan Color</system.fullName>
+        <system.fullName lang="fr">WonderSwan Color</system.fullName>
+        <system.releaseYearOrNull>2000</system.releaseYearOrNull>
+        <desc>The WonderSwan Color is a handheld game console developed by Bandai, released in 2000 in Japan. It is the successor to the original WonderSwan and features a color screen, addressing one of the main criticisms of its predecessor. The console retained the original WonderSwan's compatibility, allowing players to enjoy both monochrome and color games. It offered improved hardware, leading to enhanced graphics and gameplay. The WonderSwan Color library includes a variety of games, with popular titles from franchises like "Final Fantasy" and "Digimon." Despite its improvements, it remained a Japan-exclusive console.</desc>
+        <desc lang="fr">La WonderSwan Color est une console de jeu portable développée par Bandai, sortie en 2000 au Japon. Elle est la successeur de la WonderSwan originale et dispose d'un écran couleur, répondant à l'une des principales critiques de son prédécesseur. La console a conservé la compatibilité de la WonderSwan originale, permettant aux joueurs de profiter à la fois de jeux monochromes et en couleur. Elle offrait un matériel amélioré, conduisant à des graphismes et un gameplay améliorés. La bibliothèque de la WonderSwan Color comprend une variété de jeux, avec des titres populaires de franchises comme "Final Fantasy" et "Digimon". Malgré ses améliorations, elle est restée une console exclusive au Japon.</desc>
+    </variables>
 </theme>

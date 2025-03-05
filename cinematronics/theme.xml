@@ -1,23 +1,22 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Cinematronics</system.manufacturer>
+<system.manufacturer region="us">Cinematronics</system.manufacturer>
 
-    <include>./../theme.xml</include>
+<system.fullName>Cinematronics Vector Games</system.fullName>
 
-	<variables><region.priority region="eu"/>
+<system.releaseYearOrNull>1975</system.releaseYearOrNull>
+<system.releaseYearOrNull region="us">1975</system.releaseYearOrNull>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<desc>Cinematronics Incorporated was a pioneering arcade game manufacturer, known for its vector graphics games in the late 1970s and early 1980s. They produced influential titles like "Space Wars" (1977), "Asteroids" (licensed from Atari, 1979), and "Tail Gunner" (1979). Their games were characterized by their distinctive black and white vector displays, which offered a unique visual experience compared to raster graphics.</desc>
+<desc region="us">Cinematronics Incorporated was a pioneering arcade game manufacturer, known for its vector graphics games in the late 1970s and early 1980s. They produced influential titles like "Space Wars" (1977), "Asteroids" (licensed from Atari, 1979), and "Tail Gunner" (1979). Their games were characterized by their distinctive black and white vector displays, which offered a unique visual experience compared to raster graphics. The company was based in the United States.</desc>
 
-		<!--<system.fullName>name</system.fullName>-->
+<desc lang="fr">Cinematronics Incorporated était un fabricant de jeux d'arcade pionnier, connu pour ses jeux à graphismes vectoriels à la fin des années 1970 et au début des années 1980. Ils ont produit des titres influents tels que "Space Wars" (1977), "Asteroids" (licencié par Atari, 1979) et "Tail Gunner" (1979). Leurs jeux se caractérisaient par leurs écrans vectoriels distinctifs en noir et blanc, qui offraient une expérience visuelle unique par rapport aux graphismes matriciels.</desc>
+<desc lang="fr" region="us">Cinematronics Incorporated était un fabricant de jeux d'arcade pionnier, connu pour ses jeux à graphismes vectoriels à la fin des années 1970 et au début des années 1980. Ils ont produit des titres influents tels que "Space Wars" (1977), "Asteroids" (licencié par Atari, 1979) et "Tail Gunner" (1979). Leurs jeux se caractérisaient par leurs écrans vectoriels distinctifs en noir et blanc, qui offraient une expérience visuelle unique par rapport aux graphismes matriciels. L'entreprise était basée aux États-Unis.</desc>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

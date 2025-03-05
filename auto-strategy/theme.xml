@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+  <variables>
+    <region.priority region="eu"/>
+    <system.manufacturer>Various</system.manufacturer>
+    <system.fullName>Strategy Games</system.fullName>
+    <system.fullName lang="fr">Jeux de stratégie</system.fullName>
+    <desc>Strategy games emphasize thoughtful planning and decision-making to achieve victory. They often involve managing resources, building structures, and commanding units in combat, requiring players to think ahead and adapt to changing circumstances.</desc>
+    <desc lang="fr">Les jeux de stratégie mettent l'accent sur la planification réfléchie et la prise de décision pour atteindre la victoire. Ils impliquent souvent la gestion des ressources, la construction de structures et le commandement d'unités au combat, obligeant les joueurs à anticiper et à s'adapter à l'évolution des circonstances.</desc>
+  </variables>
 </theme>

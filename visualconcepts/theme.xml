@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Visual Concepts</system.manufacturer>
+<system.fullName>Visual Concepts Games</system.fullName>
+<desc>Visual Concepts is an American video game developer known for creating sports games, particularly the NBA 2K series. They have also developed games in other genres, including the WWE 2K series and the NHL 2K series. Visual Concepts is a subsidiary of 2K Games, which in turn is owned by Take-Two Interactive.</desc>
+<desc lang="fr">Visual Concepts est un développeur de jeux vidéo américain connu pour la création de jeux de sport, en particulier la série NBA 2K. Ils ont également développé des jeux dans d'autres genres, notamment la série WWE 2K et la série NHL 2K. Visual Concepts est une filiale de 2K Games, qui à son tour appartient à Take-Two Interactive.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+  <variables>
+    <region.priority region="eu"/>
+    <system.manufacturer>Banpresto</system.manufacturer>
+    <system.fullName>Banpresto Games</system.fullName>
+    <system.fullName lang="fr">Jeux Banpresto</system.fullName>
+    <system.releaseYearOrNull>1989</system.releaseYearOrNull>
+    <desc>Banpresto, a Japanese video game developer and publisher, was founded in 1989. It was renowned for creating games based on popular anime and manga licenses like Super Robot Wars, Compati Hero, and Sailor Moon. While the company dissolved in 2019, its legacy continues to influence the gaming industry.</desc>
+    <desc lang="fr">Banpresto, un développeur et éditeur de jeux vidéo japonais, a été fondé en 1989. Il était réputé pour la création de jeux basés sur des licences d'anime et de manga populaires comme Super Robot Wars, Compati Hero et Sailor Moon. Bien que l'entreprise ait été dissoute en 2019, son héritage continue d'influencer l'industrie du jeu.</desc>
+  </variables>
 </theme>

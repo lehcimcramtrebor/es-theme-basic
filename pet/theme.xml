@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
+<include>./../theme.xml</include>
 	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+<system.manufacturer>Commodore</system.manufacturer>
+<system.fullName>Commodore PET 2001</system.fullName>
+<system.fullName lang="fr">Commodore PET 2001</system.fullName>
+<desc>The Commodore PET 2001 is a personal computer released in 1977. It was one of the first personal computers to be commercially successful, and was popular in schools and businesses. The PET 2001 was known for its all-in-one design, which included a keyboard, monitor, and cassette drive in a single unit.</desc>
+<desc lang="fr">Le Commodore PET 2001 est un ordinateur personnel sorti en 1977. Il a été l'un des premiers ordinateurs personnels à connaître un succès commercial et était populaire dans les écoles et les entreprises. Le PET 2001 était connu pour sa conception tout-en-un, qui comprenait un clavier, un moniteur et un lecteur de cassettes en une seule unité.</desc>
+</variables>
 </theme>

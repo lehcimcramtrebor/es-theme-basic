@@ -2,22 +2,18 @@
 
 <theme>
 
-	<formatVersion>7</formatVersion>
+    <formatVersion>7</formatVersion>
 
     <include>./../theme.xml</include>
 
-	<variables><region.priority region="eu"/>
+    <variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+    <system.fullName>Ship of Harkinian</system.fullName>
+    <system.fullName lang="fr">Navire d'Harkinian</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+    <desc>Ship of Harkinian is a PC port of the Nintendo 64 classic, The Legend of Zelda: Ocarina of Time. This project reverse-engineered the game's code, allowing it to be played on modern computers with enhanced features and modifications. It represents a significant achievement in game preservation and accessibility, offering a new way to experience a beloved title.</desc>
+    <desc lang="fr">Ship of Harkinian est un portage PC du classique de la Nintendo 64, The Legend of Zelda: Ocarina of Time. Ce projet a rétroconçu le code du jeu, lui permettant d'être joué sur des ordinateurs modernes avec des fonctionnalités et des modifications améliorées. Il représente une réalisation significative en matière de préservation et d'accessibilité des jeux, offrant une nouvelle façon de découvrir un titre apprécié.</desc>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+</variables>
 
 </theme>

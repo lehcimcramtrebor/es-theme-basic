@@ -1,23 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
+<include>./../theme.xml</include>
 	<variables><region.priority region="eu"/>
+<system.manufacturer>Coleco</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.fullName>Coleco Adam</system.fullName>
+<system.fullName lang="fr">Coleco Adam</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+<system.releaseYearOrNull>1983</system.releaseYearOrNull>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+<desc>The Coleco Adam is a home computer and video game console that was released in 1983. It was based on the ColecoVision video game console and was designed to compete with the Commodore 64 and the Apple IIe. The Adam was not a commercial success, but it is considered an important part of computer history.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+<desc lang="fr">Le Coleco Adam est un ordinateur personnel et une console de jeux vidéo sortis en 1983. Il était basé sur la console de jeux vidéo ColecoVision et a été conçu pour concurrencer le Commodore 64 et l'Apple IIe. L'Adam n'a pas été un succès commercial, mais il est considéré comme une partie importante de l'histoire de l'informatique.</desc>
+</variables>
 
 </theme>

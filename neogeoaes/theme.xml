@@ -1,23 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>SNK</system.manufacturer>
+        <system.fullName>Neo Geo AES</system.fullName>
+        <system.releaseYearOrNull>1990</system.releaseYearOrNull>
+        <system.releaseYearOrNull region="us">1990</system.releaseYearOrNull>
+        <system.releaseYearOrNull region="jp">1990</system.releaseYearOrNull>
+        <desc>The Neo Geo AES (Advanced Entertainment System) is the home version of the Neo Geo arcade system. It offered the same powerful hardware as the arcade version, allowing for near-identical arcade experiences at home. However, it was also notably expensive, making it a luxury console for many gamers.</desc>
+        <desc region="us">The Neo Geo AES (Advanced Entertainment System) is the home version of the Neo Geo arcade system. It offered the same powerful hardware as the arcade version, allowing for near-identical arcade experiences at home. However, it was also notably expensive, making it a luxury console for many gamers.</desc>
+        <desc region="jp">The Neo Geo AES (Advanced Entertainment System) is the home version of the Neo Geo arcade system. It offered the same powerful hardware as the arcade version, allowing for near-identical arcade experiences at home. However, it was also notably expensive, making it a luxury console for many gamers.</desc>
+        <desc lang="fr">La Neo Geo AES (Advanced Entertainment System) est la version domestique du système d'arcade Neo Geo. Elle offrait le même matériel puissant que la version arcade, permettant des expériences arcade presque identiques à la maison. Cependant, elle était également remarquablement chère, ce qui en faisait une console de luxe pour de nombreux joueurs.</desc>
+        <desc lang="fr" region="us">La Neo Geo AES (Advanced Entertainment System) est la version domestique du système d'arcade Neo Geo. Elle offrait le même matériel puissant que la version arcade, permettant des expériences arcade presque identiques à la maison. Cependant, elle était également remarquablement chère, ce qui en faisait une console de luxe pour de nombreux joueurs.</desc>
+        <desc lang="fr" region="jp">La Neo Geo AES (Advanced Entertainment System) est la version domestique du système d'arcade Neo Geo. Elle offrait le même matériel puissant que la version arcade, permettant des expériences arcade presque identiques à la maison. Cependant, elle était également remarquablement chère, ce qui en faisait une console de luxe pour de nombreux joueurs.</desc>
+    </variables>
 </theme>

@@ -1,23 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Sony</system.manufacturer>
+		<system.fullName>PlayStation Vita</system.fullName>
+		<system.fullName lang="fr">PlayStation Vita</system.fullName>
+		<system.releaseYearOrNull>2011</system.releaseYearOrNull>
+		<system.releaseYearOrNull region="us">2012</system.releaseYearOrNull>
+		<system.releaseYearOrNull region="jp">2011</system.releaseYearOrNull>
+		<desc>The PlayStation Vita (PS Vita) is a handheld game console developed by Sony Computer Entertainment. It was released in Japan on December 17, 2011, and in North America and Europe on February 22, 2012. The PS Vita is the successor to the PlayStation Portable and is part of the eighth generation of video game consoles.</desc>
+		<desc lang="fr">La PlayStation Vita (PS Vita) est une console de jeux portable développée par Sony Computer Entertainment. Elle est sortie au Japon le 17 décembre 2011 et en Amérique du Nord et en Europe le 22 février 2012. La PS Vita succède à la PlayStation Portable et fait partie de la huitième génération de consoles de jeux vidéo.</desc>
 	</variables>
-
 </theme>

@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Atari Corporation</system.manufacturer>
+		<system.fullName>Atari 7800 ProSystem</system.fullName>
+		<system.fullName lang="fr">Atari 7800 ProSystem</system.fullName>
+		<system.releaseYearOrNull>1986</system.releaseYearOrNull>
+		<desc>The Atari 7800 ProSystem, often shortened to the Atari 7800, is a third-generation home video game console developed by Atari Corporation. It was designed to offer backward compatibility with the Atari 2600, while also providing improved graphics and sound capabilities. The 7800 faced a troubled launch and was ultimately unable to compete with the Nintendo Entertainment System and Sega Master System, but it has since gained a cult following among retro gaming enthusiasts.</desc>
+		<desc lang="fr">L'Atari 7800 ProSystem, souvent abrégé en Atari 7800, est une console de jeux vidéo domestique de troisième génération développée par Atari Corporation. Elle a été conçue pour offrir une rétrocompatibilité avec l'Atari 2600, tout en offrant des capacités graphiques et sonores améliorées. La 7800 a connu un lancement difficile et n'a finalement pas pu rivaliser avec le Nintendo Entertainment System et le Sega Master System, mais elle a depuis acquis un public culte parmi les passionnés de jeux rétro.</desc>
 	</variables>
-
 </theme>

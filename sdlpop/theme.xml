@@ -2,22 +2,20 @@
 
 <theme>
 
-	<formatVersion>7</formatVersion>
+        <formatVersion>7</formatVersion>
 
-    <include>./../theme.xml</include>
+        <include>./../theme.xml</include>
 
-	<variables><region.priority region="eu"/>
+        <variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+        <system.manufacturer>SDLPoP Team</system.manufacturer>
 
-		<!--<system.fullName>name</system.fullName>-->
+        <system.fullName>SDLPoP</system.fullName>
+        <system.fullName lang="fr">SDLPoP</system.fullName>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+        <desc>SDLPoP is a source port of the classic game Prince of Persia, designed to run on modern operating systems. It enhances the original game with improved graphics, sound, and compatibility, while preserving the gameplay and level design. It's a popular choice for fans of the original game who want to experience it with modern conveniences. It also allows for mods and level editing.</desc>
+        <desc lang="fr">SDLPoP est un portage de code source du jeu classique Prince of Persia, conçu pour fonctionner sur les systèmes d'exploitation modernes. Il améliore le jeu original avec des graphismes, un son et une compatibilité améliorés, tout en préservant le gameplay et la conception des niveaux. C'est un choix populaire pour les fans du jeu original qui souhaitent en faire l'expérience avec les commodités modernes. Il permet également les mods et l'édition de niveaux.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+</variables>
 
 </theme>

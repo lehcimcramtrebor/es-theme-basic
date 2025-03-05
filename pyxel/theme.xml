@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Various</system.manufacturer>
+		<system.fullName>Pyxel Games</system.fullName>
+		<system.fullName lang="fr">Jeux Pyxel</system.fullName>
+		<desc>Pyxel is a retro game engine for Python. It provides a simple and approachable way to create pixel art games with sound and music. This category features a diverse collection of games made using Pyxel, showcasing the charm of pixel art and the power of this engine.</desc>
+		<desc lang="fr">Pyxel est un moteur de jeu rétro pour Python. Il fournit un moyen simple et accessible de créer des jeux pixel art avec du son et de la musique. Cette catégorie présente une collection diversifiée de jeux créés à l'aide de Pyxel, mettant en valeur le charme du pixel art et la puissance de ce moteur.</desc>
 	</variables>
-
 </theme>

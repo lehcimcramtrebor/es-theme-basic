@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Commodore</system.manufacturer>
+		<system.fullName>Amiga 4000</system.fullName>
+		<system.fullName lang="fr">Amiga 4000</system.fullName>
+		<system.releaseYearOrNull>1992</system.releaseYearOrNull>
+		<desc>The Amiga 4000, also known as the A4000, is a home computer that was released by Commodore International in 1992. It was the most powerful Amiga model of its time, and it was considered to be one of the most advanced home computers ever made. The Amiga 4000 was discontinued in 1994.</desc>
+		<desc lang="fr">L'Amiga 4000, également connu sous le nom d'A4000, est un ordinateur personnel sorti par Commodore International en 1992. C'était le modèle Amiga le plus puissant de son époque, et il était considéré comme l'un des ordinateurs personnels les plus avancés jamais construits. L'Amiga 4000 a été abandonné en 1994.</desc>
 	</variables>
-
 </theme>

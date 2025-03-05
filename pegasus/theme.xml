@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
+<include>./../theme.xml</include>
 	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+<system.manufacturer>Micro Genius</system.manufacturer>
+<system.fullName>Pegasus</system.fullName>
+<system.fullName lang="fr">Pegasus</system.fullName>
+<desc>The Pegasus is a video game console released in 1991. It is a clone of the Nintendo Entertainment System (NES), and was popular in Eastern Europe, particularly in Poland. The Pegasus was known for its low price and wide range of pirated games.</desc>
+<desc lang="fr">La Pegasus est une console de jeux vidéo sortie en 1991. Il s'agit d'un clone de la Nintendo Entertainment System (NES), populaire en Europe de l'Est, en particulier en Pologne. La Pegasus était connue pour son prix bas et sa large gamme de jeux piratés.</desc>
+</variables>
 </theme>

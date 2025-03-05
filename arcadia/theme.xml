@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Emerson Radio Corporation</system.manufacturer>
+		<system.fullName>Emerson Arcadia 2001</system.fullName>
+		<system.fullName lang="fr">Emerson Arcadia 2001</system.fullName>
+		<system.releaseYearOrNull>1982</system.releaseYearOrNull>
+		<desc>The Emerson Arcadia 2001 is a second-generation 8-bit home video game console that was released by Emerson Radio Corporation in 1982. It is known for its unique design, which includes a built-in keyboard and two cartridge slots. The Arcadia 2001 was not a commercial success, but it is considered to be an important part of computer history.</desc>
+		<desc lang="fr">L'Emerson Arcadia 2001 est une console de jeux vidéo domestique 8 bits de deuxième génération sortie par Emerson Radio Corporation en 1982. Elle est connue pour sa conception unique, qui comprend un clavier intégré et deux emplacements pour cartouches. L'Arcadia 2001 n'a pas été un succès commercial, mais elle est considérée comme une partie importante de l'histoire de l'informatique.</desc>
 	</variables>
-
 </theme>

@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Nintendo</system.manufacturer>
+        <system.fullName>Nintendo</system.fullName>
+        <system.fullName lang="fr">Nintendo</system.fullName>
+        <system.releaseYearOrNull>1889</system.releaseYearOrNull>
+        <desc>Nintendo is a Japanese multinational video game company headquartered in Kyoto. Founded in 1889 as a playing card company, Nintendo has become one of the most influential and successful companies in the video game industry. It is known for its iconic franchises, innovative hardware, and family-friendly entertainment.</desc>
+        <desc lang="fr">Nintendo est une société multinationale japonaise de jeux vidéo dont le siège est à Kyoto. Fondée en 1889 en tant qu'entreprise de cartes à jouer, Nintendo est devenue l'une des sociétés les plus influentes et les plus prospères de l'industrie du jeu vidéo. Elle est connue pour ses franchises emblématiques, son matériel innovant et ses divertissements familiaux.</desc>
+    </variables>
 </theme>

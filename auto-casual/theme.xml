@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Various</system.manufacturer>
+		<system.fullName>Casual Games</system.fullName>
+		<system.fullName lang="fr">Jeux occasionnels</system.fullName>
+		<desc>Casual games are designed to be easy to learn and play, with short gameplay sessions. They often appeal to a wide audience and can be enjoyed on various platforms.</desc>
+		<desc lang="fr">Les jeux occasionnels sont conçus pour être faciles à apprendre et à jouer, avec des sessions de jeu courtes. Ils plaisent souvent à un large public et peuvent être appréciés sur diverses plates-formes.</desc>
 	</variables>
-
 </theme>

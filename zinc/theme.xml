@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Bubble Bus</system.manufacturer>
+		<system.fullName>Zinc</system.fullName>
+		<desc>Zinc is an arcade system board developed by Bubble Bus. It is based on the Zilog Z80 microprocessor and features a variety of custom chips for graphics and sound. The Zinc boards were used in a number of arcade games, including some of the most popular titles of the early 1980s. Some notable examples include Space Invaders, Galaxian, and Pac-Man.</desc>
+		<desc lang="fr">Zinc est une carte de système d'arcade développée par Bubble Bus. Il est basé sur le microprocesseur Zilog Z80 et dispose d'une variété de puces personnalisées pour les graphiques et le son. Les cartes Zinc ont été utilisées dans un certain nombre de jeux d'arcade, y compris certains des titres les plus populaires du début des années 1980. Quelques exemples notables incluent Space Invaders, Galaxian et Pac-Man.</desc>
 	</variables>
-
 </theme>

@@ -1,23 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Casio</system.manufacturer>
+        <system.fullName>Casio Loopy</system.fullName>
+        <system.fullName region="jp">Magical Computer Loopy</system.fullName>
+        <system.releaseYearOrNull region="jp">1995</system.releaseYearOrNull>
+        <desc>The Casio Loopy is a 32-bit home video game console released by Casio exclusively in Japan in 1995. It is notable for its focus on female gamers and its ability to print stickers from in-game screenshots. The Loopy featured a built-in color thermal printer and a unique suite of games centered around creating and customizing images and characters.</desc>
+        <desc region="jp">Le Magical Computer Loopy est une console de jeux vidéo domestique 32 bits sortie par Casio exclusivement au Japon en 1995. Il est remarquable pour son orientation vers les joueuses et sa capacité à imprimer des autocollants à partir de captures d'écran du jeu. Le Loopy comprenait une imprimante thermique couleur intégrée et une suite unique de jeux centrés sur la création et la personnalisation d'images et de personnages.</desc>
+        <desc lang="fr">La Casio Loopy est une console de jeux vidéo 32 bits sortie par Casio exclusivement au Japon en 1995. Elle se distingue par son public cible féminin et sa capacité à imprimer des autocollants à partir de captures d'écran du jeu. La Loopy comprenait une imprimante thermique couleur intégrée et une gamme unique de jeux axés sur la création et la personnalisation d'images et de personnages.</desc>
+        <desc lang="fr" region="jp">Le Magical Computer Loopy est une console de jeux vidéo 32 bits sortie par Casio exclusivement au Japon en 1995. Il est remarquable pour son orientation vers les joueuses et sa capacité à imprimer des autocollants à partir de captures d'écran du jeu. Le Loopy comprenait une imprimante thermique couleur intégrée et une suite unique de jeux centrés sur la création et la personnalisation d'images et de personnages.</desc>
+    </variables>
 </theme>

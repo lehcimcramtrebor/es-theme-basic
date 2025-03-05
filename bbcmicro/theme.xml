@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+  <variables>
+    <region.priority region="eu"/>
+    <system.manufacturer>Acorn Computers</system.manufacturer>
+    <system.fullName>BBC Micro</system.fullName>
+    <system.fullName lang="fr">BBC Micro</system.fullName>
+    <system.releaseYearOrNull>1981</system.releaseYearOrNull>
+    <desc>The BBC Micro is a series of microcomputers and associated peripherals designed and built by Acorn Computers for the BBC Computer Literacy Project. First released in December 1981, it was notable for its robust design and educational focus. The BBC Micro became a common fixture in British schools throughout the 1980s, significantly impacting computer education in the UK.</desc>
+    <desc lang="fr">Le BBC Micro est une série de micro-ordinateurs et de périphériques associés conçus et construits par Acorn Computers pour le BBC Computer Literacy Project. Sorti pour la première fois en décembre 1981, il était remarquable pour sa conception robuste et son orientation éducative. Le BBC Micro est devenu un appareil courant dans les écoles britanniques tout au long des années 1980, ce qui a eu un impact significatif sur l'enseignement de l'informatique au Royaume-Uni.</desc>
+  </variables>
 </theme>

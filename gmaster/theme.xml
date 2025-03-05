@@ -4,20 +4,16 @@
 
 	<formatVersion>7</formatVersion>
 
-    <include>./../theme.xml</include>
+<include>./../theme.xml</include>
 
 	<variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.manufacturer>Hartung</system.manufacturer>
+<system.fullName>Hartung Game Master</system.fullName>
+<system.releaseYearOrNull>1982</system.releaseYearOrNull>
+<desc>The Hartung Game Master is a home computer released in 1982 by the German company Hartung. It was based on the Zilog Z80 microprocessor and featured a built-in keyboard and cassette tape drive for data storage. The Game Master was primarily intended for educational and home use, with a focus on programming and basic applications. It had limited graphics and sound capabilities compared to other home computers of the era, and its software library was relatively small. The system was more popular in Germany and parts of Europe.</desc>
+<desc lang="fr">Le Hartung Game Master est un ordinateur personnel sorti en 1982 par la société allemande Hartung. Il était basé sur le microprocesseur Zilog Z80 et disposait d'un clavier intégré et d'un lecteur de cassettes pour le stockage des données. Le Game Master était principalement destiné à un usage éducatif et domestique, avec un accent sur la programmation et les applications de base. Il avait des capacités graphiques et sonores limitées par rapport aux autres ordinateurs personnels de l'époque, et sa bibliothèque de logiciels était relativement restreinte. Le système était plus populaire en Allemagne et dans certaines parties de l'Europe.</desc>
 
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+</variables>
 
 </theme>

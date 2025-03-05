@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Commodore</system.manufacturer>
+		<system.fullName>Amiga 600</system.fullName>
+		<system.fullName lang="fr">Amiga 600</system.fullName>
+		<system.releaseYearOrNull>1992</system.releaseYearOrNull>
+		<desc>The Amiga 600, also known as the A600, is a home computer that was released by Commodore International in 1992. It was the last Amiga model based on the Motorola 68000 CPU and the Enhanced Chip Set (ECS). The Amiga 600 was smaller and less expensive than the Amiga 500, but it was also less powerful. It was discontinued in 1993.</desc>
+		<desc lang="fr">L'Amiga 600, également connu sous le nom d'A600, est un ordinateur personnel sorti par Commodore International en 1992. C'était le dernier modèle Amiga basé sur le processeur Motorola 68000 et l'Enhanced Chip Set (ECS). L'Amiga 600 était plus petit et moins cher que l'Amiga 500, mais il était également moins puissant. Il a été abandonné en 1993.</desc>
 	</variables>
-
 </theme>

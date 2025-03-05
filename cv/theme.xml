@@ -1,23 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Epoch</system.manufacturer>
+        <system.fullName>Cassette Vision</system.fullName>
+        <system.fullName region="jp">カセットビジョン</system.fullName>
+        <system.releaseYearOrNull>1981</system.releaseYearOrNull>
+        <desc>The Cassette Vision, released by Epoch in 1981, was a home video game console in Japan. It was known for its unique cassette-based cartridges and simple, yet engaging games. The console was an early competitor in the Japanese video game market, offering a range of games that catered to a family audience. Its design and game library reflect the early era of video game development, providing a glimpse into the origins of home gaming.</desc>
+        <desc region="jp">カセットビジョンは、1981年にエポック社から発売された日本の家庭用ビデオゲーム機です。独特なカセットベースのカートリッジと、シンプルながらも魅力的なゲームで知られていました。このゲーム機は、日本のビデオゲーム市場における初期の競争相手であり、家族向けのさまざまなゲームを提供しました。そのデザインとゲームライブラリは、ビデオゲーム開発の初期の時代を反映しており、家庭用ゲームの起源を垣間見ることができます。</desc>
+        <desc lang="fr">La Cassette Vision, sortie par Epoch en 1981, était une console de jeux vidéo domestique au Japon. Elle était connue pour ses cartouches uniques à base de cassettes et ses jeux simples mais captivants. La console était un concurrent précoce sur le marché japonais des jeux vidéo, offrant une gamme de jeux destinés à un public familial. Son design et sa bibliothèque de jeux reflètent les débuts du développement des jeux vidéo, offrant un aperçu des origines du jeu à domicile.</desc>
+    </variables>
 </theme>

@@ -1,23 +1,27 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+        <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<variables><region.priority region="eu"/>
+<system.manufacturer>Nintendo</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.fullName>GameCube</system.fullName>
+<system.fullName region="us">Nintendo GameCube</system.fullName>
+<system.fullName region="jp">Nintendo GameCube</system.fullName>
+<system.fullName lang="fr">GameCube</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+<system.releaseYearOrNull>2001</system.releaseYearOrNull>
+<system.releaseYearOrNull region="us">2001</system.releaseYearOrNull>
+<system.releaseYearOrNull region="jp">2001</system.releaseYearOrNull>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+<desc>The GameCube, Nintendo's fourth home video game console, was released in 2001. Known for its distinctive cube-shaped design and miniDVD format, it offered a strong library of games, including titles like Super Smash Bros. Melee, Metroid Prime, and Resident Evil 4. The console also supported connectivity with the Game Boy Advance, allowing for unique gameplay experiences. Despite facing competition from the PlayStation 2 and Xbox, the GameCube remains a beloved console among Nintendo fans.</desc>
+<desc region="us">The Nintendo GameCube, released in 2001, was Nintendo's entry into the sixth generation of video game consoles. It featured a unique design and a strong lineup of exclusive titles. The console's controller was praised for its ergonomic design, and its support for Game Boy Advance connectivity allowed for innovative gameplay features.</desc>
+<desc region="jp">The Nintendo GameCube, released in Japan in 2001, offered a unique gaming experience with its compact design and powerful hardware. It featured popular titles like Super Smash Bros. Melee and Resident Evil 4, and its support for Game Boy Advance connectivity allowed for enhanced gameplay.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
+<desc lang="fr">La GameCube, la quatrième console de jeux vidéo de salon de Nintendo, est sortie en 2001. Connue pour son design distinctif en forme de cube et son format miniDVD, elle offrait une solide bibliothèque de jeux, comprenant des titres tels que Super Smash Bros. Melee, Metroid Prime et Resident Evil 4. La console prenait également en charge la connectivité avec la Game Boy Advance, permettant des expériences de jeu uniques. Malgré la concurrence de la PlayStation 2 et de la Xbox, la GameCube reste une console appréciée des fans de Nintendo.</desc>
+<desc lang="fr" region="us">La Nintendo GameCube, sortie en 2001, était l'entrée de Nintendo dans la sixième génération de consoles de jeux vidéo. Elle présentait un design unique et une solide gamme de titres exclusifs. Le contrôleur de la console a été salué pour sa conception ergonomique, et sa prise en charge de la connectivité Game Boy Advance a permis des fonctionnalités de jeu innovantes.</desc>
+<desc lang="fr" region="jp">La Nintendo GameCube, sortie au Japon en 2001, offrait une expérience de jeu unique avec son design compact et son matériel puissant. Elle présentait des titres populaires comme Super Smash Bros. Melee et Resident Evil 4, et sa prise en charge de la connectivité Game Boy Advance permettait un gameplay amélioré.</desc>
 
-	</variables>
-
+</variables>
 </theme>

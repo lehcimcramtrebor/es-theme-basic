@@ -1,23 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Nintendo</system.manufacturer>
+        <system.fullName>Nintendo 64</system.fullName>
+        <system.releaseYearOrNull>1996</system.releaseYearOrNull>
+        <system.releaseYearOrNull region="us">1996</system.releaseYearOrNull>
+        <system.releaseYearOrNull region="jp">1996</system.releaseYearOrNull>
+        <desc>The Nintendo 64 (N64) is a 64-bit home video game console developed and released by Nintendo. It was Nintendo's third home console, following the Nintendo Entertainment System and the Super Nintendo Entertainment System. The N64 was notable for its 3D graphics, innovative controller design, and four controller ports for multiplayer gaming.</desc>
+        <desc region="us">The Nintendo 64 (N64) is a 64-bit home video game console developed and released by Nintendo. It was Nintendo's third home console, following the Nintendo Entertainment System and the Super Nintendo Entertainment System. The N64 was notable for its 3D graphics, innovative controller design, and four controller ports for multiplayer gaming.</desc>
+        <desc region="jp">The Nintendo 64 (N64) is a 64-bit home video game console developed and released by Nintendo. It was Nintendo's third home console, following the Nintendo Entertainment System and the Super Nintendo Entertainment System. The N64 was notable for its 3D graphics, innovative controller design, and four controller ports for multiplayer gaming.</desc>
+        <desc lang="fr">La Nintendo 64 (N64) est une console de jeux vidéo domestique 64 bits développée et commercialisée par Nintendo. C'était la troisième console domestique de Nintendo, après la Nintendo Entertainment System et la Super Nintendo Entertainment System. La N64 était remarquable pour ses graphismes 3D, sa conception de manette innovante et ses quatre ports de manette pour les jeux multijoueurs.</desc>
+        <desc lang="fr" region="us">La Nintendo 64 (N64) est une console de jeux vidéo domestique 64 bits développée et commercialisée par Nintendo. C'était la troisième console domestique de Nintendo, après la Nintendo Entertainment System et la Super Nintendo Entertainment System. La N64 était remarquable pour ses graphismes 3D, sa conception de manette innovante et ses quatre ports de manette pour les jeux multijoueurs.</desc>
+        <desc lang="fr" region="jp">La Nintendo 64 (N64) est une console de jeux vidéo domestique 64 bits développée et commercialisée par Nintendo. C'était la troisième console domestique de Nintendo, après la Nintendo Entertainment System et la Super Nintendo Entertainment System. La N64 était remarquable pour ses graphismes 3D, sa conception de manette innovante et ses quatre ports de manette pour les jeux multijoueurs.</desc>
+    </variables>
 </theme>

@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Sega</system.manufacturer>
+        <system.fullName>Sega NAOMI 2</system.fullName>
+        <system.releaseYearOrNull>1999</system.releaseYearOrNull>
+        <desc>The Sega NAOMI 2 is an arcade system board released by Sega in 1999 as the successor to the NAOMI. It offers enhanced 3D graphics capabilities and improved performance, allowing for more complex and visually stunning arcade games. The NAOMI 2 powered titles like Initial D Arcade Stage and Capcom vs. SNK 2.</desc> 
+        <desc lang="fr">Le Sega NAOMI 2 est une carte système d'arcade commercialisée par Sega en 1999 en tant que successeur du NAOMI. Il offre des capacités graphiques 3D améliorées et des performances améliorées, permettant des jeux d'arcade plus complexes et visuellement époustouflants. Le NAOMI 2 a alimenté des titres comme Initial D Arcade Stage et Capcom vs. SNK 2.</desc>
+    </variables>
 </theme>

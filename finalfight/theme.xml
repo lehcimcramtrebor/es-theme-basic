@@ -1,23 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+        <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
+        <variables>
+        <region.priority region="eu"/>
 
-	<variables><region.priority region="eu"/>
+                <system.manufacturer>Capcom</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+                <system.fullName>Final Fight</system.fullName>
+                <system.fullName lang="fr">Final Fight</system.fullName>
 
-		<system.fullName>final fight</system.fullName>
+                <system.releaseYearOrNull>1989</system.releaseYearOrNull>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+                <desc>Final Fight is a beat 'em up video game franchise developed by Capcom. The series is known for its fast-paced action, its diverse cast of characters, and its memorable boss fights. Final Fight has been ported to a variety of consoles and handhelds, and it has also spawned a number of spin-offs.</desc>
+                <desc lang="fr">Final Fight est une franchise de jeux vidéo de beat 'em up développée par Capcom. La série est connue pour son action rapide, son casting varié de personnages et ses combats de boss mémorables. Final Fight a été porté sur une variété de consoles et d'appareils portables, et il a également engendré un certain nombre de spin-offs.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+        </variables>
 </theme>

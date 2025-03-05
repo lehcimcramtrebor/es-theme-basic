@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
+<include>./../theme.xml</include>
 	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+<system.manufacturer>Namco</system.manufacturer>
+<system.fullName>Pac-Man Games</system.fullName>
+<system.fullName lang="fr">Jeux Pac-Man</system.fullName>
+<desc>Pac-Man is an iconic arcade game developed by Namco and released in 1980. The player controls Pac-Man, a yellow circular character, who must eat all the dots inside an enclosed maze while avoiding four colorful ghosts. Eating large flashing dots called Power Pellets causes the ghosts to temporarily turn blue, allowing Pac-Man to eat them for bonus points.</desc> 
+<desc lang="fr">Pac-Man est un jeu d'arcade emblématique développé par Namco et sorti en 1980. Le joueur contrôle Pac-Man, un personnage circulaire jaune, qui doit manger tous les points à l'intérieur d'un labyrinthe clos tout en évitant quatre fantômes colorés. Manger de gros points clignotants appelés Power Pellets fait temporairement virer les fantômes au bleu, ce qui permet à Pac-Man de les manger pour des points bonus.</desc>
+</variables>
 </theme>

@@ -1,23 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Tomy</system.manufacturer>
+<system.fullName region="jp">Pyūta</system.fullName>
+<system.fullName region="us">Tomy Tutor</system.fullName>
+<system.releaseYearOrNull region="jp">1983</system.releaseYearOrNull>
+<system.releaseYearOrNull region="us">1983</system.releaseYearOrNull>
+<desc region="jp">The Pyūta, known as the Tomy Tutor in North America, is a home computer released by Tomy in 1983. It was marketed as an educational computer and featured a unique keyboard design with built-in BASIC programming language functions. The system had limited success due to its high price and a relatively small library of software.</desc>
+<desc lang="fr" region="jp">Le Pyūta, connu sous le nom de Tomy Tutor en Amérique du Nord, est un ordinateur personnel sorti par Tomy en 1983. Il était commercialisé comme un ordinateur éducatif et présentait une conception de clavier unique avec des fonctions de langage de programmation BASIC intégrées. Le système a eu un succès limité en raison de son prix élevé et d'une bibliothèque de logiciels relativement petite.</desc>
+<desc region="us">The Tomy Tutor, known as the Pyūta in Japan, is a home computer released by Tomy in 1983. It was marketed as an educational computer and featured a distinctive design with a built-in keyboard and a separate cartridge slot for games and software. Despite its potential, it struggled to compete with other popular home computers of the time.</desc>
+<desc lang="fr" region="us">Le Tomy Tutor, connu sous le nom de Pyūta au Japon, est un ordinateur personnel sorti par Tomy en 1983. Il était commercialisé comme un ordinateur éducatif et présentait un design distinctif avec un clavier intégré et un emplacement pour cartouche séparé pour les jeux et les logiciels. Malgré son potentiel, il a eu du mal à concurrencer les autres ordinateurs personnels populaires de l'époque.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

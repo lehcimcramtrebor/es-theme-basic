@@ -1,23 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+        <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
+        <variables>
+        <region.priority region="eu"/>
 
-	<variables><region.priority region="eu"/>
+                <system.manufacturer>ET: Legacy Team</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+                <system.fullName>ET: Legacy</system.fullName>
+                <system.fullName lang="fr">ET: Legacy</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+                <system.releaseYearOrNull>2008</system.releaseYearOrNull>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+                <desc>ET: Legacy is an open-source project that aims to keep the free and open-source multiplayer game, Wolfenstein: Enemy Territory, alive. It improves the game's engine with bug fixes, security enhancements, and new features, while maintaining compatibility with the original game. It allows the community to host and play the game on modern systems.</desc>
+                <desc lang="fr">ET: Legacy est un projet open-source qui vise à maintenir en vie le jeu multijoueur libre et open-source, Wolfenstein: Enemy Territory. Il améliore le moteur du jeu avec des corrections de bugs, des améliorations de sécurité et de nouvelles fonctionnalités, tout en maintenant la compatibilité avec le jeu original. Il permet à la communauté d'héberger et de jouer au jeu sur les systèmes modernes.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+        </variables>
 </theme>

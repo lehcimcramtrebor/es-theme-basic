@@ -1,23 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+        <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
+        <variables>
+        <region.priority region="eu"/>
 
-	<variables><region.priority region="eu"/>
+                <system.manufacturer>Fallout 2 Community Edition Team</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+                <system.fullName>Fallout 2 Community Edition</system.fullName>
+                <system.fullName lang="fr">Fallout 2 Community Edition</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+                <system.releaseYearOrNull>2023</system.releaseYearOrNull>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+                <desc>Fallout 2 Community Edition (Fallout2-CE) is a community-driven, open-source project aimed at enhancing the classic RPG Fallout 2. This edition focuses on bug fixes, engine improvements, and restoration of cut content, offering a more stable and complete experience. It's designed to bring the beloved game to modern systems with enhanced features while respecting the original game's design.</desc>
+                <desc lang="fr">Fallout 2 Community Edition (Fallout2-CE) est un projet open-source mené par la communauté visant à améliorer le RPG classique Fallout 2. Cette édition se concentre sur les corrections de bugs, les améliorations du moteur et la restauration du contenu coupé, offrant une expérience plus stable et complète. Il est conçu pour apporter le jeu bien-aimé aux systèmes modernes avec des fonctionnalités améliorées tout en respectant la conception du jeu original.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+        </variables>
 </theme>

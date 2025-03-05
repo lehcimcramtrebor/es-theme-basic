@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Tecmo</system.manufacturer>
+<system.fullName>Tecmo Games</system.fullName>
+<desc>Tecmo was a Japanese video game developer and publisher known for producing a range of arcade and console titles. They are particularly famous for the Ninja Gaiden and Dead or Alive series, as well as sports games like Tecmo Bowl. Their games often featured challenging gameplay, memorable characters, and innovative graphics. Tecmo merged with Koei in 2009 to form Koei Tecmo, but their legacy continues to influence the gaming industry.</desc>
+<desc lang="fr">Tecmo était un développeur et éditeur de jeux vidéo japonais connu pour avoir produit une gamme de titres d'arcade et de console. Ils sont particulièrement célèbres pour les séries Ninja Gaiden et Dead or Alive, ainsi que pour des jeux de sport comme Tecmo Bowl. Leurs jeux comportaient souvent un gameplay stimulant, des personnages mémorables et des graphismes innovants. Tecmo a fusionné avec Koei en 2009 pour former Koei Tecmo, mais leur héritage continue d'influencer l'industrie du jeu vidéo.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

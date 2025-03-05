@@ -1,23 +1,17 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+        <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<variables><region.priority region="eu"/>
+<system.manufacturer>GemRB Team</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.fullName>GemRB</system.fullName>
+<system.fullName lang="fr">GemRB</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+<desc>GemRB (Game engine made with pre-Rendered Background) is an open-source, cross-platform reimplementation of the Infinity Engine. This engine was used in classic role-playing games like Baldur's Gate, Icewind Dale, and Planescape: Torment. GemRB allows these games to be played on modern operating systems and hardware, often with enhanced features and improved compatibility. It's a community-driven project that aims to preserve and enhance these classic gaming experiences.</desc>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+<desc lang="fr">GemRB (Game engine made with pre-Rendered Background) est une réimplémentation open-source et multiplateforme de l'Infinity Engine. Ce moteur a été utilisé dans des jeux de rôle classiques tels que Baldur's Gate, Icewind Dale et Planescape: Torment. GemRB permet de jouer à ces jeux sur les systèmes d'exploitation et le matériel modernes, souvent avec des fonctionnalités améliorées et une compatibilité améliorée. C'est un projet communautaire qui vise à préserver et à améliorer ces expériences de jeu classiques.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
+<include>./../theme.xml</include>
 	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+<system.manufacturer>OpenGOAL Team</system.manufacturer>
+<system.fullName>OpenGOAL</system.fullName>
+<system.fullName lang="fr">OpenGOAL</system.fullName>
+<desc>OpenGOAL is a free and open-source recreation of the Jak and Daxter: The Precursor Legacy game engine. Built from scratch, it aims to provide a faithful recreation of the original game while offering improved performance and modding capabilities. OpenGOAL allows users to experience the beloved platformer on modern systems with enhanced visuals and gameplay.</desc>
+<desc lang="fr">OpenGOAL est une recréation gratuite et open-source du moteur de jeu Jak and Daxter : The Precursor Legacy. Construit à partir de zéro, il vise à fournir une recréation fidèle du jeu original tout en offrant des performances améliorées et des capacités de modding. OpenGOAL permet aux utilisateurs de découvrir le jeu de plateforme bien-aimé sur les systèmes modernes avec des visuels et un gameplay améliorés.</desc>
+</variables>
 </theme>

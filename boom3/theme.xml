@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+  <variables>
+    <region.priority region="eu"/>
+    <system.manufacturer>Dimitris Giannakis</system.manufacturer>
+    <system.fullName>Boom 3</system.fullName>
+    <system.fullName lang="fr">Boom 3</system.fullName>
+    <system.releaseYearOrNull>2021</system.releaseYearOrNull>
+    <desc>Boom 3 is a port of the popular first-person shooter game Doom 3 to various platforms, developed by Dimitris Giannakis. It allows players to experience the acclaimed horror shooter on a variety of devices, including mobile phones and tablets.</desc>
+    <desc lang="fr">Boom 3 est un portage du célèbre jeu de tir à la première personne Doom 3 sur diverses plateformes, développé par Dimitris Giannakis. Il permet aux joueurs de découvrir le jeu de tir d'horreur acclamé sur une variété d'appareils, y compris les téléphones mobiles et les tablettes.</desc>
+  </variables>
 </theme>

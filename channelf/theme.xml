@@ -1,23 +1,28 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Funai</system.manufacturer>
+<system.manufacturer region="us">Funai</system.manufacturer>
+<system.manufacturer region="jp">Funai</system.manufacturer>
 
-    <include>./../theme.xml</include>
+<system.fullName>Channel F</system.fullName>
+<system.fullName region="us">Channel F</system.fullName>
+<system.fullName region="jp">Channel F</system.fullName>
 
-	<variables><region.priority region="eu"/>
+<system.releaseYearOrNull>1976</system.releaseYearOrNull>
+<system.releaseYearOrNull region="us">1976</system.releaseYearOrNull>
+<system.releaseYearOrNull region="jp">1977</system.releaseYearOrNull>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<desc>The Fairchild Channel F, released in 1976, was a pioneering second-generation home video game console. It was the first console to use ROM cartridges, a significant advancement over previous systems. It featured a unique 12-button controller and a simple, yet innovative, menu system. The Channel F library consisted of games like "Video Whizball" and "Space War," showcasing early arcade-style gameplay. The Japanese release was delayed until 1977.</desc>
+<desc region="us">The Fairchild Channel F, released in 1976, was a pioneering second-generation home video game console. It was the first console to use ROM cartridges, a significant advancement over previous systems. It featured a unique 12-button controller and a simple, yet innovative, menu system. The Channel F library consisted of games like "Video Whizball" and "Space War," showcasing early arcade-style gameplay. The US release was in 1976, and it was a major step in the home video game industry.</desc>
+<desc region="jp">The Fairchild Channel F, released in Japan in 1977, was a pioneering second-generation home video game console. It was the first console to use ROM cartridges, a significant advancement over previous systems. It featured a unique 12-button controller and a simple, yet innovative, menu system. The Channel F library consisted of games like "Video Whizball" and "Space War," showcasing early arcade-style gameplay. The Japanese release was delayed until 1977, after the US release.</desc>
 
-		<!--<system.fullName>name</system.fullName>-->
+<desc lang="fr">La Fairchild Channel F, sortie en 1976, était une console de jeux vidéo domestique de deuxième génération pionnière. C'était la première console à utiliser des cartouches ROM, une avancée significative par rapport aux systèmes précédents. Elle comportait un contrôleur unique à 12 boutons et un système de menu simple mais innovant. La bibliothèque de Channel F comprenait des jeux comme "Video Whizball" et "Space War", présentant un gameplay de style arcade précoce. La sortie japonaise a été retardée jusqu'en 1977.</desc>
+<desc lang="fr" region="us">La Fairchild Channel F, sortie aux États-Unis en 1976, était une console de jeux vidéo domestique de deuxième génération pionnière. C'était la première console à utiliser des cartouches ROM, une avancée significative par rapport aux systèmes précédents. Elle comportait un contrôleur unique à 12 boutons et un système de menu simple mais innovant. La bibliothèque de Channel F comprenait des jeux comme "Video Whizball" et "Space War", présentant un gameplay de style arcade précoce. La sortie américaine a eu lieu en 1976, et c'était une étape importante dans l'industrie des jeux vidéo à domicile.</desc>
+<desc lang="fr" region="jp">La Fairchild Channel F, sortie au Japon en 1977, était une console de jeux vidéo domestique de deuxième génération pionnière. C'était la première console à utiliser des cartouches ROM, une avancée significative par rapport aux systèmes précédents. Elle comportait un contrôleur unique à 12 boutons et un système de menu simple mais innovant. La bibliothèque de Channel F comprenait des jeux comme "Video Whizball" et "Space War", présentant un gameplay de style arcade précoce. La sortie japonaise a été retardée jusqu'en 1977, après la sortie américaine.</desc>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

@@ -4,20 +4,16 @@
 
 	<formatVersion>7</formatVersion>
 
-    <include>./../theme.xml</include>
+<include>./../theme.xml</include>
 
 	<variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.manufacturer>Nintendo</system.manufacturer>
+<system.fullName>Game Boy 2 Players</system.fullName>
+<system.fullName lang="fr">Game Boy 2 Joueurs</system.fullName>
+<desc>Game Boy 2 Players highlights the collection of games on the original Game Boy that featured two-player functionality. This mode was typically enabled by connecting two Game Boy consoles via a link cable. It allowed for competitive or cooperative gameplay in titles like Tetris, Pokémon Red and Blue (for trading and battling), and Dr. Mario. This feature added a social dimension to the handheld experience, enhancing the fun and replayability of these classic games.</desc>
+<desc lang="fr">Game Boy 2 Joueurs met en lumière la collection de jeux sur la Game Boy originale qui proposaient une fonctionnalité à deux joueurs. Ce mode était généralement activé en connectant deux consoles Game Boy via un câble de liaison. Il permettait un gameplay compétitif ou coopératif dans des titres comme Tetris, Pokémon Rouge et Bleu (pour l'échange et les combats), et Dr. Mario. Cette fonctionnalité a ajouté une dimension sociale à l'expérience de jeu portable, améliorant le plaisir et la rejouabilité de ces jeux classiques.</desc>
 
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+</variables>
 
 </theme>

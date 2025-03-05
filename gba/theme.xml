@@ -4,20 +4,22 @@
 
 	<formatVersion>7</formatVersion>
 
-    <include>./../theme.xml</include>
+<include>./../theme.xml</include>
 
 	<variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.manufacturer>Nintendo</system.manufacturer>
+<system.fullName>Game Boy Advance</system.fullName>
+<system.releaseYearOrNull>2001</system.releaseYearOrNull>
+<system.releaseYearOrNull region="us">2001</system.releaseYearOrNull>
+<system.releaseYearOrNull region="jp">2001</system.releaseYearOrNull>
+<desc>The Game Boy Advance (GBA) is a 32-bit handheld video game console developed, manufactured and marketed by Nintendo. It is the successor to the Game Boy Color. It was released in Japan on March 21, 2001, in North America on June 11, 2001, and in Europe on June 22, 2001. The GBA features a 2.9-inch color LCD screen, a Z80 processor, and backward compatibility with all previous Game Boy models. It has a wide library of games, including popular titles such as Super Mario Advance, The Legend of Zelda: A Link to the Past, and Metroid Fusion.</desc>
+<desc region="us">The Game Boy Advance (GBA) is a 32-bit handheld video game console developed, manufactured and marketed by Nintendo. It is the successor to the Game Boy Color. It was released in Japan on March 21, 2001, in North America on June 11, 2001, and in Europe on June 22, 2001. The GBA features a 2.9-inch color LCD screen, a Z80 processor, and backward compatibility with all previous Game Boy models. It has a wide library of games, including popular titles such as Super Mario Advance, The Legend of Zelda: A Link to the Past, and Metroid Fusion.</desc>
+<desc region="jp">The Game Boy Advance (GBA) is a 32-bit handheld video game console developed, manufactured and marketed by Nintendo. It is the successor to the Game Boy Color. It was released in Japan on March 21, 2001, in North America on June 11, 2001, and in Europe on June 22, 2001. The GBA features a 2.9-inch color LCD screen, a Z80 processor, and backward compatibility with all previous Game Boy models. It has a wide library of games, including popular titles such as Super Mario Advance, The Legend of Zelda: A Link to the Past, and Metroid Fusion.</desc>
+<desc lang="fr">La Game Boy Advance (GBA) est une console de jeux vidéo portable 32 bits développée, fabriquée et commercialisée par Nintendo. C'est le successeur de la Game Boy Color. Elle est sortie au Japon le 21 mars 2001, en Amérique du Nord le 11 juin 2001 et en Europe le 22 juin 2001. La GBA dispose d'un écran LCD couleur de 2,9 pouces, d'un processeur Z80 et d'une rétrocompatibilité avec tous les modèles Game Boy précédents. Elle possède une large bibliothèque de jeux, dont des titres populaires tels que Super Mario Advance, The Legend of Zelda : A Link to the Past et Metroid Fusion.</desc>
+<desc lang="fr" region="us">La Game Boy Advance (GBA) est une console de jeux vidéo portable 32 bits développée, fabriquée et commercialisée par Nintendo. C'est le successeur de la Game Boy Color. Elle est sortie au Japon le 21 mars 2001, en Amérique du Nord le 11 juin 2001 et en Europe le 22 juin 2001. La GBA dispose d'un écran LCD couleur de 2,9 pouces, d'un processeur Z80 et d'une rétrocompatibilité avec tous les modèles Game Boy précédents. Elle possède une large bibliothèque de jeux, dont des titres populaires tels que Super Mario Advance, The Legend of Zelda : A Link to the Past et Metroid Fusion.</desc>
+<desc lang="fr" region="jp">La Game Boy Advance (GBA) est une console de jeux vidéo portable 32 bits développée, fabriquée et commercialisée par Nintendo. C'est le successeur de la Game Boy Color. Elle est sortie au Japon le 21 mars 2001, en Amérique du Nord le 11 juin 2001 et en Europe le 22 juin 2001. La GBA dispose d'un écran LCD couleur de 2,9 pouces, d'un processeur Z80 et d'une rétrocompatibilité avec tous les modèles Game Boy précédents. Elle possède une large bibliothèque de jeux, dont des titres populaires tels que Super Mario Advance, The Legend of Zelda : A Link to the Past et Metroid Fusion.</desc>
 
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+</variables>
 
 </theme>

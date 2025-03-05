@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Sonic Retro Team</system.manufacturer>
+<system.fullName>Sonic Retro</system.fullName>
+<desc>Sonic Retro is a website and community dedicated to the preservation and discussion of classic Sonic the Hedgehog games. It also hosts various fan projects, including ROM hacks, mods, and fangames. While not a standalone system, it represents a hub for a wide range of fan-created Sonic content.</desc>
+<desc lang="fr">Sonic Retro est un site web et une communauté dédiée à la préservation et à la discussion des jeux Sonic the Hedgehog classiques. Il héberge également divers projets de fans, notamment des hacks ROM, des mods et des fangames. Bien qu'il ne s'agisse pas d'un système autonome, il représente une plaque tournante pour un large éventail de contenu Sonic créé par des fans.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

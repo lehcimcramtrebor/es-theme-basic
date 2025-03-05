@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Williams Electronics</system.manufacturer>
+<system.fullName>Williams Arcade Systems</system.fullName>
+<desc>Williams Electronics was an American manufacturer of arcade games and pinball machines. They were known for producing popular arcade classics such as Defender, Joust, and Robotron: 2084. Williams also developed pinball machines with innovative features and designs. The company was acquired by Midway Games in 1999.</desc>
+<desc lang="fr">Williams Electronics était un fabricant américain de jeux d'arcade et de flippers. Ils étaient connus pour avoir produit des classiques d'arcade populaires tels que Defender, Joust et Robotron: 2084. Williams a également développé des flippers avec des fonctionnalités et des designs innovants. La société a été acquise par Midway Games en 1999.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

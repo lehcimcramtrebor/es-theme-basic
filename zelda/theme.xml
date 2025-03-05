@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Nintendo</system.manufacturer>
+		<system.fullName>The Legend of Zelda</system.fullName>
+		<desc>The Legend of Zelda is a high-fantasy action-adventure video game series created by Nintendo. It centers on the various incarnations of Link and the princess Zelda, who battle against the demon king Ganon, an antagonist who attempts to steal the Triforce, a sacred relic left behind by the Golden Goddesses that created Hyrule. The gameplay consists of a combination of action, adventure, and puzzle-solving elements.</desc>
+		<desc lang="fr">The Legend of Zelda est une série de jeux vidéo d'action-aventure de fantasy créée par Nintendo. Elle se concentre sur les différentes incarnations de Link et de la princesse Zelda, qui luttent contre le roi démon Ganon, un antagoniste qui tente de voler la Triforce, une relique sacrée laissée par les déesses d'or qui ont créé Hyrule. Le gameplay consiste en une combinaison d'éléments d'action, d'aventure et de résolution d'énigmes.</desc>
 	</variables>
-
 </theme>

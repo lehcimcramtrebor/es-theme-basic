@@ -1,23 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+        <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
+        <variables>
+        <region.priority region="eu"/>
 
-	<variables><region.priority region="eu"/>
+                <system.manufacturer>Adobe Systems</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+                <system.fullName>Adobe Flash</system.fullName>
+                <system.fullName lang="fr">Adobe Flash</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+                <system.releaseYearOrNull>1996</system.releaseYearOrNull>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+                <desc>Adobe Flash, originally Macromedia Flash, was a multimedia software platform used for production of animations, rich web applications, desktop applications, mobile apps, mobile games, and embedded web browser video players. Flash displayed text, vector graphics, and raster graphics to provide animations, video games, and applications. It allowed streaming of audio and video, and could capture mouse, keyboard, microphone, and camera input.</desc>
+                <desc lang="fr">Adobe Flash, initialement Macromedia Flash, était une plateforme logicielle multimédia utilisée pour la production d'animations, d'applications Web riches, d'applications de bureau, d'applications mobiles, de jeux mobiles et de lecteurs vidéo de navigateur Web intégrés. Flash affichait du texte, des graphiques vectoriels et des graphiques raster pour fournir des animations, des jeux vidéo et des applications. Il permettait la diffusion audio et vidéo en continu et pouvait capturer les entrées de la souris, du clavier, du microphone et de la caméra.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+        </variables>
 </theme>

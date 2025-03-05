@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>id Software</system.manufacturer>
+		<system.fullName>Doom 3</system.fullName>
+		<desc>Doom 3 is a first-person shooter video game developed by id Software and published by Activision. It is the third main installment in the Doom series. The game was released for Microsoft Windows on August 3, 2004, and was later ported to Linux, Mac OS X, and Xbox.</desc>
+		<desc lang="fr">Doom 3 est un jeu vidéo de tir à la première personne développé par id Software et publié par Activision. Il s'agit du troisième volet principal de la série Doom. Le jeu est sorti pour Microsoft Windows le 3 août 2004 et a ensuite été porté sur Linux, Mac OS X et Xbox.</desc>
 	</variables>
-
 </theme>

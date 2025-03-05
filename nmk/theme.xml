@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>SNK</system.manufacturer>
+        <system.fullName>Neo Geo Mini</system.fullName>
+        <system.fullName lang="fr">Neo Geo Mini</system.fullName>
+        <system.releaseYearOrNull>2018</system.releaseYearOrNull>
+        <desc>The Neo Geo Mini is a miniature arcade cabinet released by SNK in 2018. It features a built-in selection of classic Neo Geo games and a small LCD screen. The Neo Geo Mini is designed for portability and comes in various designs, including versions based on popular Neo Geo franchises.</desc>
+        <desc lang="fr">La Neo Geo Mini est une borne d'arcade miniature commercialisée par SNK en 2018. Elle propose une sélection intégrée de jeux Neo Geo classiques et un petit écran LCD. La Neo Geo Mini est conçue pour la portabilité et se décline en différents modèles, notamment des versions basées sur des franchises Neo Geo populaires.</desc>
+    </variables>
 </theme>

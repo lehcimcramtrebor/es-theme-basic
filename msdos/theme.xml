@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Microsoft</system.manufacturer>
+        <system.fullName>MS-DOS</system.fullName>
+        <system.releaseYearOrNull>1981</system.releaseYearOrNull>
+        <desc>MS-DOS (Microsoft Disk Operating System) is an operating system for x86-based personal computers. It was the most widely used member of the DOS family of operating systems and the dominant operating system for IBM PC compatible personal computers during the 1980s and early 1990s.</desc>
+        <desc lang="fr">MS-DOS (Microsoft Disk Operating System) est un système d'exploitation pour ordinateurs personnels basés sur x86. Il était le membre le plus largement utilisé de la famille de systèmes d'exploitation DOS et le système d'exploitation dominant pour les ordinateurs personnels compatibles IBM PC pendant les années 1980 et le début des années 1990.</desc>
+    </variables>
 </theme>

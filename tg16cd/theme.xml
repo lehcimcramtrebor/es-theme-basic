@@ -1,23 +1,21 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
+<include>./../theme.xml</include>
 	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+<system.manufacturer>NEC</system.manufacturer>
+<system.fullName>PC Engine CD-ROM²</system.fullName>
+<system.fullName region="us">TurboGrafx-CD</system.fullName>
+<system.fullName region="jp">PC Engine CD-ROM²</system.fullName>
+<system.fullName lang="fr">PC Engine CD-ROM²</system.fullName>
+<system.releaseYearOrNull>1989</system.releaseYearOrNull>
+<system.releaseYearOrNull region="us">1990</system.releaseYearOrNull>
+<system.releaseYearOrNull region="jp">1989</system.releaseYearOrNull>
+<desc>The PC Engine CD-ROM², also known as the TurboGrafx-CD in North America, is a CD-ROM-based video game console peripheral for the PC Engine. It was released in 1989 and featured a wide range of CD-ROM games, including arcade ports, role-playing games, and adventure games. The CD-ROM² was known for its high-quality audio and video, as well as its innovative use of CD-ROM technology.</desc>
+<desc region="us">The TurboGrafx-CD is a CD-ROM-based video game console peripheral for the TurboGrafx-16. It was released in 1990 and featured a wide range of CD-ROM games, including arcade ports, role-playing games, and adventure games. The TurboGrafx-CD was known for its high-quality audio and video, as well as its innovative use of CD-ROM technology.</desc>
+<desc region="jp">The PC Engine CD-ROM² is a CD-ROM-based video game console peripheral for the PC Engine. It was released in 1989 and featured a wide range of CD-ROM games, including arcade ports, role-playing games, and adventure games. The CD-ROM² was known for its high-quality audio and video, as well as its innovative use of CD-ROM technology.</desc>
+<desc lang="fr">Le PC Engine CD-ROM², également connu sous le nom de TurboGrafx-CD en Amérique du Nord, est un périphérique de console de jeux vidéo basé sur CD-ROM pour le PC Engine. Il est sorti en 1989 et proposait une large gamme de jeux CD-ROM, y compris des ports d'arcade, des jeux de rôle et des jeux d'aventure. Le CD-ROM² était connu pour sa qualité audio et vidéo élevée, ainsi que pour son utilisation innovante de la technologie CD-ROM.</desc>
+<desc lang="fr" region="us">Le TurboGrafx-CD est un périphérique de console de jeux vidéo basé sur CD-ROM pour le TurboGrafx-16. Il est sorti en 1990 et proposait une large gamme de jeux CD-ROM, y compris des ports d'arcade, des jeux de rôle et des jeux d'aventure. Le TurboGrafx-CD était connu pour sa qualité audio et vidéo élevée, ainsi que pour son utilisation innovante de la technologie CD-ROM.</desc>
+<desc lang="fr" region="jp">Le PC Engine CD-ROM² est un périphérique de console de jeux vidéo basé sur CD-ROM pour le PC Engine. Il est sorti en 1989 et proposait une large gamme de jeux CD-ROM, y compris des ports d'arcade, des jeux de rôle et des jeux d'aventure. Le CD-ROM² était connu pour sa qualité audio et vidéo élevée, ainsi que pour son utilisation innovante de la technologie CD-ROM.</desc>
+</variables>
 </theme>

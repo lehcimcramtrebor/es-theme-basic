@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Spectravideo</system.manufacturer>
+<system.fullName>Spectravideo</system.fullName>
+<system.releaseYearOrNull>1982</system.releaseYearOrNull>
+<desc>Spectravideo was a company that produced a line of home computers and video game consoles in the early 1980s. Their systems, like the SV-318 and SV-328, were known for their compatibility with the MSX standard and their focus on affordability. They offered a range of software, including games and productivity applications.</desc>
+<desc lang="fr">Spectravideo était une entreprise qui produisait une gamme d'ordinateurs personnels et de consoles de jeux vidéo au début des années 1980. Leurs systèmes, comme les SV-318 et SV-328, étaient connus pour leur compatibilité avec le standard MSX et leur accent sur l'abordabilité. Ils proposaient une gamme de logiciels, comprenant des jeux et des applications de productivité.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

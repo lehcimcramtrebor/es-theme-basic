@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
+<include>./../theme.xml</include>
 	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+<system.manufacturer>Konami</system.manufacturer>
+<system.fullName>Dynax</system.fullName>
+<system.releaseYearOrNull>1989</system.releaseYearOrNull>
+<desc>Dynax is an arcade system board developed by Konami. It was used for a small number of arcade games in the late 1980s. The system is notable for its use of custom graphics chips, allowing for detailed sprite work and smooth scrolling. Games released on the Dynax board often featured fast-paced action and vibrant colors, typical of Konami's arcade output during that era. While not as widely known as some of Konami's other arcade hardware, Dynax played a role in the company's arcade legacy.</desc>
+<desc lang="fr">Dynax est une carte système d'arcade développée par Konami. Elle a été utilisée pour un petit nombre de jeux d'arcade à la fin des années 1980. Le système est remarquable pour son utilisation de puces graphiques personnalisées, permettant un travail de sprite détaillé et un défilement fluide. Les jeux sortis sur la carte Dynax présentaient souvent une action rapide et des couleurs vives, typiques de la production d'arcade de Konami à cette époque. Bien que moins connu que certains autres matériels d'arcade de Konami, Dynax a joué un rôle dans l'héritage d'arcade de l'entreprise.</desc>
+</variables>
 </theme>

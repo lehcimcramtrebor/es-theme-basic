@@ -1,23 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
+<include>./../theme.xml</include>
 	<variables><region.priority region="eu"/>
+<system.manufacturer>Worlds of Wonder</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.fullName>Action Max</system.fullName>
+<system.fullName lang="fr">Action Max</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+<system.releaseYearOrNull>1987</system.releaseYearOrNull>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+<desc>The Action Max is a home video game console that was released in 1987. It is known for its light gun games and its use of VHS tapes.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+<desc lang="fr">L'Action Max est une console de jeux vidéo domestique sortie en 1987. Elle est connue pour ses jeux de pistolet optique et son utilisation de cassettes VHS.</desc>
+</variables>
 
 </theme>

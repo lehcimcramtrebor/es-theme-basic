@@ -1,23 +1,21 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
+<include>./../theme.xml</include>
 	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+<system.manufacturer>Magnavox/Philips</system.manufacturer>
+<system.fullName>Odyssey 2</system.fullName>
+<system.fullName region="us">Odyssey 2</system.fullName>
+<system.fullName region="jp">Odyssey 2</system.fullName>
+<system.fullName lang="fr">Odyssey 2</system.fullName>
+<system.releaseYearOrNull>1978</system.releaseYearOrNull>
+<system.releaseYearOrNull region="us">1978</system.releaseYearOrNull>
+<system.releaseYearOrNull region="jp">1982</system.releaseYearOrNull>
+<desc>The Magnavox Odyssey 2, also known as Philips Videopac G7000 in Europe, is a second-generation home video game console released in 1978. It featured a unique keyboard and a wide array of games, including educational titles and arcade classics. The console's innovative voice synthesis and speech capabilities set it apart from its competitors.</desc>
+<desc region="us">The Magnavox Odyssey 2, released in 1978, was a significant player in the early home video game market in the United States. Its distinctive keyboard and diverse game library catered to a wide audience. The console's educational games were particularly notable, providing a unique blend of learning and entertainment.</desc>
+<desc region="jp">The Odyssey 2 was launched in Japan in 1982. It offered a similar experience to the US version, with its own selection of games tailored to the Japanese market. Despite facing stiff competition, the Odyssey 2 carved out a niche for itself with its innovative features.</desc>
+<desc lang="fr">La Magnavox Odyssey 2, également connue sous le nom de Philips Videopac G7000 en Europe, est une console de jeux vidéo domestique de deuxième génération sortie en 1978. Elle comportait un clavier unique et un large éventail de jeux, y compris des titres éducatifs et des classiques d'arcade. Les capacités innovantes de synthèse vocale et de parole de la console l'ont distinguée de ses concurrents.</desc>
+<desc lang="fr" region="us">La Magnavox Odyssey 2, sortie en 1978, était un acteur important du marché des jeux vidéo domestiques aux États-Unis. Son clavier distinctif et sa bibliothèque de jeux diversifiée s'adressaient à un large public. Les jeux éducatifs de la console étaient particulièrement remarquables, offrant un mélange unique d'apprentissage et de divertissement.</desc>
+<desc lang="fr" region="jp">L'Odyssey 2 a été lancée au Japon en 1982. Elle offrait une expérience similaire à la version américaine, avec sa propre sélection de jeux adaptés au marché japonais. Malgré la forte concurrence, l'Odyssey 2 s'est taillé une place grâce à ses fonctionnalités innovantes.</desc>
+</variables>
 </theme>

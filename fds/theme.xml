@@ -1,23 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+        <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
+        <variables>
+        <region.priority region="eu"/>
 
-	<variables><region.priority region="eu"/>
+                <system.manufacturer>Nintendo</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+                <system.fullName>Family Computer Disk System</system.fullName>
+                <system.fullName lang="fr">Family Computer Disk System</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+                <system.releaseYearOrNull region="jp">1986</system.releaseYearOrNull>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+                <desc>The Family Computer Disk System (FDS) is a peripheral for the Family Computer (Famicom), Nintendo's Japanese version of the Nintendo Entertainment System (NES). It allowed the Famicom to play games stored on floppy disks, offering larger game sizes and save game functionality. It was only released in Japan.</desc>
+                <desc lang="fr">Le Family Computer Disk System (FDS) est un périphérique pour la Family Computer (Famicom), la version japonaise de Nintendo de la Nintendo Entertainment System (NES). Il permettait à la Famicom de lire des jeux stockés sur des disquettes, offrant des tailles de jeu plus importantes et une fonctionnalité de sauvegarde de jeu. Il n'est sorti qu'au Japon.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+        </variables>
 </theme>

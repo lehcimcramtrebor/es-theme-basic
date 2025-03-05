@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+  <variables>
+    <region.priority region="eu"/>
+    <system.manufacturer>Cave</system.manufacturer>
+    <system.fullName>Cave 3rd Generation</system.fullName>
+    <system.fullName lang="fr">Cave 3e génération</system.fullName>
+    <system.releaseYearOrNull>2004</system.releaseYearOrNull>
+    <desc>The Cave CV1000, commonly known as Cave 3rd Generation, is an arcade system board developed by Cave in 2004. It's the third iteration of their arcade hardware, succeeding the CV1000B with the enhanced CV1000D version. This system powered a range of popular Cave shooters, known for their intense bullet hell gameplay, vibrant visuals, and challenging difficulty.</desc>
+    <desc lang="fr">Le Cave CV1000, communément appelé Cave 3e génération, est une carte système d'arcade développée par Cave en 2004. Il s'agit de la troisième itération de leur matériel d'arcade, succédant au CV1000B avec la version améliorée CV1000D. Ce système a alimenté une gamme de jeux de tir Cave populaires, connus pour leur gameplay bullet hell intense, leurs visuels vibrants et leur difficulté élevée.</desc>
+  </variables>
 </theme>

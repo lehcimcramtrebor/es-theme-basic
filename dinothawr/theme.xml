@@ -1,23 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.fullName>Dinothawr</system.fullName>
+		<desc>Dinothawr is a free and open source beat-em-up game inspired by the arcade classics of the 80s and 90s. The game features four playable characters, each with their own unique fighting style. You must battle your way through hordes of enemies in order to save the world from the evil Dinothawr.</desc>
+		<desc lang="fr">Dinothawr est un jeu de beat-em-up gratuit et open source inspiré des classiques d'arcade des années 80 et 90. Le jeu propose quatre personnages jouables, chacun avec son propre style de combat unique. Vous devez vous frayer un chemin à travers des hordes d'ennemis afin de sauver le monde du maléfique Dinothawr.</desc>
 	</variables>
-
 </theme>

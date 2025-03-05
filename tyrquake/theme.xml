@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Open-source project</system.manufacturer>
+<system.fullName>TyrQuake</system.fullName>
+<desc>TyrQuake is an open-source project that aims to enhance and modernize the classic first-person shooter game, Quake. It focuses on improving the game's rendering capabilities, adding support for modern graphics APIs like Vulkan, and providing compatibility with contemporary operating systems. TyrQuake is developed by a community of enthusiasts dedicated to preserving and enhancing the Quake experience for current and future generations of gamers.</desc>
+<desc lang="fr">TyrQuake est un projet open-source qui vise à améliorer et moderniser le jeu de tir à la première personne classique, Quake. Il se concentre sur l'amélioration des capacités de rendu du jeu, l'ajout de la prise en charge des API graphiques modernes comme Vulkan et la compatibilité avec les systèmes d'exploitation contemporains. TyrQuake est développé par une communauté de passionnés dédiés à la préservation et à l'amélioration de l'expérience Quake pour les générations actuelles et futures de joueurs.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

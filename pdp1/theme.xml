@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
+<include>./../theme.xml</include>
 	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+<system.manufacturer>Digital Equipment Corporation (DEC)</system.manufacturer>
+<system.fullName>PDP-1</system.fullName>
+<system.fullName lang="fr">PDP-1</system.fullName>
+<desc>The PDP-1 (Programmed Data Processor-1) is a pioneering computer developed by Digital Equipment Corporation (DEC). Released in 1960, it was one of the first commercially successful interactive, real-time computers. Known for its innovative features and role in early computer science research, the PDP-1 significantly influenced the development of later computer systems.</desc>
+<desc lang="fr">Le PDP-1 (Programmed Data Processor-1) est un ordinateur pionnier développé par Digital Equipment Corporation (DEC). Sorti en 1960, il a été l'un des premiers ordinateurs interactifs et en temps réel à succès commercial. Connu pour ses fonctionnalités innovantes et son rôle dans les premières recherches en informatique, le PDP-1 a considérablement influencé le développement de systèmes informatiques ultérieurs.</desc>
+</variables>
 </theme>

@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Philips</system.manufacturer>
+<system.fullName>VG 5000</system.fullName>
+<system.releaseYearOrNull>1984</system.releaseYearOrNull>
+<desc>The VG 5000 is a home video game console released by Philips in 1984. It was one of several consoles based on the Philips Videopac+ G7400 system and was particularly popular in Europe. The console featured interchangeable cartridges and offered a variety of games across different genres. It had a distinctive design with a built-in keypad and a unique joystick. Despite its popularity in certain regions, the VG 5000 ultimately struggled to compete with other dominant consoles in the market.</desc>
+<desc lang="fr">La VG 5000 est une console de jeux vidéo domestique sortie par Philips en 1984. Elle faisait partie de plusieurs consoles basées sur le système Philips Videopac+ G7400 et était particulièrement populaire en Europe. La console comportait des cartouches interchangeables et offrait une variété de jeux dans différents genres. Elle avait un design distinctif avec un clavier intégré et un joystick unique. Malgré sa popularité dans certaines régions, la VG 5000 a finalement eu du mal à concurrencer les autres consoles dominantes du marché.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

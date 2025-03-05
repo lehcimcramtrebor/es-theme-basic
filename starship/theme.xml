@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Fan project / Various Contributors</system.manufacturer>
+<system.fullName>Starship (Star Fox 64 PC Conversion)</system.fullName>
+<desc>Starship is a fan-made project aiming to bring Star Fox 64 to PC. It's a conversion, not an official release, and its development involves various contributors. It seeks to recreate the gameplay and experience of the Nintendo 64 classic on the Windows platform. Expect enhanced graphics, potentially higher resolutions, and the familiar on-rails shooting action.</desc>
+<desc lang="fr">Starship est un projet de fan visant à porter Star Fox 64 sur PC. C'est une conversion, pas une version officielle, et son développement implique divers contributeurs. Il cherche à recréer le gameplay et l'expérience du classique de la Nintendo 64 sur la plateforme Windows. Attendez-vous à des graphismes améliorés, potentiellement des résolutions plus élevées et l'action de tir sur rails familière.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
+<include>./../theme.xml</include>
 	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+<system.manufacturer>NEC</system.manufacturer>
+<system.fullName>PC-9801</system.fullName>
+<system.fullName lang="fr">PC-9801</system.fullName>
+<desc>The NEC PC-9801 is a series of 16-bit personal computers released by NEC in 1982. It was the dominant PC platform in Japan during the 1980s and 1990s, known for its high-resolution graphics and advanced sound capabilities. The PC-9801 had a wide range of software, including games, productivity applications, and educational tools. Its popularity led to numerous variations and models throughout its lifespan.</desc>
+<desc lang="fr">Le NEC PC-9801 est une série d'ordinateurs personnels 16 bits commercialisée par NEC en 1982. C'était la plate-forme PC dominante au Japon dans les années 1980 et 1990, connue pour ses graphismes haute résolution et ses capacités sonores avancées. Le PC-9801 avait une large gamme de logiciels, y compris des jeux, des applications de productivité et des outils éducatifs. Sa popularité a conduit à de nombreuses variations et modèles tout au long de sa durée de vie.</desc>
+</variables>
 </theme>

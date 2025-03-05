@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="jp"/>
+		<system.manufacturer>Aquaplus</system.manufacturer>
+		<system.fullName>P/ECE</system.fullName>
+		<system.releaseYearOrNull>2001</system.releaseYearOrNull>
+		<desc>The P/ECE is a Japan-only handheld gaming console released by Aquaplus in 2001. It is known for its unique design, which resembles a handheld PC, and its focus on visual novels and dating sims. The P/ECE had a small library of games, but some of them were critically acclaimed.</desc>
+		<desc lang="fr">La P/ECE est une console de jeu portable uniquement japonaise sortie par Aquaplus en 2001. Elle est connue pour son design unique, qui ressemble à un PC portable, et son accent sur les romans visuels et les simulations de rencontres. La P/ECE avait une petite ludothèque, mais certains de ses jeux ont été salués par la critique.</desc>
 	</variables>
-
 </theme>

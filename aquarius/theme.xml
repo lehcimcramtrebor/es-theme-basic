@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Mattel</system.manufacturer>
+		<system.fullName>Mattel Aquarius</system.fullName>
+		<system.fullName lang="fr">Mattel Aquarius</system.fullName>
+		<system.releaseYearOrNull>1983</system.releaseYearOrNull>
+		<desc>The Mattel Aquarius is a home computer that was released by Mattel in 1983. It was based on the Zilog Z80 microprocessor and was designed to be an entry-level computer for the home market. The Aquarius was not a commercial success, and it was discontinued in 1983.</desc>
+		<desc lang="fr">Le Mattel Aquarius est un ordinateur personnel sorti par Mattel en 1983. Il était basé sur le microprocesseur Zilog Z80 et était conçu pour être un ordinateur d'entrée de gamme pour le marché domestique. L'Aquarius n'a pas été un succès commercial et il a été abandonné en 1983.</desc>
 	</variables>
-
 </theme>

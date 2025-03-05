@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Sega</system.manufacturer>
+        <system.fullName>Sega Model 1</system.fullName>
+        <system.releaseYearOrNull>1992</system.releaseYearOrNull>
+        <desc>The Sega Model 1 is an arcade system board released by Sega in 1992. It was Sega's first 3D arcade system, known for its groundbreaking graphics and immersive gameplay. The Model 1 powered several iconic arcade games, including Virtua Racing and Virtua Fighter, which helped popularize 3D polygonal graphics in the arcade scene.</desc>
+        <desc lang="fr">Le Sega Model 1 est une carte système d'arcade commercialisée par Sega en 1992. C'était le premier système d'arcade 3D de Sega, connu pour ses graphismes révolutionnaires et son gameplay immersif. Le Model 1 a alimenté plusieurs jeux d'arcade emblématiques, dont Virtua Racing et Virtua Fighter, qui ont contribué à populariser les graphismes polygonaux 3D dans le milieu de l'arcade.</desc>
+    </variables>
 </theme>

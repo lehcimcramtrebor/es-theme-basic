@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Atari</system.manufacturer>
+		<system.fullName>Atari 400</system.fullName>
+		<system.fullName lang="fr">Atari 400</system.fullName>
+		<system.releaseYearOrNull>1979</system.releaseYearOrNull>
+		<desc>The Atari 400 is an 8-bit home computer released by Atari, Inc. in 1979. It was part of the Atari 8-bit family and was notable for its membrane keyboard and its custom graphics and sound chips. The Atari 400 was designed to be a more affordable alternative to the Atari 800, which was released at the same time.</desc>
+		<desc lang="fr">L'Atari 400 est un ordinateur personnel 8 bits sorti par Atari, Inc. en 1979. Il faisait partie de la famille Atari 8 bits et était connu pour son clavier à membrane et ses puces graphiques et sonores personnalisées. L'Atari 400 a été conçu pour être une alternative plus abordable à l'Atari 800, qui est sorti en même temps.</desc>
 	</variables>
-
 </theme>

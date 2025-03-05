@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>PopCap Games</system.manufacturer>
+		<system.fullName>PopCap Games</system.fullName>
+		<system.fullName lang="fr">PopCap Games</system.fullName>
+		<desc>PopCap Games was an American video game developer and publisher. They specialized in casual games that were simple to learn and play, yet highly addictive. Their most popular titles included Plants vs. Zombies, Bejeweled, and Peggle.</desc>
+		<desc lang="fr">PopCap Games était un développeur et éditeur américain de jeux vidéo. Ils se sont spécialisés dans les jeux occasionnels simples à apprendre et à jouer, mais très addictifs. Leurs titres les plus populaires comprenaient Plants vs. Zombies, Bejeweled et Peggle.</desc>
 	</variables>
-
 </theme>

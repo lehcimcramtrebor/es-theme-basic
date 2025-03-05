@@ -1,23 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
+    <variables>
+        <region.priority region="eu"/>
 
-	<variables><region.priority region="eu"/>
+        <system.manufacturer>Capcom</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+        <system.fullName>Capcom Play System 1</system.fullName>
+        <system.fullName lang="fr">Capcom Play System 1</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+        <system.releaseYearOrNull>1988</system.releaseYearOrNull>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+        <desc>The Capcom Play System 1 (CPS-1) is an arcade system board developed by Capcom. It was first used in 1988 with the release of Forgotten Worlds. The CPS-1 is known for its high-quality graphics and sound, and it was used for a variety of popular arcade games, including Street Fighter II, Final Fight, and Captain Commando. The system's success helped to establish Capcom as a major player in the arcade game industry.</desc>
+        <desc lang="fr">Le Capcom Play System 1 (CPS-1) est une carte système d'arcade développée par Capcom. Il a été utilisé pour la première fois en 1988 avec la sortie de Forgotten Worlds. Le CPS-1 est connu pour ses graphismes et son son de haute qualité, et il a été utilisé pour une variété de jeux d'arcade populaires, notamment Street Fighter II, Final Fight et Captain Commando. Le succès du système a contribué à établir Capcom en tant qu'acteur majeur de l'industrie des jeux d'arcade.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    </variables>
 </theme>

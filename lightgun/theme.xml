@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+  <variables>
+    <region.priority region="eu"/>
+    <system.manufacturer>Various</system.manufacturer>
+    <system.fullName>Lightgun Games</system.fullName>
+    <system.fullName lang="fr">Jeux de pistolet optique</system.fullName>
+    <desc>Lightgun games utilize a light gun, a pointing device that senses light from a screen, allowing players to aim and shoot targets in the game. They are often associated with arcade shooters and offer an interactive and immersive experience.</desc>
+    <desc lang="fr">Les jeux de pistolet optique utilisent un pistolet optique, un dispositif de pointage qui détecte la lumière d'un écran, permettant aux joueurs de viser et de tirer sur des cibles dans le jeu. Ils sont souvent associés aux jeux de tir d'arcade et offrent une expérience interactive et immersive.</desc>
+  </variables>
 </theme>

@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Lexaloffle Games</system.manufacturer>
+		<system.fullName>PICO-8</system.fullName>
+		<system.fullName lang="fr">PICO-8</system.fullName>
+		<desc>PICO-8 is a fantasy console for making, sharing and playing small games and other computer programs. It feels like a machine from an alternate universe where computers were low-spec by default. PICO-8's built-in tools impose some strict limitations on your design space, and in return, let you explore a very small but rich world that feels like a cross between the NES and the demoscene.</desc>
+		<desc lang="fr">PICO-8 est une console de fantaisie pour créer, partager et jouer à de petits jeux et autres programmes informatiques. Il ressemble à une machine d'un univers alternatif où les ordinateurs étaient à faible spécification par défaut. Les outils intégrés de PICO-8 imposent des limitations strictes sur votre espace de conception, et en retour, vous permettent d'explorer un monde très petit mais riche qui ressemble à un croisement entre la NES et la demoscene.</desc>
 	</variables>
-
 </theme>

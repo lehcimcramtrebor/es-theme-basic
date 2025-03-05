@@ -1,23 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
+    <variables>
+        <region.priority region="eu"/>
 
-	<variables><region.priority region="eu"/>
+        <system.manufacturer>Capcom</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+        <system.fullName>Capcom Play System 2</system.fullName>
+        <system.fullName lang="fr">Capcom Play System 2</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+        <system.releaseYearOrNull>1993</system.releaseYearOrNull>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+        <desc>The Capcom Play System 2 (CPS-2) is an arcade system board developed by Capcom. It was first used in 1993 with the release of Super Street Fighter II: The New Challengers. The CPS-2 is known for its improved graphics and sound compared to its predecessor, the CPS-1. It was used for a variety of popular arcade games, including Darkstalkers, Marvel vs. Capcom, and Street Fighter Alpha. The system's success helped to solidify Capcom's position as a leading developer of arcade games.</desc>
+        <desc lang="fr">Le Capcom Play System 2 (CPS-2) est une carte système d'arcade développée par Capcom. Il a été utilisé pour la première fois en 1993 avec la sortie de Super Street Fighter II: The New Challengers. Le CPS-2 est connu pour ses graphismes et son son améliorés par rapport à son prédécesseur, le CPS-1. Il a été utilisé pour une variété de jeux d'arcade populaires, notamment Darkstalkers, Marvel vs. Capcom et Street Fighter Alpha. Le succès du système a contribué à consolider la position de Capcom en tant que développeur de premier plan de jeux d'arcade.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    </variables>
 </theme>

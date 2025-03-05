@@ -1,23 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
+<include>./../theme.xml</include>
 	<variables><region.priority region="eu"/>
+<system.manufacturer>Accolade</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.fullName>Accolade Games</system.fullName>
+<system.fullName lang="fr">Jeux Accolade</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+<system.releaseYearOrNull>1984</system.releaseYearOrNull>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+<desc>Accolade was an American video game publisher and developer that was active from 1984 to 1999. Founded by former Activision employees Alan Miller and Bob Whitehead, Accolade is best known for publishing and developing popular titles such as Test Drive, HardBall!, and Bubsy. The company was acquired by Infogrames in 1999 and became Atari, Inc. in 2003.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+<desc lang="fr">Accolade était un éditeur et développeur américain de jeux vidéo actif de 1984 à 1999. Fondée par les anciens employés d'Activision Alan Miller et Bob Whitehead, Accolade est surtout connue pour la publication et le développement de titres populaires tels que Test Drive, HardBall ! et Bubsy. La société a été acquise par Infogrames en 1999 et est devenue Atari, Inc. en 2003.</desc>
+</variables>
 
 </theme>

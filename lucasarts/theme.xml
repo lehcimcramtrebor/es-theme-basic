@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>LucasArts</system.manufacturer>
+        <system.fullName>LucasArts Games</system.fullName>
+        <system.fullName lang="fr">Jeux LucasArts</system.fullName>
+        <system.releaseYearOrNull>1982</system.releaseYearOrNull> 
+        <desc>LucasArts, formerly Lucasfilm Games, was a leading American video game developer and publisher. Founded by George Lucas in 1982, the company was known for its innovative adventure games and titles based on the Star Wars franchise. LucasArts played a significant role in the golden age of adventure games, creating classics like Maniac Mansion, The Secret of Monkey Island, and Grim Fandango.</desc>
+        <desc lang="fr">LucasArts, anciennement Lucasfilm Games, était un développeur et éditeur de jeux vidéo américain de premier plan. Fondée par George Lucas en 1982, la société était connue pour ses jeux d'aventure innovants et ses titres basés sur la franchise Star Wars. LucasArts a joué un rôle important dans l'âge d'or des jeux d'aventure, créant des classiques comme Maniac Mansion, The Secret of Monkey Island et Grim Fandango.</desc>
+    </variables>
 </theme>

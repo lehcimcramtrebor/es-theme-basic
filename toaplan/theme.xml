@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Toaplan</system.manufacturer>
+<system.fullName>Toaplan Arcade Systems</system.fullName>
+<desc>Toaplan was a Japanese video game developer known for creating popular arcade games in the 1980s and early 1990s. They specialized in shoot 'em up games, with titles like Truxton, Zero Wing, and Batsugun being highly regarded for their intense action, challenging gameplay, and detailed graphics. Toaplan's arcade systems powered these classics, showcasing their expertise in creating engaging and visually impressive arcade experiences.</desc>
+<desc lang="fr">Toaplan était un développeur de jeux vidéo japonais connu pour avoir créé des jeux d'arcade populaires dans les années 1980 et au début des années 1990. Ils se sont spécialisés dans les jeux de tir, avec des titres comme Truxton, Zero Wing et Batsugun étant très appréciés pour leur action intense, leur gameplay stimulant et leurs graphismes détaillés. Les systèmes d'arcade de Toaplan ont propulsé ces classiques, démontrant leur expertise dans la création d'expériences d'arcade engageantes et visuellement impressionnantes.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

@@ -1,23 +1,17 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+        <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
+        <variables>
+        <region.priority region="eu"/>
 
-	<variables><region.priority region="eu"/>
+                <system.manufacturer>elcor2b</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+                <system.fullName>VIP Collection</system.fullName>
+                <system.fullName lang="fr">Collection VIP</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+                <desc>elcor2b's personal collection of retro games and systems. This curated collection reflects a passion for gaming history, featuring rare and sought-after items. </desc>
+        <desc lang="fr">Collection personnelle de jeux et de systèmes rétro d'elcor2b. Cette collection reflète une passion pour l'histoire du jeu vidéo, avec des objets rares et recherchés. </desc>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+        </variables>
 </theme>

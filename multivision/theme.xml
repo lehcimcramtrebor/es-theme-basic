@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Tsukuda Original</system.manufacturer>
+        <system.fullName>Othello Multivision</system.fullName>
+        <system.releaseYearOrNull>1983</system.releaseYearOrNull>
+        <desc>The Multivision, also known as Othello Multivision, is a licensed clone of the Sega SG-1000 home video game console. It was designed by Tsukuda Original in 1983. The Multivision was intended to be a global standard, but it didn't achieve the same level of success as the SG-1000. It was primarily sold in Japan.</desc>
+        <desc lang="fr">La Multivision, également connue sous le nom de Othello Multivision, est un clone sous licence de la console de jeux vidéo domestique Sega SG-1000. Elle a été conçue par Tsukuda Original en 1983. La Multivision était destinée à être une norme mondiale, mais elle n'a pas atteint le même niveau de succès que la SG-1000. Elle a été principalement vendue au Japon.</desc>
+    </variables>
 </theme>

@@ -2,22 +2,20 @@
 
 <theme>
 
-	<formatVersion>7</formatVersion>
+        <formatVersion>7</formatVersion>
 
-    <include>./../theme.xml</include>
+        <include>./../theme.xml</include>
 
-	<variables><region.priority region="eu"/>
+        <variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+        <system.manufacturer>Seta Corporation</system.manufacturer>
 
-		<!--<system.fullName>name</system.fullName>-->
+        <system.fullName>Seta Corporation</system.fullName>
+        <system.fullName lang="fr">Seta Corporation</system.fullName>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+        <desc>Seta Corporation was a Japanese video game developer and publisher known for its arcade games and contributions to various home consoles. They produced a range of titles, including sports games, shooters, and puzzle games. Seta also developed arcade hardware, notably the Seta X Board and the Aleck 64. Some of their popular arcade releases include "Guardian Force" and "Metamorphic Force."</desc>
+        <desc lang="fr">Seta Corporation était un développeur et éditeur de jeux vidéo japonais connu pour ses jeux d'arcade et ses contributions à diverses consoles de salon. Ils ont produit une gamme de titres, notamment des jeux de sport, des jeux de tir et des jeux de réflexion. Seta a également développé du matériel d'arcade, notamment la Seta X Board et l'Aleck 64. Parmi leurs jeux d'arcade populaires, citons "Guardian Force" et "Metamorphic Force".</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+</variables>
 
 </theme>

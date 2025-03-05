@@ -1,23 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+        <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
+        <variables>
+        <region.priority region="eu"/>
 
-	<variables><region.priority region="eu"/>
+                <system.manufacturer>EasyRPG Team</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+                <system.fullName>EasyRPG Player</system.fullName>
+                <system.fullName lang="fr">Lecteur EasyRPG</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+                <system.releaseYearOrNull>2007</system.releaseYearOrNull>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+                <desc>EasyRPG Player is a free, open-source, cross-platform interpreter for games created with RPG Maker 2000 and RPG Maker 2003. It allows you to play your favorite RPG Maker games on a variety of devices and operating systems.</desc>
+                <desc lang="fr">EasyRPG Player est un interpréteur multiplateforme libre et open-source pour les jeux créés avec RPG Maker 2000 et RPG Maker 2003. Il vous permet de jouer à vos jeux RPG Maker préférés sur une variété d'appareils et de systèmes d'exploitation.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+        </variables>
 </theme>

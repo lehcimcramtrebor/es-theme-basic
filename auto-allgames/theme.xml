@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Various</system.manufacturer>
+		<system.fullName>All Games</system.fullName>
+		<system.fullName lang="fr">Tous les jeux</system.fullName>
+		<desc>A comprehensive collection of video games from various platforms, genres, and eras.</desc>
+		<desc lang="fr">Une collection complète de jeux vidéo de diverses plateformes, genres et époques.</desc>
 	</variables>
-
 </theme>

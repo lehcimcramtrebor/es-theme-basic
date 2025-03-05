@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
-<theme defaultView="library">
-
+<theme>
 	<formatVersion>7</formatVersion>
-
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+	<variables>
+        <region.priority region="eu"/>
+        <system.fullName>Image viewer</system.fullName>
+        <system.fullName lang="fr">Visionneur d'images</system.fullName>
+        <desc>An image viewer is a software application or component that allows users to display and browse digital image files. It often includes features for zooming, rotating, and basic image manipulation.</desc>
+        <desc lang="fr">Un visionneur d'images est une application logicielle ou un composant qui permet aux utilisateurs d'afficher et de parcourir des fichiers d'images numériques. Il comprend souvent des fonctionnalités pour zoomer, faire pivoter et manipuler des images de base.</desc>
+    </variables>
 </theme>

@@ -1,23 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+	<variables>
+        <region.priority region="eu"/>
+        <system.fullName>Ikemen</system.fullName>
+        <desc>Ikemen is a free and open-source 2D fighting game engine. It allows users to create and customize their own fighting games with original characters, stages, and gameplay mechanics.</desc>
+        <desc lang="fr">Ikemen est un moteur de jeu de combat 2D gratuit et open-source. Il permet aux utilisateurs de créer et de personnaliser leurs propres jeux de combat avec des personnages, des scènes et des mécanismes de jeu originaux.</desc>
+    </variables>
 </theme>

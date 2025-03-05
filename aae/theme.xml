@@ -1,23 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
+<include>./../theme.xml</include>
 	<variables><region.priority region="eu"/>
+<system.manufacturer>Tim</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.fullName>AAE (Another Arcade Emulator)</system.fullName>
+<system.fullName lang="fr">AAE (Another Arcade Emulator)</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+<system.releaseYearOrNull>2000</system.releaseYearOrNull>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+<desc>AAE (Another Arcade Emulator) is an arcade game emulator for Windows, developed by Tim. It is designed to emulate a wide range of classic arcade games. Known for its simplicity and efficiency, it provides a straightforward interface for playing retro arcade titles on modern PCs.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+<desc lang="fr">AAE (Another Arcade Emulator) est un émulateur de jeux d'arcade pour Windows, développé par Tim. Il est conçu pour émuler une large gamme de jeux d'arcade classiques. Connu pour sa simplicité et son efficacité, il fournit une interface simple pour jouer à des titres d'arcade rétro sur des PC modernes.</desc>
+</variables>
 
 </theme>

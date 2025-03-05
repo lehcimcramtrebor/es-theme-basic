@@ -1,23 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+  <variables>
+    <region.priority region="eu" />
+    <system.manufacturer>SNK</system.manufacturer>
+    <system.fullName>Neo Geo Pocket</system.fullName>
+    <system.releaseYearOrNull>1998</system.releaseYearOrNull>
+    <system.releaseYearOrNull region="jp">1998</system.releaseYearOrNull>
+    <desc>The Neo Geo Pocket is a handheld game console released by SNK in 1998. It was SNK's first entry into the handheld market and featured a monochrome display. Despite its limited color palette, the Neo Geo Pocket offered a solid library of fighting games and other genres, including popular titles like King of Fighters R-1 and Samurai Shodown! 2.</desc>
+    <desc region="jp">The Neo Geo Pocket is a handheld game console released by SNK in 1998. It was SNK's first entry into the handheld market and featured a monochrome display. Despite its limited color palette, the Neo Geo Pocket offered a solid library of fighting games and other genres, including popular titles like King of Fighters R-1 and Samurai Shodown! 2.</desc>
+    <desc lang="fr">La Neo Geo Pocket est une console de jeux portable sortie par SNK en 1998. C'était la première entrée de SNK sur le marché des consoles portables et elle comportait un écran monochrome. Malgré sa palette de couleurs limitée, la Neo Geo Pocket offrait une solide bibliothèque de jeux de combat et d'autres genres, notamment des titres populaires comme King of Fighters R-1 et Samurai Shodown! 2.</desc>
+    <desc lang="fr" region="jp">La Neo Geo Pocket est une console de jeux portable sortie par SNK en 1998. C'était la première entrée de SNK sur le marché des consoles portables et elle comportait un écran monochrome. Malgré sa palette de couleurs limitée, la Neo Geo Pocket offrait une solide bibliothèque de jeux de combat et d'autres genres, notamment des titres populaires comme King of Fighters R-1 et Samurai Shodown! 2.</desc>
+  </variables>
 </theme>

@@ -4,20 +4,16 @@
 
 	<formatVersion>7</formatVersion>
 
-    <include>./../theme.xml</include>
+<include>./../theme.xml</include>
 
 	<variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.manufacturer>Fujitsu</system.manufacturer>
+<system.fullName>FM Towns</system.fullName>
+<system.releaseYearOrNull>1989</system.releaseYearOrNull>
+<desc>The FM Towns is a Japanese personal computer, manufactured by Fujitsu from 1989 to 1997. It began as a proprietary PC variant intended for multimedia applications and PC games, but later became more compatible with IBM PC compatibles. In 1993, the FM Towns Marty was released, a game console compatible with existing FM Towns games.</desc>
+<desc lang="fr">Le FM Towns est un ordinateur personnel japonais, fabriqué par Fujitsu de 1989 à 1997. Il a commencé comme une variante de PC propriétaire destinée aux applications multimédias et aux jeux PC, mais est devenu plus tard compatible avec les compatibles IBM PC. En 1993, le FM Towns Marty est sorti, une console de jeux compatible avec les jeux FM Towns existants.</desc>
 
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+</variables>
 
 </theme>

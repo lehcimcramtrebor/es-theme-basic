@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Sega / Christian Whitehead, Headcannon, PagodaWest Games</system.manufacturer>
+<system.fullName>Sonic Mania</system.fullName>
+<system.releaseYearOrNull>2017</system.releaseYearOrNull>
+<desc>Sonic Mania is a 2D side-scrolling platform game in the Sonic the Hedgehog series, developed by Christian Whitehead, Headcannon, and PagodaWest Games. It was released in 2017 for Nintendo Switch, PlayStation 4, Xbox One, and Windows. The game is a celebration of the classic 16-bit Sonic games, featuring remastered levels from previous games and new original levels. It was praised for its faithful recreation of the classic Sonic gameplay and its beautiful pixel art graphics.</desc>
+<desc lang="fr">Sonic Mania est un jeu de plateforme à défilement latéral en 2D de la série Sonic the Hedgehog, développé par Christian Whitehead, Headcannon et PagodaWest Games. Il est sorti en 2017 sur Nintendo Switch, PlayStation 4, Xbox One et Windows. Le jeu est une célébration des jeux Sonic classiques 16 bits, avec des niveaux remasterisés des jeux précédents et de nouveaux niveaux originaux. Il a été salué pour sa recréation fidèle du gameplay classique de Sonic et ses magnifiques graphismes pixel art.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

@@ -4,20 +4,21 @@
 
 	<formatVersion>7</formatVersion>
 
-    <include>./../theme.xml</include>
+<include>./../theme.xml</include>
 
 	<variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.manufacturer>Homebrew/Open-source</system.manufacturer>
 
-		<!--<system.fullName>name</system.fullName>-->
+<system.fullName>Reminiscence</system.fullName>
+<system.fullName lang="fr">Réminiscence</system.fullName>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+<system.releaseYearOrNull>2023</system.releaseYearOrNull>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
+<desc>Reminiscence is an open-source reimplementation of the engine used in the game "Flashback: The Quest for Identity". It allows users to play the game on modern systems with improved compatibility and features.</desc>
 
-	</variables>
+<desc lang="fr">Réminiscence est une réimplémentation open-source du moteur utilisé dans le jeu "Flashback: The Quest for Identity". Il permet aux utilisateurs de jouer au jeu sur des systèmes modernes avec une compatibilité et des fonctionnalités améliorées.</desc>
+
+</variables>
 
 </theme>

@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.fullName>Computer RPGs</system.fullName>
+        <system.fullName lang="fr">Jeux de rôle sur ordinateur</system.fullName>
+        <desc>Computer role-playing games (CRPGs) encompass a diverse genre of video games where players assume the roles of characters in a fictional world. These games often feature deep narratives, complex character development, and strategic combat. CRPGs have evolved significantly since their early text-based origins, incorporating rich graphics, immersive sound, and branching storylines. Popular examples include series like Baldur's Gate, Fallout, and The Elder Scrolls, each offering unique settings and gameplay experiences.</desc>
+        <desc lang="fr">Les jeux de rôle sur ordinateur (JRO) englobent un genre diversifié de jeux vidéo où les joueurs assument les rôles de personnages dans un monde fictif. Ces jeux comportent souvent des récits profonds, un développement de personnage complexe et des combats stratégiques. Les JRO ont considérablement évolué depuis leurs premières origines textuelles, intégrant des graphismes riches, un son immersif et des scénarios à embranchements. Les exemples populaires incluent des séries comme Baldur's Gate, Fallout et The Elder Scrolls, chacune offrant des paramètres et des expériences de jeu uniques.</desc>
+    </variables>
 </theme>

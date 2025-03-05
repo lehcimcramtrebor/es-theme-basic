@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Bandai</system.manufacturer>
+<system.fullName region="jp">Sufami Turbo</system.fullName>
+<desc region="jp">The Sufami Turbo is a peripheral developed by Bandai for the Super Famicom. It allowed for the use of small, inexpensive cartridges and offered features like game linking and data sharing between compatible titles. It was primarily released in Japan and featured a variety of games, often based on popular anime and manga properties.</desc>
+<desc lang="fr" region="jp">Le Sufami Turbo est un périphérique développé par Bandai pour la Super Famicom. Il permettait l'utilisation de petites cartouches peu coûteuses et offrait des fonctionnalités telles que la liaison de jeux et le partage de données entre les titres compatibles. Il a été principalement publié au Japon et comportait une variété de jeux, souvent basés sur des propriétés populaires d'anime et de manga.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

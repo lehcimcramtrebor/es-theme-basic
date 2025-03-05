@@ -1,23 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>SNK</system.manufacturer>
+        <system.fullName>Neo Geo CD</system.fullName>
+        <system.releaseYearOrNull>1994</system.releaseYearOrNull>
+        <system.releaseYearOrNull region="us">1995</system.releaseYearOrNull>
+        <system.releaseYearOrNull region="jp">1994</system.releaseYearOrNull>
+        <desc>The Neo Geo CD is a home video game console released by SNK in 1994. It was designed to be a more affordable alternative to the Neo Geo AES, which used expensive cartridges. The Neo Geo CD used CD-ROMs, which were much cheaper to produce than cartridges. The console was popular in Japan, but it was not as successful in North America or Europe.</desc>
+        <desc region="us">The Neo Geo CD is a home video game console released by SNK in 1995. It was designed to be a more affordable alternative to the Neo Geo AES, which used expensive cartridges. The Neo Geo CD used CD-ROMs, which were much cheaper to produce than cartridges. The console was popular in Japan, but it was not as successful in North America or Europe.</desc>
+        <desc region="jp">The Neo Geo CD is a home video game console released by SNK in 1994. It was designed to be a more affordable alternative to the Neo Geo AES, which used expensive cartridges. The Neo Geo CD used CD-ROMs, which were much cheaper to produce than cartridges. The console was popular in Japan, but it was not as successful in North America or Europe.</desc>
+        <desc lang="fr">La Neo Geo CD est une console de jeux vidéo domestique commercialisée par SNK en 1994. Elle a été conçue pour être une alternative plus abordable à la Neo Geo AES, qui utilisait des cartouches coûteuses. La Neo Geo CD utilisait des CD-ROM, qui étaient beaucoup moins chers à produire que les cartouches. La console était populaire au Japon, mais elle n'a pas connu le même succès en Amérique du Nord ou en Europe.</desc>
+        <desc lang="fr" region="us">La Neo Geo CD est une console de jeux vidéo domestique commercialisée par SNK en 1995. Elle a été conçue pour être une alternative plus abordable à la Neo Geo AES, qui utilisait des cartouches coûteuses. La Neo Geo CD utilisait des CD-ROM, qui étaient beaucoup moins chers à produire que les cartouches. La console était populaire au Japon, mais elle n'a pas connu le même succès en Amérique du Nord ou en Europe.</desc>
+        <desc lang="fr" region="jp">La Neo Geo CD est une console de jeux vidéo domestique commercialisée par SNK en 1994. Elle a été conçue pour être une alternative plus abordable à la Neo Geo AES, qui utilisait des cartouches coûteuses. La Neo Geo CD utilisait des CD-ROM, qui étaient beaucoup moins chers à produire que les cartouches. La console était populaire au Japon, mais elle n'a pas connu le même succès en Amérique du Nord ou en Europe.</desc>
+    </variables>
 </theme>

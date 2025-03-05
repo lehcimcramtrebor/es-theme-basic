@@ -1,23 +1,17 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+        <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<variables><region.priority region="eu"/>
+<system.manufacturer>YoYo Games</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.fullName>GameMaker Studio 2</system.fullName>
+<system.fullName lang="fr">GameMaker Studio 2</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+<desc>GameMaker Studio 2 is a comprehensive 2D game development environment that allows developers to create games for a variety of platforms, including desktop, mobile, and consoles. It's known for its user-friendly interface and drag-and-drop functionality, making it accessible to beginners, while also offering a powerful scripting language (GML) for more advanced users. GameMaker Studio 2 is used to create a wide range of game genres, from platformers and RPGs to puzzle games and simulations. Popular games created with GameMaker Studio 2 include Undertale, Hotline Miami, and Spelunky 2.</desc>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+<desc lang="fr">GameMaker Studio 2 est un environnement de développement de jeux 2D complet qui permet aux développeurs de créer des jeux pour diverses plateformes, notamment les ordinateurs de bureau, les appareils mobiles et les consoles. Il est connu pour son interface conviviale et sa fonctionnalité de glisser-déposer, ce qui le rend accessible aux débutants, tout en offrant un langage de script puissant (GML) pour les utilisateurs plus avancés. GameMaker Studio 2 est utilisé pour créer une large gamme de genres de jeux, des jeux de plateforme et des RPG aux jeux de puzzle et aux simulations. Les jeux populaires créés avec GameMaker Studio 2 incluent Undertale, Hotline Miami et Spelunky 2.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Various</system.manufacturer>
+        <system.fullName>MSX2+</system.fullName>
+        <system.releaseYearOrNull>1988</system.releaseYearOrNull>
+        <desc>The MSX2+ is an enhanced version of the MSX2 home computer standard, released in 1988. It featured improved graphics, sound, and memory capabilities, making it the most powerful 8-bit MSX system. The MSX2+ was primarily popular in Japan and offered a wide range of games and software, including many titles that pushed the limits of the MSX architecture.</desc>
+        <desc lang="fr">Le MSX2+ est une version améliorée de la norme d'ordinateur personnel MSX2, sortie en 1988. Il offrait des graphismes, un son et des capacités de mémoire améliorés, ce qui en faisait le système MSX 8 bits le plus puissant. Le MSX2+ était principalement populaire au Japon et offrait une large gamme de jeux et de logiciels, dont de nombreux titres qui repoussaient les limites de l'architecture MSX.</desc>
+    </variables>
 </theme>

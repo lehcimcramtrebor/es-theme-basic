@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Atari</system.manufacturer>
+		<system.fullName>Atari 5200</system.fullName>
+		<system.fullName lang="fr">Atari 5200</system.fullName>
+		<system.releaseYearOrNull>1982</system.releaseYearOrNull>
+		<desc>The Atari 5200 SuperSystem, often shortened to the Atari 5200, is a second-generation home video game console that was released by Atari, Inc. in 1982. Created to compete with the Intellivision, it was essentially a home version of Atari's arcade games. The 5200 had considerably improved graphics compared to its predecessor, the Atari 2600. It also introduced analog joysticks with a numeric keypad and function buttons, a significant departure from the 2600's digital joysticks.</desc>
+		<desc lang="fr">L'Atari 5200 SuperSystem, souvent abrégé en Atari 5200, est une console de jeux vidéo domestique de deuxième génération qui a été lancée par Atari, Inc. en 1982. Créée pour concurrencer l'Intellivision, elle était essentiellement une version domestique des jeux d'arcade d'Atari. La 5200 avait des graphismes considérablement améliorés par rapport à son prédécesseur, l'Atari 2600. Elle a également introduit des joysticks analogiques avec un clavier numérique et des boutons de fonction, une rupture significative avec les joysticks numériques de la 2600.</desc>
 	</variables>
-
 </theme>

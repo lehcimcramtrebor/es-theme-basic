@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+  <variables>
+    <region.priority region="eu"/>
+    <system.manufacturer>Various</system.manufacturer>
+    <system.fullName>Role-Playing Games</system.fullName>
+    <system.fullName lang="fr">Jeux de rôle</system.fullName>
+    <desc>Role-playing games (RPGs) emphasize character development and progression, often with deep narratives and intricate storylines. Players typically control one or more characters, embarking on quests and adventures in a variety of settings.</desc>
+    <desc lang="fr">Les jeux de rôle (RPG) mettent l'accent sur le développement et la progression du personnage, souvent avec des récits profonds et des intrigues complexes. Les joueurs contrôlent généralement un ou plusieurs personnages, se lançant dans des quêtes et des aventures dans divers environnements.</desc>
+  </variables>
 </theme>

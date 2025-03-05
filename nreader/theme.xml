@@ -1,23 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Nintendo</system.manufacturer>
+        <system.fullName>Nintendo e-Reader</system.fullName>
+        <system.releaseYearOrNull region="jp">2001</system.releaseYearOrNull>
+        <system.releaseYearOrNull region="us">2002</system.releaseYearOrNull>
+        <desc region="jp">The e-Reader is a peripheral for the Game Boy Advance that allows users to scan special cards to unlock content, such as classic NES games, new levels for GBA games, and other bonus features. Released in Japan in 2001, it brought new possibilities to the GBA gaming experience.</desc>
+        <desc region="us">The e-Reader is a peripheral for the Game Boy Advance that allows users to scan special cards to unlock content, such as classic NES games, new levels for GBA games, and other bonus features. Released in North America in 2002, it brought new possibilities to the GBA gaming experience.</desc>
+        <desc lang="fr" region="jp">L'e-Reader est un périphérique pour la Game Boy Advance qui permet aux utilisateurs de scanner des cartes spéciales pour débloquer du contenu, comme des jeux NES classiques, de nouveaux niveaux pour les jeux GBA et d'autres bonus. Lancé au Japon en 2001, il a apporté de nouvelles possibilités à l'expérience de jeu GBA.</desc>
+        <desc lang="fr" region="us">L'e-Reader est un périphérique pour la Game Boy Advance qui permet aux utilisateurs de scanner des cartes spéciales pour débloquer du contenu, comme des jeux NES classiques, de nouveaux niveaux pour les jeux GBA et d'autres bonus. Lancé en Amérique du Nord en 2002, il a apporté de nouvelles possibilités à l'expérience de jeu GBA.</desc>
+    </variables>
 </theme>

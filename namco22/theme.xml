@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Namco</system.manufacturer>
+        <system.fullName>Namco System 22</system.fullName>
+        <system.releaseYearOrNull>1994</system.releaseYearOrNull>
+        <desc>The Namco System 22 is an arcade system board released by Namco in 1994. It was a powerful system for its time, capable of rendering high-resolution 3D graphics and playing CD-quality audio. The 22 powered several popular arcade games, including Tekken and Ace Driver.</desc>
+        <desc lang="fr">Le Namco System 22 est une carte système d'arcade commercialisée par Namco en 1994. C'était un système puissant pour son époque, capable de rendre des graphismes 3D haute résolution et de lire un son de qualité CD. Le 22 a alimenté plusieurs jeux d'arcade populaires, dont Tekken et Ace Driver.</desc>
+    </variables>
 </theme>

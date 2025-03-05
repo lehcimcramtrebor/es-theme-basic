@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+  <variables>
+    <region.priority region="eu"/>
+    <system.manufacturer>Philips</system.manufacturer>
+    <system.fullName>Philips CD-i</system.fullName>
+    <system.fullName lang="fr">Philips CD-i</system.fullName>
+    <system.releaseYearOrNull>1991</system.releaseYearOrNull>
+    <desc>The Philips CD-i (Compact Disc Interactive) is a home video game console and multimedia player released by Philips in 1991. It was designed to be a versatile device, capable of playing interactive CD-i discs, audio CDs, and Photo CDs. However, the CD-i was not a commercial success, due in part to its high price, limited game library, and unconventional controller. Despite this, the CD-i remains an interesting footnote in video game history.</desc>
+    <desc lang="fr">Le Philips CD-i (Compact Disc Interactive) est une console de jeux vidéo domestique et un lecteur multimédia sorti par Philips en 1991. Il a été conçu pour être un appareil polyvalent, capable de lire des disques CD-i interactifs, des CD audio et des CD photo. Cependant, le CD-i n'a pas été un succès commercial, en partie à cause de son prix élevé, de sa ludothèque limitée et de sa manette non conventionnelle. Malgré cela, le CD-i reste une note de bas de page intéressante dans l'histoire des jeux vidéo.</desc>
+  </variables>
 </theme>

@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+	<variables>
+        <region.priority region="eu"/>
+        <system.fullName>Kids Games</system.fullName>
+        <system.fullName lang="fr">Jeux pour enfants</system.fullName>
+        <desc>Kids' games are video games designed for young players. They often feature simple gameplay, colorful graphics, and educational elements to engage and entertain children.</desc>
+        <desc lang="fr">Les jeux pour enfants sont des jeux vidéo conçus pour les jeunes joueurs. Ils comportent souvent un gameplay simple, des graphismes colorés et des éléments éducatifs pour engager et divertir les enfants.</desc>
+    </variables>
 </theme>

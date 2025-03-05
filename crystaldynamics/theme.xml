@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Crystal Dynamics</system.manufacturer>
+        <system.fullName>Crystal Dynamics Games</system.fullName>
+        <desc>Crystal Dynamics is an American video game development studio known for its work on several popular franchises. Founded in 1992, they are best recognized for reviving the Tomb Raider series, particularly with the critically acclaimed Tomb Raider reboot in 2013. Other notable titles include the Legacy of Kain series and Marvel's Avengers. Crystal Dynamics is known for its focus on character-driven narratives, cinematic presentation, and high-quality action-adventure gameplay.</desc>
+        <desc lang="fr">Crystal Dynamics est un studio de développement de jeux vidéo américain connu pour son travail sur plusieurs franchises populaires. Fondé en 1992, il est surtout reconnu pour avoir relancé la série Tomb Raider, notamment avec le redémarrage acclamé par la critique de Tomb Raider en 2013. Les autres titres notables incluent la série Legacy of Kain et Marvel's Avengers. Crystal Dynamics est connu pour l'accent mis sur les récits axés sur les personnages, la présentation cinématographique et le gameplay d'action-aventure de haute qualité.</desc>
+    </variables>
 </theme>

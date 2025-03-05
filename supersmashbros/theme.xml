@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Nintendo / HAL Laboratory (original)</system.manufacturer>
+<system.fullName>Super Smash Bros.</system.fullName>
+<desc>Super Smash Bros. is a crossover fighting game series published by Nintendo. It features characters from various Nintendo franchises, as well as third-party characters, battling in arenas using unique abilities and items. The series is known for its accessible gameplay, competitive depth, and large roster of playable characters. It has appeared on multiple Nintendo consoles, with each iteration introducing new characters, stages, and gameplay mechanics.</desc>
+<desc lang="fr">Super Smash Bros. est une série de jeux de combat crossover publiée par Nintendo. Elle met en scène des personnages de diverses franchises Nintendo, ainsi que des personnages tiers, qui s'affrontent dans des arènes en utilisant des capacités et des objets uniques. La série est connue pour son gameplay accessible, sa profondeur compétitive et son grand nombre de personnages jouables. Elle est apparue sur plusieurs consoles Nintendo, chaque itération introduisant de nouveaux personnages, niveaux et mécanismes de jeu.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

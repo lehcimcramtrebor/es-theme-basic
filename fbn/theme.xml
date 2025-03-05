@@ -1,23 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+        <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
+        <variables>
+        <region.priority region="eu"/>
 
-	<variables><region.priority region="eu"/>
+                <system.manufacturer>FinalBurn Neo Team</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+                <system.fullName>FinalBurn Neo</system.fullName>
+                <system.fullName lang="fr">FinalBurn Neo</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+                <system.releaseYearOrNull>2018</system.releaseYearOrNull>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+                <desc>FinalBurn Neo (FBNeo) is an arcade emulator focused on accuracy and compatibility. It supports a wide range of arcade systems and is known for its active development and frequent updates, ensuring support for many classic arcade titles.</desc>
+                <desc lang="fr">FinalBurn Neo (FBNeo) est un émulateur d'arcade axé sur la précision et la compatibilité. Il prend en charge une large gamme de systèmes d'arcade et est connu pour son développement actif et ses mises à jour fréquentes, assurant la prise en charge de nombreux titres d'arcade classiques.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+        </variables>
 </theme>

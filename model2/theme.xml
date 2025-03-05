@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Sega</system.manufacturer>
+        <system.fullName>Sega Model 2</system.fullName>
+        <system.releaseYearOrNull>1993</system.releaseYearOrNull>
+        <desc>The Sega Model 2 is an arcade system board released by Sega in 1993. It was a significant upgrade from the Model 1, offering improved 3D graphics, texture mapping, and enhanced sound capabilities. The Model 2 powered several iconic arcade games, including Daytona USA, Virtua Cop, and The House of the Dead, which helped solidify Sega's dominance in the arcade scene during the mid-1990s.</desc>
+        <desc lang="fr">Le Sega Model 2 est une carte système d'arcade commercialisée par Sega en 1993. Il s'agissait d'une amélioration significative par rapport au Model 1, offrant des graphismes 3D améliorés, le mapping de textures et des capacités sonores améliorées. Le Model 2 a alimenté plusieurs jeux d'arcade emblématiques, dont Daytona USA, Virtua Cop et The House of the Dead, qui ont contribué à consolider la domination de Sega sur la scène arcade au milieu des années 1990.</desc>
+    </variables>
 </theme>

@@ -1,23 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
+    <variables>
+        <region.priority region="eu"/>
 
-	<variables><region.priority region="eu"/>
+        <system.manufacturer>Corsix</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+        <system.fullName>CorsixTH</system.fullName>
+        <system.fullName lang="fr">CorsixTH</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+        <system.releaseYearOrNull>2009</system.releaseYearOrNull>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+        <desc>CorsixTH is an open-source clone of the 1997 hospital management simulation game Theme Hospital. It aims to recreate the original game's gameplay and features while providing cross-platform compatibility and various enhancements. Players manage a hospital, build rooms, hire staff, and cure patients with comical diseases. The project is driven by a community of developers and enthusiasts, offering a nostalgic experience with modern improvements.</desc>
+        <desc lang="fr">CorsixTH est un clone open-source du jeu de simulation de gestion hospitalière de 1997, Theme Hospital. Il vise à recréer le gameplay et les fonctionnalités du jeu original tout en offrant une compatibilité multiplateforme et diverses améliorations. Les joueurs gèrent un hôpital, construisent des salles, embauchent du personnel et soignent des patients atteints de maladies comiques. Le projet est porté par une communauté de développeurs et de passionnés, offrant une expérience nostalgique avec des améliorations modernes.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    </variables>
 </theme>

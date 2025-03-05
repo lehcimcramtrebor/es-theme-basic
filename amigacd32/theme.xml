@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Commodore</system.manufacturer>
+		<system.fullName>Amiga CD32</system.fullName>
+		<system.fullName lang="fr">Amiga CD32</system.fullName>
+		<system.releaseYearOrNull>1993</system.releaseYearOrNull>
+		<desc>The Amiga CD32, also known as the CD32, is a home video game console that was released by Commodore International in 1993. It was the first 32-bit CD-ROM-based console released in Europe, and it was based on the Amiga 1200 home computer. The CD32 was discontinued in 1994, but it remains a popular platform for retro gaming.</desc>
+		<desc lang="fr">L'Amiga CD32, également connu sous le nom de CD32, est une console de jeux vidéo domestique sortie par Commodore International en 1993. C'était la première console 32 bits basée sur CD-ROM sortie en Europe, et elle était basée sur l'ordinateur personnel Amiga 1200. Le CD32 a été abandonné en 1994, mais il reste une plate-forme populaire pour le rétrogaming.</desc>
 	</variables>
-
 </theme>

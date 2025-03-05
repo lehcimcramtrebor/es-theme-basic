@@ -2,22 +2,22 @@
 
 <theme>
 
-	<formatVersion>7</formatVersion>
+        <formatVersion>7</formatVersion>
 
-    <include>./../theme.xml</include>
+        <include>./../theme.xml</include>
 
-	<variables><region.priority region="eu"/>
+        <variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+        <system.manufacturer>Epoch Co.</system.manufacturer>
 
-		<!--<system.fullName>name</system.fullName>-->
+        <system.fullName>Super Cassette Vision</system.fullName>
+        <system.fullName lang="fr">Super Cassette Vision</system.fullName>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+        <system.releaseYearOrNull>1984</system.releaseYearOrNull>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
+        <desc>The Super Cassette Vision is a second-generation home video game console developed by Epoch Co. and released in Japan in 1984. It was designed to compete with the likes of the Nintendo Famicom and the Sega SG-1000. The console featured a unique controller design and a library of games that, while not as extensive as its competitors, offered a variety of genres. It's remembered for its distinctive aesthetic and its place in the early Japanese home video game market.</desc>
+        <desc lang="fr">La Super Cassette Vision est une console de jeux vidéo domestique de deuxième génération développée par Epoch Co. et sortie au Japon en 1984. Elle a été conçue pour rivaliser avec la Nintendo Famicom et la Sega SG-1000. La console présentait une conception de contrôleur unique et une bibliothèque de jeux qui, bien que moins étendue que ses concurrents, offrait une variété de genres. Elle est connue pour son esthétique distinctive et sa place sur le marché japonais des jeux vidéo domestiques de l'époque.</desc>
 
-	</variables>
+</variables>
 
 </theme>

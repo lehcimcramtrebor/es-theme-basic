@@ -1,23 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>id Software</system.manufacturer>
+		<system.fullName>Quake III Arena</system.fullName>
+		<system.fullName lang="fr">Quake III Arena</system.fullName>
+		<system.releaseYearOrNull>1999</system.releaseYearOrNull>
+		<system.releaseYearOrNull region="us">1999</system.releaseYearOrNull>
+		<system.releaseYearOrNull region="jp">2000</system.releaseYearOrNull>
+		<desc>Quake III Arena is a 1999 multiplayer-focused first-person shooter developed by id Software. The game emphasizes fast-paced action and competitive gameplay, with a focus on online multiplayer. It is the third main entry in the Quake series, and is known for its high-quality graphics, smooth gameplay, and challenging level design.</desc>
+		<desc lang="fr">Quake III Arena est un jeu de tir à la première personne multijoueur de 1999 développé par id Software. Le jeu met l'accent sur l'action rapide et le gameplay compétitif, avec un accent sur le multijoueur en ligne. Il s'agit du troisième opus principal de la série Quake, et il est connu pour ses graphismes de haute qualité, son gameplay fluide et sa conception de niveaux stimulante.</desc>
 	</variables>
-
 </theme>

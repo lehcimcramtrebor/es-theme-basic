@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>APF Electronics Inc.</system.manufacturer>
+		<system.fullName>APF MP1000</system.fullName>
+		<system.fullName lang="fr">APF MP1000</system.fullName>
+		<system.releaseYearOrNull>1978</system.releaseYearOrNull>
+		<desc>The APF MP1000 is a second-generation home video game console that was released by APF Electronics Inc. in 1978. It is known for its unique design, which includes a built-in keyboard and cassette drive. The MP1000 was not a commercial success, but it is considered to be an important part of computer history.</desc>
+		<desc lang="fr">L'APF MP1000 est une console de jeux vidéo domestique de deuxième génération sortie par APF Electronics Inc. en 1978. Il est connu pour sa conception unique, qui comprend un clavier et un lecteur de cassettes intégrés. Le MP1000 n'a pas été un succès commercial, mais il est considéré comme une partie importante de l'histoire de l'informatique.</desc>
 	</variables>
-
 </theme>

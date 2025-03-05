@@ -4,20 +4,22 @@
 
 	<formatVersion>7</formatVersion>
 
-    <include>./../theme.xml</include>
+<include>./../theme.xml</include>
 
 	<variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.manufacturer>Nintendo</system.manufacturer>
+<system.fullName>F-Zero</system.fullName>
+<system.releaseYearOrNull>1990</system.releaseYearOrNull>
+<system.releaseYearOrNull region="us">1991</system.releaseYearOrNull>
+<system.releaseYearOrNull region="jp">1990</system.releaseYearOrNull>
+<desc>F-Zero is a futuristic racing video game series created by Nintendo. Known for its high-speed racing, challenging tracks, and distinctive hovercraft vehicles, the series debuted in 1990 on the Super Nintendo Entertainment System. It features intense races where players pilot anti-gravity machines through elaborate courses, emphasizing speed and precision. The series is celebrated for its fast-paced gameplay, innovative track designs, and memorable music.</desc>
+<desc region="us">F-Zero is a futuristic racing video game series created by Nintendo. Known for its high-speed racing, challenging tracks, and distinctive hovercraft vehicles, the series debuted in 1991 on the Super Nintendo Entertainment System in the US. It features intense races where players pilot anti-gravity machines through elaborate courses, emphasizing speed and precision. The series is celebrated for its fast-paced gameplay, innovative track designs, and memorable music.</desc>
+<desc region="jp">F-Zero is a futuristic racing video game series created by Nintendo. Known for its high-speed racing, challenging tracks, and distinctive hovercraft vehicles, the series debuted in 1990 on the Super Famicom in Japan. It features intense races where players pilot anti-gravity machines through elaborate courses, emphasizing speed and precision. The series is celebrated for its fast-paced gameplay, innovative track designs, and memorable music.</desc>
+<desc lang="fr">F-Zero est une série de jeux vidéo de course futuristes créée par Nintendo. Connue pour ses courses à grande vitesse, ses circuits stimulants et ses véhicules aéroglisseurs distinctifs, la série a débuté en 1990 sur la Super Nintendo Entertainment System. Elle propose des courses intenses où les joueurs pilotent des machines anti-gravité à travers des parcours élaborés, mettant l'accent sur la vitesse et la précision. La série est célèbre pour son gameplay rapide, ses conceptions de circuits innovantes et sa musique mémorable.</desc>
+<desc lang="fr" region="us">F-Zero est une série de jeux vidéo de course futuristes créée par Nintendo. Connue pour ses courses à grande vitesse, ses circuits stimulants et ses véhicules aéroglisseurs distinctifs, la série a débuté en 1991 sur la Super Nintendo Entertainment System aux États-Unis. Elle propose des courses intenses où les joueurs pilotent des machines anti-gravité à travers des parcours élaborés, mettant l'accent sur la vitesse et la précision. La série est célèbre pour son gameplay rapide, ses conceptions de circuits innovantes et sa musique mémorable.</desc>
+<desc lang="fr" region="jp">F-Zero est une série de jeux vidéo de course futuristes créée par Nintendo. Connue pour ses courses à grande vitesse, ses circuits stimulants et ses véhicules aéroglisseurs distinctifs, la série a débuté en 1990 sur la Super Famicom au Japon. Elle propose des courses intenses où les joueurs pilotent des machines anti-gravité à travers des parcours élaborés, mettant l'accent sur la vitesse et la précision. La série est célèbre pour son gameplay rapide, ses conceptions de circuits innovantes et sa musique mémorable.</desc>
 
-		<system.fullName>f-zero</system.fullName>
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+</variables>
 
 </theme>

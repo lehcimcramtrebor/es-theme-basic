@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Sega</system.manufacturer>
+<system.fullName>Sega System Series</system.fullName>
+<desc>The Sega System series refers to a range of arcade system boards developed by Sega. These boards powered a variety of arcade games throughout the 1980s and 1990s, with each system offering different capabilities and features. Examples include the System 1, System 2, System 16, and System 32. These systems played a crucial role in Sega's arcade legacy, hosting many classic titles.</desc>
+<desc lang="fr">La série Sega System désigne une gamme de cartes de système d'arcade développées par Sega. Ces cartes ont alimenté une variété de jeux d'arcade tout au long des années 1980 et 1990, chaque système offrant des capacités et des fonctionnalités différentes. Les exemples incluent les System 1, System 2, System 16 et System 32. Ces systèmes ont joué un rôle crucial dans l'héritage d'arcade de Sega, hébergeant de nombreux titres classiques.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

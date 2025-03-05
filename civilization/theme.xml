@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>MicroProse</system.manufacturer>
+<system.manufacturer region="us">MicroProse</system.manufacturer>
 
-    <include>./../theme.xml</include>
+<system.fullName>Civilization Series</system.fullName>
+<system.fullName lang="fr">Série Civilization</system.fullName>
 
-	<variables><region.priority region="eu"/>
+<system.releaseYearOrNull>1991</system.releaseYearOrNull>
+<system.releaseYearOrNull region="us">1991</system.releaseYearOrNull>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<desc>The Civilization series, beginning with the original "Sid Meier's Civilization" in 1991, is a turn-based strategy game franchise where players guide a civilization from its infancy to the space age. Known for its deep gameplay, historical accuracy, and replayability, the series allows players to develop technologies, build cities, wage wars, and engage in diplomacy. It has become a landmark franchise in the strategy game genre.</desc>
+<desc region="us">The Civilization series, beginning with the original "Sid Meier's Civilization" in 1991, is a turn-based strategy game franchise where players guide a civilization from its infancy to the space age. Known for its deep gameplay, historical accuracy, and replayability, the series allows players to develop technologies, build cities, wage wars, and engage in diplomacy. It has become a landmark franchise in the strategy game genre. The original game was developed in the United States.</desc>
 
-		<!--<system.fullName>name</system.fullName>-->
+<desc lang="fr">La série Civilization, qui a débuté avec le "Sid Meier's Civilization" original en 1991, est une franchise de jeux de stratégie au tour par tour où les joueurs guident une civilisation de son enfance à l'ère spatiale. Connue pour son gameplay profond, sa précision historique et sa rejouabilité, la série permet aux joueurs de développer des technologies, de construire des villes, de mener des guerres et de s'engager dans la diplomatie. Elle est devenue une franchise de référence dans le genre des jeux de stratégie.</desc>
+<desc lang="fr" region="us">La série Civilization, qui a débuté avec le "Sid Meier's Civilization" original en 1991, est une franchise de jeux de stratégie au tour par tour où les joueurs guident une civilisation de son enfance à l'ère spatiale. Connue pour son gameplay profond, sa précision historique et sa rejouabilité, la série permet aux joueurs de développer des technologies, de construire des villes, de mener des guerres et de s'engager dans la diplomatie. Elle est devenue une franchise de référence dans le genre des jeux de stratégie. Le jeu original a été développé aux États-Unis.</desc>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

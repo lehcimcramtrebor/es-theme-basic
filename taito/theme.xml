@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Taito</system.manufacturer>
+<system.fullName>Taito Arcade Systems</system.fullName>
+<desc>Taito is a Japanese video game developer and publisher known for producing a wide range of arcade games. Their arcade systems powered many classic titles, including Space Invaders, Bubble Bobble, and Arkanoid. Taito's hardware was known for its innovation and variety, with different systems designed to support various game genres and graphical capabilities. They played a significant role in the golden age of arcade gaming.</desc>
+<desc lang="fr">Taito est un développeur et éditeur de jeux vidéo japonais connu pour avoir produit une large gamme de jeux d'arcade. Leurs systèmes d'arcade ont alimenté de nombreux titres classiques, notamment Space Invaders, Bubble Bobble et Arkanoid. Le matériel de Taito était connu pour son innovation et sa variété, avec différents systèmes conçus pour prendre en charge divers genres de jeux et capacités graphiques. Ils ont joué un rôle important dans l'âge d'or des jeux d'arcade.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

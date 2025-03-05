@@ -4,20 +4,16 @@
 
 	<formatVersion>7</formatVersion>
 
-    <include>./../theme.xml</include>
+<include>./../theme.xml</include>
 
 	<variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.manufacturer>Christopher Leathley</system.manufacturer>
+<system.fullName>Future Pinball</system.fullName>
+<system.releaseYearOrNull>2009</system.releaseYearOrNull>
+<desc>Future Pinball is a real time pinball development system for Microsoft Windows allowing users to design and play their own pinball tables in a true 3D environment. It utilizes realistic physics and allows for high customization of tables. It has a dedicated community creating and sharing custom tables, and has become popular due to its flexibility and the ability to create highly detailed and unique pinball experiences.</desc>
+<desc lang="fr">Future Pinball est un système de développement de flippers en temps réel pour Microsoft Windows permettant aux utilisateurs de concevoir et de jouer leurs propres tables de flipper dans un véritable environnement 3D. Il utilise une physique réaliste et permet une personnalisation élevée des tables. Il a une communauté dédiée qui crée et partage des tables personnalisées, et est devenu populaire en raison de sa flexibilité et de la possibilité de créer des expériences de flipper très détaillées et uniques.</desc>
 
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+</variables>
 
 </theme>

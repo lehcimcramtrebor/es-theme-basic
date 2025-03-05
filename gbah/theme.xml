@@ -1,23 +1,17 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+        <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<variables><region.priority region="eu"/>
+<system.manufacturer>Various Creators</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.fullName>GBA Hacks</system.fullName>
+<system.fullName lang="fr">Hacks GBA</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+<desc>Game Boy Advance hacks refer to modified versions of original GBA games. These modifications can range from simple alterations like color palette changes or difficulty adjustments to more complex overhauls involving new levels, storylines, characters, and gameplay mechanics. These hacks are created by fans and enthusiasts using various tools and software, often with the aim of enhancing or reimagining classic GBA experiences. Popular examples include hacks that introduce new Pokémon regions, expand existing storylines, or even create entirely new games using the GBA's engine.</desc>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+<desc lang="fr">Les hacks Game Boy Advance font référence aux versions modifiées des jeux GBA originaux. Ces modifications peuvent aller de simples altérations comme des changements de palette de couleurs ou des ajustements de difficulté à des remaniements plus complexes impliquant de nouveaux niveaux, scénarios, personnages et mécanismes de jeu. Ces hacks sont créés par des fans et des passionnés utilisant divers outils et logiciels, souvent dans le but d'améliorer ou de réimaginer les expériences classiques de la GBA. Les exemples populaires incluent des hacks qui introduisent de nouvelles régions Pokémon, étendent les scénarios existants ou créent même des jeux entièrement nouveaux en utilisant le moteur de la GBA.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

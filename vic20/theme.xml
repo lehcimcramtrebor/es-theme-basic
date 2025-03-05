@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Commodore International</system.manufacturer>
+<system.fullName>VIC-20</system.fullName>
+<system.releaseYearOrNull>1981</system.releaseYearOrNull>
+<desc>The VIC-20, also known as the VC-20 in Germany, is an 8-bit home computer released by Commodore International in 1981. It was one of the first affordable color computers and gained significant popularity, selling millions of units worldwide. The VIC-20 featured a user-friendly design, a full-size keyboard, and offered capabilities for gaming, programming, and other applications. It played a crucial role in popularizing home computing and paved the way for Commodore's later success with the Commodore 64.</desc>
+<desc lang="fr">Le VIC-20, également connu sous le nom de VC-20 en Allemagne, est un ordinateur personnel 8 bits sorti par Commodore International en 1981. Il a été l'un des premiers ordinateurs couleur abordables et a acquis une grande popularité, se vendant à des millions d'unités dans le monde. Le VIC-20 présentait une conception conviviale, un clavier pleine taille et offrait des capacités pour les jeux, la programmation et d'autres applications. Il a joué un rôle crucial dans la vulgarisation de l'informatique domestique et a ouvert la voie au succès ultérieur de Commodore avec le Commodore 64.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

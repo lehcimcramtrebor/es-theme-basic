@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Visual Pinball Team</system.manufacturer>
+<system.fullName>Visual Pinball</system.fullName>
+<system.releaseYearOrNull>2000</system.releaseYearOrNull>
+<desc>Visual Pinball is a free and open-source pinball simulation engine that allows players to create and play their own virtual pinball tables. It provides a comprehensive set of tools and features for designing and customizing tables, including 3D graphics, realistic physics, and a wide range of components and effects. Visual Pinball has a large and active community of creators and players who share their custom tables and resources online.</desc>
+<desc lang="fr">Visual Pinball est un moteur de simulation de flipper gratuit et open-source qui permet aux joueurs de créer et de jouer à leurs propres tables de flipper virtuelles. Il fournit un ensemble complet d'outils et de fonctionnalités pour concevoir et personnaliser des tables, notamment des graphiques 3D, une physique réaliste et une large gamme de composants et d'effets. Visual Pinball a une communauté importante et active de créateurs et de joueurs qui partagent leurs tables et ressources personnalisées en ligne.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

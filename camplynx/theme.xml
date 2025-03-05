@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+  <variables>
+    <region.priority region="eu"/>
+    <system.manufacturer>Camputers</system.manufacturer>
+    <system.fullName>Camputers Lynx</system.fullName>
+    <system.fullName lang="fr">Camputers Lynx</system.fullName>
+    <system.releaseYearOrNull>1986</system.releaseYearOrNull>
+    <desc>The Camputers Lynx is a 4.77 MHz Zilog Z80A-based home computer released in 1986. Primarily sold in the United Kingdom by Dixons Retail, it was known for its affordability and bundled productivity software. Though less powerful than some competitors, it offered a basic but functional entry point into home computing.</desc>
+    <desc lang="fr">Le Camputers Lynx est un ordinateur domestique à 4,77 MHz basé sur Zilog Z80A, sorti en 1986. Principalement vendu au Royaume-Uni par Dixons Retail, il était connu pour son prix abordable et ses logiciels de productivité fournis. Bien que moins puissant que certains concurrents, il offrait un point d'entrée basique mais fonctionnel dans l'informatique domestique.</desc>
+  </variables>
 </theme>

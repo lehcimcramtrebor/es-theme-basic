@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Clickteam</system.manufacturer>
+        <system.fullName>Clickteam Fusion</system.fullName>
+        <desc>Clickteam Fusion is a 2D game development engine that allows users to create games and applications through a drag-and-drop interface. It's known for its user-friendly approach and cross-platform capabilities, making it accessible for both beginners and experienced developers.</desc>
+        <desc lang="fr">Clickteam Fusion est un moteur de développement de jeux 2D qui permet aux utilisateurs de créer des jeux et des applications grâce à une interface glisser-déposer. Il est connu pour son approche conviviale et ses capacités multiplateformes, le rendant accessible aux développeurs débutants et expérimentés.</desc>
+    </variables>
 </theme>

@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Acorn Computers</system.manufacturer>
+		<system.fullName>Acorn Atom</system.fullName>
+		<system.fullName lang="fr">Acorn Atom</system.fullName>
+		<system.releaseYearOrNull>1980</system.releaseYearOrNull>
+		<desc>The Acorn Atom is a home computer released by Acorn Computers in 1980. It was a 6502-based machine aimed at the home market and hobbyists. The Atom was notable for its compact design, integrated keyboard, and affordability. It offered both text and graphics modes, and users could connect it to a TV or monitor. Although less powerful than some of its contemporaries, the Atom provided an accessible entry point into home computing and played a role in the development of the BBC Micro.</desc>
+		<desc lang="fr">L'Acorn Atom est un ordinateur personnel sorti par Acorn Computers en 1980. C'était une machine basée sur le 6502 destinée au marché domestique et aux amateurs. L'Atom était remarquable pour sa conception compacte, son clavier intégré et son prix abordable. Il offrait à la fois des modes texte et graphiques, et les utilisateurs pouvaient le connecter à un téléviseur ou à un moniteur. Bien que moins puissant que certains de ses contemporains, l'Atom a fourni un point d'entrée accessible à l'informatique domestique et a joué un rôle dans le développement du BBC Micro.</desc>
 	</variables>
-
 </theme>

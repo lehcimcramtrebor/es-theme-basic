@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Various</system.manufacturer>
+		<system.fullName>Prince of Persia Series</system.fullName>
+		<system.fullName lang="fr">Série Prince of Persia</system.fullName>
+		<desc>Prince of Persia is a video game franchise created by Jordan Mechner in 1989. The series is known for its platforming gameplay, puzzle-solving elements, and historical setting in ancient Persia. It has spanned multiple sequels, remakes, and spin-offs.</desc>
+		<desc lang="fr">Prince of Persia est une franchise de jeux vidéo créée par Jordan Mechner en 1989. La série est connue pour son gameplay de plateforme, ses éléments de résolution d'énigmes et son cadre historique dans la Perse antique. Elle a donné naissance à de multiples suites, remakes et spin-offs.</desc>
 	</variables>
-
 </theme>

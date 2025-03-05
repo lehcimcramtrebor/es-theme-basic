@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Konami</system.manufacturer>
+<system.fullName>Track &amp; Field</system.fullName>
+<desc>Track &amp; Field, also known as Hyper Olympic, is a series of arcade sports games developed and published by Konami. The games are known for their unique button-mashing gameplay, where players rapidly press buttons to control their athlete's speed and performance in various Olympic events. The series has seen numerous iterations across different arcade platforms and home consoles, and is recognized for its competitive and addictive gameplay.</desc>
+<desc lang="fr">Track &amp; Field, également connu sous le nom de Hyper Olympic, est une série de jeux d'arcade sportifs développés et publiés par Konami. Les jeux sont connus pour leur gameplay unique de type "button-mashing", où les joueurs appuient rapidement sur les boutons pour contrôler la vitesse et les performances de leur athlète dans diverses épreuves olympiques. La série a connu de nombreuses itérations sur différentes plateformes d'arcade et consoles de salon, et est reconnue pour son gameplay compétitif et addictif.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

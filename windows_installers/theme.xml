@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Batocera</system.manufacturer>
+        <system.fullName>Windows Installers</system.fullName>
+        <system.fullName lang="fr">Installateurs Windows</system.fullName>
+        <desc>Windows Installers on Batocera provides a streamlined method to install and play Windows games. This feature leverages compatibility layers like Wine or Proton, allowing users to run a vast library of Windows titles directly within the Batocera environment. It simplifies the setup process, enabling easy access to popular PC games. Users can install games via their original installers, with Batocera managing the compatibility settings. This feature enhances Batocera's versatility, bridging the gap between console emulation and PC gaming.</desc>
+        <desc lang="fr">Les installateurs Windows sur Batocera offrent une méthode simplifiée pour installer et jouer à des jeux Windows. Cette fonctionnalité utilise des couches de compatibilité comme Wine ou Proton, permettant aux utilisateurs d'exécuter une vaste bibliothèque de titres Windows directement dans l'environnement Batocera. Elle simplifie le processus de configuration, permettant un accès facile aux jeux PC populaires. Les utilisateurs peuvent installer des jeux via leurs installateurs d'origine, Batocera gérant les paramètres de compatibilité. Cette fonctionnalité améliore la polyvalence de Batocera, comblant le fossé entre l'émulation de console et les jeux PC.</desc>
+    </variables>
 </theme>

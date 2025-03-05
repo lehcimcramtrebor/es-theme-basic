@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Nintendo</system.manufacturer>
+<system.fullName>Wii U</system.fullName>
+<system.releaseYearOrNull>2012</system.releaseYearOrNull>
+<desc>The Wii U is a home video game console released by Nintendo in 2012. It is the successor to the Wii and features a unique GamePad controller with a built-in touchscreen. The console also supports HD graphics and offers a variety of online features. Despite its innovative features, the Wii U was a commercial failure, selling only 13 million units worldwide.</desc>
+<desc lang="fr">La Wii U est une console de jeux vidéo domestique sortie par Nintendo en 2012. Elle succède à la Wii et dispose d'une manette GamePad unique avec un écran tactile intégré. La console prend également en charge les graphismes HD et offre une variété de fonctionnalités en ligne. Malgré ses caractéristiques innovantes, la Wii U a été un échec commercial, se vendant à seulement 13 millions d'unités dans le monde.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

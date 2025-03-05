@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.fullName>DC Games</system.fullName>
+		<system.fullName lang="fr">Jeux DC</system.fullName>
+		<desc>DC Games are video games based on the characters and stories of DC Comics. These games span a variety of genres, from action-adventure to fighting games, and they often feature iconic DC superheroes like Batman, Superman, and Wonder Woman.</desc>
+		<desc lang="fr">Les jeux DC sont des jeux vidéo basés sur les personnages et les histoires de DC Comics. Ces jeux couvrent une variété de genres, de l'action-aventure aux jeux de combat, et ils mettent souvent en scène des super-héros emblématiques de DC comme Batman, Superman et Wonder Woman.</desc>
 	</variables>
-
 </theme>

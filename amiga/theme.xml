@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Commodore</system.manufacturer>
+		<system.fullName>Amiga</system.fullName>
+		<system.fullName lang="fr">Amiga</system.fullName>
+		<system.releaseYearOrNull>1985</system.releaseYearOrNull>
+		<desc>The Amiga is a family of home computers that were developed by Commodore International in the 1980s. The Amiga was known for its advanced graphics and sound capabilities, which made it popular for gaming and multimedia applications. The Amiga was discontinued in 1994, but it remains a popular platform for retro gaming.</desc>
+		<desc lang="fr">L'Amiga est une famille d'ordinateurs personnels développés par Commodore International dans les années 1980. L'Amiga était connu pour ses capacités graphiques et sonores avancées, ce qui l'a rendu populaire pour les jeux et les applications multimédias. L'Amiga a été abandonné en 1994, mais il reste une plate-forme populaire pour le rétrogaming.</desc>
 	</variables>
-
 </theme>

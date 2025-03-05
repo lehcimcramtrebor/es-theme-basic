@@ -2,22 +2,20 @@
 
 <theme>
 
-	<formatVersion>7</formatVersion>
+    <formatVersion>7</formatVersion>
 
     <include>./../theme.xml</include>
 
-	<variables><region.priority region="eu"/>
+    <variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+    <system.manufacturer>Solarus Team</system.manufacturer>
 
-		<!--<system.fullName>name</system.fullName>-->
+    <system.fullName>Solarus</system.fullName>
+    <system.fullName lang="fr">Solarus</system.fullName>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+    <desc>Solarus is an open-source game engine primarily used for creating action-adventure games in the style of classic 2D Zelda titles. It provides tools and resources for developers to design their own games, including map editors, scripting languages, and libraries for handling graphics, sound, and gameplay mechanics. Solarus has been used to create a variety of fan games and original projects, offering a platform for developers to express their creativity and pay homage to classic game designs.</desc>
+    <desc lang="fr">Solarus est un moteur de jeu open-source principalement utilisé pour créer des jeux d'action-aventure dans le style des titres classiques de Zelda en 2D. Il fournit aux développeurs des outils et des ressources pour concevoir leurs propres jeux, notamment des éditeurs de cartes, des langages de script et des bibliothèques pour gérer les graphismes, le son et les mécanismes de jeu. Solarus a été utilisé pour créer une variété de jeux de fans et de projets originaux, offrant une plate-forme aux développeurs pour exprimer leur créativité et rendre hommage aux conceptions de jeux classiques.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+</variables>
 
 </theme>

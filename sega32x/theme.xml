@@ -2,22 +2,33 @@
 
 <theme>
 
-	<formatVersion>7</formatVersion>
+        <formatVersion>7</formatVersion>
 
-    <include>./../theme.xml</include>
+        <include>./../theme.xml</include>
 
-	<variables><region.priority region="eu"/>
+        <variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+        <system.manufacturer>Sega</system.manufacturer>
+        <system.manufacturer region="us">Sega</system.manufacturer>
+        <system.manufacturer region="jp">Sega</system.manufacturer>
 
-		<!--<system.fullName>name</system.fullName>-->
+        <system.fullName>Sega 32X</system.fullName>
+        <system.fullName region="us">Sega 32X</system.fullName>
+        <system.fullName region="jp">Sega 32X</system.fullName>
+        <system.fullName lang="fr">Sega 32X</system.fullName>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+        <system.releaseYearOrNull>1994</system.releaseYearOrNull>
+        <system.releaseYearOrNull region="us">1994</system.releaseYearOrNull>
+        <system.releaseYearOrNull region="jp">1994</system.releaseYearOrNull>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
+        <desc>The Sega 32X is a 32-bit add-on for the Sega Genesis/Mega Drive. It was designed to enhance the capabilities of the 16-bit console, offering improved graphics and processing power. Released in 1994, it faced a short lifespan due to the impending release of the Sega Saturn. Despite its limited library, it featured some notable titles that showcased its enhanced capabilities. The 32X is often seen as a transitional device in Sega's hardware history.</desc>
+        <desc region="us">The Sega 32X is a 32-bit add-on for the Sega Genesis/Mega Drive. It was designed to enhance the capabilities of the 16-bit console, offering improved graphics and processing power. Released in 1994, it faced a short lifespan due to the impending release of the Sega Saturn. Despite its limited library, it featured some notable titles that showcased its enhanced capabilities. The 32X is often seen as a transitional device in Sega's hardware history.</desc>
+        <desc region="jp">The Sega 32X is a 32-bit add-on for the Sega Genesis/Mega Drive. It was designed to enhance the capabilities of the 16-bit console, offering improved graphics and processing power. Released in 1994, it faced a short lifespan due to the impending release of the Sega Saturn. Despite its limited library, it featured some notable titles that showcased its enhanced capabilities. The 32X is often seen as a transitional device in Sega's hardware history.</desc>
 
-	</variables>
+        <desc lang="fr">Le Sega 32X est un module complémentaire 32 bits pour la Sega Genesis/Mega Drive. Il a été conçu pour améliorer les capacités de la console 16 bits, offrant des graphismes et une puissance de traitement améliorés. Sorti en 1994, il a connu une courte durée de vie en raison de la sortie imminente de la Sega Saturn. Malgré sa bibliothèque limitée, il présentait quelques titres notables qui mettaient en valeur ses capacités améliorées. Le 32X est souvent considéré comme un appareil de transition dans l'histoire du matériel de Sega.</desc>
+        <desc lang="fr" region="us">Le Sega 32X est un module complémentaire 32 bits pour la Sega Genesis/Mega Drive. Il a été conçu pour améliorer les capacités de la console 16 bits, offrant des graphismes et une puissance de traitement améliorés. Sorti en 1994, il a connu une courte durée de vie en raison de la sortie imminente de la Sega Saturn. Malgré sa bibliothèque limitée, il présentait quelques titres notables qui mettaient en valeur ses capacités améliorées. Le 32X est souvent considéré comme un appareil de transition dans l'histoire du matériel de Sega.</desc>
+        <desc lang="fr" region="jp">Le Sega 32X est un module complémentaire 32 bits pour la Sega Genesis/Mega Drive. Il a été conçu pour améliorer les capacités de la console 16 bits, offrant des graphismes et une puissance de traitement améliorés. Sorti en 1994, il a connu une courte durée de vie en raison de la sortie imminente de la Sega Saturn. Malgré sa bibliothèque limitée, il présentait quelques titres notables qui mettaient en valeur ses capacités améliorées. Le 32X est souvent considéré comme un appareil de transition dans l'histoire du matériel de Sega.</desc>
+
+</variables>
 
 </theme>

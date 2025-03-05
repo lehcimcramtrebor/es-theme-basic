@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Amstrad</system.manufacturer>
+		<system.fullName>GX4000</system.fullName>
+		<system.releaseYearOrNull>1990</system.releaseYearOrNull>
+		<desc>The GX4000 is a games console released by Amstrad in 1990. It was based on the CPC+ range of computers, but was designed to be a dedicated games machine. The GX4000 was not a commercial success, and was discontinued after only a few months on the market. It is now considered to be a rare and collectible console.</desc>
+		<desc lang="fr">La GX4000 est une console de jeux commercialisée par Amstrad en 1990. Elle était basée sur la gamme d'ordinateurs CPC+, mais a été conçue pour être une machine de jeux dédiée. La GX4000 n'a pas été un succès commercial et a été abandonnée après seulement quelques mois sur le marché. Elle est maintenant considérée comme une console rare et de collection.</desc>
 	</variables>
-
 </theme>

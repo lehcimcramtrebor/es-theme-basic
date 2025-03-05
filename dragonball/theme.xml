@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.fullName>Dragon Ball Games</system.fullName>
+		<system.fullName lang="fr">Jeux Dragon Ball</system.fullName>
+		<desc>Dragon Ball games are a series of video games based on the popular manga and anime franchise, Dragon Ball. The games span a variety of genres, including fighting, action, role-playing, and sports. They are known for their fast-paced action, faithful recreations of the anime's iconic moments, and large rosters of playable characters.</desc>
+		<desc lang="fr">Les jeux Dragon Ball sont une série de jeux vidéo basés sur la franchise populaire de mangas et d'animes, Dragon Ball. Les jeux couvrent une variété de genres, y compris les jeux de combat, d'action, de rôle et de sport. Ils sont connus pour leur action rapide, leurs recréations fidèles des moments emblématiques de l'anime et leurs grandes listes de personnages jouables.</desc>
 	</variables>
-
 </theme>

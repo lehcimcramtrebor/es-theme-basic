@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Infocom</system.manufacturer>
+		<system.fullName>Z-machine</system.fullName>
+		<desc>The Z-machine is a virtual machine that was developed by Infocom in 1979 for its text adventure games. The Z-machine is a stack-based machine, which means that it uses a stack to store data and instructions. The Z-machine is also a virtual machine, which means that it is not a physical machine. Instead, it is a software program that emulates the behavior of a physical machine. The Z-machine was designed to be portable, which means that it can be run on a variety of different computer platforms. This allowed Infocom to release its games on a wide range of computers, including the Apple II, Commodore 64, and IBM PC.</desc>
+		<desc lang="fr">La Z-machine est une machine virtuelle qui a été développée par Infocom en 1979 pour ses jeux d'aventure textuels. La Z-machine est une machine basée sur une pile, ce qui signifie qu'elle utilise une pile pour stocker des données et des instructions. La Z-machine est également une machine virtuelle, ce qui signifie qu'elle n'est pas une machine physique. Au lieu de cela, il s'agit d'un programme logiciel qui émule le comportement d'une machine physique. La Z-machine a été conçue pour être portable, ce qui signifie qu'elle peut être exécutée sur une variété de plates-formes informatiques différentes. Cela a permis à Infocom de publier ses jeux sur un large éventail d'ordinateurs, notamment l'Apple II, le Commodore 64 et l'IBM PC.</desc>
 	</variables>
-
 </theme>

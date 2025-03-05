@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Game Park</system.manufacturer>
+		<system.fullName>GP32</system.fullName>
+		<system.releaseYearOrNull>2001</system.releaseYearOrNull>
+		<desc>The GP32 is a handheld game console developed by Game Park. It was released in 2001 in South Korea and 2002 in Europe. The GP32 was the first handheld console to use a flash memory card for storage. It was also one of the first handheld consoles to support homebrew development. The GP32 was not a commercial success, but it was popular with homebrew developers.</desc>
+		<desc lang="fr">La GP32 est une console de jeu portable développée par Game Park. Elle est sortie en 2001 en Corée du Sud et en 2002 en Europe. La GP32 a été la première console portable à utiliser une carte mémoire flash pour le stockage. Elle a également été l'une des premières consoles portables à prendre en charge le développement homebrew. La GP32 n'a pas été un succès commercial, mais elle était populaire auprès des développeurs homebrew.</desc>
 	</variables>
-
 </theme>

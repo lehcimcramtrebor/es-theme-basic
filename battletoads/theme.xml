@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+  <variables>
+    <region.priority region="eu"/>
+    <system.manufacturer>Rare</system.manufacturer>
+    <system.fullName>Battletoads</system.fullName>
+    <system.fullName lang="fr">Battletoads</system.fullName>
+    <system.releaseYearOrNull>1991</system.releaseYearOrNull>
+    <desc>Battletoads is a beat 'em up video game franchise created by Rare. The series is known for its challenging gameplay, colorful graphics, and humorous characters. The first game in the series, Battletoads, was released in 1991 for the Nintendo Entertainment System (NES).</desc>
+    <desc lang="fr">Battletoads est une franchise de jeux vidéo de type beat them all créée par Rare. La série est connue pour son gameplay stimulant, ses graphismes colorés et ses personnages humoristiques. Le premier jeu de la série, Battletoads, est sorti en 1991 sur Nintendo Entertainment System (NES).</desc>
+  </variables>
 </theme>

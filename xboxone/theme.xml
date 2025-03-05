@@ -1,23 +1,20 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Microsoft</system.manufacturer>
+        <system.fullName>Xbox One</system.fullName>
+        <system.fullName lang="fr">Xbox One</system.fullName>
+        <system.releaseYearOrNull>2013</system.releaseYearOrNull>
+        <system.releaseYearOrNull region="us">2013</system.releaseYearOrNull>
+        <system.releaseYearOrNull region="jp">2014</system.releaseYearOrNull>
+        <desc>The Xbox One is an eighth-generation home video game console developed by Microsoft. Released in 2013, it succeeded the Xbox 360 and competed with the PlayStation 4 and Nintendo Wii U. The Xbox One focused on multimedia integration, including television and entertainment features, alongside gaming. It introduced enhanced Xbox Live services, improved Kinect integration, and cloud-based gaming capabilities. Popular titles include "Halo 5: Guardians," "Forza Horizon 2," and "Gears of War 4." The console also supported backward compatibility with select Xbox 360 games, expanding its library. The Xbox One family includes various models, such as the Xbox One S and Xbox One X, offering different performance levels and features.</desc>
+        <desc region="us">The Xbox One launched in North America in 2013, emphasizing multimedia and entertainment features alongside gaming. It offered improved Xbox Live services and Kinect integration.</desc>
+        <desc region="jp">The Xbox One was released in Japan in 2014, bringing Microsoft's eighth-generation console to the Japanese market with its focus on multimedia and enhanced online services.</desc>
+        <desc lang="fr">La Xbox One est une console de jeux vidéo de salon de huitième génération développée par Microsoft. Sortie en 2013, elle a succédé à la Xbox 360 et a concurrencé la PlayStation 4 et la Nintendo Wii U. La Xbox One s'est concentrée sur l'intégration multimédia, y compris les fonctionnalités de télévision et de divertissement, en plus des jeux. Elle a introduit des services Xbox Live améliorés, une intégration Kinect améliorée et des capacités de jeu basées sur le cloud. Les titres populaires incluent "Halo 5: Guardians", "Forza Horizon 2" et "Gears of War 4". La console prenait également en charge la rétrocompatibilité avec certains jeux Xbox 360, élargissant ainsi sa bibliothèque. La famille Xbox One comprend divers modèles, tels que la Xbox One S et la Xbox One X, offrant différents niveaux de performances et fonctionnalités.</desc>
+        <desc lang="fr" region="us">La Xbox One a été lancée en Amérique du Nord en 2013, mettant l'accent sur les fonctionnalités multimédias et de divertissement en plus des jeux. Elle offrait des services Xbox Live améliorés et une intégration Kinect.</desc>
+        <desc lang="fr" region="jp">La Xbox One est sortie au Japon en 2014, apportant la console de huitième génération de Microsoft sur le marché japonais avec son accent sur le multimédia et les services en ligne améliorés.</desc>
+    </variables>
 </theme>

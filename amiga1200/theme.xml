@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Commodore</system.manufacturer>
+		<system.fullName>Amiga 1200</system.fullName>
+		<system.fullName lang="fr">Amiga 1200</system.fullName>
+		<system.releaseYearOrNull>1992</system.releaseYearOrNull>
+		<desc>The Amiga 1200, also known as the A1200, is a home computer that was released by Commodore International in 1992. It was the last Amiga model based on the Motorola 68EC020 CPU and the Advanced Graphics Architecture (AGA). The Amiga 1200 was more powerful than the Amiga 500, and it was considered to be one of the most advanced home computers of its time. It was discontinued in 1994.</desc>
+		<desc lang="fr">L'Amiga 1200, également connu sous le nom d'A1200, est un ordinateur personnel sorti par Commodore International en 1992. C'était le dernier modèle Amiga basé sur le processeur Motorola 68EC020 et l'Advanced Graphics Architecture (AGA). L'Amiga 1200 était plus puissant que l'Amiga 500, et il était considéré comme l'un des ordinateurs personnels les plus avancés de son époque. Il a été abandonné en 1994.</desc>
 	</variables>
-
 </theme>

@@ -4,20 +4,22 @@
 
 	<formatVersion>7</formatVersion>
 
-    <include>./../theme.xml</include>
+<include>./../theme.xml</include>
 
 	<variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.manufacturer>Sega</system.manufacturer>
+<system.fullName>Game Gear</system.fullName>
+<system.releaseYearOrNull>1990</system.releaseYearOrNull>
+<system.releaseYearOrNull region="us">1991</system.releaseYearOrNull>
+<system.releaseYearOrNull region="jp">1990</system.releaseYearOrNull>
+<desc>The Game Gear is an 8-bit handheld game console released by Sega in 1990. It was designed to compete with the Nintendo Game Boy. The Game Gear featured a full-color backlit screen, which was a significant advantage over the Game Boy's monochrome display. It also had a wider library of games, including many arcade and console ports. However, its high power consumption and larger size made it less portable than the Game Boy.</desc>
+<desc region="us">The Game Gear is an 8-bit handheld game console released by Sega in 1991. It was designed to compete with the Nintendo Game Boy. The Game Gear featured a full-color backlit screen, which was a significant advantage over the Game Boy's monochrome display. It also had a wider library of games, including many arcade and console ports. However, its high power consumption and larger size made it less portable than the Game Boy.</desc>
+<desc region="jp">The Game Gear is an 8-bit handheld game console released by Sega in 1990. It was designed to compete with the Nintendo Game Boy. The Game Gear featured a full-color backlit screen, which was a significant advantage over the Game Boy's monochrome display. It also had a wider library of games, including many arcade and console ports. However, its high power consumption and larger size made it less portable than the Game Boy.</desc>
+<desc lang="fr">La Game Gear est une console de jeux portable 8 bits lancée par Sega en 1990. Elle a été conçue pour concurrencer la Nintendo Game Boy. La Game Gear était dotée d'un écran couleur rétroéclairé, ce qui constituait un avantage significatif par rapport à l'écran monochrome de la Game Boy. Elle disposait également d'une bibliothèque de jeux plus large, comprenant de nombreux ports d'arcade et de console. Cependant, sa consommation d'énergie élevée et sa taille plus grande la rendaient moins portable que la Game Boy.</desc>
+<desc lang="fr" region="us">La Game Gear est une console de jeux portable 8 bits lancée par Sega en 1991. Elle a été conçue pour concurrencer la Nintendo Game Boy. La Game Gear était dotée d'un écran couleur rétroéclairé, ce qui constituait un avantage significatif par rapport à l'écran monochrome de la Game Boy. Elle disposait également d'une bibliothèque de jeux plus large, comprenant de nombreux ports d'arcade et de console. Cependant, sa consommation d'énergie élevée et sa taille plus grande la rendaient moins portable que la Game Boy.</desc>
+<desc lang="fr" region="jp">La Game Gear est une console de jeux portable 8 bits lancée par Sega en 1990. Elle a été conçue pour concurrencer la Nintendo Game Boy. La Game Gear était dotée d'un écran couleur rétroéclairé, ce qui constituait un avantage significatif par rapport à l'écran monochrome de la Game Boy. Elle disposait également d'une bibliothèque de jeux plus large, comprenant de nombreux ports d'arcade et de console. Cependant, sa consommation d'énergie élevée et sa taille plus grande la rendaient moins portable que la Game Boy.</desc>
 
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+</variables>
 
 </theme>

@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>SNK</system.manufacturer>
+		<system.fullName>Art of Fighting</system.fullName>
+		<system.fullName lang="fr">Art of Fighting</system.fullName>
+		<system.releaseYearOrNull>1992</system.releaseYearOrNull>
+		<desc>Art of Fighting is a fighting video game series developed and published by SNK. The series is known for its intense one-on-one battles, its unique fighting mechanics, and its cinematic presentation.</desc>
+		<desc lang="fr">Art of Fighting est une série de jeux vidéo de combat développée et publiée par SNK. La série est connue pour ses batailles intenses en un contre un, ses mécanismes de combat uniques et sa présentation cinématique.</desc>
 	</variables>
-
 </theme>

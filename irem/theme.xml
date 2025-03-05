@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+	<variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Irem</system.manufacturer>
+        <system.fullName>Irem</system.fullName>
+        <desc>Irem is a Japanese video game developer and publisher. They are known for creating a variety of arcade and console games, including the R-Type series, Kung-Fu Master, and Vigilante.</desc>
+        <desc lang="fr">Irem est un développeur et éditeur japonais de jeux vidéo. Ils sont connus pour avoir créé une variété de jeux d'arcade et de console, notamment les séries R-Type, Kung-Fu Master et Vigilante.</desc>
+    </variables>
 </theme>

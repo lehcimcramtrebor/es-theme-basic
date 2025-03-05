@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>TheXTech Team</system.manufacturer>
+<system.fullName>TheXTech</system.fullName>
+<desc>TheXTech is a modern, open-source game engine designed for creating and playing SMBX (Super Mario Bros. X) games. It's the result of a community effort to port the original SMBX source code from VB6 to C++, offering improved performance, stability, and compatibility with modern systems. TheXTech aims to preserve and enhance the SMBX experience, allowing for the creation of new levels, episodes, and even full games within the familiar SMBX framework.</desc>
+<desc lang="fr">TheXTech est un moteur de jeu open-source moderne conçu pour créer et jouer à des jeux SMBX (Super Mario Bros. X). C'est le résultat d'un effort communautaire pour porter le code source original de SMBX de VB6 vers C++, offrant des performances, une stabilité et une compatibilité améliorées avec les systèmes modernes. TheXTech vise à préserver et à améliorer l'expérience SMBX, permettant la création de nouveaux niveaux, épisodes et même de jeux complets dans le cadre familier de SMBX.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

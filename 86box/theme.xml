@@ -1,23 +1,17 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
+<include>./../theme.xml</include>
 	<variables><region.priority region="eu"/>
+<system.manufacturer>86Box Team</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.fullName>86Box</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+<system.releaseYearOrNull>2016</system.releaseYearOrNull>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+<desc>86Box is an IBM PC system emulator for running old PC operating systems and games that require them. This system is based on the cycle-accurate 486 emulation core of PCem, a similar project, which was forked into 86Box after a disagreement in direction between the developers of that project.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+<desc lang="fr">86Box est un émulateur de système IBM PC permettant d'exécuter d'anciens systèmes d'exploitation et jeux PC qui les nécessitent. Ce système est basé sur le cœur d'émulation 486 précis au cycle près de PCem, un projet similaire, qui a été bifurqué dans 86Box après un désaccord sur la direction entre les développeurs de ce projet.</desc>
+</variables>
 
 </theme>

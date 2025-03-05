@@ -1,23 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
+    <variables>
+        <region.priority region="eu"/>
 
-	<variables><region.priority region="eu"/>
+        <system.manufacturer>VTech</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+        <system.fullName>CreatiVision</system.fullName>
+        <system.fullName lang="fr">CreatiVision</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+        <system.releaseYearOrNull>1981</system.releaseYearOrNull>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+        <desc>The CreatiVision is a home computer and video game console released by VTech in 1981. It was designed to compete with the Commodore VIC-20 and the Atari 400. The system featured a Z80 microprocessor, 16KB of RAM, and a color display. It was compatible with a variety of peripherals, including a cassette drive, a printer, and a joystick. The CreatiVision was not a commercial success, but it has gained a cult following among retro computing enthusiasts.</desc>
+        <desc lang="fr">Le CreatiVision est un ordinateur domestique et une console de jeux vidéo commercialisés par VTech en 1981. Il a été conçu pour concurrencer le Commodore VIC-20 et l'Atari 400. Le système comprenait un microprocesseur Z80, 16 Ko de RAM et un écran couleur. Il était compatible avec une variété de périphériques, notamment un lecteur de cassettes, une imprimante et un joystick. Le CreatiVision n'a pas été un succès commercial, mais il a acquis une base de fans culte parmi les passionnés de rétro-informatique.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    </variables>
 </theme>

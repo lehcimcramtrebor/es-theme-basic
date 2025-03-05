@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
+<include>./../theme.xml</include>
 	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+<system.manufacturer>OD Team</system.manufacturer>
+<system.fullName>OD Commander</system.fullName>
+<system.fullName lang="fr">Gestionnaire de fichiers OD Commander</system.fullName>
+<desc>OD Commander is a gamepad-oriented file manager, designed for use on handheld devices and systems where gamepad input is preferred over traditional keyboard and mouse. It is a fork of Dingux Commander, inheriting its focus on efficient file management through a controller interface. Key features include dual-pane file browsing, text editing, and various file operations tailored for gamepad navigation.</desc>
+<desc lang="fr">OD Commander est un gestionnaire de fichiers orienté gamepad, conçu pour être utilisé sur les appareils portables et les systèmes où l'entrée gamepad est préférée au clavier et à la souris traditionnels. Il s'agit d'une version modifiée de Dingux Commander, héritant de son orientation sur la gestion efficace des fichiers via une interface de contrôleur. Les principales fonctionnalités incluent la navigation dans les fichiers à double volet, l'édition de texte et diverses opérations de fichiers adaptées à la navigation par manette.</desc>
+</variables>
 </theme>

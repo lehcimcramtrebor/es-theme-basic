@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Mr.Boom Team</system.manufacturer>
+        <system.fullName>Mr.Boom</system.fullName>
+        <desc>Mr.Boom is a free and open-source Bomberman clone that offers cross-platform multiplayer gameplay. It features classic Bomberman mechanics with various enhancements, including online play, customizable rules, and support for multiple players. The game is known for its fast-paced action and nostalgic feel, reminiscent of the original Bomberman series.</desc>
+        <desc lang="fr">Mr.Boom est un clone gratuit et open-source de Bomberman qui offre un gameplay multijoueur multiplateforme. Il propose des mécanismes classiques de Bomberman avec diverses améliorations, notamment le jeu en ligne, des règles personnalisables et la prise en charge de plusieurs joueurs. Le jeu est connu pour son action rapide et son atmosphère nostalgique, rappelant la série Bomberman originale.</desc>
+    </variables>
 </theme>

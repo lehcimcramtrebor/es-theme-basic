@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Nichibutsu</system.manufacturer>
+        <system.fullName>Nichibutsu Arcade</system.fullName>
+        <system.fullName lang="fr">Nichibutsu Arcade</system.fullName>
+        <system.releaseYearOrNull>1982</system.releaseYearOrNull>
+        <desc>Nichibutsu, also known as Nihon Bussan, was a Japanese video game developer known for its unique and often quirky arcade games. Founded in 1970, they released a variety of titles, including classics like Moon Cresta, Crazy Climber, and Terra Cresta. Nichibutsu games are remembered for their distinct visual style, innovative gameplay mechanics, and challenging difficulty.</desc>
+        <desc lang="fr">Nichibutsu, également connu sous le nom de Nihon Bussan, était un développeur de jeux vidéo japonais connu pour ses jeux d'arcade uniques et souvent décalés. Fondée en 1970, la société a publié divers titres, dont des classiques comme Moon Cresta, Crazy Climber et Terra Cresta. Les jeux Nichibutsu sont connus pour leur style visuel distinct, leurs mécanismes de jeu innovants et leur difficulté élevée.</desc>
+    </variables>
 </theme>

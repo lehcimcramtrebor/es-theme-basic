@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+  <variables>
+    <region.priority region="eu" />
+    <system.manufacturer>Nintendo</system.manufacturer>
+    <system.fullName>Nintendo eShop</system.fullName>
+    <system.releaseYearOrNull>2011</system.releaseYearOrNull>
+    <desc>The Nintendo eShop is the official digital storefront for Nintendo systems, including the Nintendo Switch, Nintendo 3DS, and Wii U. It allows users to purchase and download games, downloadable content (DLC), applications, and other content. The eShop offers a wide variety of titles, from classic Nintendo games to modern releases, as well as exclusive content and demos.</desc>
+    <desc lang="fr">Le Nintendo eShop est la boutique en ligne officielle des systèmes Nintendo, notamment la Nintendo Switch, la Nintendo 3DS et la Wii U. Elle permet aux utilisateurs d'acheter et de télécharger des jeux, du contenu téléchargeable (DLC), des applications et d'autres contenus. L'eShop propose une grande variété de titres, des jeux Nintendo classiques aux versions modernes, ainsi que du contenu exclusif et des démos.</desc>
+  </variables>
 </theme>

@@ -1,23 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Sony</system.manufacturer>
+		<system.fullName>PlayStation 5</system.fullName>
+		<system.fullName lang="fr">PlayStation 5</system.fullName>
+		<system.releaseYearOrNull>2020</system.releaseYearOrNull>
+		<system.releaseYearOrNull region="us">2020</system.releaseYearOrNull>
+		<system.releaseYearOrNull region="jp">2020</system.releaseYearOrNull>
+		<desc>The PlayStation 5 (PS5) is a home video game console developed by Sony Interactive Entertainment. It was first released on November 12, 2020, in Australia, Japan, New Zealand, North America, and South Korea, and was released worldwide one week later. The PlayStation 5 is the successor to the PlayStation 4 as part of the PlayStation line of video game consoles.</desc>
+		<desc lang="fr">La PlayStation 5 (PS5) est une console de jeux vidéo de salon développée par Sony Interactive Entertainment. Elle est sortie le 12 novembre 2020 en Australie, au Japon, en Nouvelle-Zélande, en Amérique du Nord et en Corée du Sud, et est sortie dans le monde entier une semaine plus tard. La PlayStation 5 succède à la PlayStation 4 au sein de la gamme de consoles de jeux vidéo PlayStation.</desc>
 	</variables>
-
 </theme>

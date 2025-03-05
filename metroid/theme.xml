@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Nintendo</system.manufacturer>
+        <system.fullName>Metroid Series</system.fullName>
+        <system.fullName lang="fr">Série Metroid</system.fullName>
+        <system.releaseYearOrNull>1986</system.releaseYearOrNull>
+        <desc>Metroid is a science fiction action-adventure game series created by Nintendo. The series follows the adventures of bounty hunter Samus Aran as she explores alien planets and battles hostile creatures. Known for its exploration-based gameplay, atmospheric environments, and nonlinear level design, Metroid is considered a pioneer of the Metroidvania genre.</desc>
+        <desc lang="fr">Metroid est une série de jeux d'action-aventure de science-fiction créée par Nintendo. La série suit les aventures de la chasseuse de primes Samus Aran alors qu'elle explore des planètes extraterrestres et combat des créatures hostiles. Connu pour son gameplay basé sur l'exploration, ses environnements atmosphériques et sa conception de niveaux non linéaire, Metroid est considéré comme un pionnier du genre Metroidvania.</desc>
+    </variables>
 </theme>

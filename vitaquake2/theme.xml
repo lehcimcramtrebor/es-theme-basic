@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>VitaQuake2 Team</system.manufacturer>
+<system.fullName>VitaQuake2</system.fullName>
+<desc>VitaQuake2 is a port of the classic first-person shooter game, Quake II, to the PlayStation Vita handheld console. It is a community-driven project that aims to bring the fast-paced action and immersive gameplay of Quake II to a portable platform. VitaQuake2 offers optimized performance, enhanced graphics, and support for the Vita's unique features, such as the touchscreen and rear touchpad.</desc>
+<desc lang="fr">VitaQuake2 est un portage du jeu de tir à la première personne classique, Quake II, sur la console portable PlayStation Vita. Il s'agit d'un projet communautaire qui vise à apporter l'action rapide et le gameplay immersif de Quake II à une plateforme portable. VitaQuake2 offre des performances optimisées, des graphismes améliorés et la prise en charge des fonctionnalités uniques de la Vita, telles que l'écran tactile et le pavé tactile arrière.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

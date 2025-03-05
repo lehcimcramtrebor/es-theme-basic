@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Dragon Data</system.manufacturer>
+		<system.fullName>Dragon 32</system.fullName>
+		<desc>The Dragon 32 is an 8-bit home computer that was developed in the United Kingdom by Dragon Data. It was first released in 1982. The Dragon 32 was a popular computer in the UK and Europe, but it was not as successful in the United States. The computer was discontinued in 1985.</desc>
+		<desc lang="fr">Le Dragon 32 est un ordinateur personnel 8 bits qui a été développé au Royaume-Uni par Dragon Data. Il a été commercialisé pour la première fois en 1982. Le Dragon 32 était un ordinateur populaire au Royaume-Uni et en Europe, mais il n'a pas connu le même succès aux États-Unis. L'ordinateur a été abandonné en 1985.</desc>
 	</variables>
-
 </theme>

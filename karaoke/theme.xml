@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+	<variables>
+        <region.priority region="eu"/>
+        <system.fullName>Karaoke</system.fullName>
+        <system.fullName lang="fr">Karaoké</system.fullName>
+        <desc>Karaoke is an interactive entertainment system that provides backing music and lyrics for users to sing along to. It's popular in various settings, including arcades, bars, and homes.</desc>
+        <desc lang="fr">Le karaoké est un système de divertissement interactif qui fournit de la musique d'accompagnement et des paroles pour que les utilisateurs puissent chanter. Il est populaire dans divers contextes, notamment les arcades, les bars et les maisons.</desc>
+    </variables>
 </theme>

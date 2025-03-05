@@ -1,23 +1,21 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
+<include>./../theme.xml</include>
 	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+<system.manufacturer>NEC</system.manufacturer>
+<system.fullName>PC Engine GT</system.fullName>
+<system.fullName region="us">TurboExpress</system.fullName>
+<system.fullName region="jp">PC Engine GT</system.fullName>
+<system.fullName lang="fr">PC Engine GT</system.fullName>
+<system.releaseYearOrNull>1990</system.releaseYearOrNull>
+<system.releaseYearOrNull region="us">1990</system.releaseYearOrNull>
+<system.releaseYearOrNull region="jp">1990</system.releaseYearOrNull>
+<desc>The PC Engine GT, known as the TurboExpress in North America, is a handheld video game console released by NEC in 1990. It is a portable version of the PC Engine, allowing players to enjoy their favorite PC Engine games on the go. The PC Engine GT was known for its high-quality graphics and sound, as well as its ability to play all PC Engine HuCard games.</desc>
+<desc region="us">The TurboExpress is a handheld video game console released by NEC in 1990. It is a portable version of the TurboGrafx-16, allowing players to enjoy their favorite TurboGrafx-16 games on the go. The TurboExpress was known for its high-quality graphics and sound, as well as its ability to play all TurboGrafx-16 HuCard games.</desc>
+<desc region="jp">The PC Engine GT is a handheld video game console released by NEC in 1990. It is a portable version of the PC Engine, allowing players to enjoy their favorite PC Engine games on the go. The PC Engine GT was known for its high-quality graphics and sound, as well as its ability to play all PC Engine HuCard games.</desc>
+<desc lang="fr">La PC Engine GT, connue sous le nom de TurboExpress en Amérique du Nord, est une console de jeux vidéo portable commercialisée par NEC en 1990. Il s'agit d'une version portable de la PC Engine, permettant aux joueurs de profiter de leurs jeux PC Engine préférés en déplacement. La PC Engine GT était connue pour ses graphismes et son son de haute qualité, ainsi que pour sa capacité à lire tous les jeux PC Engine HuCard.</desc>
+<desc lang="fr" region="us">La TurboExpress est une console de jeux vidéo portable commercialisée par NEC en 1990. Il s'agit d'une version portable de la TurboGrafx-16, permettant aux joueurs de profiter de leurs jeux TurboGrafx-16 préférés en déplacement. La TurboExpress était connue pour ses graphismes et son son de haute qualité, ainsi que pour sa capacité à lire tous les jeux TurboGrafx-16 HuCard.</desc>
+<desc lang="fr" region="jp">La PC Engine GT est une console de jeux vidéo portable commercialisée par NEC en 1990. Il s'agit d'une version portable de la PC Engine, permettant aux joueurs de profiter de leurs jeux PC Engine préférés en déplacement. La PC Engine GT était connue pour ses graphismes et son son de haute qualité, ainsi que pour sa capacité à lire tous les jeux PC Engine HuCard.</desc>
+</variables>
 </theme>

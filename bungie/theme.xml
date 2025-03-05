@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+  <variables>
+    <region.priority region="eu"/>
+    <system.manufacturer>Bungie Software</system.manufacturer>
+    <system.fullName>Bungie Software Games</system.fullName>
+    <system.fullName lang="fr">Jeux Bungie Software</system.fullName>
+    <system.releaseYearOrNull>1991</system.releaseYearOrNull>
+    <desc>Bungie Software was the original name of the American video game developer Bungie, used from its founding in 1991 until 2000. During this period, the studio created the acclaimed Marathon series and the first two Myth games, establishing its reputation for innovative and immersive first-person shooter experiences. They also developed the unique third-person action game Oni, which featured a striking visual style and innovative melee combat system.</desc>
+    <desc lang="fr">Bungie Software était le nom d'origine du développeur de jeux vidéo américain Bungie, utilisé depuis sa création en 1991 jusqu'en 2000. Au cours de cette période, le studio a créé la célèbre série Marathon et les deux premiers jeux Myth, établissant sa réputation d'expériences de tir à la première personne innovantes et immersives. Ils ont également développé le jeu d'action à la troisième personne unique Oni, qui présentait un style visuel frappant et un système de combat au corps à corps innovant.</desc>
+  </variables>
 </theme>

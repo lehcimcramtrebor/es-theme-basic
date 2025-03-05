@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Epic MegaGames</system.manufacturer>
+<system.fullName>Tyrian</system.fullName>
+<system.releaseYearOrNull>1995</system.releaseYearOrNull>
+<desc>Tyrian is a vertically scrolling shooter video game developed by Eclipse Productions and published by Epic MegaGames. It was initially released for DOS in 1995 and later ported to other platforms. The game is known for its fast-paced action, detailed graphics, and extensive customization options, including a wide array of ships, weapons, and upgrades. Tyrian's combination of classic shooter gameplay with RPG elements and a compelling storyline has earned it a dedicated following among fans of the genre.</desc>
+<desc lang="fr">Tyrian est un jeu vidéo de tir à défilement vertical développé par Eclipse Productions et édité par Epic MegaGames. Il est initialement sorti pour DOS en 1995 et a ensuite été porté sur d'autres plateformes. Le jeu est connu pour son action rapide, ses graphismes détaillés et ses nombreuses options de personnalisation, notamment une large gamme de vaisseaux, d'armes et d'améliorations. La combinaison par Tyrian d'un gameplay de tir classique avec des éléments de RPG et un scénario captivant lui a valu un public dévoué parmi les fans du genre.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
+<include>./../theme.xml</include>
 	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+<system.manufacturer>Laxer Corp.</system.manufacturer>
+<system.fullName>OpenBOR</system.fullName>
+<system.fullName lang="fr">OpenBOR</system.fullName>
+<desc>OpenBOR (Open Beats of Rage) is a free and open-source 2D beat'em up game engine. Originally based on the Beats of Rage engine, it has evolved into a versatile platform for creating custom beat'em up games. With a wide range of features and extensive modding capabilities, OpenBOR allows users to design unique gameplay experiences with custom characters, levels, and storylines.</desc>
+<desc lang="fr">OpenBOR (Open Beats of Rage) est un moteur de jeu 2D beat'em up gratuit et open-source. Basé à l'origine sur le moteur Beats of Rage, il est devenu une plate-forme polyvalente pour la création de jeux beat'em up personnalisés. Avec un large éventail de fonctionnalités et de vastes capacités de modding, OpenBOR permet aux utilisateurs de concevoir des expériences de jeu uniques avec des personnages, des niveaux et des scénarios personnalisés.</desc>
+</variables>
 </theme>

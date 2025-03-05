@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>SNK</system.manufacturer>
+        <system.fullName>Neo Geo MVS</system.fullName>
+        <system.releaseYearOrNull>1990</system.releaseYearOrNull>
+        <desc>The Neo Geo MVS (Multi Video System) is an arcade system board released by SNK in 1990. It was designed to offer powerful graphics and sound capabilities, allowing for near-console-quality arcade experiences. The MVS was popular in arcades around the world and powered titles like The King of Fighters, Fatal Fury, and Metal Slug.</desc>
+        <desc lang="fr">Le Neo Geo MVS (Multi Video System) est une carte système d'arcade commercialisée par SNK en 1990. Il a été conçu pour offrir des graphismes et des capacités sonores puissantes, permettant des expériences d'arcade de qualité presque console. Le MVS était populaire dans les arcades du monde entier et a alimenté des titres comme The King of Fighters, Fatal Fury et Metal Slug.</desc>
+    </variables>
 </theme>

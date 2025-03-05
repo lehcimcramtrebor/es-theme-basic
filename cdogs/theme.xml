@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+  <variables>
+    <region.priority region="eu"/>
+    <system.manufacturer>Croteam</system.manufacturer>
+    <system.fullName>C-Dogs SDL</system.fullName>
+    <system.fullName lang="fr">C-Dogs SDL</system.fullName>
+    <system.releaseYearOrNull>2002</system.releaseYearOrNull>
+    <desc>C-Dogs SDL is an enhanced port of the classic 2D action game Cyberdogs, developed by Ronny Wester. It features updated graphics, sound, and gameplay, while retaining the original's core run-and-gun action. Players navigate levels, battling enemies and collecting weapons in this frantic shooter.</desc>
+    <desc lang="fr">C-Dogs SDL est un portage amélioré du jeu d'action 2D classique Cyberdogs, développé par Ronny Wester. Il propose des graphismes, un son et un gameplay mis à jour, tout en conservant l'action principale de course et de tir de l'original. Les joueurs naviguent dans les niveaux, combattent les ennemis et collectent des armes dans ce jeu de tir frénétique.</desc>
+  </variables>
 </theme>

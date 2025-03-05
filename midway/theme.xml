@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Midway Games</system.manufacturer>
+        <system.fullName>Midway Arcade Games</system.fullName>
+        <system.fullName lang="fr">Jeux d'arcade Midway</system.fullName>
+        <system.releaseYearOrNull>1958</system.releaseYearOrNull>
+        <desc>Midway Games was an American video game developer and publisher known for its arcade classics and console games. Founded in 1958, the company produced a wide range of popular titles, including Mortal Kombat, Ms. Pac-Man, and NBA Jam. Midway was a major player in the arcade industry, contributing significantly to the golden age of arcade games.</desc>
+        <desc lang="fr">Midway Games était un développeur et éditeur de jeux vidéo américain connu pour ses classiques d'arcade et ses jeux de console. Fondée en 1958, la société a produit une large gamme de titres populaires, dont Mortal Kombat, Ms. Pac-Man et NBA Jam. Midway était un acteur majeur de l'industrie de l'arcade, contribuant de manière significative à l'âge d'or des jeux d'arcade.</desc>
+    </variables>
 </theme>

@@ -1,23 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
+<include>./../theme.xml</include>
 	<variables><region.priority region="eu"/>
+<system.manufacturer>Sega</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.fullName>Sega Ages</system.fullName>
+<system.fullName lang="fr">Sega Ages</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+<system.releaseYearOrNull>1996</system.releaseYearOrNull>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+<desc>Sega Ages is a series of classic Sega arcade game ports for the Sega Saturn. The series was developed by Sims Co. and published by Sega. It features enhanced graphics and sound, as well as new features such as online leaderboards and save states.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+<desc lang="fr">Sega Ages est une série de ports de jeux d'arcade Sega classiques pour la Sega Saturn. La série a été développée par Sims Co. et publiée par Sega. Elle comprend des graphismes et un son améliorés, ainsi que de nouvelles fonctionnalités telles que des classements en ligne et des états de sauvegarde.</desc>
+</variables>
 
 </theme>

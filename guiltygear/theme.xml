@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Arc System Works</system.manufacturer>
+		<system.fullName>Guilty Gear</system.fullName>
+		<system.releaseYearOrNull>1998</system.releaseYearOrNull>
+		<desc>Guilty Gear is a series of fighting games developed by Arc System Works. The series is known for its fast-paced gameplay, heavy metal soundtrack, and anime-inspired graphics. The first game in the series was released in 1998 for the PlayStation. Guilty Gear has been praised by critics for its innovative gameplay and unique style. The series has also been commercially successful, selling over 5 million copies worldwide.</desc>
+		<desc lang="fr">Guilty Gear est une série de jeux de combat développée par Arc System Works. La série est connue pour son gameplay rapide, sa bande-son heavy metal et ses graphismes d'inspiration anime. Le premier jeu de la série est sorti en 1998 pour la PlayStation. Guilty Gear a été salué par la critique pour son gameplay innovant et son style unique. La série a également connu un succès commercial, se vendant à plus de 5 millions d'exemplaires dans le monde.</desc>
 	</variables>
-
 </theme>

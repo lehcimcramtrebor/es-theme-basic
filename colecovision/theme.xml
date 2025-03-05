@@ -1,23 +1,22 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Coleco</system.manufacturer>
+<system.manufacturer region="us">Coleco</system.manufacturer>
 
-    <include>./../theme.xml</include>
+<system.fullName>ColecoVision</system.fullName>
 
-	<variables><region.priority region="eu"/>
+<system.releaseYearOrNull>1982</system.releaseYearOrNull>
+<system.releaseYearOrNull region="us">1982</system.releaseYearOrNull>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<desc>The ColecoVision, released in 1982, was a second-generation home video game console that made a significant impact on the gaming industry. Its impressive hardware capabilities allowed for arcade-quality graphics and gameplay, surpassing its competitors at the time. The console's success was further fueled by its stellar launch lineup, including the iconic "Donkey Kong" port, which was considered the most accurate home conversion at the time. ColecoVision's expandability through modules like the Expansion Module #1, which allowed it to play Atari 2600 cartridges, further broadened its appeal and contributed to its popularity during the early 1980s.</desc>
+<desc region="us">The ColecoVision, released in 1982, was a second-generation home video game console that made a significant impact on the gaming industry in the United States. Its impressive hardware capabilities allowed for arcade-quality graphics and gameplay, surpassing its competitors at the time. The console's success was further fueled by its stellar launch lineup, including the iconic "Donkey Kong" port, which was considered the most accurate home conversion at the time. ColecoVision's expandability through modules like the Expansion Module #1, which allowed it to play Atari 2600 cartridges, further broadened its appeal and contributed to its popularity during the early 1980s. Coleco was an American company.</desc>
 
-		<!--<system.fullName>name</system.fullName>-->
+<desc lang="fr">La ColecoVision, sortie en 1982, était une console de jeux vidéo domestique de deuxième génération qui a eu un impact significatif sur l'industrie du jeu. Ses impressionnantes capacités matérielles permettaient des graphismes et un gameplay de qualité arcade, surpassant ses concurrents de l'époque. Le succès de la console a été encore alimenté par sa gamme de lancement exceptionnelle, y compris le portage iconique de "Donkey Kong", qui était considéré comme la conversion domestique la plus précise à l'époque. L'extensibilité de la ColecoVision grâce à des modules tels que le Module d'extension n° 1, qui lui permettait de lire les cartouches Atari 2600, a encore élargi son attrait et a contribué à sa popularité au début des années 1980.</desc>
+<desc lang="fr" region="us">La ColecoVision, sortie en 1982, était une console de jeux vidéo domestique de deuxième génération qui a eu un impact significatif sur l'industrie du jeu aux États-Unis. Ses impressionnantes capacités matérielles permettaient des graphismes et un gameplay de qualité arcade, surpassant ses concurrents de l'époque. Le succès de la console a été encore alimenté par sa gamme de lancement exceptionnelle, y compris le portage iconique de "Donkey Kong", qui était considéré comme la conversion domestique la plus précise à l'époque. L'extensibilité de la ColecoVision grâce à des modules tels que le Module d'extension n° 1, qui lui permettait de lire les cartouches Atari 2600, a encore élargi son attrait et a contribué à sa popularité au début des années 1980. Coleco était une entreprise américaine.</desc>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

@@ -1,23 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
+<include>./../theme.xml</include>
 	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+<system.manufacturer>Electronic Arts</system.manufacturer>
+<system.fullName>EA Sports</system.fullName>
+<desc>EA Sports is a division of Electronic Arts that develops and publishes sports video games. It is known for its popular franchises such as FIFA, Madden NFL, NBA Live, and NHL. EA Sports games often feature realistic graphics, detailed player animations, and accurate gameplay, aiming to replicate the experience of professional sports. Over the years, EA Sports has become a dominant force in the sports gaming genre, releasing numerous titles across various platforms.</desc>
+<desc lang="fr">EA Sports est une division d'Electronic Arts qui développe et publie des jeux vidéo de sport. Elle est connue pour ses franchises populaires telles que FIFA, Madden NFL, NBA Live et NHL. Les jeux EA Sports présentent souvent des graphismes réalistes, des animations de joueurs détaillées et un gameplay précis, visant à reproduire l'expérience des sports professionnels. Au fil des ans, EA Sports est devenue une force dominante dans le genre des jeux de sport, publiant de nombreux titres sur diverses plateformes.</desc>
+</variables>
 </theme>

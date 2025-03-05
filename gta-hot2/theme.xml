@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<system.fullName>grand theft auto</system.fullName>
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Rockstar North</system.manufacturer>
+		<system.fullName>Grand Theft Auto</system.fullName>
+		<system.releaseYearOrNull>1997</system.releaseYearOrNull>
+		<desc>Grand Theft Auto (GTA) is an action-adventure video game series created by David Jones and Mike Dailly. The series is developed by Rockstar North (formerly DMA Design) and published by Rockstar Games. The gameplay centers on an open world where players can complete missions to progress through the story, as well as participate in various side activities. The series is known for its controversial and mature themes, including violence, crime, and drug use.</desc>
+		<desc lang="fr">Grand Theft Auto (GTA) est une série de jeux vidéo d'action-aventure créée par David Jones et Mike Dailly. La série est développée par Rockstar North (anciennement DMA Design) et publiée par Rockstar Games. Le gameplay est centré sur un monde ouvert où les joueurs peuvent accomplir des missions pour progresser dans l'histoire, ainsi que participer à diverses activités secondaires. La série est connue pour ses thèmes controversés et matures, notamment la violence, le crime et la consommation de drogues.</desc>
 	</variables>
-
 </theme>

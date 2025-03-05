@@ -1,23 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>SNK</system.manufacturer>
+        <system.fullName>Neo Geo Pocket Color</system.fullName>
+        <system.releaseYearOrNull>1999</system.releaseYearOrNull>
+        <system.releaseYearOrNull region="us">1999</system.releaseYearOrNull>
+        <system.releaseYearOrNull region="jp">1999</system.releaseYearOrNull>
+        <desc>The Neo Geo Pocket Color (NGPC) is a 16-bit color handheld game console released by SNK in 1999. It is the successor to the Neo Geo Pocket and features a color display. The NGPC was praised for its high-quality graphics, clicky microswitched joystick, and long battery life. It was also fully backward compatible with the original Neo Geo Pocket.</desc>
+        <desc region="us">The Neo Geo Pocket Color (NGPC) is a 16-bit color handheld game console released by SNK in 1999. It is the successor to the Neo Geo Pocket and features a color display. The NGPC was praised for its high-quality graphics, clicky microswitched joystick, and long battery life. It was also fully backward compatible with the original Neo Geo Pocket.</desc>
+        <desc region="jp">The Neo Geo Pocket Color (NGPC) is a 16-bit color handheld game console released by SNK in 1999. It is the successor to the Neo Geo Pocket and features a color display. The NGPC was praised for its high-quality graphics, clicky microswitched joystick, and long battery life. It was also fully backward compatible with the original Neo Geo Pocket.</desc>
+        <desc lang="fr">La Neo Geo Pocket Color (NGPC) est une console de jeux portable couleur 16 bits commercialisée par SNK en 1999. Il s'agit du successeur de la Neo Geo Pocket et elle est dotée d'un écran couleur. La NGPC a été saluée pour ses graphismes de haute qualité, son joystick microswitché cliquable et sa longue durée de vie de la batterie. Elle était également entièrement rétrocompatible avec la Neo Geo Pocket d'origine.</desc>
+        <desc lang="fr" region="us">La Neo Geo Pocket Color (NGPC) est une console de jeux portable couleur 16 bits commercialisée par SNK en 1999. Il s'agit du successeur de la Neo Geo Pocket et elle est dotée d'un écran couleur. La NGPC a été saluée pour ses graphismes de haute qualité, son joystick microswitché cliquable et sa longue durée de vie de la batterie. Elle était également entièrement rétrocompatible avec la Neo Geo Pocket d'origine.</desc>
+        <desc lang="fr" region="jp">La Neo Geo Pocket Color (NGPC) est une console de jeux portable couleur 16 bits commercialisée par SNK en 1999. Il s'agit du successeur de la Neo Geo Pocket et elle est dotée d'un écran couleur. La NGPC a été saluée pour ses graphismes de haute qualité, son joystick microswitché cliquable et sa longue durée de vie de la batterie. Elle était également entièrement rétrocompatible avec la Neo Geo Pocket d'origine.</desc>
+    </variables>
 </theme>

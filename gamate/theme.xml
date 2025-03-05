@@ -4,20 +4,16 @@
 
 	<formatVersion>7</formatVersion>
 
-    <include>./../theme.xml</include>
+<include>./../theme.xml</include>
 
 	<variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.manufacturer>Bit Corporation</system.manufacturer>
+<system.fullName>Gamate</system.fullName>
+<system.releaseYearOrNull>1990</system.releaseYearOrNull>
+<desc>The Gamate is a handheld game console manufactured by Bit Corporation in 1990. It was released as a competitor to the Nintendo Game Boy, but it was not as successful. The Gamate featured a monochrome LCD screen, and its games were stored on cartridges. It had a limited library of games, and it was discontinued in 1993.</desc>
+<desc lang="fr">La Gamate est une console de jeux portable fabriquée par Bit Corporation en 1990. Elle a été lancée pour concurrencer le Nintendo Game Boy, mais elle n'a pas eu autant de succès. La Gamate était dotée d'un écran LCD monochrome et ses jeux étaient stockés sur des cartouches. Elle avait une bibliothèque de jeux limitée et a été abandonnée en 1993.</desc>
 
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+</variables>
 
 </theme>

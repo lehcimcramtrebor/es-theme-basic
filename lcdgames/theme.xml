@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+	<variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Various</system.manufacturer>
+        <system.fullName>LCD Games</system.fullName>
+        <system.fullName lang="fr">Jeux LCD</system.fullName>
+        <desc>LCD games are portable electronic games that use a liquid crystal display (LCD) to show visual elements. They are often handheld and battery-powered, offering simple gameplay experiences.</desc>
+        <desc lang="fr">Les jeux LCD sont des jeux électroniques portables qui utilisent un écran à cristaux liquides (LCD) pour afficher des éléments visuels. Ils sont souvent portables et alimentés par batterie, offrant des expériences de jeu simples.</desc>
+    </variables>
 </theme>

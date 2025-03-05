@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Zaccaria</system.manufacturer>
+		<system.fullName>Zaccaria Pinball</system.fullName>
+		<desc>Zaccaria Pinball is a pinball simulator developed and published by Magic Pixel Kft. It features recreations of real pinball tables from the Italian pinball manufacturer Zaccaria. The game was released for Microsoft Windows, macOS, Linux, PlayStation 4, Xbox One, and Nintendo Switch.</desc>
+		<desc lang="fr">Zaccaria Pinball est un simulateur de flipper développé et publié par Magic Pixel Kft. Il propose des recréations de véritables tables de flipper du fabricant italien de flippers Zaccaria. Le jeu est sorti sur Microsoft Windows, macOS, Linux, PlayStation 4, Xbox One et Nintendo Switch.</desc>
 	</variables>
-
 </theme>

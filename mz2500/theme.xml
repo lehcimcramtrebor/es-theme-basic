@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Sharp</system.manufacturer>
+        <system.fullName>Sharp MZ-2500</system.fullName>
+        <system.releaseYearOrNull>1985</system.releaseYearOrNull>
+        <desc>The Sharp MZ-2500 is a home computer released by Sharp in 1985. It was the successor to the MZ-80 series and was popular in Japan. The MZ-2500 featured a Zilog Z80 microprocessor, 64KB of RAM, and a variety of ports, including a cassette interface, a Centronics parallel port, and a joystick port. It was capable of displaying 8 colors and had a resolution of 640x200 pixels.</desc>
+        <desc lang="fr">Le Sharp MZ-2500 est un ordinateur domestique commercialisé par Sharp en 1985. Il a succédé à la série MZ-80 et était populaire au Japon. Le MZ-2500 était équipé d'un microprocesseur Zilog Z80, de 64 Ko de RAM et d'une variété de ports, notamment une interface de cassette, un port parallèle Centronics et un port joystick. Il était capable d'afficher 8 couleurs et avait une résolution de 640x200 pixels.</desc>
+    </variables>
 </theme>

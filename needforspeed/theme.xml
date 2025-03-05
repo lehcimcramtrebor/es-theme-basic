@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Electronic Arts</system.manufacturer>
+        <system.fullName>Need for Speed Series</system.fullName>
+        <system.fullName lang="fr">Série Need for Speed</system.fullName>
+        <system.releaseYearOrNull>1994</system.releaseYearOrNull> 
+        <desc>Need for Speed is a racing video game franchise developed by Electronic Arts. It began with the release of The Need for Speed in 1994 and has since spanned numerous sequels and spin-offs. The series is known for its diverse range of racing styles, from arcade-style street racing to more simulation-oriented tracks, and its focus on car customization and police chases.</desc>
+        <desc lang="fr">Need for Speed est une franchise de jeux vidéo de course développée par Electronic Arts. Elle a débuté avec la sortie de The Need for Speed en 1994 et a depuis engendré de nombreuses suites et spin-offs. La série est connue pour sa gamme variée de styles de course, des courses de rue de style arcade aux pistes plus orientées simulation, et son accent sur la personnalisation des voitures et les poursuites policières.</desc>
+    </variables>
 </theme>

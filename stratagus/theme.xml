@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Stratagus Team (Open-source project)</system.manufacturer>
+<system.fullName>Stratagus</system.fullName>
+<desc>Stratagus is a free and open-source cross-platform real-time strategy (RTS) game engine. It allows for the creation of games similar to Warcraft II and other classic RTS titles. It's known for its flexibility and modding capabilities, enabling developers to create custom game experiences. While not a game itself, it's a platform for various RTS projects.</desc>
+<desc lang="fr">Stratagus est un moteur de jeu de stratégie en temps réel (STR) multiplateforme, libre et open-source. Il permet la création de jeux similaires à Warcraft II et à d'autres titres STR classiques. Il est connu pour sa flexibilité et ses capacités de modding, permettant aux développeurs de créer des expériences de jeu personnalisées. Bien qu'il ne s'agisse pas d'un jeu en soi, c'est une plateforme pour divers projets STR.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

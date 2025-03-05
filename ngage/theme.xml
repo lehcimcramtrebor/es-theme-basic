@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+  <variables>
+    <region.priority region="eu" />
+    <system.manufacturer>Nokia</system.manufacturer>
+    <system.fullName>N-Gage</system.fullName>
+    <system.releaseYearOrNull>2003</system.releaseYearOrNull>
+    <desc>The N-Gage was a handheld game console and mobile phone hybrid developed by Nokia. Released in 2003, it aimed to combine gaming and phone functionality. Despite innovative features like multiplayer gaming over Bluetooth and GSM, it faced challenges due to its unconventional design and limited game library.</desc>
+    <desc lang="fr">La N-Gage était une console de jeux portable et un téléphone mobile hybride développé par Nokia. Lancé en 2003, il visait à combiner les fonctionnalités de jeu et de téléphone. Malgré des fonctionnalités innovantes comme le jeu multijoueur via Bluetooth et GSM, il a été confronté à des défis en raison de sa conception non conventionnelle et de sa bibliothèque de jeux limitée.</desc>
+  </variables>
 </theme>

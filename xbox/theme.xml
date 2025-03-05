@@ -1,23 +1,20 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Microsoft</system.manufacturer>
+        <system.fullName>Xbox</system.fullName>
+        <system.fullName lang="fr">Xbox</system.fullName>
+        <system.releaseYearOrNull>2001</system.releaseYearOrNull>
+        <system.releaseYearOrNull region="us">2001</system.releaseYearOrNull>
+        <system.releaseYearOrNull region="jp">2002</system.releaseYearOrNull>
+        <desc>The Xbox is a sixth-generation home video game console developed by Microsoft. Released in 2001, it marked Microsoft's entry into the console gaming market. The Xbox was notable for its powerful hardware, including an Intel Pentium III processor and a built-in hard drive. It supported online gaming via Xbox Live, a pioneering service that significantly influenced online console gaming. Popular titles include "Halo: Combat Evolved," "Project Gotham Racing," and "Fable." The Xbox aimed to compete with the PlayStation 2 and Nintendo GameCube, emphasizing its technical capabilities and online functionality.</desc>
+        <desc region="us">The Xbox, released in North America in 2001, was Microsoft's first foray into the console gaming market. It boasted powerful hardware and introduced Xbox Live, a groundbreaking online gaming service. Popular games like "Halo: Combat Evolved" helped establish the platform.</desc>
+        <desc region="jp">The Xbox launched in Japan in 2002, bringing Microsoft's console to the Japanese market. While it faced stiff competition, it offered unique titles and online experiences through Xbox Live.</desc>
+        <desc lang="fr">La Xbox est une console de jeux vidéo de salon de sixième génération développée par Microsoft. Sortie en 2001, elle a marqué l'entrée de Microsoft sur le marché des consoles de jeux. La Xbox était remarquable pour son matériel puissant, y compris un processeur Intel Pentium III et un disque dur intégré. Elle prenait en charge le jeu en ligne via Xbox Live, un service pionnier qui a considérablement influencé le jeu en ligne sur console. Les titres populaires incluent "Halo: Combat Evolved", "Project Gotham Racing" et "Fable". La Xbox visait à concurrencer la PlayStation 2 et la Nintendo GameCube, en mettant l'accent sur ses capacités techniques et sa fonctionnalité en ligne.</desc>
+        <desc lang="fr" region="us">La Xbox, sortie en Amérique du Nord en 2001, a été la première incursion de Microsoft sur le marché des consoles de jeux. Elle disposait d'un matériel puissant et a introduit Xbox Live, un service de jeu en ligne révolutionnaire. Des jeux populaires comme "Halo: Combat Evolved" ont contribué à établir la plateforme.</desc>
+         <desc lang="fr" region="jp">La Xbox a été lancée au Japon en 2002, apportant la console de Microsoft sur le marché japonais. Bien qu'elle ait fait face à une concurrence féroce, elle offrait des titres uniques et des expériences en ligne via Xbox Live.</desc>
+    </variables>
 </theme>

@@ -1,23 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
+    <variables>
+        <region.priority region="eu"/>
 
-	<variables><region.priority region="eu"/>
+        <system.manufacturer>Naughty Dog</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+        <system.fullName>Crash Bandicoot Games</system.fullName>
+        <system.fullName lang="fr">Jeux Crash Bandicoot</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+        <system.releaseYearOrNull>1996</system.releaseYearOrNull>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+        <desc>The Crash Bandicoot games are a series of platform games featuring the adventures of Crash Bandicoot, a genetically enhanced bandicoot. The games are known for their colorful graphics, challenging gameplay, and diverse level designs. The series has spanned multiple platforms and includes numerous entries, such as the original trilogy developed by Naughty Dog, as well as remakes and new installments by other developers. Crash Bandicoot games are celebrated for their innovative gameplay mechanics and their impact on the platforming genre.</desc>
+        <desc lang="fr">Les jeux Crash Bandicoot sont une série de jeux de plateforme mettant en scène les aventures de Crash Bandicoot, un bandicoot génétiquement amélioré. Les jeux sont connus pour leurs graphismes colorés, leur gameplay stimulant et leurs conceptions de niveaux variés. La série a couvert plusieurs plateformes et comprend de nombreuses entrées, telles que la trilogie originale développée par Naughty Dog, ainsi que des remakes et de nouveaux épisodes par d'autres développeurs. Les jeux Crash Bandicoot sont célébrés pour leurs mécanismes de jeu innovants et leur impact sur le genre de la plateforme.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    </variables>
 </theme>

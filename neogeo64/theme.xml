@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>SNK</system.manufacturer>
+        <system.fullName>Neo Geo 64</system.fullName>
+        <system.releaseYearOrNull>1997</system.releaseYearOrNull>
+        <desc>The Neo Geo 64 is an arcade system board released by SNK in 1997 as the successor to the Neo Geo MVS. It was designed to offer 3D graphics capabilities and improved performance compared to its predecessor. The Neo Geo 64 powered titles like Fatal Fury: Wild Ambition and Samurai Shodown 64: Warriors Rage.</desc>
+        <desc lang="fr">Le Neo Geo 64 est une carte système d'arcade commercialisée par SNK en 1997 en tant que successeur du Neo Geo MVS. Il a été conçu pour offrir des capacités graphiques 3D et des performances améliorées par rapport à son prédécesseur. Le Neo Geo 64 a alimenté des titres comme Fatal Fury: Wild Ambition et Samurai Shodown 64: Warriors Rage.</desc>
+    </variables>
 </theme>

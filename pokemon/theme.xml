@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Game Freak</system.manufacturer>
+		<system.fullName>Pokémon Games</system.fullName>
+		<system.fullName lang="fr">Jeux Pokémon</system.fullName>
+		<desc>Pokémon, short for Pocket Monsters, are a media franchise created by Satoshi Tajiri in 1996, focused on fictional creatures called Pokémon, which humans capture and train to battle each other. The franchise spans video games, anime, manga, trading cards, and toys.</desc>
+		<desc lang="fr">Pokémon, abréviation de Pocket Monsters, est une franchise médiatique créée par Satoshi Tajiri en 1996, axée sur des créatures fictives appelées Pokémon, que les humains capturent et entraînent pour se battre les uns contre les autres. La franchise comprend des jeux vidéo, des anime, des mangas, des cartes à collectionner et des jouets.</desc>
 	</variables>
-
 </theme>

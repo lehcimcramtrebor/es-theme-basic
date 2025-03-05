@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Zen Studios</system.manufacturer>
+		<system.fullName>Pinball FX</system.fullName>
+		<system.fullName lang="fr">Pinball FX</system.fullName>
+		<desc>Pinball FX is a series of pinball video games developed by Zen Studios. Known for its realistic physics, high-quality graphics, and a wide variety of themed tables, Pinball FX offers an immersive pinball experience. The series features tables based on popular franchises like Star Wars, Marvel, and Universal Studios. This is the first edition of Pinball FX.</desc>
+		<desc lang="fr">Pinball FX est une série de jeux vidéo de flipper développée par Zen Studios. Connu pour sa physique réaliste, ses graphismes de haute qualité et une grande variété de tables à thème, Pinball FX offre une expérience de flipper immersive. La série comprend des tables basées sur des franchises populaires comme Star Wars, Marvel et Universal Studios. Ceci est la première édition de Pinball FX.</desc>
 	</variables>
-
 </theme>

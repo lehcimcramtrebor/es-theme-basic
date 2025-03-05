@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.fullName>Dragon Ball Z Games</system.fullName>
+		<system.fullName lang="fr">Jeux Dragon Ball Z</system.fullName>
+		<desc>Dragon Ball Z games are video games based on the Dragon Ball Z anime series. The games typically feature the characters and storylines from the anime, and they often allow players to fight each other in one-on-one battles. Dragon Ball Z games are popular with fans of the anime, and they have been released on a variety of platforms, including consoles, handhelds, and mobile devices.</desc>
+		<desc lang="fr">Les jeux Dragon Ball Z sont des jeux vidéo basés sur la série animée Dragon Ball Z. Les jeux présentent généralement les personnages et les scénarios de l'anime, et ils permettent souvent aux joueurs de s'affronter dans des batailles en un contre un. Les jeux Dragon Ball Z sont populaires auprès des fans de l'anime, et ils sont sortis sur une variété de plates-formes, y compris les consoles, les consoles portables et les appareils mobiles.</desc>
 	</variables>
-
 </theme>

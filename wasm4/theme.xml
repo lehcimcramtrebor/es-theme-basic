@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Bruno Garcia</system.manufacturer>
+<system.fullName>wasm-4</system.fullName>
+<system.releaseYearOrNull>2021</system.releaseYearOrNull>
+<desc>wasm-4 is a fantasy console for building small games that run in web browsers. It has a limited palette, low resolution, and a small amount of memory, which encourages developers to be creative and resourceful. The console is designed to be easy to use, with a simple API and a built-in code editor. Games made with wasm-4 can be easily shared online and played on any device with a web browser.</desc>
+<desc lang="fr">wasm-4 est une console fictive pour créer de petits jeux qui s'exécutent dans les navigateurs Web. Elle a une palette limitée, une faible résolution et une petite quantité de mémoire, ce qui encourage les développeurs à être créatifs et ingénieux. La console est conçue pour être facile à utiliser, avec une API simple et un éditeur de code intégré. Les jeux créés avec wasm-4 peuvent être facilement partagés en ligne et joués sur n'importe quel appareil doté d'un navigateur Web.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

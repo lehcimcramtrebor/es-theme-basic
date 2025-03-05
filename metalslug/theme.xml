@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>SNK</system.manufacturer>
+        <system.fullName>Metal Slug Series</system.fullName>
+        <system.fullName lang="fr">Série Metal Slug</system.fullName>
+        <system.releaseYearOrNull>1996</system.releaseYearOrNull>
+        <desc>Metal Slug is a run and gun video game series created by Nazca Corporation before mergers with SNK. The series is known for its sense of humor, hand-drawn graphics, and fast-paced action. It has become a beloved classic in the arcade and home console gaming world.</desc>
+        <desc lang="fr">Metal Slug est une série de jeux vidéo de type run and gun créée par Nazca Corporation avant sa fusion avec SNK. La série est connue pour son humour, ses graphismes dessinés à la main et son action rapide. Elle est devenue un classique bien-aimé dans le monde du jeu d'arcade et de console de salon.</desc>
+    </variables>
 </theme>

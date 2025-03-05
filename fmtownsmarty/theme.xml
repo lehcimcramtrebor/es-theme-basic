@@ -4,20 +4,16 @@
 
 	<formatVersion>7</formatVersion>
 
-    <include>./../theme.xml</include>
+<include>./../theme.xml</include>
 
 	<variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.manufacturer>Fujitsu</system.manufacturer>
+<system.fullName>FM Towns Marty</system.fullName>
+<system.releaseYearOrNull>1993</system.releaseYearOrNull>
+<desc>The FM Towns Marty is a fifth-generation home video game console released in 1993 by Fujitsu. It is based on the FM Towns computer system and is compatible with FM Towns games. It was the first 32-bit CD-ROM-based home video game console. The system supported a variety of game genres, including action, adventure, role-playing, and strategy games. It also had a built-in CD player and could be used to play audio CDs.</desc>
+<desc lang="fr">La FM Towns Marty est une console de jeux vidéo domestique de cinquième génération lancée en 1993 par Fujitsu. Elle est basée sur le système informatique FM Towns et est compatible avec les jeux FM Towns. C'était la première console de jeux vidéo domestique 32 bits basée sur CD-ROM. Le système prenait en charge une variété de genres de jeux, y compris les jeux d'action, d'aventure, de rôle et de stratégie. Il avait également un lecteur CD intégré et pouvait être utilisé pour lire des CD audio.</desc>
 
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+</variables>
 
 </theme>

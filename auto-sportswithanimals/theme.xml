@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+  <variables>
+    <region.priority region="eu"/>
+    <system.manufacturer>Various</system.manufacturer>
+    <system.fullName>Sports with Animals Games</system.fullName>
+    <system.fullName lang="fr">Jeux de sport avec animaux</system.fullName>
+    <desc>Sports with animal games involve virtual or physical competitions featuring animals. They can range from virtual horse racing and dog agility courses to interactive experiences like caring for and training virtual pets.</desc>
+    <desc lang="fr">Les jeux de sport avec animaux impliquent des compétitions virtuelles ou physiques mettant en scène des animaux. Ils peuvent aller des courses de chevaux virtuelles et des parcours d'agilité pour chiens à des expériences interactives comme prendre soin d'animaux de compagnie virtuels et les entraîner.</desc>
+  </variables>
 </theme>

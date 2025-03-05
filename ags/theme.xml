@@ -1,23 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
+<include>./../theme.xml</include>
 	<variables><region.priority region="eu"/>
+<system.manufacturer>Adventure Game Studio</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.fullName>Adventure Game Studio</system.fullName>
+<system.fullName lang="fr">Adventure Game Studio</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+<system.releaseYearOrNull>1997</system.releaseYearOrNull>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+<desc>Adventure Game Studio (AGS) is a free and open-source development tool for creating adventure games. It is known for its ease of use and its wide range of features. AGS games can be played on Windows, Linux, and macOS.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+<desc lang="fr">Adventure Game Studio (AGS) est un outil de développement gratuit et open-source pour créer des jeux d'aventure. Il est connu pour sa facilité d'utilisation et sa large gamme de fonctionnalités. Les jeux AGS peuvent être joués sur Windows, Linux et macOS.</desc>
+</variables>
 
 </theme>

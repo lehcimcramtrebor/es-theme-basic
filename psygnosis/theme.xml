@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Psygnosis</system.manufacturer>
+		<system.fullName>Psygnosis Games</system.fullName>
+		<system.fullName lang="fr">Jeux Psygnosis</system.fullName>
+		<desc>Psygnosis was a British video game developer and publisher founded in 1984. They were known for their visually stunning and innovative games, often featuring unique art styles and experimental gameplay. Some of their most famous titles include Lemmings, Wipeout, and Shadow of the Beast.</desc>
+		<desc lang="fr">Psygnosis était un développeur et éditeur de jeux vidéo britannique fondé en 1984. Ils étaient connus pour leurs jeux visuellement époustouflants et innovants, présentant souvent des styles artistiques uniques et un gameplay expérimental. Certains de leurs titres les plus célèbres incluent Lemmings, Wipeout et Shadow of the Beast.</desc>
 	</variables>
-
 </theme>

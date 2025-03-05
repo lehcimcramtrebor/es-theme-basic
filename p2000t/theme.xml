@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
+<include>./../theme.xml</include>
 	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+<system.manufacturer>Philips</system.manufacturer>
+<system.fullName>Philips P2000T</system.fullName>
+<system.fullName lang="fr">Philips P2000T</system.fullName>
+<desc>The Philips P2000T is a home computer released in 1980. It was one of the early home computers, featuring a Z80 processor and a wide range of software, including games, educational programs, and productivity tools. The P2000T was popular in Europe, particularly in the Netherlands and Belgium.</desc>
+<desc lang="fr">Le Philips P2000T est un ordinateur personnel sorti en 1980. C'était l'un des premiers ordinateurs personnels, doté d'un processeur Z80 et d'une large gamme de logiciels, y compris des jeux, des programmes éducatifs et des outils de productivité. Le P2000T était populaire en Europe, en particulier aux Pays-Bas et en Belgique.</desc>
+</variables>
 </theme>

@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Texas Instruments</system.manufacturer>
+<system.fullName>TI-99/4A</system.fullName>
+<system.releaseYearOrNull>1981</system.releaseYearOrNull>
+<desc>The TI-99/4A is a home computer released by Texas Instruments in 1981. It was known for its advanced graphics and sound capabilities for its time, but faced challenges due to its limited software library and relatively high price. It featured a unique cartridge-based system and a variety of peripherals, including a speech synthesizer and a thermal printer. Despite its commercial limitations, the TI-99/4A is remembered for its technical innovations and its role in the early home computer market.</desc>
+<desc lang="fr">Le TI-99/4A est un ordinateur personnel lancé par Texas Instruments en 1981. Il était connu pour ses capacités graphiques et sonores avancées pour l'époque, mais a été confronté à des défis en raison de sa bibliothèque de logiciels limitée et de son prix relativement élevé. Il comportait un système unique à base de cartouches et une variété de périphériques, notamment un synthétiseur vocal et une imprimante thermique. Malgré ses limites commerciales, le TI-99/4A est reconnu pour ses innovations techniques et son rôle dans le marché naissant des ordinateurs personnels.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

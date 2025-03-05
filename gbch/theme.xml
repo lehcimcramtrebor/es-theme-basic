@@ -1,23 +1,17 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+        <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<variables><region.priority region="eu"/>
+<system.manufacturer>Various Creators</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.fullName>GBC Hacks</system.fullName>
+<system.fullName lang="fr">Hacks GBC</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+<desc>Game Boy Color hacks are modified versions of original GBC games, crafted by enthusiasts. These modifications can involve a wide range of alterations, from simple tweaks like color palette changes or difficulty adjustments, to more extensive changes such as new levels, storylines, characters, and gameplay mechanics. These hacks are created using various tools and software, with the goal of enhancing or reimagining classic GBC experiences. Popular examples include hacks that introduce new Pokémon adventures, expand existing storylines, or even create entirely new games using the GBC's engine.</desc>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+<desc lang="fr">Les hacks Game Boy Color sont des versions modifiées des jeux GBC originaux, créées par des passionnés. Ces modifications peuvent impliquer un large éventail d'altérations, allant de simples ajustements comme des changements de palette de couleurs ou des ajustements de difficulté, à des changements plus importants tels que de nouveaux niveaux, scénarios, personnages et mécanismes de jeu. Ces hacks sont créés à l'aide de divers outils et logiciels, dans le but d'améliorer ou de réimaginer les expériences classiques de la GBC. Les exemples populaires incluent des hacks qui introduisent de nouvelles aventures Pokémon, étendent les scénarios existants ou créent même des jeux entièrement nouveaux en utilisant le moteur de la GBC.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

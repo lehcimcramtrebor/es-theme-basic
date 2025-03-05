@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+  <variables>
+    <region.priority region="eu"/>
+    <system.manufacturer>Various</system.manufacturer>
+    <system.fullName>Last Played Games</system.fullName>
+    <system.fullName lang="fr">Derniers jeux joués</system.fullName>
+    <desc>A collection of the most recently played games, offering quick access to continue your gaming sessions.</desc>
+    <desc lang="fr">Une collection des jeux les plus récemment joués, offrant un accès rapide pour continuer vos sessions de jeu.</desc>
+  </variables>
 </theme>

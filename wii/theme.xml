@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Nintendo</system.manufacturer>
+<system.fullName>Wii</system.fullName>
+<system.releaseYearOrNull>2006</system.releaseYearOrNull>
+<desc>The Wii is a home video game console released by Nintendo in 2006. It is known for its innovative motion controls, which allow players to interact with games using physical gestures. The console also features a unique user interface and a variety of online services. The Wii was a commercial success, selling over 100 million units worldwide.</desc>
+<desc lang="fr">La Wii est une console de jeux vidéo domestique sortie par Nintendo en 2006. Elle est connue pour ses commandes de mouvement innovantes, qui permettent aux joueurs d'interagir avec les jeux à l'aide de gestes physiques. La console dispose également d'une interface utilisateur unique et d'une variété de services en ligne. La Wii a été un succès commercial, se vendant à plus de 100 millions d'unités dans le monde.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

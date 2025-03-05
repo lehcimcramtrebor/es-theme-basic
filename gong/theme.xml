@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Libretro Team</system.manufacturer>
+		<system.fullName>Gong (Libretro)</system.fullName>
+		<system.releaseYearOrNull>2023</system.releaseYearOrNull>
+		<desc>Gong is a Libretro core that emulates the classic arcade game Pong. It was developed by the Libretro Team and released in 2023. The core is based on the open-source emulator FCEUX, which was originally developed for the Nintendo Entertainment System. Gong is a simple and accurate emulator that allows you to play Pong on a variety of devices, including PCs, smartphones, and tablets.</desc>
+		<desc lang="fr">Gong est un noyau Libretro qui émule le jeu d'arcade classique Pong. Il a été développé par l'équipe Libretro et publié en 2023. Le noyau est basé sur l'émulateur open source FCEUX, qui a été initialement développé pour la Nintendo Entertainment System. Gong est un émulateur simple et précis qui vous permet de jouer à Pong sur une variété d'appareils, y compris les PC, les smartphones et les tablettes.</desc>
 	</variables>
-
 </theme>

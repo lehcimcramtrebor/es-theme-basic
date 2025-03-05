@@ -1,23 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
+<include>./../theme.xml</include>
 	<variables><region.priority region="eu"/>
+<system.manufacturer>Alex Express</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.fullName>Alex Express (YouTube)</system.fullName>
+<system.fullName lang="fr">Alex Express (YouTube)</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+<desc>Alex Express is a French YouTuber known for his content related to retro gaming, emulation, and technology. He creates videos featuring tutorials, reviews, and showcases of various systems and games, often with a focus on detailed technical explanations and historical context.</desc>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+<desc lang="fr">Alex Express est un YouTubeur français connu pour son contenu lié au rétrogaming, à l'émulation et à la technologie. Il crée des vidéos présentant des tutoriels, des critiques et des présentations de divers systèmes et jeux, souvent avec un accent sur des explications techniques détaillées et un contexte historique.</desc>
+</variables>
 
 </theme>

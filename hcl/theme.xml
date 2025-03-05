@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>E. Hashimoto</system.manufacturer>
+		<system.fullName>Hydra Castle Labyrinth</system.fullName>
+		<system.releaseYearOrNull>2011</system.releaseYearOrNull>
+		<desc>Hydra Castle Labyrinth is a freeware Metroidvania video game developed by E. Hashimoto. The game was released in 2011 for PC. It is a non-linear 2D platformer with a focus on exploration and combat. The game features a large interconnected world, a variety of weapons and items, and challenging boss fights.</desc>
+		<desc lang="fr">Hydra Castle Labyrinth est un jeu vidéo Metroidvania gratuit développé par E. Hashimoto. Le jeu est sorti en 2011 pour PC. C'est un jeu de plateforme 2D non linéaire axé sur l'exploration et le combat. Le jeu propose un grand monde interconnecté, une variété d'armes et d'objets, et des combats de boss stimulants.</desc>
 	</variables>
-
 </theme>

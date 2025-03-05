@@ -2,22 +2,20 @@
 
 <theme>
 
-	<formatVersion>7</formatVersion>
+        <formatVersion>7</formatVersion>
 
-    <include>./../theme.xml</include>
+        <include>./../theme.xml</include>
 
-	<variables><region.priority region="eu"/>
+        <variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+        <system.manufacturer>SemiCom</system.manufacturer>
 
-		<!--<system.fullName>name</system.fullName>-->
+        <system.fullName>SemiCom</system.fullName>
+        <system.fullName lang="fr">SemiCom</system.fullName>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+        <desc>SemiCom was a Taiwanese electronics company that produced various hardware, including arcade system boards. They are known for creating arcade hardware that often ran unlicensed or "bootleg" versions of popular arcade games. Their boards were typically more affordable than the original hardware, making them a common sight in arcades in some regions.</desc>
+        <desc lang="fr">SemiCom était une société d'électronique taïwanaise qui produisait divers matériels, notamment des cartes système d'arcade. Ils sont connus pour avoir créé du matériel d'arcade qui exécutait souvent des versions sans licence ou "bootleg" de jeux d'arcade populaires. Leurs cartes étaient généralement plus abordables que le matériel d'origine, ce qui en faisait une vue courante dans les arcades de certaines régions.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+</variables>
 
 </theme>

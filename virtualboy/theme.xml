@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Nintendo</system.manufacturer>
+<system.fullName>Virtual Boy</system.fullName>
+<system.releaseYearOrNull>1995</system.releaseYearOrNull>
+<desc>The Virtual Boy is a 32-bit tabletop video game console released by Nintendo in 1995. It was marketed as the first portable console capable of displaying stereoscopic 3D graphics. The console featured a unique red-and-black color scheme and a head-mounted display. However, it was met with limited success due to factors such as its high price, limited game library, and concerns about eye strain and headaches. Despite its commercial failure, the Virtual Boy remains a notable entry in Nintendo's history for its innovative attempt to bring 3D gaming to a portable format.</desc>
+<desc lang="fr">La Virtual Boy est une console de jeux vidéo de table 32 bits sortie par Nintendo en 1995. Elle a été commercialisée comme la première console portable capable d'afficher des graphismes 3D stéréoscopiques. La console présentait un schéma de couleurs rouge et noir unique et un écran monté sur la tête. Cependant, elle a rencontré un succès limité en raison de facteurs tels que son prix élevé, sa bibliothèque de jeux limitée et les inquiétudes concernant la fatigue oculaire et les maux de tête. Malgré son échec commercial, la Virtual Boy reste une entrée notable dans l'histoire de Nintendo pour sa tentative innovante d'apporter le jeu 3D à un format portable.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

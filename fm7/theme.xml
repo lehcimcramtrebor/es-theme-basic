@@ -4,20 +4,16 @@
 
 	<formatVersion>7</formatVersion>
 
-    <include>./../theme.xml</include>
+<include>./../theme.xml</include>
 
 	<variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.manufacturer>Fujitsu</system.manufacturer>
+<system.fullName>FM-7</system.fullName>
+<system.releaseYearOrNull>1982</system.releaseYearOrNull>
+<desc>The Fujitsu FM-7 is a series of 8-bit home computers released by Fujitsu in 1982. It was known for its advanced graphics and sound capabilities for its time, making it popular for gaming and educational software. The FM-7 featured a dual-CPU design, using both a Motorola 6809 and a Fujitsu 8809, and had a wide range of peripherals available. It was particularly successful in Japan.</desc>
+<desc lang="fr">Le Fujitsu FM-7 est une série d'ordinateurs personnels 8 bits lancée par Fujitsu en 1982. Il était connu pour ses capacités graphiques et sonores avancées pour l'époque, ce qui le rendait populaire pour les jeux et les logiciels éducatifs. Le FM-7 présentait une conception à double processeur, utilisant à la fois un Motorola 6809 et un Fujitsu 8809, et disposait d'une large gamme de périphériques disponibles. Il a connu un succès particulier au Japon.</desc>
 
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+</variables>
 
 </theme>

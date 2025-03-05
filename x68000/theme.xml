@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Sharp</system.manufacturer>
+        <system.fullName>X68000</system.fullName>
+        <system.fullName lang="fr">X68000</system.fullName>
+        <system.releaseYearOrNull>1987</system.releaseYearOrNull>
+        <desc>The Sharp X68000, often referred to as the X68k, is a home computer released by Sharp Corporation in 1987. It was primarily sold in Japan and is renowned for its advanced graphics and sound capabilities, which made it a popular platform for arcade-style games and multimedia applications. The X68000 featured a Motorola 68000 processor, similar to those used in arcade machines, and offered high-resolution graphics and FM synthesis sound. Its library included numerous arcade ports, original games, and productivity software. The X68000 is celebrated for its role in the Japanese gaming scene during the late 1980s and early 1990s.</desc>
+        <desc lang="fr">Le Sharp X68000, souvent appelé X68k, est un ordinateur personnel lancé par Sharp Corporation en 1987. Il était principalement vendu au Japon et est réputé pour ses capacités graphiques et sonores avancées, ce qui en faisait une plateforme populaire pour les jeux de style arcade et les applications multimédias. Le X68000 était équipé d'un processeur Motorola 68000, similaire à ceux utilisés dans les bornes d'arcade, et offrait des graphismes haute résolution et un son de synthèse FM. Sa bibliothèque comprenait de nombreux ports d'arcade, des jeux originaux et des logiciels de productivité. Le X68000 est célébré pour son rôle dans la scène du jeu japonais à la fin des années 1980 et au début des années 1990.</desc>
+    </variables>
 </theme>

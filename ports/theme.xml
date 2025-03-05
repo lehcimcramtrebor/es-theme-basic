@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Various</system.manufacturer>
+		<system.fullName>Ports</system.fullName>
+		<system.fullName lang="fr">Ports</system.fullName>
+		<desc>A collection of video game ports, which are versions of games originally developed for one platform but adapted to run on another. This category encompasses a wide range of ports, from arcade games brought to home consoles to modern titles adapted for handheld devices.</desc>
+		<desc lang="fr">Une collection de ports de jeux vidéo, qui sont des versions de jeux initialement développés pour une plateforme mais adaptés pour fonctionner sur une autre. Cette catégorie englobe une large gamme de ports, des jeux d'arcade portés sur les consoles de salon aux titres modernes adaptés aux appareils portables.</desc>
 	</variables>
-
 </theme>

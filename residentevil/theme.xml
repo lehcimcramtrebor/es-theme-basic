@@ -4,20 +4,19 @@
 
 	<formatVersion>7</formatVersion>
 
-    <include>./../theme.xml</include>
+<include>./../theme.xml</include>
 
 	<variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.manufacturer>Capcom</system.manufacturer>
 
-		<!--<system.fullName>name</system.fullName>-->
+<system.fullName>Resident Evil Series</system.fullName>
+<system.fullName lang="fr">Série Resident Evil</system.fullName>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+<desc>The Resident Evil series is a collection of survival horror games developed and published by Capcom. It spans numerous titles across various platforms, featuring interconnected storylines, recurring characters, and evolving gameplay mechanics. The series is renowned for its contributions to the survival horror genre, its immersive environments, and its iconic monsters.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
+<desc lang="fr">La série Resident Evil est une collection de jeux de survival horror développés et publiés par Capcom. Elle comprend de nombreux titres sur diverses plateformes, présentant des scénarios interconnectés, des personnages récurrents et des mécanismes de jeu en constante évolution. La série est reconnue pour ses contributions au genre du survival horror, ses environnements immersifs et ses monstres emblématiques.</desc>
 
-	</variables>
+</variables>
 
 </theme>

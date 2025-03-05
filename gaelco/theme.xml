@@ -4,20 +4,15 @@
 
 	<formatVersion>7</formatVersion>
 
-    <include>./../theme.xml</include>
+<include>./../theme.xml</include>
 
 	<variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.manufacturer>Gaelco</system.manufacturer>
+<system.fullName>Gaelco Arcade Systems</system.fullName>
+<desc>Gaelco was a Spanish arcade game developer and manufacturer active in the 1990s. They produced a variety of arcade games, often focusing on sports and racing titles. Their games were known for their vibrant graphics and engaging gameplay, contributing to the arcade scene during that era. Gaelco's titles include World Rally, Radical Bikers, and Snow Boarders.</desc>
+<desc lang="fr">Gaelco était un développeur et fabricant espagnol de jeux d'arcade actif dans les années 1990. Ils ont produit une variété de jeux d'arcade, se concentrant souvent sur les titres de sport et de course. Leurs jeux étaient connus pour leurs graphismes vibrants et leur gameplay engageant, contribuant à la scène d'arcade de cette époque. Les titres de Gaelco incluent World Rally, Radical Bikers et Snow Boarders.</desc>
 
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+</variables>
 
 </theme>

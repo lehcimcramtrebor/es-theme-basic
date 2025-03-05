@@ -2,22 +2,18 @@
 
 <theme>
 
-	<formatVersion>7</formatVersion>
+    <formatVersion>7</formatVersion>
 
     <include>./../theme.xml</include>
 
-	<variables><region.priority region="eu"/>
+    <variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+    <system.fullName>SNES MSU-1 Games</system.fullName>
+    <system.fullName lang="fr">Jeux SNES MSU-1</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+    <desc>SNES MSU-1 games are Super Nintendo Entertainment System titles that utilize the MSU-1 chip, a custom enhancement chip that allows for CD-quality audio and full-motion video playback. These games represent a significant leap in SNES capabilities, offering richer audio soundtracks and video sequences that were not possible with the standard console hardware. MSU-1 games are typically fan-created modifications or homebrew projects, showcasing the potential of the SNES with added hardware enhancements.</desc>
+    <desc lang="fr">Les jeux SNES MSU-1 sont des titres Super Nintendo Entertainment System qui utilisent la puce MSU-1, une puce d'amélioration personnalisée qui permet une lecture audio de qualité CD et vidéo plein écran. Ces jeux représentent un bond significatif dans les capacités de la SNES, offrant des bandes sonores audio plus riches et des séquences vidéo qui n'étaient pas possibles avec le matériel de console standard. Les jeux MSU-1 sont généralement des modifications créées par des fans ou des projets homebrew, mettant en valeur le potentiel de la SNES avec des améliorations matérielles ajoutées.</desc>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+</variables>
 
 </theme>

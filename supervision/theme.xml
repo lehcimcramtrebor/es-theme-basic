@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Watara</system.manufacturer>
+<system.fullName>Watara Supervision</system.fullName>
+<system.releaseYearOrNull>1992</system.releaseYearOrNull>
+<desc>The Watara Supervision is a handheld game console developed by Watara, released in 1992. It was intended as a competitor to the Nintendo Game Boy, but suffered from limited game support and lower-quality hardware. It's known for its monochrome display, unique cartridge design, and budget-friendly price. Despite its shortcomings, it has gained a cult following among retro gaming enthusiasts.</desc>
+<desc lang="fr">La Watara Supervision est une console de jeux portable développée par Watara, sortie en 1992. Elle était destinée à concurrencer la Nintendo Game Boy, mais a souffert d'un support de jeux limité et d'un matériel de moindre qualité. Elle est connue pour son écran monochrome, sa conception de cartouche unique et son prix économique. Malgré ses défauts, elle a acquis un culte auprès des passionnés de jeux rétro.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

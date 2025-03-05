@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Atari Corporation</system.manufacturer>
+		<system.fullName>Atari Lynx</system.fullName>
+		<system.fullName lang="fr">Atari Lynx</system.fullName>
+		<system.releaseYearOrNull>1989</system.releaseYearOrNull>
+		<desc>The Atari Lynx is a handheld game console that was released by Atari Corporation in 1989. It was the first color handheld console on the market, and it was also notable for its advanced graphics and sound capabilities. However, the Lynx was not a commercial success, and it was discontinued in 1996.</desc>
+		<desc lang="fr">L'Atari Lynx est une console de jeux portable sortie par Atari Corporation en 1989. C'était la première console portable couleur sur le marché, et elle était également remarquable pour ses capacités graphiques et sonores avancées. Cependant, la Lynx n'a pas été un succès commercial et elle a été abandonnée en 1996.</desc>
 	</variables>
-
 </theme>

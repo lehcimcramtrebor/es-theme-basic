@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Sunsoft</system.manufacturer>
+<system.fullName>Sunsoft Games</system.fullName>
+<desc>Sunsoft was a Japanese video game developer and publisher known for producing a wide range of titles for various platforms, particularly the Nintendo Entertainment System (NES). They were known for their high-quality graphics, catchy music, and innovative gameplay. Some of their notable titles include Blaster Master, Batman, and Mr. Gimmick! They had a reputation for pushing the limits of the hardware they worked with.</desc>
+<desc lang="fr">Sunsoft était un développeur et éditeur de jeux vidéo japonais connu pour avoir produit une large gamme de titres pour diverses plateformes, en particulier la Nintendo Entertainment System (NES). Ils étaient connus pour leurs graphismes de haute qualité, leur musique entraînante et leur gameplay innovant. Certains de leurs titres notables incluent Blaster Master, Batman et Mr. Gimmick! Ils avaient la réputation de repousser les limites du matériel avec lequel ils travaillaient.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

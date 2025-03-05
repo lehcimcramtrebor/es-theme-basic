@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>LowRes NX Team</system.manufacturer>
+        <system.fullName>LowRes NX</system.fullName>
+        <desc>LowRes NX is a fantasy console and development environment designed for creating and playing low-resolution pixel art games. It provides a simple and accessible platform for game development, reminiscent of retro 8-bit systems, while offering modern features and cross-platform compatibility.</desc>
+        <desc lang="fr">LowRes NX est une console imaginaire et un environnement de développement conçu pour créer et jouer à des jeux en pixel art basse résolution. Il fournit une plateforme simple et accessible pour le développement de jeux, rappelant les systèmes rétro 8 bits, tout en offrant des fonctionnalités modernes et une compatibilité multiplateforme.</desc>
+    </variables>
 </theme>

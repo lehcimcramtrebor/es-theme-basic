@@ -1,23 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
+<include>./../theme.xml</include>
 	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+	<system.manufacturer>Data East Corporation</system.manufacturer>
+	<system.fullName>Data East</system.fullName>
+	<desc>Data East Corporation was a Japanese video game and electronic engineering company. The company was founded in 1976 and went bankrupt in 2003. Data East was known for its arcade games, such as BurgerTime, Karate Champ, and Bad Dudes Vs. DragonNinja. The company also produced a number of home video game consoles, including the LaserActive and the Neo Geo.</desc>
+	<desc lang="fr">Data East Corporation était une société japonaise de jeux vidéo et d'ingénierie électronique. La société a été fondée en 1976 et a fait faillite en 2003. Data East était connu pour ses jeux d'arcade, tels que BurgerTime, Karate Champ et Bad Dudes Vs. DragonNinja. La société a également produit un certain nombre de consoles de jeux vidéo à domicile, notamment la LaserActive et la Neo Geo.</desc>
+</variables>
 </theme>

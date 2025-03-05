@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.fullName>Custom Collections</system.fullName>
+        <system.fullName lang="fr">Collections personnalisées</system.fullName>
+        <desc>Custom Collections in gaming frontends allow users to curate and organize their game libraries beyond the standard system-based organization. This feature enables the creation of personalized lists based on various criteria such as genre, developer, personal favorites, or any other user-defined category. It provides a flexible way to manage and access games, enhancing the user experience by offering tailored navigation and organization.</desc>
+        <desc lang="fr">Les collections personnalisées dans les interfaces de jeux permettent aux utilisateurs de sélectionner et d'organiser leurs bibliothèques de jeux au-delà de l'organisation standard basée sur le système. Cette fonctionnalité permet la création de listes personnalisées basées sur divers critères tels que le genre, le développeur, les favoris personnels ou toute autre catégorie définie par l'utilisateur. Elle offre un moyen flexible de gérer et d'accéder aux jeux, améliorant l'expérience utilisateur en offrant une navigation et une organisation personnalisées.</desc>
+    </variables>
 </theme>

@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Bally Manufacturing Corporation</system.manufacturer>
+		<system.fullName>Bally Astrocade</system.fullName>
+		<system.fullName lang="fr">Bally Astrocade</system.fullName>
+		<system.releaseYearOrNull>1977</system.releaseYearOrNull>
+		<desc>The Bally Astrocade is a second-generation home video game console that was released by Bally Manufacturing Corporation in 1977. It is known for its unique design, which includes a built-in keyboard and a calculator function. The Astrocade was not a commercial success, but it is considered to be an important part of computer history.</desc>
+		<desc lang="fr">Le Bally Astrocade est une console de jeux vidéo domestique de deuxième génération sortie par Bally Manufacturing Corporation en 1977. Il est connu pour sa conception unique, qui comprend un clavier intégré et une fonction de calculatrice. L'Astrocade n'a pas été un succès commercial, mais il est considéré comme une partie importante de l'histoire de l'informatique.</desc>
 	</variables>
-
 </theme>

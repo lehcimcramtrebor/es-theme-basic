@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Atari</system.manufacturer>
+		<system.fullName>Atari Games</system.fullName>
+		<system.fullName lang="fr">Jeux Atari</system.fullName>
+		<system.releaseYearOrNull>1972</system.releaseYearOrNull>
+		<desc>Atari is an American video game developer and publisher that was founded in 1972. The company is known for its arcade and home video game consoles, as well as its popular games such as Pong, Asteroids, and Pac-Man.</desc>
+		<desc lang="fr">Atari est un développeur et éditeur de jeux vidéo américain fondé en 1972. L'entreprise est connue pour ses consoles de jeux d'arcade et de salon, ainsi que pour ses jeux populaires tels que Pong, Asteroids et Pac-Man.</desc>
 	</variables>
-
 </theme>

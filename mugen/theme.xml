@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Elecbyte</system.manufacturer>
+        <system.fullName>M.U.G.E.N</system.fullName>
+        <desc>M.U.G.E.N is a 2D fighting game engine that allows users to create their own characters, stages, and games. It's known for its flexibility and customization options, making it a popular choice for indie developers and fans of the fighting game genre. M.U.G.E.N games often feature a mix of original and crossover characters from various franchises, resulting in unique and often unexpected matchups.</desc>
+        <desc lang="fr">M.U.G.E.N est un moteur de jeu de combat 2D qui permet aux utilisateurs de créer leurs propres personnages, scènes et jeux. Il est connu pour sa flexibilité et ses options de personnalisation, ce qui en fait un choix populaire pour les développeurs indépendants et les fans du genre de jeu de combat. Les jeux M.U.G.E.N présentent souvent un mélange de personnages originaux et croisés de diverses franchises, ce qui donne lieu à des affrontements uniques et souvent inattendus.</desc>
+    </variables>
 </theme>

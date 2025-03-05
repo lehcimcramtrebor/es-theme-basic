@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Nintendo</system.manufacturer>
+		<system.fullName>Zelda Classic</system.fullName>
+		<desc>Zelda Classic is a freeware action-adventure game for Microsoft Windows. It is a remake of the original The Legend of Zelda, released by Nintendo in 1986. The game was developed by Armageddon Games and released in 1999. It is known for its faithful recreation of the original game, as well as its many enhancements and additions.</desc>
+		<desc lang="fr">Zelda Classic est un jeu d'action-aventure gratuit pour Microsoft Windows. Il s'agit d'un remake du jeu original The Legend of Zelda, sorti par Nintendo en 1986. Le jeu a été développé par Armageddon Games et publié en 1999. Il est connu pour sa recréation fidèle du jeu original, ainsi que pour ses nombreuses améliorations et ajouts.</desc>
 	</variables>
-
 </theme>

@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Atari</system.manufacturer>
+		<system.fullName>Atari 800</system.fullName>
+		<system.fullName lang="fr">Atari 800</system.fullName>
+		<system.releaseYearOrNull>1979</system.releaseYearOrNull>
+		<desc>The Atari 800 is an 8-bit home computer released by Atari, Inc. in 1979. It was part of the Atari 8-bit family and was notable for its cartridge slots, expansion capabilities, and its custom graphics and sound chips. The Atari 800 was more powerful and expandable than the Atari 400, which was released at the same time.</desc>
+		<desc lang="fr">L'Atari 800 est un ordinateur personnel 8 bits sorti par Atari, Inc. en 1979. Il faisait partie de la famille Atari 8 bits et était connu pour ses emplacements de cartouches, ses capacités d'extension et ses puces graphiques et sonores personnalisées. L'Atari 800 était plus puissant et extensible que l'Atari 400, qui est sorti en même temps.</desc>
 	</variables>
-
 </theme>

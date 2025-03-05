@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Universal Entertainment Corporation</system.manufacturer>
+<system.fullName>Universal</system.fullName>
+<desc>Universal Entertainment Corporation, formerly known as Aruze Corporation, is a Japanese entertainment conglomerate involved in various industries, including pachinko and slot machine manufacturing, resort development, and video game production. They are known for their arcade game development, particularly with titles like Mr. Do! and Space Panic. They have also produced and published console games, including Shadow Hearts and the Darkstalkers series.</desc>
+<desc lang="fr">Universal Entertainment Corporation, anciennement connue sous le nom d'Aruze Corporation, est un conglomérat japonais du divertissement impliqué dans diverses industries, notamment la fabrication de pachinko et de machines à sous, le développement de centres de villégiature et la production de jeux vidéo. Ils sont connus pour le développement de jeux d'arcade, en particulier avec des titres comme Mr. Do! et Space Panic. Ils ont également produit et publié des jeux sur console, notamment Shadow Hearts et la série Darkstalkers.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

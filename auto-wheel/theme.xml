@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+  <variables>
+    <region.priority region="eu"/>
+    <system.manufacturer>Various</system.manufacturer>
+    <system.fullName>Wheel Games</system.fullName>
+    <system.fullName lang="fr">Jeux de roue</system.fullName>
+    <desc>Wheel games involve spinning a wheel, often with the goal of landing on a specific section or achieving a certain outcome. They can be games of chance, like roulette, or skill-based games that require precise timing and control, such as those found in arcades or amusement parks.</desc>
+    <desc lang="fr">Les jeux de roue consistent à faire tourner une roue, souvent dans le but d'atterrir sur une section spécifique ou d'obtenir un certain résultat. Il peut s'agir de jeux de hasard, comme la roulette, ou de jeux d'adresse qui nécessitent une synchronisation et un contrôle précis, tels que ceux que l'on trouve dans les arcades ou les parcs d'attractions.</desc>
+  </variables>
 </theme>

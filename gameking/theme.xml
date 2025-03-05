@@ -4,20 +4,16 @@
 
 	<formatVersion>7</formatVersion>
 
-    <include>./../theme.xml</include>
+<include>./../theme.xml</include>
 
 	<variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.manufacturer>Yobo Electronics</system.manufacturer>
+<system.fullName>Game King</system.fullName>
+<system.releaseYearOrNull>2003</system.releaseYearOrNull>
+<desc>The Game King is a handheld game console developed by Yobo Electronics. Released in 2003, it was known for its low price point and compact design. The system featured a color LCD screen and a library of built-in games, often consisting of simple puzzle and arcade-style titles. Despite its affordability, the Game King faced criticism for its limited game selection and technical shortcomings. It aimed to provide budget-friendly gaming but struggled to compete with more established handheld consoles.</desc>
+<desc lang="fr">La Game King est une console de jeux portable développée par Yobo Electronics. Sortie en 2003, elle était connue pour son prix bas et son design compact. Le système comprenait un écran LCD couleur et une bibliothèque de jeux intégrés, consistant souvent en de simples titres de puzzle et de style arcade. Malgré son prix abordable, la Game King a été critiquée pour sa sélection de jeux limitée et ses lacunes techniques. Elle visait à offrir des jeux économiques, mais a eu du mal à rivaliser avec les consoles portables plus établies.</desc>
 
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+</variables>
 
 </theme>

@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Sega</system.manufacturer>
+		<system.fullName>Sega Pico</system.fullName>
+		<system.fullName lang="fr">Sega Pico</system.fullName>
+		<desc>The Sega Pico, also known as Kids Computer Pico, is an educational home video game console by Sega Toys. It was released in 1993 and aimed at young children. The Pico features a unique "Magic Pen" controller and interactive storybook-style cartridges, combining learning with entertainment.</desc>
+		<desc lang="fr">La Sega Pico, également connue sous le nom de Kids Computer Pico, est une console de jeux vidéo éducative de Sega Toys. Elle est sortie en 1993 et s'adresse aux jeunes enfants. La Pico comprend un contrôleur unique "Magic Pen" et des cartouches interactives de style livre de contes, combinant apprentissage et divertissement.</desc>
 	</variables>
-
 </theme>

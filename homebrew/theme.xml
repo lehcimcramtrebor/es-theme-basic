@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+	<variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Various</system.manufacturer>
+        <system.fullName>Homebrew games</system.fullName>
+        <system.fullName lang="fr">Jeux homebrew</system.fullName>
+        <desc>Homebrew games are video games developed by amateur programmers for various consoles and platforms. They often showcase creativity and technical skill, pushing the boundaries of what's possible on retro hardware.</desc>
+        <desc lang="fr">Les jeux homebrew sont des jeux vidéo développés par des programmeurs amateurs pour diverses consoles et plateformes. Ils mettent souvent en valeur la créativité et les compétences techniques, repoussant les limites de ce qui est possible sur le matériel rétro.</desc>
+    </variables>
 </theme>

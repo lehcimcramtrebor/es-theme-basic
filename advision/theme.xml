@@ -1,23 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
+<include>./../theme.xml</include>
 	<variables><region.priority region="eu"/>
+<system.manufacturer>Entex</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.fullName>Entex Adventure Vision</system.fullName>
+<system.fullName lang="fr">Entex Adventure Vision</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+<system.releaseYearOrNull>1982</system.releaseYearOrNull>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+<desc>The Entex Adventure Vision is a unique home video game console that was released in 1982. It is known for its vector graphics display and its built-in controller.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+<desc lang="fr">L'Entex Adventure Vision est une console de jeux vidéo domestique unique sortie en 1982. Elle est connue pour son affichage graphique vectoriel et son contrôleur intégré.</desc>
+</variables>
 
 </theme>

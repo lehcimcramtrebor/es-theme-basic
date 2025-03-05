@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+  <variables>
+    <region.priority region="eu"/>
+    <system.manufacturer>Chris White</system.manufacturer>
+    <system.fullName>Cannonball</system.fullName>
+    <system.fullName lang="fr">Cannonball</system.fullName>
+    <system.releaseYearOrNull>2014</system.releaseYearOrNull>
+    <desc>Cannonball is a port of the classic arcade racing game OutRun, developed by Chris White. It allows players to experience the iconic Sega arcade racer on a variety of modern platforms, with enhancements such as widescreen support and higher frame rates.</desc>
+    <desc lang="fr">Cannonball est un portage du jeu de course d'arcade classique OutRun, développé par Chris White. Il permet aux joueurs de découvrir le jeu de course emblématique de Sega sur une variété de plateformes modernes, avec des améliorations telles que la prise en charge des écrans larges et des fréquences d'images plus élevées.</desc>
+  </variables>
 </theme>

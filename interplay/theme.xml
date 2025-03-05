@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+	<variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Interplay Entertainment</system.manufacturer>
+        <system.fullName>Interplay</system.fullName>
+        <desc>Interplay Entertainment was an American video game developer and publisher. They were known for creating and publishing a variety of influential games, including the Fallout series, Baldur's Gate, and Earthworm Jim.</desc>
+        <desc lang="fr">Interplay Entertainment était un développeur et éditeur américain de jeux vidéo. Ils étaient connus pour la création et la publication d'une variété de jeux influents, notamment la série Fallout, Baldur's Gate et Earthworm Jim.</desc>
+    </variables>
 </theme>

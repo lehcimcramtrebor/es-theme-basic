@@ -1,23 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+	<variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Mattel Electronics</system.manufacturer>
+        <system.fullName>Intellivision</system.fullName>
+        <system.releaseYearOrNull>1979</system.releaseYearOrNull>
+        <system.releaseYearOrNull region="us">1979</system.releaseYearOrNull>
+        <desc>The Intellivision is a home video game console released by Mattel Electronics in 1979. It was notable for its advanced graphics and sound capabilities for its time, as well as its unique controller design.</desc>
+        <desc lang="fr">L'Intellivision est une console de jeux vidéo domestique sortie par Mattel Electronics en 1979. Elle était remarquable pour ses capacités graphiques et sonores avancées pour son époque, ainsi que pour la conception unique de son contrôleur.</desc>
+        <desc region="us">The Intellivision is a home video game console released by Mattel Electronics in 1979. It was notable for its advanced graphics and sound capabilities for its time, as well as its unique controller design.</desc>
+        <desc lang="fr" region="us">L'Intellivision est une console de jeux vidéo domestique sortie par Mattel Electronics en 1979. Elle était remarquable pour ses capacités graphiques et sonores avancées pour son époque, ainsi que pour la conception unique de son contrôleur.</desc>
+    </variables>
 </theme>

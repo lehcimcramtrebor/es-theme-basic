@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Interton</system.manufacturer>
+<system.fullName>VC 4000</system.fullName>
+<system.releaseYearOrNull>1978</system.releaseYearOrNull>
+<desc>The VC 4000 is a home video game console released by Interton in 1978. It was one of the first European consoles to use interchangeable cartridges and featured a variety of built-in games. The console had a unique design with a distinctive joystick and was marketed under different names in various regions. Despite its innovative features for the time, it faced stiff competition from other consoles and had limited commercial success.</desc>
+<desc lang="fr">La VC 4000 est une console de jeux vidéo domestique sortie par Interton en 1978. Elle a été l'une des premières consoles européennes à utiliser des cartouches interchangeables et comportait une variété de jeux intégrés. La console avait un design unique avec un joystick distinctif et était commercialisée sous différents noms dans diverses régions. Malgré ses caractéristiques innovantes pour l'époque, elle a dû faire face à une forte concurrence d'autres consoles et a eu un succès commercial limité.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

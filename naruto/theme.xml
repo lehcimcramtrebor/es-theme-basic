@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Various</system.manufacturer>
+        <system.fullName>Naruto Games</system.fullName>
+        <system.fullName lang="fr">Jeux Naruto</system.fullName>
+        <system.releaseYearOrNull>2003</system.releaseYearOrNull>
+        <desc>Naruto is a series of action-adventure and fighting video games based on the popular manga and anime of the same name. The games feature a wide range of characters from the Naruto universe and often follow the storylines of the manga and anime. Naruto games have been released on various platforms and have gained popularity for their fast-paced combat and faithful adaptations of the source material.</desc>
+        <desc lang="fr">Naruto est une série de jeux vidéo d'action-aventure et de combat basée sur le manga et l'anime populaires du même nom. Les jeux mettent en vedette un large éventail de personnages de l'univers Naruto et suivent souvent les scénarios du manga et de l'anime. Les jeux Naruto sont sortis sur diverses plateformes et ont gagné en popularité pour leurs combats rapides et leurs adaptations fidèles du matériel source.</desc>
+    </variables>
 </theme>

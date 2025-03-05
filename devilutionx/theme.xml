@@ -1,23 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.fullName>DevilutionX</system.fullName>
+		<desc>DevilutionX is a source port of the Diablo 1 game engine. It allows you to play Diablo 1 on modern operating systems, with a number of enhancements and improvements.</desc>
+		<desc lang="fr">DevilutionX est un portage de code source du moteur de jeu Diablo 1. Il vous permet de jouer à Diablo 1 sur les systèmes d'exploitation modernes, avec un certain nombre d'améliorations.</desc>
 	</variables>
-
 </theme>

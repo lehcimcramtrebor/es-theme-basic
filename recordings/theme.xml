@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Batocera</system.manufacturer>
+		<system.fullName>Recordings</system.fullName>
+		<system.fullName lang="fr">Enregistrements</system.fullName>
+		<desc>A section dedicated to video recordings that can be launched using the 'batocera-record' command from a terminal connected to BATOCERA.LOCAL via SSH. This category includes gameplay recordings, tutorials, and any other videos captured using the Batocera recording feature.</desc>
+		<desc lang="fr">Une section dédiée aux enregistrements vidéo qui peuvent être lancés à l'aide de la commande 'batocera-record' depuis un terminal connecté à BATOCERA.LOCAL via SSH. Cette catégorie comprend des enregistrements de gameplay, des tutoriels et toutes autres vidéos capturées à l'aide de la fonction d'enregistrement Batocera.</desc>
 	</variables>
-
 </theme>

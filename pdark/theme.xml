@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
+<include>./../theme.xml</include>
 	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+<system.manufacturer>Rare</system.manufacturer>
+<system.fullName>Perfect Dark</system.fullName>
+<system.fullName lang="fr">Perfect Dark</system.fullName>
+<desc>Perfect Dark is a first-person shooter video game developed by Rare and released for the Nintendo 64 in 2000. The game features a cyberpunk-themed story and a wide range of weapons and gadgets. Perfect Dark was praised for its innovative gameplay, graphics, and multiplayer mode.</desc>
+<desc lang="fr">Perfect Dark est un jeu vidéo de tir à la première personne développé par Rare et sorti sur Nintendo 64 en 2000. Le jeu présente une histoire sur le thème du cyberpunk et un large éventail d'armes et de gadgets. Perfect Dark a été salué pour son gameplay innovant, ses graphismes et son mode multijoueur.</desc>
+</variables>
 </theme>

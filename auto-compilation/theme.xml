@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Various</system.manufacturer>
+		<system.fullName>Compilation Games</system.fullName>
+		<system.fullName lang="fr">Compilations de jeux</system.fullName>
+		<desc>Compilation games are collections of previously released titles, often from a specific franchise or era. They offer players a convenient way to experience multiple games in a single package.</desc>
+		<desc lang="fr">Les compilations de jeux sont des collections de titres publiés précédemment, souvent issus d'une franchise ou d'une époque spécifique. Elles offrent aux joueurs un moyen pratique de découvrir plusieurs jeux dans un seul package.</desc>
 	</variables>
-
 </theme>

@@ -4,20 +4,15 @@
 
 	<formatVersion>7</formatVersion>
 
-    <include>./../theme.xml</include>
+<include>./../theme.xml</include>
 
 	<variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.manufacturer>open-source project</system.manufacturer>
+<system.fullName>FreeJ2ME</system.fullName>
+<desc>FreeJ2ME is an open-source Java Micro Edition (Java ME) emulator. It allows users to run Java ME applications and games on their computers. Java ME was widely used on mobile phones and other embedded devices, and FreeJ2ME aims to preserve and provide access to this software. It supports various Java ME profiles and APIs, enabling a wide range of applications to be run. The project focuses on accuracy and compatibility, ensuring that Java ME software behaves as intended.</desc>
+<desc lang="fr">FreeJ2ME est un émulateur Java Micro Edition (Java ME) open source. Il permet aux utilisateurs d'exécuter des applications et des jeux Java ME sur leurs ordinateurs. Java ME était largement utilisé sur les téléphones mobiles et autres appareils embarqués, et FreeJ2ME vise à préserver et à fournir un accès à ce logiciel. Il prend en charge divers profils et API Java ME, permettant d'exécuter un large éventail d'applications. Le projet se concentre sur la précision et la compatibilité, garantissant que le logiciel Java ME se comporte comme prévu.</desc>
 
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+</variables>
 
 </theme>

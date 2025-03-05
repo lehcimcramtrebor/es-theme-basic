@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Namco</system.manufacturer>
+        <system.fullName>Namco Games</system.fullName>
+        <system.fullName lang="fr">Jeux Namco</system.fullName>
+        <system.releaseYearOrNull>1955</system.releaseYearOrNull>
+        <desc>Namco, later Bandai Namco Entertainment, is a Japanese video game developer and publisher. Founded in 1955 as Nakamura Amusement Machine Manufacturing Company, the company has created numerous iconic arcade and console games, including Pac-Man, Tekken, and Ridge Racer. Namco has played a significant role in the history of video games, contributing to the development of various genres and technologies.</desc>
+        <desc lang="fr">Namco, plus tard Bandai Namco Entertainment, est un développeur et éditeur de jeux vidéo japonais. Fondée en 1955 sous le nom de Nakamura Amusement Machine Manufacturing Company, la société a créé de nombreux jeux d'arcade et de console emblématiques, notamment Pac-Man, Tekken et Ridge Racer. Namco a joué un rôle important dans l'histoire des jeux vidéo, contribuant au développement de divers genres et technologies.</desc>
+    </variables>
 </theme>

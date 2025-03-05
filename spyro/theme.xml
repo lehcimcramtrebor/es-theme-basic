@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Insomniac Games</system.manufacturer>
+<system.fullName>Spyro the Dragon</system.fullName>
+<desc>Spyro the Dragon is a series of platform games featuring the titular purple dragon, Spyro. The original trilogy, developed by Insomniac Games for the PlayStation, is highly regarded for its colorful worlds, engaging gameplay, and charming characters. Later titles were developed by various studios and explored different gameplay styles. The series is known for its collect-a-thon gameplay, where players explore levels to find gems, dragons, and other collectibles.</desc>
+<desc lang="fr">Spyro the Dragon est une série de jeux de plateforme mettant en vedette le dragon violet éponyme, Spyro. La trilogie originale, développée par Insomniac Games pour la PlayStation, est très appréciée pour ses mondes colorés, son gameplay engageant et ses personnages charmants. Les titres ultérieurs ont été développés par divers studios et ont exploré différents styles de gameplay. La série est connue pour son gameplay de type "collect-a-thon", où les joueurs explorent des niveaux pour trouver des gemmes, des dragons et d'autres objets de collection.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

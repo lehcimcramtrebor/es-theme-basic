@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Sony</system.manufacturer>
+		<system.fullName>PSP Minis</system.fullName>
+		<system.fullName lang="fr">Mini PSP</system.fullName>
+		<desc>PSP Minis are a range of smaller downloadable games for the PlayStation Portable (PSP) and PlayStation 3 (via compatibility mode). These games were typically original titles or ports of mobile phone games, designed to be smaller in size and lower in price than full PSP games.</desc>
+		<desc lang="fr">Les Mini PSP sont une gamme de jeux téléchargeables plus petits pour la PlayStation Portable (PSP) et la PlayStation 3 (via le mode de compatibilité). Ces jeux étaient généralement des titres originaux ou des ports de jeux de téléphone mobile, conçus pour être plus petits en taille et moins chers que les jeux PSP complets.</desc>
 	</variables>
-
 </theme>

@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+  <variables>
+    <region.priority region="eu"/>
+    <system.manufacturer>Various</system.manufacturer>
+    <system.fullName>Trackball Games</system.fullName>
+    <system.fullName lang="fr">Jeux de trackball</system.fullName>
+    <desc>Trackball games utilize a trackball, a pointing device consisting of a ball housed in a socket, which can be rotated to control the movement of a cursor or object in the game. They are often associated with arcade games, particularly those that require precise aiming and control.</desc>
+    <desc lang="fr">Les jeux de trackball utilisent un trackball, un dispositif de pointage composé d'une boule logée dans une prise, qui peut être tournée pour contrôler le mouvement d'un curseur ou d'un objet dans le jeu. Ils sont souvent associés aux jeux d'arcade, en particulier ceux qui nécessitent une visée et un contrôle précis.</desc>
+  </variables>
 </theme>

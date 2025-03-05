@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Nicola Salmoria &amp; Team</system.manufacturer>
+        <system.fullName>MAME</system.fullName>
+        <system.fullName lang="fr">MAME</system.fullName>
+        <system.releaseYearOrNull>1997</system.releaseYearOrNull>
+        <desc>MAME (Multiple Arcade Machine Emulator) is a free and open-source emulator designed to recreate the hardware of arcade game systems in software on modern personal computers and other platforms. Its intent is to preserve gaming history by preventing vintage games from being lost or forgotten.</desc> 
+        <desc lang="fr">MAME (Multiple Arcade Machine Emulator) est un émulateur gratuit et open-source conçu pour recréer le matériel des systèmes de jeux d'arcade dans un logiciel sur les ordinateurs personnels modernes et d'autres plateformes. Son but est de préserver l'histoire du jeu en empêchant les jeux vintage d'être perdus ou oubliés.</desc>
+    </variables>
 </theme>

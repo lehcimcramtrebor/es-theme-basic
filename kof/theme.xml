@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+	<variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>SNK</system.manufacturer>
+        <system.fullName>The King of Fighters Series</system.fullName>
+        <system.fullName>KOF</system.fullName>
+        <desc>The King of Fighters (KOF) is a series of fighting games developed by SNK. It is known for its complex gameplay, large roster of characters, and intricate storylines.</desc>
+        <desc lang="fr">The King of Fighters (KOF) est une série de jeux de combat développée par SNK. Elle est connue pour son gameplay complexe, son large éventail de personnages et ses scénarios complexes.</desc>
+    </variables>
 </theme>

@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+  <variables>
+    <region.priority region="eu"/>
+    <system.manufacturer>Various</system.manufacturer>
+    <system.fullName>Playing Card Games</system.fullName>
+    <system.fullName lang="fr">Jeux de cartes à jouer</system.fullName>
+    <desc>Playing card games utilize a variety of card types and decks, with different numbers of cards and unique suits. They encompass a wide variety of games, including trick-taking games, matching games, and gambling games, each with its own set of rules and strategies.</desc>
+    <desc lang="fr">Les jeux de cartes à jouer utilisent une variété de types de cartes et de jeux, avec différents nombres de cartes et des couleurs uniques. Ils englobent une grande variété de jeux, notamment des jeux de levées, des jeux de correspondance et des jeux de hasard, chacun avec son propre ensemble de règles et de stratégies.</desc>
+  </variables>
 </theme>

@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Various</system.manufacturer>
+		<system.fullName>Adult Games</system.fullName>
+		<system.fullName lang="fr">Jeux pour adultes</system.fullName>
+		<desc>Adult games, also known as eroge or hentai games, are a genre of video games that contain sexual content. They are often visual novels or dating sims, but they can also be found in other genres, such as role-playing games and adventure games.</desc>
+		<desc lang="fr">Les jeux pour adultes, également connus sous le nom de jeux eroge ou hentai, sont un genre de jeux vidéo qui contiennent du contenu sexuel. Ce sont souvent des romans visuels ou des simulations de rencontres, mais on peut aussi les trouver dans d'autres genres, tels que les jeux de rôle et les jeux d'aventure.</desc>
 	</variables>
-
 </theme>

@@ -2,22 +2,18 @@
 
 <theme>
 
-	<formatVersion>7</formatVersion>
+    <formatVersion>7</formatVersion>
 
     <include>./../theme.xml</include>
 
-	<variables><region.priority region="eu"/>
+    <variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+    <system.fullName>Shoot 'em ups</system.fullName>
+    <system.fullName lang="fr">Shoot 'em ups</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+    <desc>Shoot 'em ups, often abbreviated as shmups, are a subgenre of shooter video games in which the player character engages in a lone combat against a large number of enemies while traversing a scrolling stage. These games are characterized by fast-paced action, intense bullet patterns, and challenging gameplay. They often feature various power-ups and weapon upgrades. Shmups have a long history, originating in arcades and evolving across numerous console generations, with a strong emphasis on skillful maneuvering and precision shooting.</desc>
+    <desc lang="fr">Les shoot 'em ups, souvent abrégés en shmups, sont un sous-genre de jeux vidéo de tir dans lequel le personnage du joueur engage un combat solitaire contre un grand nombre d'ennemis tout en traversant un niveau à défilement. Ces jeux sont caractérisés par une action rapide, des motifs de balles intenses et un gameplay stimulant. Ils comportent souvent divers power-ups et améliorations d'armes. Les shmups ont une longue histoire, provenant des arcades et évoluant à travers de nombreuses générations de consoles, avec un fort accent sur les manœuvres habiles et le tir de précision.</desc>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+</variables>
 
 </theme>

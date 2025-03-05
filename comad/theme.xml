@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Comad</system.manufacturer>
+<system.manufacturer region="kr">Comad</system.manufacturer>
 
-    <include>./../theme.xml</include>
+<system.fullName>Comad Arcade Games</system.fullName>
+<system.fullName lang="fr">Jeux d'Arcade Comad</system.fullName>
 
-	<variables><region.priority region="eu"/>
+<system.releaseYearOrNull>1989</system.releaseYearOrNull>
+<system.releaseYearOrNull region="kr">1989</system.releaseYearOrNull>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<desc>Comad, a South Korean company, entered the arcade gaming scene in 1989 with a focus on developing and manufacturing arcade games. They are known for producing a variety of titles, including unique puzzle games like "Bouncing Balls" and "Pushman," as well as more mature-themed games like "Fantasia" and "Miss World '96." While their games may not be as widely recognized as those from larger manufacturers, Comad carved a niche for itself in the arcade market with its distinctive and often quirky titles.</desc>
+<desc region="kr">Comad, a South Korean company, entered the arcade gaming scene in 1989 with a focus on developing and manufacturing arcade games. They are known for producing a variety of titles, including unique puzzle games like "Bouncing Balls" and "Pushman," as well as more mature-themed games like "Fantasia" and "Miss World '96." While their games may not be as widely recognized as those from larger manufacturers, Comad carved a niche for itself in the arcade market with its distinctive and often quirky titles. Comad was based in South Korea.</desc>
 
-		<!--<system.fullName>name</system.fullName>-->
+<desc lang="fr">Comad, une société sud-coréenne, est entrée sur la scène des jeux d'arcade en 1989 en se concentrant sur le développement et la fabrication de jeux d'arcade. Ils sont connus pour avoir produit une variété de titres, y compris des jeux de puzzle uniques comme "Bouncing Balls" et "Pushman", ainsi que des jeux à thème plus mature comme "Fantasia" et "Miss World '96". Bien que leurs jeux ne soient peut-être pas aussi largement reconnus que ceux des grands fabricants, Comad s'est taillé une place sur le marché des jeux d'arcade avec ses titres distinctifs et souvent décalés.</desc>
+<desc lang="fr" region="kr">Comad, une société sud-coréenne, est entrée sur la scène des jeux d'arcade en 1989 en se concentrant sur le développement et la fabrication de jeux d'arcade. Ils sont connus pour avoir produit une variété de titres, y compris des jeux de puzzle uniques comme "Bouncing Balls" et "Pushman", ainsi que des jeux à thème plus mature comme "Fantasia" et "Miss World '96". Bien que leurs jeux ne soient peut-être pas aussi largement reconnus que ceux des grands fabricants, Comad s'est taillé une place sur le marché des jeux d'arcade avec ses titres distinctifs et souvent décalés. Comad était basée en Corée du Sud.</desc>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

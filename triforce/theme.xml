@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Nintendo / Namco / Sega</system.manufacturer>
+<system.fullName>Triforce</system.fullName>
+<desc>The Triforce is an arcade system board jointly developed by Nintendo, Namco, and Sega. It was based on the architecture of the Nintendo GameCube and was designed to provide a powerful and cost-effective platform for arcade game development. The Triforce powered a variety of arcade titles, including popular games like Mario Kart Arcade GP and F-Zero AX. It played a significant role in bridging the gap between home console and arcade technology.</desc>
+<desc lang="fr">La Triforce est une carte de système d'arcade développée conjointement par Nintendo, Namco et Sega. Elle était basée sur l'architecture de la Nintendo GameCube et a été conçue pour fournir une plateforme puissante et rentable pour le développement de jeux d'arcade. La Triforce a alimenté une variété de titres d'arcade, notamment des jeux populaires comme Mario Kart Arcade GP et F-Zero AX. Elle a joué un rôle important dans la réduction de l'écart entre la technologie des consoles de salon et celle des jeux d'arcade.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

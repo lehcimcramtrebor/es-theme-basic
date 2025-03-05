@@ -1,23 +1,21 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Nintendo</system.manufacturer>
+        <system.fullName>Nintendo Entertainment System</system.fullName>
+        <system.fullName region="us">Nintendo Entertainment System</system.fullName>
+        <system.fullName region="jp">Family Computer</system.fullName>
+        <system.releaseYearOrNull>1985</system.releaseYearOrNull>
+        <system.releaseYearOrNull region="us">1985</system.releaseYearOrNull>
+        <system.releaseYearOrNull region="jp">1983</system.releaseYearOrNull>
+        <desc>The Nintendo Entertainment System (NES) is an 8-bit third-generation home video game console developed and manufactured by Nintendo. It was released in North America in 1985, in Europe in 1986, and in Australia in 1987. In Japan, it was released as the Family Computer (Famicom) in 1983. The NES helped revitalize the video game industry after the video game crash of 1983.</desc>
+        <desc region="us">The Nintendo Entertainment System (NES) is an 8-bit third-generation home video game console developed and manufactured by Nintendo. It was released in North America in 1985, in Europe in 1986, and in Australia in 1987. In Japan, it was released as the Family Computer (Famicom) in 1983. The NES helped revitalize the video game industry after the video game crash of 1983.</desc>
+        <desc region="jp">The Family Computer (Famicom) is an 8-bit third-generation home video game console developed and manufactured by Nintendo. It was released in Japan in 1983, in North America in 1985 as the Nintendo Entertainment System (NES), in Europe in 1986, and in Australia in 1987. The Famicom helped revitalize the video game industry after the video game crash of 1983.</desc>
+        <desc lang="fr">La Nintendo Entertainment System (NES) est une console de jeux vidéo domestique 8 bits de troisième génération développée et fabriquée par Nintendo. Elle est sortie en Amérique du Nord en 1985, en Europe en 1986 et en Australie en 1987. Au Japon, elle est sortie sous le nom de Family Computer (Famicom) en 1983. La NES a contribué à revitaliser l'industrie du jeu vidéo après le krach du jeu vidéo de 1983.</desc>
+        <desc lang="fr" region="us">La Nintendo Entertainment System (NES) est une console de jeux vidéo domestique 8 bits de troisième génération développée et fabriquée par Nintendo. Elle est sortie en Amérique du Nord en 1985, en Europe en 1986 et en Australie en 1987. Au Japon, elle est sortie sous le nom de Family Computer (Famicom) en 1983. La NES a contribué à revitaliser l'industrie du jeu vidéo après le krach du jeu vidéo de 1983.</desc>
+        <desc lang="fr" region="jp">La Family Computer (Famicom) est une console de jeux vidéo domestique 8 bits de troisième génération développée et fabriquée par Nintendo. Elle est sortie au Japon en 1983, en Amérique du Nord en 1985 sous le nom de Nintendo Entertainment System (NES), en Europe en 1986 et en Australie en 1987. La Famicom a contribué à revitaliser l'industrie du jeu vidéo après le krach du jeu vidéo de 1983.</desc>
+    </variables>
 </theme>

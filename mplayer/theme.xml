@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>MPlayer Team</system.manufacturer>
+        <system.fullName>MPlayer</system.fullName>
+        <desc>MPlayer is a free and open-source media player software application. It supports a wide variety of video and audio file formats, as well as physical media such as DVDs and CDs. MPlayer is known for its versatility and cross-platform compatibility, making it a popular choice for media playback on various operating systems.</desc>
+        <desc lang="fr">MPlayer est une application logicielle de lecture multimédia gratuite et open-source. Il prend en charge une grande variété de formats de fichiers vidéo et audio, ainsi que les supports physiques tels que les DVD et les CD. MPlayer est connu pour sa polyvalence et sa compatibilité multiplateforme, ce qui en fait un choix populaire pour la lecture multimédia sur divers systèmes d'exploitation.</desc>
+    </variables>
 </theme>

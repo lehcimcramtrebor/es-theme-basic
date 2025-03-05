@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>GCE / Milton Bradley Company</system.manufacturer>
+<system.fullName>Vectrex</system.fullName>
+<system.releaseYearOrNull>1982</system.releaseYearOrNull>
+<desc>The Vectrex is a unique home video game console released in 1982. It stands out for its built-in vector display, which uses lines instead of pixels to create graphics, resulting in sharp and distinctive visuals. The console came with a variety of overlays that were placed on the screen to provide color and background details for each game. Despite its innovative technology and dedicated following, the Vectrex's high price and limited game library contributed to its relatively short lifespan in the market.</desc>
+<desc lang="fr">La Vectrex est une console de jeux vidéo domestique unique sortie en 1982. Elle se distingue par son écran vectoriel intégré, qui utilise des lignes au lieu de pixels pour créer des graphiques, ce qui donne des visuels nets et distinctifs. La console était livrée avec une variété de superpositions qui étaient placées sur l'écran pour fournir des couleurs et des détails d'arrière-plan pour chaque jeu. Malgré sa technologie innovante et ses adeptes dévoués, le prix élevé de la Vectrex et sa ludothèque limitée ont contribué à sa durée de vie relativement courte sur le marché.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

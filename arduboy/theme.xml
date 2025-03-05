@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Arduboy Team</system.manufacturer>
+		<system.fullName>Arduboy</system.fullName>
+		<system.fullName lang="fr">Arduboy</system.fullName>
+		<system.releaseYearOrNull>2014</system.releaseYearOrNull>
+		<desc>The Arduboy is an open-source handheld video game console based on the Arduino platform. It features a small black and white OLED screen and a simple button layout, designed to allow users to play and create their own 8-bit games. The Arduboy is known for its portability, its ease of use, and its vibrant community of developers and enthusiasts.</desc>
+		<desc lang="fr">L'Arduboy est une console de jeux vidéo portable open-source basée sur la plate-forme Arduino. Il dispose d'un petit écran OLED noir et blanc et d'une disposition de boutons simple, conçue pour permettre aux utilisateurs de jouer et de créer leurs propres jeux 8 bits. L'Arduboy est connu pour sa portabilité, sa facilité d'utilisation et sa communauté dynamique de développeurs et de passionnés.</desc>
 	</variables>
-
 </theme>

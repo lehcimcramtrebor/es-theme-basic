@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Sega</system.manufacturer>
+<system.fullName>Visual Memory Unit (VMU)</system.fullName>
+<system.releaseYearOrNull>1998</system.releaseYearOrNull>
+<desc>The Visual Memory Unit (VMU), also known as the VMS in Japan, is a removable memory card for the Sega Dreamcast console. It features a small monochrome LCD screen, buttons, and even the ability to play simple mini-games. The VMU could be used to save game progress, exchange data with other VMUs, and even act as a secondary display for certain Dreamcast games. It was an innovative accessory that added a unique dimension to the Dreamcast gaming experience.</desc>
+<desc lang="fr">La Visual Memory Unit (VMU), également connue sous le nom de VMS au Japon, est une carte mémoire amovible pour la console Sega Dreamcast. Elle dispose d'un petit écran LCD monochrome, de boutons et même de la possibilité de jouer à des mini-jeux simples. La VMU pouvait être utilisée pour sauvegarder la progression du jeu, échanger des données avec d'autres VMU et même servir d'écran secondaire pour certains jeux Dreamcast. C'était un accessoire innovant qui ajoutait une dimension unique à l'expérience de jeu Dreamcast.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

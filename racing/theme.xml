@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Various</system.manufacturer>
+		<system.fullName>Racing Games</system.fullName>
+		<system.fullName lang="fr">Jeux de course</system.fullName>
+		<desc>Racing games are a genre of video games in which the player participates in a racing competition. They can be based on anything from real-world racing series like Formula One and NASCAR to fictional settings and vehicles. The genre includes a wide variety of subgenres, such as arcade racing, simulation racing, kart racing, and off-road racing.</desc>
+		<desc lang="fr">Les jeux de course sont un genre de jeux vidéo dans lesquels le joueur participe à une compétition de course. Ils peuvent être basés sur n'importe quoi, des séries de courses du monde réel comme la Formule 1 et la NASCAR à des décors et des véhicules fictifs. Le genre comprend une grande variété de sous-genres, tels que les courses d'arcade, les courses de simulation, les courses de karting et les courses hors route.</desc>
 	</variables>
-
 </theme>

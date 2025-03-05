@@ -1,23 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+        <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
+        <variables>
+        <region.priority region="eu"/>
 
-	<variables><region.priority region="eu"/>
+                <system.manufacturer>Eighting</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+                <system.fullName>Eighting</system.fullName>
+                <system.fullName lang="fr">Eighting</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+                <system.releaseYearOrNull>1993</system.releaseYearOrNull>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+                <desc>Eighting, also known as 8ing, is a Japanese video game developer and publisher. The company was founded in 1993 and is best known for its fighting games, including the Bloody Roar and Tatsunoko vs. Capcom series. Eighting has also developed games for other genres, such as shoot 'em ups and role-playing games.</desc>
+                <desc lang="fr">Eighting, également connu sous le nom de 8ing, est un développeur et éditeur de jeux vidéo japonais. La société a été fondée en 1993 et est surtout connue pour ses jeux de combat, notamment les séries Bloody Roar et Tatsunoko vs. Capcom. Eighting a également développé des jeux pour d'autres genres, tels que les shoot 'em ups et les jeux de rôle.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+        </variables>
 </theme>

@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Atari</system.manufacturer>
+		<system.fullName>Atari 2600</system.fullName>
+		<system.fullName lang="fr">Atari 2600</system.fullName>
+		<system.releaseYearOrNull>1977</system.releaseYearOrNull>
+		<desc>The Atari 2600, also known as the Atari Video Computer System (VCS), is a home video game console developed by Atari, Inc. Released in 1977, it popularized the use of microprocessor-based hardware and ROM cartridges for storing game code. The 2600 is considered one of the most important consoles in video game history, having introduced many classic games and concepts to the industry.</desc>
+		<desc lang="fr">L'Atari 2600, également connue sous le nom d'Atari Video Computer System (VCS), est une console de jeux vidéo domestique développée par Atari, Inc. Sortie en 1977, elle a popularisé l'utilisation de matériel basé sur un microprocesseur et de cartouches ROM pour stocker le code du jeu. La 2600 est considérée comme l'une des consoles les plus importantes de l'histoire des jeux vidéo, ayant introduit de nombreux jeux et concepts classiques dans l'industrie.</desc>
 	</variables>
-
 </theme>

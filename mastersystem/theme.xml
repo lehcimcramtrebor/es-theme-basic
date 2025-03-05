@@ -1,23 +1,21 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Sega</system.manufacturer>
+        <system.fullName>Master System</system.fullName>
+        <system.fullName region="us">Sega Master System</system.fullName>
+        <system.fullName region="jp">Sega Mark III</system.fullName>
+        <system.releaseYearOrNull>1985</system.releaseYearOrNull>
+        <system.releaseYearOrNull region="us">1986</system.releaseYearOrNull>
+        <system.releaseYearOrNull region="jp">1985</system.releaseYearOrNull>
+        <desc>The Master System is an 8-bit third-generation home video game console released by Sega. It was originally released as the Sega Mark III in Japan in 1985 and was redesigned and released in North America in 1986 as the Master System. The console was popular in Europe and South America, but did not achieve the same level of success in North America or Japan.</desc>
+        <desc region="us">The Sega Master System is an 8-bit third-generation home video game console released by Sega. It was originally released as the Sega Mark III in Japan in 1985 and was redesigned and released in North America in 1986 as the Master System. The console was popular in Europe and South America, but did not achieve the same level of success in North America or Japan.</desc>
+        <desc region="jp">The Sega Mark III is an 8-bit third-generation home video game console released by Sega in Japan in 1985. It was redesigned and released in North America in 1986 as the Master System. The console was popular in Europe and South America, but did not achieve the same level of success in North America or Japan.</desc>
+        <desc lang="fr">La Master System est une console de jeux vidéo domestique 8 bits de troisième génération commercialisée par Sega. Elle est initialement sortie sous le nom de Sega Mark III au Japon en 1985, puis a été redessinée et commercialisée en Amérique du Nord en 1986 sous le nom de Master System. La console a été populaire en Europe et en Amérique du Sud, mais n'a pas connu le même niveau de succès en Amérique du Nord ou au Japon.</desc>
+        <desc lang="fr" region="us">La Sega Master System est une console de jeux vidéo domestique 8 bits de troisième génération commercialisée par Sega. Elle est initialement sortie sous le nom de Sega Mark III au Japon en 1985, puis a été redessinée et commercialisée en Amérique du Nord en 1986 sous le nom de Master System. La console a été populaire en Europe et en Amérique du Sud, mais n'a pas connu le même niveau de succès en Amérique du Nord ou au Japon.</desc>
+        <desc lang="fr" region="jp">La Sega Mark III est une console de jeux vidéo domestique 8 bits de troisième génération commercialisée par Sega au Japon en 1985. Elle a été redessinée et commercialisée en Amérique du Nord en 1986 sous le nom de Master System. La console a été populaire en Europe et en Amérique du Sud, mais n'a pas connu le même niveau de succès en Amérique du Nord ou au Japon.</desc>
+    </variables>
 </theme>

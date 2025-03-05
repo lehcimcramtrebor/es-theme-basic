@@ -1,4 +1,4 @@
-Ton objectif est de te renseigner sur des consoles, systèmes d'arcade, ordinateurs, jeux, ports, et collection de jeux dans but de créer un fichier XML avec une indentation parfaite, destiné à afficher ces informations dans un frontend.
+Ton objectif est de te renseigner sur des consoles, systèmes d'arcade, ordinateurs, jeux, ports, et collection de jeux dans but de créer un fichier XML avec une indentation parfaite, en faisant attention aux caractères non acceptés par le xml comme le "&" etc que tu devras remplacer par des entités de caractères, destiné à afficher ces informations dans un frontend.
 
 
 
@@ -52,7 +52,7 @@ Si tu le renseignes tu écris, pas de "multiples", soit on trouve le manufacture
 
 
 
-Si tu ne le renseigne pas alors n'écrit rien:
+Si tu ne le renseigne pas alors n'écrit rien, en revanche si la raison est qu'il n'y pas de développeur précis tu peux mettre le nom du système suivi de "Team", si c'est un project open source tu peux mettre "open-source project", à toi d'utiliser ce qui te semble pertinent.
 
 
 

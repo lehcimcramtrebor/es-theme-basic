@@ -4,20 +4,22 @@
 
 	<formatVersion>7</formatVersion>
 
-    <include>./../theme.xml</include>
+<include>./../theme.xml</include>
 
 	<variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.manufacturer>Nintendo</system.manufacturer>
+<system.fullName>Game Boy Color</system.fullName>
+<system.releaseYearOrNull>1998</system.releaseYearOrNull>
+<system.releaseYearOrNull region="us">1998</system.releaseYearOrNull>
+<system.releaseYearOrNull region="jp">1998</system.releaseYearOrNull>
+<desc>The Game Boy Color (GBC) is a handheld game console released by Nintendo in 1998. It is the successor to the original Game Boy and features a color screen, hence its name. The GBC is backward compatible with all Game Boy games and also has its own library of games specifically designed for its color display. It was a commercial success, selling over 118 million units worldwide.</desc>
+<desc region="us">The Game Boy Color (GBC) is a handheld game console released by Nintendo in 1998. It is the successor to the original Game Boy and features a color screen, hence its name. The GBC is backward compatible with all Game Boy games and also has its own library of games specifically designed for its color display. It was a commercial success, selling over 118 million units worldwide.</desc>
+<desc region="jp">The Game Boy Color (GBC) is a handheld game console released by Nintendo in 1998. It is the successor to the original Game Boy and features a color screen, hence its name. The GBC is backward compatible with all Game Boy games and also has its own library of games specifically designed for its color display. It was a commercial success, selling over 118 million units worldwide.</desc>
+<desc lang="fr">La Game Boy Color (GBC) est une console de jeux portable sortie par Nintendo en 1998. Il s'agit du successeur de la Game Boy originale et dispose d'un écran couleur, d'où son nom. La GBC est rétrocompatible avec tous les jeux Game Boy et possède également sa propre bibliothèque de jeux spécialement conçus pour son écran couleur. Ce fut un succès commercial, avec plus de 118 millions d'unités vendues dans le monde.</desc>
+<desc lang="fr" region="us">La Game Boy Color (GBC) est une console de jeux portable sortie par Nintendo en 1998. Il s'agit du successeur de la Game Boy originale et dispose d'un écran couleur, d'où son nom. La GBC est rétrocompatible avec tous les jeux Game Boy et possède également sa propre bibliothèque de jeux spécialement conçus pour son écran couleur. Ce fut un succès commercial, avec plus de 118 millions d'unités vendues dans le monde.</desc>
+<desc lang="fr" region="jp">La Game Boy Color (GBC) est une console de jeux portable sortie par Nintendo en 1998. Il s'agit du successeur de la Game Boy originale et dispose d'un écran couleur, d'où son nom. La GBC est rétrocompatible avec tous les jeux Game Boy et possède également sa propre bibliothèque de jeux spécialement conçus pour son écran couleur. Ce fut un succès commercial, avec plus de 118 millions d'unités vendues dans le monde.</desc>
 
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+</variables>
 
 </theme>

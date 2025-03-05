@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Amstrad</system.manufacturer>
+		<system.fullName>Amstrad CPC</system.fullName>
+		<system.fullName lang="fr">Amstrad CPC</system.fullName>
+		<system.releaseYearOrNull>1984</system.releaseYearOrNull>
+		<desc>The Amstrad CPC (Colour Personal Computer) is a series of 8-bit home computers produced by Amstrad starting in 1984. It was designed to compete in the European home computer market against the Commodore 64 and the Sinclair ZX Spectrum. The CPC series included several models, with the most popular being the CPC464 and CPC6128. Known for its Zilog Z80 processor, built-in BASIC interpreter, and color graphics, the Amstrad CPC was widely used for both gaming and educational purposes.</desc>
+		<desc lang="fr">L'Amstrad CPC (Colour Personal Computer) est une série d'ordinateurs personnels 8 bits produite par Amstrad à partir de 1984. Il a été conçu pour concurrencer sur le marché européen des ordinateurs personnels le Commodore 64 et le Sinclair ZX Spectrum. La série CPC comprenait plusieurs modèles, les plus populaires étant le CPC464 et le CPC6128. Connu pour son processeur Zilog Z80, son interpréteur BASIC intégré et ses graphismes en couleur, l'Amstrad CPC était largement utilisé à des fins de jeux et d'éducation.</desc>
 	</variables>
-
 </theme>

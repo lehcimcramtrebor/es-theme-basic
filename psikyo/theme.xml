@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Psikyo</system.manufacturer>
+		<system.fullName>Psikyo Games</system.fullName>
+		<system.fullName lang="fr">Jeux Psikyo</system.fullName>
+		<desc>Psikyo was a Japanese video game developer and publisher founded in 1992. They are best known for their shoot 'em up arcade games, which are considered classics of the genre. Some of their most popular titles include the Sengoku Ace, Strikers 1945, and Gunbird series.</desc>
+		<desc lang="fr">Psikyo était un développeur et éditeur de jeux vidéo japonais fondé en 1992. Ils sont surtout connus pour leurs jeux d'arcade shoot 'em up, qui sont considérés comme des classiques du genre. Certains de leurs titres les plus populaires incluent les séries Sengoku Ace, Strikers 1945 et Gunbird.</desc>
 	</variables>
-
 </theme>

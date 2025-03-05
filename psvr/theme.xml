@@ -1,23 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Sony</system.manufacturer>
+		<system.fullName>PlayStation VR</system.fullName>
+		<system.fullName lang="fr">PlayStation VR</system.fullName>
+		<system.releaseYearOrNull>2016</system.releaseYearOrNull>
+		<system.releaseYearOrNull region="us">2016</system.releaseYearOrNull>
+		<system.releaseYearOrNull region="jp">2016</system.releaseYearOrNull>
+		<desc>PlayStation VR (PS VR) is a virtual reality platform developed by Sony Interactive Entertainment. It is designed to work with the PlayStation 4 and PlayStation 5 consoles. The PS VR headset provides an immersive 3D experience with a wide field of view and smooth visuals, allowing players to feel like they are truly inside the game world. It also features a built-in microphone for voice chat and motion tracking for precise gameplay.</desc>
+		<desc lang="fr">PlayStation VR (PS VR) est une plateforme de réalité virtuelle développée par Sony Interactive Entertainment. Il est conçu pour fonctionner avec les consoles PlayStation 4 et PlayStation 5. Le casque PS VR offre une expérience 3D immersive avec un large champ de vision et des visuels fluides, permettant aux joueurs de se sentir comme s'ils étaient vraiment dans le monde du jeu. Il dispose également d'un microphone intégré pour le chat vocal et d'un suivi de mouvement pour un gameplay précis.</desc>
 	</variables>
-
 </theme>

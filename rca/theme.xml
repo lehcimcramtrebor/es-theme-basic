@@ -1,23 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>RCA</system.manufacturer>
+		<system.fullName>RCA Studio II</system.fullName>
+		<system.fullName lang="fr">RCA Studio II</system.fullName>
+		<system.releaseYearOrNull>1977</system.releaseYearOrNull>
+		<system.releaseYearOrNull region="us">1977</system.releaseYearOrNull>
+		<desc>The RCA Studio II is a home video game console developed and marketed by RCA. It was released in January 1977. The Studio II used the RCA 1802 microprocessor, and its graphics were black and white. It had two built-in joysticks, and all game control was through them; there were no other buttons or paddles on the console itself.</desc>
+		<desc lang="fr">La RCA Studio II est une console de jeux vidéo de salon développée et commercialisée par RCA. Elle est sortie en janvier 1977. La Studio II utilisait le microprocesseur RCA 1802 et ses graphismes étaient en noir et blanc. Elle avait deux joysticks intégrés, et tous les contrôles de jeu se faisaient par leur intermédiaire ; il n'y avait pas d'autres boutons ou palettes sur la console elle-même.</desc>
 	</variables>
-
 </theme>

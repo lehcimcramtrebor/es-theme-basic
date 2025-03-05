@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>id Software</system.manufacturer>
+		<system.fullName>Doom</system.fullName>
+		<desc>Doom is a first-person shooter video game franchise created by id Software. The series is known for its fast-paced action, heavy metal music, and demonic enemies. The original Doom game was released in 1993 and is considered to be one of the most influential video games of all time.</desc>
+		<desc lang="fr">Doom est une franchise de jeux vidéo de tir à la première personne créée par id Software. La série est connue pour son action rapide, sa musique heavy metal et ses ennemis démoniaques. Le jeu Doom original est sorti en 1993 et est considéré comme l'un des jeux vidéo les plus influents de tous les temps.</desc>
 	</variables>
-
 </theme>

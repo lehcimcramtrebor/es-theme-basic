@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Tandy Corporation</system.manufacturer>
+<system.fullName>Tandy VIS</system.fullName>
+<desc>Tandy VIS (Video Information System) was a computer-based information kiosk developed by Tandy Corporation in the 1980s. It was designed to provide interactive access to information, such as product catalogs, store directories, and educational content. The system utilized touchscreen technology and was often found in retail environments and public spaces.</desc>
+<desc lang="fr">Tandy VIS (Video Information System) était une borne d'information informatique développée par Tandy Corporation dans les années 1980. Elle était conçue pour fournir un accès interactif à l'information, comme des catalogues de produits, des répertoires de magasins et du contenu éducatif. Le système utilisait la technologie de l'écran tactile et se trouvait souvent dans des environnements de vente au détail et des espaces publics.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

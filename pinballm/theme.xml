@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Zen Studios</system.manufacturer>
+		<system.fullName>Pinball M</system.fullName>
+		<system.fullName lang="fr">Pinball M</system.fullName>
+		<desc>Pinball M, developed by Zen Studios, is a new pinball platform that offers a darker and more mature take on the classic arcade game. Featuring horror-themed tables based on popular franchises like Chucky, Dead by Daylight, and The Thing, Pinball M delivers a thrilling and challenging pinball experience.</desc>
+		<desc lang="fr">Pinball M, développé par Zen Studios, est une nouvelle plateforme de flipper qui propose une version plus sombre et plus mature du jeu d'arcade classique. Avec des tables à thème d'horreur basées sur des franchises populaires comme Chucky, Dead by Daylight et The Thing, Pinball M offre une expérience de flipper passionnante et stimulante.</desc>
 	</variables>
-
 </theme>

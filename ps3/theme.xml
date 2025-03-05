@@ -1,23 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Sony</system.manufacturer>
+		<system.fullName>PlayStation 3</system.fullName>
+		<system.fullName lang="fr">PlayStation 3</system.fullName>
+		<system.releaseYearOrNull>2006</system.releaseYearOrNull>
+		<system.releaseYearOrNull region="us">2006</system.releaseYearOrNull>
+		<system.releaseYearOrNull region="jp">2006</system.releaseYearOrNull>
+		<desc>The PlayStation 3 (PS3) is a home video game console developed by Sony Computer Entertainment. It is the successor to the PlayStation 2, as part of the PlayStation series. The PS3 competed primarily with Microsoft's Xbox 360 and Nintendo's Wii as part of the seventh generation of video game consoles.</desc>
+		<desc lang="fr">La PlayStation 3 (PS3) est une console de jeux vidéo de salon développée par Sony Computer Entertainment. Elle succède à la PlayStation 2, dans le cadre de la série PlayStation. La PS3 a principalement concurrencé la Xbox 360 de Microsoft et la Wii de Nintendo dans le cadre de la septième génération de consoles de jeux vidéo.</desc>
 	</variables>
-
 </theme>

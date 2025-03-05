@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Technōs Japan Corp.</system.manufacturer>
+<system.fullName>Technōs Games</system.fullName>
+<desc>Technōs Japan Corp. was a Japanese video game developer known for producing a range of arcade and console titles. They are particularly famous for the Double Dragon and Kunio-kun series, which helped define the beat 'em up genre. Their games often featured detailed pixel art, catchy soundtracks, and action-packed gameplay. Despite going bankrupt in 1996, their legacy continues to influence game developers and fans of retro gaming.</desc>
+<desc lang="fr">Technōs Japan Corp. était un développeur de jeux vidéo japonais connu pour avoir produit une gamme de titres d'arcade et de console. Ils sont particulièrement célèbres pour les séries Double Dragon et Kunio-kun, qui ont contribué à définir le genre beat 'em up. Leurs jeux comportaient souvent des pixel art détaillés, des bandes sonores entraînantes et un gameplay plein d'action. Bien qu'ils aient fait faillite en 1996, leur héritage continue d'influencer les développeurs de jeux et les fans de jeux rétro.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

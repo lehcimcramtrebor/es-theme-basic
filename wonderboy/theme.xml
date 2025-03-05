@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Sega</system.manufacturer>
+        <system.fullName>Wonder Boy</system.fullName>
+        <system.fullName lang="fr">Wonder Boy</system.fullName>
+        <system.releaseYearOrNull>1986</system.releaseYearOrNull>
+        <desc>Wonder Boy is a series of platform video games developed by Sega and Westone Bit Entertainment. The original Wonder Boy, released in 1986, is a side-scrolling platformer where players control Tom-Tom, a caveman tasked with rescuing his girlfriend Tina. The series is known for its diverse gameplay, incorporating elements of platforming, action, and adventure. Later entries like Wonder Boy III: The Dragon's Trap and Wonder Boy in Monster World introduced RPG elements, transforming the series into a metroidvania-style adventure. The games are celebrated for their colorful graphics, catchy soundtracks, and engaging gameplay.</desc>
+        <desc lang="fr">Wonder Boy est une série de jeux vidéo de plateforme développée par Sega et Westone Bit Entertainment. Le Wonder Boy original, sorti en 1986, est un jeu de plateforme à défilement latéral où les joueurs contrôlent Tom-Tom, un homme des cavernes chargé de sauver sa petite amie Tina. La série est connue pour son gameplay diversifié, incorporant des éléments de plateforme, d'action et d'aventure. Les entrées ultérieures comme Wonder Boy III: The Dragon's Trap et Wonder Boy in Monster World ont introduit des éléments RPG, transformant la série en une aventure de style metroidvania. Les jeux sont célébrés pour leurs graphismes colorés, leurs bandes sonores entraînantes et leur gameplay engageant.</desc>
+    </variables>
 </theme>

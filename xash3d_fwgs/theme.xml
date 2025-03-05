@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>FWGS Team</system.manufacturer>
+        <system.fullName>Xash3D FWGS</system.fullName>
+        <system.fullName lang="fr">Xash3D FWGS</system.fullName>
+        <desc>Xash3D FWGS is a custom engine designed to replicate and enhance the GoldSrc engine used by games like Half-Life. It offers improved compatibility, performance, and features, allowing users to play classic GoldSrc games on modern systems and platforms, including mobile devices and embedded systems. The engine is known for its portability and flexibility, making it a popular choice for modders and developers. Xash3D FWGS provides a way to experience and modify classic games with enhanced capabilities and cross-platform support.</desc>
+        <desc lang="fr">Xash3D FWGS est un moteur personnalisé conçu pour reproduire et améliorer le moteur GoldSrc utilisé par des jeux comme Half-Life. Il offre une compatibilité, des performances et des fonctionnalités améliorées, permettant aux utilisateurs de jouer à des jeux GoldSrc classiques sur des systèmes et plateformes modernes, y compris les appareils mobiles et les systèmes embarqués. Le moteur est connu pour sa portabilité et sa flexibilité, ce qui en fait un choix populaire pour les moddeurs et les développeurs. Xash3D FWGS offre un moyen de découvrir et de modifier des jeux classiques avec des capacités améliorées et une prise en charge multiplateforme.</desc>
+    </variables>
 </theme>

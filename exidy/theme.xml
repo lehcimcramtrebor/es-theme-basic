@@ -1,23 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+        <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
+        <variables>
+        <region.priority region="eu"/>
 
-	<variables><region.priority region="eu"/>
+                <system.manufacturer>Exidy Inc.</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+                <system.fullName>Exidy</system.fullName>
+                <system.fullName lang="fr">Exidy</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+                <system.releaseYearOrNull>1974</system.releaseYearOrNull>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+                <desc>Exidy Inc. was an American arcade game and computer manufacturer. Founded in 1974, they are best known for controversial but influential arcade games like Death Race and Chiller, as well as the Sorcerer home computer. While facing financial difficulties in the 1980s, Exidy left a legacy of innovative and often provocative titles.</desc>
+                <desc lang="fr">Exidy Inc. était un fabricant américain de jeux d'arcade et d'ordinateurs. Fondée en 1974, elle est surtout connue pour ses jeux d'arcade controversés mais influents comme Death Race et Chiller, ainsi que pour l'ordinateur personnel Sorcerer. Bien qu'ayant rencontré des difficultés financières dans les années 1980, Exidy a laissé un héritage de titres innovants et souvent provocateurs.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+        </variables>
 </theme>

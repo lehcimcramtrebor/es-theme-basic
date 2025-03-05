@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Team17</system.manufacturer>
+        <system.fullName>Worms</system.fullName>
+        <system.fullName lang="fr">Worms</system.fullName>
+        <system.releaseYearOrNull>1995</system.releaseYearOrNull>
+        <desc>Worms is a series of artillery tactical video games developed by Team17. The original game, released in 1995, features teams of anthropomorphic worms battling each other across destructible landscapes. Players take turns controlling their worms, using a variety of weapons and tools to eliminate the opposing team. The series is known for its humorous gameplay, cartoonish graphics, and strategic depth. Popular titles include Worms Armageddon and Worms World Party. The games are celebrated for their multiplayer modes, which provide chaotic and entertaining battles. The series has spanned numerous sequels and spin-offs, maintaining its popularity with its unique blend of strategy and humor.</desc>
+        <desc lang="fr">Worms est une série de jeux vidéo tactiques d'artillerie développée par Team17. Le jeu original, sorti en 1995, met en scène des équipes de vers anthropomorphes s'affrontant sur des paysages destructibles. Les joueurs contrôlent à tour de rôle leurs vers, utilisant une variété d'armes et d'outils pour éliminer l'équipe adverse. La série est connue pour son gameplay humoristique, ses graphismes caricaturaux et sa profondeur stratégique. Les titres populaires incluent Worms Armageddon et Worms World Party. Les jeux sont célébrés pour leurs modes multijoueurs, qui offrent des batailles chaotiques et divertissantes. La série a donné naissance à de nombreuses suites et spin-offs, maintenant sa popularité grâce à son mélange unique de stratégie et d'humour.</desc>
+    </variables>
 </theme>

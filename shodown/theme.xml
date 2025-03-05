@@ -2,22 +2,20 @@
 
 <theme>
 
-	<formatVersion>7</formatVersion>
+    <formatVersion>7</formatVersion>
 
     <include>./../theme.xml</include>
 
-	<variables><region.priority region="eu"/>
+    <variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+    <system.manufacturer>SNK</system.manufacturer>
 
-		<!--<system.fullName>name</system.fullName>-->
+    <system.fullName>Samurai Shodown Series</system.fullName>
+    <system.fullName lang="fr">Série Samurai Shodown</system.fullName>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+    <desc>The Samurai Shodown series is a fighting game franchise developed by SNK. Known for its weapon-based combat, emphasis on heavy attacks, and historical Japanese setting, the series stands out from other fighting games. It features a diverse cast of characters, each with their own unique weapons and fighting styles. The games are renowned for their tense, strategic gameplay and their distinctive art style, which captures the spirit of samurai films. The series has appeared on various arcade and home console platforms.</desc>
+    <desc lang="fr">La série Samurai Shodown est une franchise de jeux de combat développée par SNK. Connue pour son combat basé sur les armes, son accent sur les attaques lourdes et son cadre historique japonais, la série se distingue des autres jeux de combat. Elle présente une distribution diversifiée de personnages, chacun avec ses propres armes et styles de combat uniques. Les jeux sont réputés pour leur gameplay tendu et stratégique et leur style artistique distinctif, qui capture l'esprit des films de samouraïs. La série est apparue sur diverses plateformes d'arcade et de consoles domestiques.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+</variables>
 
 </theme>

@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Various</system.manufacturer>
+		<system.fullName>PrBoom</system.fullName>
+		<system.fullName lang="fr">PrBoom</system.fullName>
+		<desc>PrBoom is a source port of the first-person shooter video game Doom, originally developed by id Software. It is designed to be highly compatible with the original game while adding new features and enhancements. PrBoom is known for its high level of customization and support for various mods and add-ons.</desc>
+		<desc lang="fr">PrBoom est un portage du jeu de tir à la première personne Doom, développé à l'origine par id Software. Il est conçu pour être hautement compatible avec le jeu original tout en ajoutant de nouvelles fonctionnalités et améliorations. PrBoom est connu pour son haut niveau de personnalisation et sa prise en charge de divers mods et add-ons.</desc>
 	</variables>
-
 </theme>

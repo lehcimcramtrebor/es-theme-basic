@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+  <variables>
+    <region.priority region="eu"/>
+    <system.manufacturer>Various</system.manufacturer>
+    <system.fullName>Quiz Games</system.fullName>
+    <system.fullName lang="fr">Jeux de quiz</system.fullName>
+    <desc>Quiz games test players' knowledge on a variety of subjects, often with multiple-choice questions or true/false answers. They can be competitive or played solo, offering a fun and engaging way to learn and test your knowledge.</desc>
+    <desc lang="fr">Les jeux de quiz testent les connaissances des joueurs sur divers sujets, souvent avec des questions à choix multiples ou des réponses vrai/faux. Ils peuvent être compétitifs ou joués en solo, offrant un moyen amusant et engageant d'apprendre et de tester vos connaissances.</desc>
+  </variables>
 </theme>

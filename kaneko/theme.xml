@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+	<variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Kaneko</system.manufacturer>
+        <system.fullName>Kaneko</system.fullName>
+        <desc>Kaneko was a Japanese video game developer and publisher. They were known for producing a variety of arcade games, including fighting games, mahjong games, and medal games.</desc>
+        <desc lang="fr">Kaneko était un développeur et éditeur japonais de jeux vidéo. Ils étaient connus pour produire une variété de jeux d'arcade, y compris des jeux de combat, des jeux de mahjong et des jeux de médailles.</desc>
+    </variables>
 </theme>

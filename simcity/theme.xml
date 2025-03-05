@@ -2,22 +2,20 @@
 
 <theme>
 
-	<formatVersion>7</formatVersion>
+    <formatVersion>7</formatVersion>
 
     <include>./../theme.xml</include>
 
-	<variables><region.priority region="eu"/>
+    <variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+    <system.manufacturer>Maxis</system.manufacturer>
 
-		<!--<system.fullName>name</system.fullName>-->
+    <system.fullName>SimCity Series</system.fullName>
+    <system.fullName lang="fr">Série SimCity</system.fullName>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+    <desc>The SimCity series is a city-building simulation video game franchise developed by Maxis. Players are tasked with planning and developing a city, managing its finances, infrastructure, and services. The series is known for its open-ended gameplay, allowing players to create and manage cities of various sizes and complexities. It has been influential in the simulation genre and has appeared on numerous platforms, offering a blend of creative freedom and strategic management.</desc>
+    <desc lang="fr">La série SimCity est une franchise de jeux vidéo de simulation de construction de ville développée par Maxis. Les joueurs sont chargés de planifier et de développer une ville, de gérer ses finances, ses infrastructures et ses services. La série est connue pour son gameplay ouvert, permettant aux joueurs de créer et de gérer des villes de différentes tailles et complexités. Elle a été influente dans le genre de la simulation et est apparue sur de nombreuses plateformes, offrant un mélange de liberté créative et de gestion stratégique.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+</variables>
 
 </theme>

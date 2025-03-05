@@ -4,20 +4,16 @@
 
 	<formatVersion>7</formatVersion>
 
-    <include>./../theme.xml</include>
+<include>./../theme.xml</include>
 
 	<variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.manufacturer>Epoch</system.manufacturer>
+<system.fullName>Game Pocket Computer</system.fullName>
+<system.releaseYearOrNull>1984</system.releaseYearOrNull>
+<desc>The Game Pocket Computer is a handheld game console developed by Epoch. Released in 1984, it featured a unique design with a detachable keyboard, allowing it to function as a basic computer. It had a monochrome LCD screen and used cartridges for games. The system's library was limited, but it offered a blend of gaming and simple computing functionalities. Despite its innovative approach, the Game Pocket Computer faced competition from other handhelds and struggled to achieve widespread success.</desc>
+<desc lang="fr">Le Game Pocket Computer est une console de jeux portable développée par Epoch. Sorti en 1984, il présentait une conception unique avec un clavier détachable, lui permettant de fonctionner comme un ordinateur de base. Il avait un écran LCD monochrome et utilisait des cartouches pour les jeux. La bibliothèque du système était limitée, mais elle offrait un mélange de fonctionnalités de jeu et d'informatique simple. Malgré son approche innovante, le Game Pocket Computer a dû faire face à la concurrence d'autres consoles portables et a eu du mal à remporter un succès généralisé.</desc>
 
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+</variables>
 
 </theme>

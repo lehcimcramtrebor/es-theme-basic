@@ -2,22 +2,20 @@
 
 <theme>
 
-	<formatVersion>7</formatVersion>
+        <formatVersion>7</formatVersion>
 
-    <include>./../theme.xml</include>
+        <include>./../theme.xml</include>
 
-	<variables><region.priority region="eu"/>
+        <variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+        <system.manufacturer>Seibu Kaihatsu</system.manufacturer>
 
-		<!--<system.fullName>name</system.fullName>-->
+        <system.fullName>Seibu Kaihatsu</system.fullName>
+        <system.fullName lang="fr">Seibu Kaihatsu</system.fullName>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+        <desc>Seibu Kaihatsu was a Japanese video game developer and publisher known for its contributions to the arcade industry. They produced a variety of popular arcade games in the 1980s and 1990s, including shoot-'em-ups, beat-'em-ups, and platformers. Some of their notable titles include Raiden, Dynamite Duke, and Zero Team. Seibu Kaihatsu's games were often characterized by their fast-paced action, colorful graphics, and challenging gameplay.</desc>
+        <desc lang="fr">Seibu Kaihatsu était un développeur et éditeur de jeux vidéo japonais connu pour ses contributions à l'industrie de l'arcade. Ils ont produit une variété de jeux d'arcade populaires dans les années 1980 et 1990, notamment des shoot-'em-ups, des beat-'em-ups et des jeux de plateforme. Parmi leurs titres notables figurent Raiden, Dynamite Duke et Zero Team. Les jeux de Seibu Kaihatsu étaient souvent caractérisés par leur action rapide, leurs graphismes colorés et leur gameplay stimulant.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+</variables>
 
 </theme>

@@ -1,23 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Philips</system.manufacturer>
+<system.fullName>Videopac</system.fullName>
+<system.fullName region="us">Odyssey²</system.fullName>
+<system.releaseYearOrNull>1978</system.releaseYearOrNull>
+<system.releaseYearOrNull region="us">1978</system.releaseYearOrNull>
+<desc>The Videopac, known as the Odyssey² in North America, is a home video game console released by Philips in 1978. It was notable for its relatively advanced graphics for the time and its use of interchangeable cartridges. The console also featured a unique membrane keyboard that could be used for both gameplay and programming. Despite its initial popularity, the Videopac faced increasing competition from other consoles and eventually faded from the market.</desc>
+<desc lang="fr">La Videopac, connue sous le nom d'Odyssey² en Amérique du Nord, est une console de jeux vidéo domestique sortie par Philips en 1978. Elle était remarquable pour ses graphismes relativement avancés pour l'époque et son utilisation de cartouches interchangeables. La console comportait également un clavier à membrane unique qui pouvait être utilisé à la fois pour le jeu et la programmation. Malgré sa popularité initiale, la Videopac a dû faire face à une concurrence croissante d'autres consoles et a finalement disparu du marché.</desc>
+<desc region="us">The Odyssey², known as the Videopac in Europe, is a home video game console released by Philips in 1978. It was the successor to the original Magnavox Odyssey and featured improved graphics and gameplay capabilities. The console also included a built-in keyboard, which was a unique feature for the time. While it achieved moderate success, it ultimately struggled to compete with the dominant Atari and Nintendo consoles in the North American market.</desc>
+<desc lang="fr" region="us">L'Odyssey², connue sous le nom de Videopac en Europe, est une console de jeux vidéo domestique sortie par Philips en 1978. Elle succède à la Magnavox Odyssey originale et offre des graphismes et des capacités de jeu améliorés. La console comprenait également un clavier intégré, ce qui était une caractéristique unique pour l'époque. Bien qu'elle ait connu un succès modéré, elle a finalement eu du mal à concurrencer les consoles dominantes d'Atari et de Nintendo sur le marché nord-américain.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

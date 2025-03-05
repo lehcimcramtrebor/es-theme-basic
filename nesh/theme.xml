@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Nintendo &amp; Community</system.manufacturer>
+        <system.fullName>NES Hacks</system.fullName>
+        <desc>NES Hacks refer to modified versions of Nintendo Entertainment System (NES) games, created by fans or developers. These modifications can range from simple graphical changes or level edits to complete overhauls of the game's mechanics or storylines.</desc>
+        <desc lang="fr">Les hacks NES font référence à des versions modifiées de jeux Nintendo Entertainment System (NES), créées par des fans ou des développeurs. Ces modifications peuvent aller de simples changements graphiques ou modifications de niveaux à des refontes complètes des mécanismes ou des scénarios du jeu.</desc>
+    </variables>
 </theme>

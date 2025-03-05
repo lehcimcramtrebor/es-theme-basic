@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Various</system.manufacturer>
+		<system.fullName>Beat 'em up Games</system.fullName>
+		<system.fullName lang="fr">Jeux de beat'em up</system.fullName>
+		<desc>Beat 'em up games, also known as brawlers, involve melee combat against a large number of opponents. They often feature side-scrolling gameplay and allow players to use a variety of weapons and fighting techniques.</desc>
+		<desc lang="fr">Les jeux de beat'em up, également connus sous le nom de brawlers, impliquent un combat au corps à corps contre un grand nombre d'adversaires. Ils comportent souvent un gameplay à défilement latéral et permettent aux joueurs d'utiliser diverses armes et techniques de combat.</desc>
 	</variables>
-
 </theme>

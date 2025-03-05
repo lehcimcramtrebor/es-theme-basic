@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Valve Corporation</system.manufacturer>
+<system.fullName>Steam</system.fullName>
+<system.releaseYearOrNull>2003</system.releaseYearOrNull>
+<desc>Steam is a digital distribution platform developed by Valve Corporation. It provides users with access to a vast library of games, software, and streaming video. It also offers community features such as friends lists, groups, and forums. Steam is known for its frequent sales, wide selection of indie and AAA titles, and its role in popularizing digital game distribution.</desc>
+<desc lang="fr">Steam est une plateforme de distribution numérique développée par Valve Corporation. Elle offre aux utilisateurs un accès à une vaste bibliothèque de jeux, de logiciels et de vidéos en streaming. Elle propose également des fonctionnalités communautaires telles que des listes d'amis, des groupes et des forums. Steam est connu pour ses ventes fréquentes, sa large sélection de titres indépendants et AAA, et son rôle dans la popularisation de la distribution numérique de jeux.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

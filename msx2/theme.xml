@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Various</system.manufacturer>
+        <system.fullName>MSX2</system.fullName>
+        <system.releaseYearOrNull>1985</system.releaseYearOrNull>
+        <desc>The MSX2 is the second generation of the MSX home computer standard. It was released in 1985 and offered significant improvements over the MSX1, including enhanced graphics, sound, and memory capabilities. The MSX2 was popular in Japan, South America, and Europe, and featured a wide range of games and software, including many titles that were exclusive to the system.</desc>
+        <desc lang="fr">Le MSX2 est la deuxième génération de la norme d'ordinateur personnel MSX. Il a été commercialisé en 1985 et offrait des améliorations significatives par rapport au MSX1, notamment des graphismes, un son et des capacités de mémoire améliorés. Le MSX2 était populaire au Japon, en Amérique du Sud et en Europe, et proposait une large gamme de jeux et de logiciels, dont de nombreux titres exclusifs au système.</desc>
+    </variables>
 </theme>

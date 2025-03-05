@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.fullName>Desktop Applications</system.fullName>
+		<system.fullName lang="fr">Applications de bureau</system.fullName>
+		<desc>Desktop applications are software programs that are designed to run on a desktop computer operating system. These applications can be used for a variety of tasks, such as word processing, web browsing, and gaming.</desc>
+		<desc lang="fr">Les applications de bureau sont des logiciels conçus pour fonctionner sur un système d'exploitation d'ordinateur de bureau. Ces applications peuvent être utilisées pour diverses tâches, telles que le traitement de texte, la navigation Web et les jeux.</desc>
 	</variables>
-
 </theme>

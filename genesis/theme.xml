@@ -1,23 +1,29 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+        <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<variables><region.priority region="eu"/>
+<system.manufacturer>Sega</system.manufacturer>
+<system.manufacturer region="us">Sega</system.manufacturer>
+<system.manufacturer region="jp">Sega</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.fullName>Mega Drive</system.fullName>
+<system.fullName region="us">Genesis</system.fullName>
+<system.fullName region="jp">Mega Drive</system.fullName>
+<system.fullName lang="fr">Mega Drive</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+<system.releaseYearOrNull>1988</system.releaseYearOrNull>
+<system.releaseYearOrNull region="us">1989</system.releaseYearOrNull>
+<system.releaseYearOrNull region="jp">1988</system.releaseYearOrNull>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+<desc>The Sega Mega Drive, known as the Genesis in North America, is a 16-bit fourth-generation home video game console developed and marketed by Sega. It was Sega's third home console and the successor to the Master System. Released in 1988 in Japan, 1989 in North America, and 1990 in Europe, the Mega Drive competed with the Super Nintendo Entertainment System from Nintendo. It featured a powerful 16-bit processor, which allowed for more advanced graphics and sound than its 8-bit predecessors. Popular games include the Sonic the Hedgehog series, Streets of Rage, and Golden Axe.</desc>
+<desc region="us">The Sega Genesis, released in 1989, was Sega's 16-bit entry into the fourth generation of video game consoles. It was a significant competitor to the Super Nintendo Entertainment System and is remembered for its fast-paced action games and arcade ports. The Genesis also featured a strong lineup of sports games and is considered a classic console among gamers.</desc>
+<desc region="jp">The Sega Mega Drive, released in Japan in 1988, was a powerful 16-bit console that offered a wide range of arcade-style games and innovative titles. It was known for its strong graphics and sound, and its library included popular games like Phantasy Star and Thunder Force.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
+<desc lang="fr">La Sega Mega Drive, connue sous le nom de Genesis en Amérique du Nord, est une console de jeux vidéo de salon 16 bits de quatrième génération développée et commercialisée par Sega. C'était la troisième console de salon de Sega et le successeur du Master System. Sortie en 1988 au Japon, 1989 en Amérique du Nord et 1990 en Europe, la Mega Drive était en concurrence avec la Super Nintendo Entertainment System de Nintendo. Elle était dotée d'un puissant processeur 16 bits, qui permettait des graphismes et un son plus avancés que ses prédécesseurs 8 bits. Les jeux populaires incluent la série Sonic the Hedgehog, Streets of Rage et Golden Axe.</desc>
+<desc lang="fr" region="us">La Sega Genesis, sortie en 1989, était l'entrée 16 bits de Sega dans la quatrième génération de consoles de jeux vidéo. C'était un concurrent important de la Super Nintendo Entertainment System et elle est connue pour ses jeux d'action rapides et ses ports d'arcade. La Genesis présentait également une solide gamme de jeux de sport et est considérée comme une console classique parmi les joueurs.</desc>
+<desc lang="fr" region="jp">La Sega Mega Drive, sortie au Japon en 1988, était une puissante console 16 bits qui offrait une large gamme de jeux de style arcade et de titres innovants. Elle était connue pour ses graphismes et son son puissants, et sa bibliothèque comprenait des jeux populaires comme Phantasy Star et Thunder Force.</desc>
 
-	</variables>
-
+</variables>
 </theme>

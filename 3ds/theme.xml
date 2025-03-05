@@ -1,23 +1,17 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
+<include>./../theme.xml</include>
 	<variables><region.priority region="eu"/>
+<system.manufacturer>Nintendo</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.fullName>Nintendo 3DS</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+<system.releaseYearOrNull>2011</system.releaseYearOrNull>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+<desc>The Nintendo 3DS is a handheld game console produced by Nintendo. It was first released in Japan in 2011 and is the successor to the Nintendo DS. One of its main features is the ability to display stereoscopic 3D images without the need for special glasses. The console also features a dual-screen design, with a touch screen on the lower screen. It is backward compatible with Nintendo DS games. The Nintendo 3DS family includes the Nintendo 3DS, the Nintendo 3DS XL, the Nintendo 2DS, the New Nintendo 3DS, and the New Nintendo 2DS XL.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+<desc lang="fr">La Nintendo 3DS est une console de jeux portable produite par Nintendo. Elle est sortie pour la première fois au Japon en 2011 et succède à la Nintendo DS. L'une de ses principales caractéristiques est la capacité d'afficher des images 3D stéréoscopiques sans avoir besoin de lunettes spéciales. La console dispose également d'une conception à double écran, avec un écran tactile sur l'écran inférieur. Elle est rétrocompatible avec les jeux Nintendo DS. La famille Nintendo 3DS comprend la Nintendo 3DS, la Nintendo 3DS XL, la Nintendo 2DS, la New Nintendo 3DS et la New Nintendo 2DS XL.</desc>
+</variables>
 
 </theme>

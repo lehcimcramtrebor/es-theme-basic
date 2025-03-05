@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+  <variables>
+    <region.priority region="eu"/>
+    <system.manufacturer>Ken Silverman</system.manufacturer>
+    <system.fullName>Build Engine</system.fullName>
+    <system.fullName lang="fr">Moteur Build</system.fullName>
+    <system.releaseYearOrNull>1995</system.releaseYearOrNull>
+    <desc>The Build Engine is a first-person shooter game engine developed by Ken Silverman. It is known for its advanced 2.5D graphics, which allowed for environments with varying heights and slopes, unlike the flat floors and ceilings of earlier engines like Doom. The Build Engine was used to power several popular games in the 1990s, including Duke Nukem 3D, Blood, and Shadow Warrior.</desc>
+    <desc lang="fr">Le moteur Build est un moteur de jeu de tir à la première personne développé par Ken Silverman. Il est connu pour ses graphismes 2.5D avancés, qui permettaient des environnements avec des hauteurs et des pentes variables, contrairement aux sols et plafonds plats des moteurs précédents comme Doom. Le moteur Build a été utilisé pour alimenter plusieurs jeux populaires dans les années 1990, notamment Duke Nukem 3D, Blood et Shadow Warrior.</desc>
+  </variables>
 </theme>

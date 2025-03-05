@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Daphne Team</system.manufacturer>
+        <system.fullName>Daphne</system.fullName>
+        <desc>Daphne est un émulateur développé par Loriciel et qui permet aux joueurs de découvrir des jeux d'arcade sur laserdisc sur des ordinateurs modernes. Il est spécialisé dans l'émulation de jeux qui utilisaient la technologie laserdisc, tels que Dragon's Lair et Space Ace. Ces jeux sont connus pour leurs graphismes vidéo plein écran de haute qualité, qui étaient révolutionnaires à l'époque. Daphne reproduit fidèlement le gameplay et les visuels uniques de ces titres d'arcade classiques, préservant une partie importante de l'histoire des jeux vidéo.</desc>
+        <desc lang="fr">Daphne is an emulator developed by Loriciel that allows players to experience laserdisc arcade games on modern computers. It specializes in emulating games that used laserdisc technology, such as Dragon's Lair and Space Ace. These games are known for their high-quality, full-motion video graphics, which were groundbreaking at the time. Daphne accurately reproduces the unique gameplay and visuals of these classic arcade titles, preserving a significant part of video game history.</desc>
+    </variables>
 </theme>

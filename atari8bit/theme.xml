@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Atari</system.manufacturer>
+		<system.fullName>Atari 8-bit Family</system.fullName>
+		<system.fullName lang="fr">Famille Atari 8-bit</system.fullName>
+		<system.releaseYearOrNull>1979</system.releaseYearOrNull>
+		<desc>The Atari 8-bit family is a series of 8-bit home computers introduced by Atari, Inc. in 1979. These systems were notable for their advanced graphics and sound capabilities compared to other home computers of the era. The family includes models such as the Atari 400, 800, and later the XL and XE series, which offered a range of features and expandability options. They played a significant role in the early home computer market and are remembered for their extensive library of games and software.</desc>
+		<desc lang="fr">La famille Atari 8 bits est une série d'ordinateurs personnels 8 bits introduite par Atari, Inc. en 1979. Ces systèmes étaient remarquables pour leurs capacités graphiques et sonores avancées par rapport aux autres ordinateurs personnels de l'époque. La famille comprend des modèles tels que l'Atari 400, 800, et plus tard les séries XL et XE, qui offraient une gamme de fonctionnalités et d'options d'extensibilité. Ils ont joué un rôle important dans le premier marché des ordinateurs personnels et sont connus pour leur vaste bibliothèque de jeux et de logiciels.</desc>
 	</variables>
-
 </theme>

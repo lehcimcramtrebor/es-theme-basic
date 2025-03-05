@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+	<variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Krisalis Software</system.manufacturer>
+        <system.fullName>Krisalis</system.fullName>
+        <desc>Krisalis Software was a British video game developer and publisher. They were known for producing a variety of games across different genres, including simulations, sports games, and platformers.</desc>
+        <desc lang="fr">Krisalis Software était un développeur et éditeur de jeux vidéo britannique. Ils étaient connus pour produire une variété de jeux dans différents genres, notamment des simulations, des jeux de sport et des jeux de plateforme.</desc>
+    </variables>
 </theme>

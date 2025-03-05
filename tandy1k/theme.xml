@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Tandy Corporation</system.manufacturer>
+<system.fullName>Tandy 1000</system.fullName>
+<system.releaseYearOrNull>1984</system.releaseYearOrNull>
+<desc>The Tandy 1000 was a line of IBM PC-compatible home computers produced by Tandy Corporation. It was known for its enhanced graphics and sound capabilities compared to the standard IBM PC, making it popular for gaming. The series included various models, each with different specifications and features. It offered a range of software, including games, productivity applications, and educational programs.</desc>
+<desc lang="fr">Le Tandy 1000 était une gamme d'ordinateurs personnels compatibles IBM PC produits par Tandy Corporation. Il était connu pour ses capacités graphiques et sonores améliorées par rapport à l'IBM PC standard, ce qui le rendait populaire pour les jeux. La série comprenait divers modèles, chacun avec des spécifications et des fonctionnalités différentes. Il offrait une gamme de logiciels, comprenant des jeux, des applications de productivité et des programmes éducatifs.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

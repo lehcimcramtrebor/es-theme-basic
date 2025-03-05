@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Nintendo</system.manufacturer>
+		<system.fullName>Donkey Kong</system.fullName>
+		<desc>Donkey Kong is a series of video games featuring the gorilla character of the same name. The franchise consists mainly of platform games, but also includes other genres. The Donkey Kong series is one of Nintendo's most popular franchises, and it has sold over 100 million copies worldwide.</desc>
+		<desc lang="fr">Donkey Kong est une série de jeux vidéo mettant en scène le personnage de gorille du même nom. La franchise se compose principalement de jeux de plateforme, mais comprend également d'autres genres. La série Donkey Kong est l'une des franchises les plus populaires de Nintendo, et elle s'est vendue à plus de 100 millions d'exemplaires dans le monde.</desc>
 	</variables>
-
 </theme>

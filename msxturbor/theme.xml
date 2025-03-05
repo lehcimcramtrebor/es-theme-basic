@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Various</system.manufacturer>
+        <system.fullName>MSX Turbo R</system.fullName>
+        <system.releaseYearOrNull>1990</system.releaseYearOrNull>
+        <desc>The MSX Turbo R is the final generation of the MSX home computer standard. It was released in 1990 and featured significant hardware upgrades, including a faster CPU, enhanced graphics, and improved sound capabilities. The MSX Turbo R was primarily popular in Japan and offered a wide range of games and software, including many titles that showcased the system's advanced capabilities.</desc>
+        <desc lang="fr">Le MSX Turbo R est la dernière génération de la norme d'ordinateur personnel MSX. Il a été commercialisé en 1990 et présentait des améliorations matérielles significatives, notamment un processeur plus rapide, des graphismes améliorés et des capacités sonores améliorées. Le MSX Turbo R était principalement populaire au Japon et offrait une large gamme de jeux et de logiciels, dont de nombreux titres qui mettaient en valeur les capacités avancées du système.</desc>
+    </variables>
 </theme>

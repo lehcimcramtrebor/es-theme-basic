@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+  <variables>
+    <region.priority region="eu"/>
+    <system.manufacturer>Unknown</system.manufacturer>
+    <system.fullName>Commander Genius</system.fullName>
+    <system.fullName lang="fr">Commander Genius</system.fullName>
+    <desc>Commander Genius is a port of the classic Commodore 64 game Genius, a puzzle game where players must arrange colored tiles to create a complete circuit. This version allows players to experience the challenging and addictive gameplay on modern platforms.</desc>
+    <desc lang="fr">Commander Genius est un portage du jeu classique Genius pour Commodore 64, un jeu de puzzle où les joueurs doivent disposer des tuiles colorées pour créer un circuit complet. Cette version permet aux joueurs de découvrir le gameplay stimulant et addictif sur les plateformes modernes.</desc>
+  </variables>
 </theme>

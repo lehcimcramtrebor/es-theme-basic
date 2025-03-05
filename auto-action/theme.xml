@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Various</system.manufacturer>
+		<system.fullName>Action Games</system.fullName>
+		<system.fullName lang="fr">Jeux d'action</system.fullName>
+		<desc>Action games emphasize physical challenges, including hand-eye coordination and reaction-time. They often feature combat, puzzles, and platforming elements, providing an adrenaline-pumping experience.</desc>
+		<desc lang="fr">Les jeux d'action mettent l'accent sur les défis physiques, y compris la coordination œil-main et le temps de réaction. Ils comportent souvent des éléments de combat, de puzzle et de plateforme, offrant une expérience pleine d'adrénaline.</desc>
 	</variables>
-
 </theme>

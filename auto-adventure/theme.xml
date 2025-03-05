@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Various</system.manufacturer>
+		<system.fullName>Adventure Games</system.fullName>
+		<system.fullName lang="fr">Jeux d'aventure</system.fullName>
+		<desc>Adventure games emphasize exploration, puzzle-solving, and storytelling. They often feature intricate plots, memorable characters, and atmospheric environments, providing a captivating and immersive experience.</desc>
+		<desc lang="fr">Les jeux d'aventure mettent l'accent sur l'exploration, la résolution d'énigmes et la narration. Ils comportent souvent des intrigues complexes, des personnages mémorables et des environnements atmosphériques, offrant une expérience captivante et immersive.</desc>
 	</variables>
-
 </theme>

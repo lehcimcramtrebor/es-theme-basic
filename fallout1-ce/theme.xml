@@ -1,23 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+        <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
+        <variables>
+        <region.priority region="eu"/>
 
-	<variables><region.priority region="eu"/>
+                <system.manufacturer>Fallout Community Edition Team</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+                <system.fullName>Fallout Community Edition</system.fullName>
+                <system.fullName lang="fr">Fallout Community Edition</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+                <system.releaseYearOrNull>2023</system.releaseYearOrNull>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+                <desc>Fallout Community Edition (Fallout-CE) is a community-driven, open-source project aimed at enhancing the original Fallout game. It provides bug fixes, improvements to the game engine, and adds new features, while staying true to the original game's spirit. This edition ensures that the classic Fallout experience is preserved and accessible on modern systems.</desc>
+                <desc lang="fr">Fallout Community Edition (Fallout-CE) est un projet open-source, dirigé par la communauté, visant à améliorer le jeu Fallout original. Il fournit des corrections de bugs, des améliorations du moteur de jeu et ajoute de nouvelles fonctionnalités, tout en restant fidèle à l'esprit du jeu original. Cette édition garantit que l'expérience classique de Fallout est préservée et accessible sur les systèmes modernes.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+        </variables>
 </theme>

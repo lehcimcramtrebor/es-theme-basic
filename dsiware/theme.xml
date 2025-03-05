@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Nintendo</system.manufacturer>
+		<system.fullName>DSiWare</system.fullName>
+		<desc>DSiWare was a digital distribution service for the Nintendo DSi and Nintendo 3DS. It allowed users to download games and applications directly to their devices. The service was launched in 2008 and discontinued in 2017.</desc>
+		<desc lang="fr">DSiWare était un service de distribution numérique pour la Nintendo DSi et la Nintendo 3DS. Il permettait aux utilisateurs de télécharger des jeux et des applications directement sur leurs appareils. Le service a été lancé en 2008 et abandonné en 2017.</desc>
 	</variables>
-
 </theme>

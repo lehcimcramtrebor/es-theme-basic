@@ -2,22 +2,20 @@
 
 <theme>
 
-	<formatVersion>7</formatVersion>
+        <formatVersion>7</formatVersion>
 
-    <include>./../theme.xml</include>
+        <include>./../theme.xml</include>
 
-	<variables><region.priority region="eu"/>
+        <variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+        <system.manufacturer>Sammy Corporation</system.manufacturer>
 
-		<!--<system.fullName>name</system.fullName>-->
+        <system.fullName>Sammy</system.fullName>
+        <system.fullName lang="fr">Sammy</system.fullName>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+        <desc>Sammy Corporation is a Japanese entertainment conglomerate known for its involvement in the arcade and video game industry. They have produced a wide range of arcade games, including fighting games, shoot-'em-ups, and other genres. Sammy is also known for its involvement in the pachinko and pachislot industries in Japan. They have merged with Sega to form Sega Sammy Holdings.</desc>
+        <desc lang="fr">Sammy Corporation est un conglomérat de divertissement japonais connu pour son implication dans l'industrie des jeux d'arcade et des jeux vidéo. Ils ont produit une large gamme de jeux d'arcade, notamment des jeux de combat, des shoot-'em-ups et d'autres genres. Sammy est également connu pour son implication dans les industries du pachinko et du pachislot au Japon. Ils ont fusionné avec Sega pour former Sega Sammy Holdings.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+</variables>
 
 </theme>

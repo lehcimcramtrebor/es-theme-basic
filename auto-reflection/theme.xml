@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+  <variables>
+    <region.priority region="eu"/>
+    <system.manufacturer>Various</system.manufacturer>
+    <system.fullName>Reflection Games</system.fullName>
+    <system.fullName lang="fr">Jeux de réflexion</system.fullName>
+    <desc>Reflection games, also known as puzzle games, challenge players to use logic and problem-solving skills to achieve a specific goal. They often feature a variety of challenges, such as mazes, riddles, and spatial puzzles, requiring strategic thinking and planning.</desc>
+    <desc lang="fr">Les jeux de réflexion, également appelés jeux de puzzle, mettent les joueurs au défi d'utiliser la logique et les compétences en résolution de problèmes pour atteindre un objectif spécifique. Ils présentent souvent une variété de défis, tels que des labyrinthes, des énigmes et des puzzles spatiaux, nécessitant une réflexion stratégique et une planification.</desc>
+  </variables>
 </theme>

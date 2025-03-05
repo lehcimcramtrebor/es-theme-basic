@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+  <variables>
+    <region.priority region="eu"/>
+    <system.manufacturer>Commodore Business Machines Inc.</system.manufacturer>
+    <system.fullName>Commodore 20</system.fullName>
+    <system.fullName lang="fr">Commodore 20</system.fullName>
+    <system.releaseYearOrNull>1983</system.releaseYearOrNull>
+    <desc>The Commodore 20, also known as the VIC-20 in the United States and Canada, was an 8-bit home computer introduced by Commodore Business Machines Inc. in 1983. It was marketed as a more budget-friendly computer compared to the Commodore 64. While limited in capabilities, it offered a gateway to home computing for many users and holds a place in Commodore's history.</desc>
+    <desc lang="fr">Le Commodore 20, également connu sous le nom de VIC-20 aux États-Unis et au Canada, était un ordinateur personnel 8 bits introduit par Commodore Business Machines Inc. en 1983. Il a été commercialisé comme un ordinateur plus économique que le Commodore 64. Bien que limité en capacités, il a offert une passerelle vers l'informatique à domicile pour de nombreux utilisateurs et occupe une place dans l'histoire de Commodore.</desc>
+  </variables>
 </theme>

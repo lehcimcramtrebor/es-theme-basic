@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Sinclair Research</system.manufacturer>
+		<system.fullName>ZX81</system.fullName>
+		<system.releaseYearOrNull>1981</system.releaseYearOrNull>
+		<desc>The ZX81 is a home computer that was produced by Sinclair Research. It was launched in the United Kingdom in March 1981 as the successor to Sinclair's ZX80 and designed to be a low-cost introduction to home computing for the general public.</desc>
+		<desc lang="fr">Le ZX81 est un ordinateur personnel qui a été produit par Sinclair Research. Il a été lancé au Royaume-Uni en mars 1981 en tant que successeur du ZX80 de Sinclair et conçu pour être une introduction peu coûteuse à l'informatique domestique pour le grand public.</desc>
 	</variables>
-
 </theme>

@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Vircon32 Team</system.manufacturer>
+<system.fullName>Vircon32</system.fullName>
+<desc>Vircon32 is a new 32-bit game console designed from the ground up with a focus on simplicity and accessibility for both developers and players. While aiming for a streamlined architecture, it provides sufficient features and capabilities to support the creation of complex and engaging games. This balance of simplicity and functionality makes it an interesting platform for both indie developers and retro gaming enthusiasts.</desc>
+<desc lang="fr">Vircon32 est une nouvelle console de jeu 32 bits conçue à partir de zéro en mettant l'accent sur la simplicité et l'accessibilité pour les développeurs et les joueurs. Tout en visant une architecture simplifiée, elle offre des fonctionnalités et des capacités suffisantes pour prendre en charge la création de jeux complexes et attrayants. Cet équilibre entre simplicité et fonctionnalité en fait une plateforme intéressante pour les développeurs indépendants et les passionnés de jeux rétro.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

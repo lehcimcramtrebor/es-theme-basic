@@ -1,23 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Microsoft</system.manufacturer>
+        <system.fullName>Xbox 360</system.fullName>
+        <system.fullName lang="fr">Xbox 360</system.fullName>
+        <system.releaseYearOrNull>2005</system.releaseYearOrNull>
+        <system.releaseYearOrNull region="us">2005</system.releaseYearOrNull>
+        <system.releaseYearOrNull region="jp">2005</system.releaseYearOrNull>
+        <desc>The Xbox 360 is a seventh-generation home video game console developed by Microsoft. Released in 2005, it succeeded the original Xbox and competed with the PlayStation 3 and Nintendo Wii. The Xbox 360 introduced Xbox Live, an expanded online service that allowed for online multiplayer, downloadable content, and digital distribution. It was known for its diverse library of games, including popular titles like "Halo 3," "Gears of War," and "The Elder Scrolls V: Skyrim." The console also featured multimedia capabilities, such as streaming video and music. The Xbox 360 was a major player in the console market, known for its innovative online features and strong game lineup.</desc>
+        <desc lang="fr">La Xbox 360 est une console de jeux vidéo de salon de septième génération développée par Microsoft. Sortie en 2005, elle a succédé à la Xbox originale et a concurrencé la PlayStation 3 et la Nintendo Wii. La Xbox 360 a introduit Xbox Live, un service en ligne étendu qui permettait le multijoueur en ligne, le contenu téléchargeable et la distribution numérique. Elle était connue pour sa bibliothèque diversifiée de jeux, comprenant des titres populaires comme "Halo 3", "Gears of War" et "The Elder Scrolls V: Skyrim". La console proposait également des fonctionnalités multimédias, telles que la diffusion de vidéos et de musique en continu. La Xbox 360 était un acteur majeur sur le marché des consoles, connue pour ses fonctionnalités en ligne innovantes et sa solide gamme de jeux.</desc>
+    </variables>
 </theme>

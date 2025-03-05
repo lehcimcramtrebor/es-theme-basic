@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>SNK</system.manufacturer>
+        <system.fullName>Neo Geo (AES &amp; MVS)</system.fullName>
+        <system.releaseYearOrNull>1990</system.releaseYearOrNull>
+        <desc>The Neo Geo, encompassing both the AES (home console) and MVS (arcade) platforms, represents a pinnacle of 16-bit gaming. Known for its arcade-perfect ports and high-quality 2D graphics, the Neo Geo offered a premium gaming experience. Despite its high cost, it amassed a dedicated following thanks to its impressive library of fighting games, shoot-'em-ups, and sports titles.</desc>
+        <desc lang="fr">Le Neo Geo, englobant les plateformes AES (console de salon) et MVS (arcade), représente un sommet du jeu 16 bits. Reconnu pour ses ports arcade parfaits et ses graphismes 2D de haute qualité, le Neo Geo offrait une expérience de jeu premium. Malgré son coût élevé, il a rassemblé une base de fans dévoués grâce à sa bibliothèque impressionnante de jeux de combat, de shoot-'em-ups et de titres de sport.</desc>
+    </variables>
 </theme>

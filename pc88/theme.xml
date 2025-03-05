@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
+<include>./../theme.xml</include>
 	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+<system.manufacturer>NEC</system.manufacturer>
+<system.fullName>PC-8801</system.fullName>
+<system.fullName lang="fr">PC-8801</system.fullName>
+<desc>The NEC PC-8801 is a series of 8-bit home computers released by NEC in 1981. It was one of the most popular home computers in Japan during the 1980s, known for its advanced graphics and sound capabilities. The PC-8801 had a wide range of software, including games, educational programs, and productivity tools. Its popularity led to numerous variations and models throughout its lifespan.</desc>
+<desc lang="fr">Le NEC PC-8801 est une série d'ordinateurs personnels 8 bits commercialisée par NEC en 1981. C'était l'un des ordinateurs personnels les plus populaires au Japon dans les années 1980, connu pour ses capacités graphiques et sonores avancées. Le PC-8801 avait une large gamme de logiciels, y compris des jeux, des programmes éducatifs et des outils de productivité. Sa popularité a conduit à de nombreuses variations et modèles tout au long de sa durée de vie.</desc>
+</variables>
 </theme>

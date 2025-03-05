@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Alec Bourque</system.manufacturer>
+<system.fullName>Uzebox</system.fullName>
+<system.releaseYearOrNull>2009</system.releaseYearOrNull>
+<desc>The Uzebox is a DIY open-source game console designed by Alec Bourque. It's based on the AVR microcontrollers and is known for its minimalist hardware design and its focus on encouraging game development and experimentation. The Uzebox has a dedicated community of developers and enthusiasts who create and share games and other software for the platform.</desc>
+<desc lang="fr">L'Uzebox est une console de jeu open-source DIY conçue par Alec Bourque. Elle est basée sur les microcontrôleurs AVR et est connue pour sa conception matérielle minimaliste et son accent sur l'encouragement du développement de jeux et de l'expérimentation. L'Uzebox a une communauté dévouée de développeurs et de passionnés qui créent et partagent des jeux et autres logiciels pour la plateforme.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+  <variables>
+    <region.priority region="eu"/>
+    <system.manufacturer>Commodore Business Machines Inc.</system.manufacturer>
+    <system.fullName>Commodore 64</system.fullName>
+    <system.fullName lang="fr">Commodore 64</system.fullName>
+    <system.releaseYearOrNull>1982</system.releaseYearOrNull>
+    <desc>The Commodore 64, also known as the C64 or the VIC-64, is an 8-bit home computer introduced in January 1982 by Commodore International. It is listed in the Guinness World Records as the highest-selling single computer model of all time, with independent estimates placing the number sold between 12.5 and 17 million units. The C64's success was partly due to its affordable price, versatile hardware, and impressive graphics and sound capabilities for its time.</desc>
+    <desc lang="fr">Le Commodore 64, également connu sous le nom de C64 ou VIC-64, est un ordinateur personnel 8 bits introduit en janvier 1982 par Commodore International. Il est répertorié dans le Livre Guinness des records comme le modèle d'ordinateur unique le plus vendu de tous les temps, avec des estimations indépendantes situant le nombre vendu entre 12,5 et 17 millions d'unités. Le succès du C64 était en partie dû à son prix abordable, à son matériel polyvalent et à ses capacités graphiques et sonores impressionnantes pour l'époque.</desc>
+  </variables>
 </theme>

@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Various</system.manufacturer>
+		<system.fullName>Board Games</system.fullName>
+		<system.fullName lang="fr">Jeux de société</system.fullName>
+		<desc>A collection of board games, including classic and modern titles, offering a variety of gameplay experiences.</desc>
+		<desc lang="fr">Une collection de jeux de société, comprenant des titres classiques et modernes, offrant une variété d'expériences de jeu.</desc>
 	</variables>
-
 </theme>

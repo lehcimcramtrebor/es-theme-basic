@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+  <variables>
+    <region.priority region="eu"/>
+    <system.manufacturer>Cave</system.manufacturer>
+    <system.fullName>Cave Games</system.fullName>
+    <system.fullName lang="fr">Jeux Cave</system.fullName>
+    <system.releaseYearOrNull>1994</system.releaseYearOrNull>
+    <desc>Cave is a Japanese video game developer founded in 1994, specializing in shoot 'em up games (shmups), particularly the "bullet hell" subgenre. They are known for their intense and visually impressive games, often featuring complex patterns of projectiles, challenging gameplay, and memorable character designs. Popular Cave titles include DonPachi, Espgaluda, and Mushihimesama.</desc>
+    <desc lang="fr">Cave est un développeur de jeux vidéo japonais fondé en 1994, spécialisé dans les jeux de shoot 'em up (shmups), en particulier le sous-genre "bullet hell". Ils sont connus pour leurs jeux intenses et visuellement impressionnants, présentant souvent des motifs complexes de projectiles, un gameplay stimulant et des designs de personnages mémorables. Les titres populaires de Cave incluent DonPachi, Espgaluda et Mushihimesama.</desc>
+  </variables>
 </theme>

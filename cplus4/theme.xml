@@ -1,23 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
+    <variables>
+        <region.priority region="eu"/>
 
-	<variables><region.priority region="eu"/>
+        <system.manufacturer>Commodore</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+        <system.fullName>Commodore Plus/4</system.fullName>
+        <system.fullName lang="fr">Commodore Plus/4</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+        <system.releaseYearOrNull>1984</system.releaseYearOrNull>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+        <desc>The Commodore Plus/4 is a home computer released by Commodore International in 1984. It was intended to be a low-cost business and productivity machine, with built-in software for word processing, spreadsheets, databases, and graphing. However, it faced stiff competition from other home computers and suffered from limited software support, ultimately leading to its commercial failure. Despite this, the Plus/4 has gained a cult following among retro computing enthusiasts.</desc>
+        <desc lang="fr">Le Commodore Plus/4 est un ordinateur domestique commercialisé par Commodore International en 1984. Il était conçu pour être une machine de bureautique et de productivité à faible coût, avec des logiciels intégrés pour le traitement de texte, les tableurs, les bases de données et les graphiques. Cependant, il a été confronté à une forte concurrence d'autres ordinateurs domestiques et a souffert d'un support logiciel limité, ce qui a finalement conduit à son échec commercial. Malgré cela, le Plus/4 a acquis une base de fans culte parmi les passionnés de rétro-informatique.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    </variables>
 </theme>

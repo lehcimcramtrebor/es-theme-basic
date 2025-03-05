@@ -1,23 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Sony</system.manufacturer>
+		<system.fullName>PlayStation 4</system.fullName>
+		<system.fullName lang="fr">PlayStation 4</system.fullName>
+		<system.releaseYearOrNull>2013</system.releaseYearOrNull>
+		<system.releaseYearOrNull region="us">2013</system.releaseYearOrNull>
+		<system.releaseYearOrNull region="jp">2014</system.releaseYearOrNull>
+		<desc>The PlayStation 4 (PS4) is a home video game console developed by Sony Computer Entertainment. Announced as the successor to the PlayStation 3 in February 2013, it launched in North America on November 15, 2013, in Europe on November 29, 2013, and in Japan on February 22, 2014. As part of the eighth generation of video game consoles, it primarily competed with the Xbox One and the Nintendo Wii U.</desc>
+		<desc lang="fr">La PlayStation 4 (PS4) est une console de jeux vidéo de salon développée par Sony Computer Entertainment. Annoncée en février 2013 comme successeur de la PlayStation 3, elle a été lancée en Amérique du Nord le 15 novembre 2013, en Europe le 29 novembre 2013 et au Japon le 22 février 2014. Dans le cadre de la huitième génération de consoles de jeux vidéo, elle a principalement concurrencé la Xbox One et la Nintendo Wii U.</desc>
 	</variables>
-
 </theme>

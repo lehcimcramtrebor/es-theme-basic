@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Capcom</system.manufacturer>
+        <system.fullName>Mega Man Series</system.fullName>
+        <system.fullName lang="fr">Série Mega Man</system.fullName>
+        <system.releaseYearOrNull>1987</system.releaseYearOrNull>
+        <desc>Mega Man, known as Rockman in Japan, is a long-running action-platformer video game franchise created by Capcom. The series follows the adventures of the titular character, Mega Man, as he battles the evil Dr. Wily and his army of Robot Masters. Known for its challenging gameplay, diverse arsenal of weapons, and catchy music, Mega Man has become a beloved classic in the gaming world.</desc>
+        <desc lang="fr">Mega Man, connu sous le nom de Rockman au Japon, est une franchise de jeux vidéo d'action-plateforme de longue date créée par Capcom. La série suit les aventures du personnage titulaire, Mega Man, alors qu'il combat le maléfique Dr. Wily et son armée de Robot Masters. Reconnu pour son gameplay stimulant, son arsenal d'armes diversifié et sa musique entraînante, Mega Man est devenu un classique bien-aimé dans le monde du jeu vidéo.</desc>
+    </variables>
 </theme>

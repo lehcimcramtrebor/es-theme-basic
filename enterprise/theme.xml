@@ -1,23 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+        <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
+        <variables>
+        <region.priority region="eu"/>
 
-	<variables><region.priority region="eu"/>
+                <system.manufacturer>Various</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+                <system.fullName>Enterprise Computers</system.fullName>
+                <system.fullName lang="fr">Ordinateurs Enterprise</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+                <system.releaseYearOrNull>1982</system.releaseYearOrNull>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+                <desc>The Enterprise 64 and Enterprise 128 were home computers released in 1982. Known for their advanced graphics and sound capabilities for the time, they faced stiff competition and ultimately had a short market lifespan. They remain a cult favorite among retro computing enthusiasts.</desc>
+                <desc lang="fr">Les Enterprise 64 et Enterprise 128 étaient des ordinateurs personnels sortis en 1982. Connus pour leurs capacités graphiques et sonores avancées pour l'époque, ils ont fait face à une concurrence féroce et ont finalement eu une courte durée de vie sur le marché. Ils restent un favori culte parmi les passionnés de rétro-informatique.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+        </variables>
 </theme>

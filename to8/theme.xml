@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Thomson SA</system.manufacturer>
+<system.fullName>TO8</system.fullName>
+<system.releaseYearOrNull>1985</system.releaseYearOrNull>
+<desc>The TO8 was a home computer produced by Thomson SA, a French electronics company. Released in 1985, it was part of a line of computers aimed at the educational market in France. The TO8 featured a built-in monochrome monitor and offered capabilities for graphics, sound, and programming. It was compatible with a range of peripherals, including floppy disk drives and printers.</desc>
+<desc lang="fr">Le TO8 était un ordinateur personnel produit par Thomson SA, une entreprise d'électronique française. Sorti en 1985, il faisait partie d'une gamme d'ordinateurs destinés au marché éducatif en France. Le TO8 était doté d'un moniteur monochrome intégré et offrait des capacités graphiques, sonores et de programmation. Il était compatible avec une gamme de périphériques, notamment des lecteurs de disquettes et des imprimantes.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

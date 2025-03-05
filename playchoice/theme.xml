@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Nintendo</system.manufacturer>
+		<system.fullName>PlayChoice-10</system.fullName>
+		<system.fullName lang="fr">PlayChoice-10</system.fullName>
+		<desc>The PlayChoice-10 was an arcade cabinet manufactured by Nintendo in 1986. It allowed players to sample ten different NES games in a limited time format. Popular titles included Super Mario Bros., Contra, and Metroid.</desc>
+		<desc lang="fr">La PlayChoice-10 était une borne d'arcade fabriquée par Nintendo en 1986. Elle permettait aux joueurs d'essayer dix jeux NES différents dans un format à durée limitée. Les titres populaires comprenaient Super Mario Bros., Contra et Metroid.</desc>
 	</variables>
-
 </theme>

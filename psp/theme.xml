@@ -1,23 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Sony</system.manufacturer>
+		<system.fullName>PlayStation Portable</system.fullName>
+		<system.fullName lang="fr">PlayStation Portable</system.fullName>
+		<system.releaseYearOrNull>2004</system.releaseYearOrNull>
+		<system.releaseYearOrNull region="us">2005</system.releaseYearOrNull>
+		<system.releaseYearOrNull region="jp">2004</system.releaseYearOrNull>
+		<desc>The PlayStation Portable (PSP) is a handheld game console developed and marketed by Sony Computer Entertainment. It was the first handheld installment in the PlayStation lineup of consoles. The PlayStation Portable competed with the Nintendo DS as part of the seventh generation of video game consoles.</desc>
+		<desc lang="fr">La PlayStation Portable (PSP) est une console de jeux portable développée et commercialisée par Sony Computer Entertainment. Il s'agissait du premier opus portable de la gamme de consoles PlayStation. La PlayStation Portable était en concurrence avec la Nintendo DS dans le cadre de la septième génération de consoles de jeux vidéo.</desc>
 	</variables>
-
 </theme>

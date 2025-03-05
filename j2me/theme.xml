@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+	<variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Sun Microsystems</system.manufacturer>
+        <system.fullName>Java 2 Micro Edition</system.fullName>
+        <system.fullName>J2ME</system.fullName>
+        <desc>Java 2 Micro Edition (J2ME) is a Java platform designed for embedded devices with limited processing power and memory. It was commonly used for mobile games, applications on feature phones, and other small devices.</desc>
+        <desc lang="fr">Java 2 Micro Edition (J2ME) est une plate-forme Java conçue pour les appareils embarqués avec une puissance de traitement et une mémoire limitées. Elle était couramment utilisée pour les jeux mobiles, les applications sur les téléphones classiques et autres petits appareils.</desc>
+    </variables>
 </theme>

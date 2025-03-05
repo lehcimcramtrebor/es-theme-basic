@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>AdvMAME Team</system.manufacturer>
+        <system.fullName>MAME - AdvMAME</system.fullName>
+        <desc>AdvMAME is a port of the MAME (Multiple Arcade Machine Emulator) emulator, specifically designed for use on low-end computers and embedded systems. It focuses on emulating older arcade games with a higher performance and lower resource usage compared to the standard MAME builds.</desc>
+        <desc lang="fr">AdvMAME est un port de l'émulateur MAME (Multiple Arcade Machine Emulator), spécialement conçu pour être utilisé sur des ordinateurs bas de gamme et des systèmes embarqués. Il se concentre sur l'émulation d'anciens jeux d'arcade avec une performance plus élevée et une utilisation de ressources inférieure par rapport aux versions MAME standard.</desc>
+    </variables>
 </theme>

@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Nintendo</system.manufacturer>
+		<system.fullName>Pokémon mini</system.fullName>
+		<system.fullName lang="fr">Pokémon mini</system.fullName>
+		<desc>The Pokémon mini is a handheld game console released by Nintendo in 2001. It is notable for its very small size and limited game library, all of which are Pokémon-themed. Despite its short lifespan, it has gained a cult following among collectors.</desc>
+		<desc lang="fr">La Pokémon mini est une console de jeux portable sortie par Nintendo en 2001. Elle se distingue par sa très petite taille et sa bibliothèque de jeux limitée, tous sur le thème des Pokémon. Malgré sa courte durée de vie, elle a acquis un culte auprès des collectionneurs.</desc>
 	</variables>
-
 </theme>

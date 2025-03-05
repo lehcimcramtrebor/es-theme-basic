@@ -2,22 +2,18 @@
 
 <theme>
 
-	<formatVersion>7</formatVersion>
+    <formatVersion>7</formatVersion>
 
     <include>./../theme.xml</include>
 
-	<variables><region.priority region="eu"/>
+    <variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+    <system.fullName>SNES Hacks</system.fullName>
+    <system.fullName lang="fr">Hacks SNES</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+    <desc>SNES Hacks refers to modified versions of Super Nintendo Entertainment System games, created by fans. These modifications can range from simple alterations like color palette changes or difficulty adjustments to more complex changes like new levels, characters, or even entirely new storylines. SNES hacking is a testament to the console's enduring popularity and the creativity of its fan base, offering fresh experiences with classic games.</desc>
+    <desc lang="fr">Hacks SNES fait référence aux versions modifiées des jeux Super Nintendo Entertainment System, créées par des fans. Ces modifications peuvent aller de simples altérations comme des changements de palette de couleurs ou des ajustements de difficulté à des changements plus complexes comme de nouveaux niveaux, personnages ou même des scénarios entièrement nouveaux. Le hacking SNES témoigne de la popularité durable de la console et de la créativité de sa base de fans, offrant de nouvelles expériences avec des jeux classiques.</desc>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+</variables>
 
 </theme>

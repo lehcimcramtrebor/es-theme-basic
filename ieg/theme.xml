@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+	<variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>BioWare</system.manufacturer>
+        <system.fullName>Infinity Engine</system.fullName>
+        <desc>The Infinity Engine is a game engine developed by BioWare for role-playing video games. It's known for its isometric perspective, pre-rendered backgrounds, and pausable real-time combat.</desc>
+        <desc lang="fr">L'Infinity Engine est un moteur de jeu développé par BioWare pour les jeux vidéo de rôle. Il est connu pour sa perspective isométrique, ses arrière-plans pré-rendus et ses combats en temps réel avec pause.</desc>
+    </variables>
 </theme>

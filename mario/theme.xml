@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Nintendo</system.manufacturer>
+        <system.fullName>Super Mario Games</system.fullName>
+        <system.fullName lang="fr">Jeux Super Mario</system.fullName>
+        <system.releaseYearOrNull>1985</system.releaseYearOrNull>
+        <desc>Super Mario is a series of platform games created by Nintendo, featuring their mascot, Mario. The series is one of the most popular and critically acclaimed video game franchises of all time. It has had a significant impact on the video game industry, popularizing the side-scrolling platform genre and introducing numerous gameplay concepts that have become staples in modern gaming.</desc>
+        <desc lang="fr">Super Mario est une série de jeux de plateforme créée par Nintendo, mettant en vedette leur mascotte, Mario. La série est l'une des franchises de jeux vidéo les plus populaires et acclamées par la critique de tous les temps. Elle a eu un impact significatif sur l'industrie du jeu vidéo, popularisant le genre de plateforme à défilement latéral et introduisant de nombreux concepts de gameplay qui sont devenus des éléments de base dans le jeu moderne.</desc>
+    </variables>
 </theme>

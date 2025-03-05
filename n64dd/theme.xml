@@ -1,23 +1,17 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
+<include>./../theme.xml</include>
 	<variables><region.priority region="eu"/>
+<system.manufacturer>Nintendo</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.fullName>Nintendo 64DD</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+<system.releaseYearOrNull>1999</system.releaseYearOrNull>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+<desc>The Nintendo 64DD is a magnetic disk drive peripheral for the Nintendo 64 console. It was released in Japan in 1999 and was designed to enhance the capabilities of the Nintendo 64. The 64DD was able to store more data than the standard Nintendo 64 cartridges, and it also had its own library of games.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+<desc lang="fr">Le Nintendo 64DD est un périphérique de lecteur de disque magnétique pour la console Nintendo 64. Il est sorti au Japon en 1999 et a été conçu pour améliorer les capacités de la Nintendo 64. Le 64DD était capable de stocker plus de données que les cartouches Nintendo 64 standard, et il avait également sa propre bibliothèque de jeux.</desc>
+</variables>
 
 </theme>

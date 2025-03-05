@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>APF Electronics Inc.</system.manufacturer>
+		<system.fullName>APF Imagination Machine</system.fullName>
+		<system.fullName lang="fr">APF Imagination Machine</system.fullName>
+		<system.releaseYearOrNull>1979</system.releaseYearOrNull>
+		<desc>The APF Imagination Machine is a home computer and video game console that was released by APF Electronics Inc. in 1979. It is known for its unique design, which includes a built-in keyboard and cassette drive. The Imagination Machine was not a commercial success, but it is considered to be an important part of computer history.</desc>
+		<desc lang="fr">L'APF Imagination Machine est un ordinateur personnel et une console de jeux vidéo sortis par APF Electronics Inc. en 1979. Il est connu pour sa conception unique, qui comprend un clavier et un lecteur de cassettes intégrés. L'Imagination Machine n'a pas été un succès commercial, mais elle est considérée comme une partie importante de l'histoire de l'informatique.</desc>
 	</variables>
-
 </theme>

@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Various</system.manufacturer>
+		<system.fullName>TV Games</system.fullName>
+		<system.fullName lang="fr">Jeux TV</system.fullName>
+		<desc>TV Games, also known as plug-and-play consoles, are self-contained video game systems designed to be connected directly to a television. They often feature classic arcade or home console games built-in. These devices offer a simple and affordable way to experience retro gaming.</desc>
+		<desc lang="fr">Les jeux télévisés, également appelés consoles plug-and-play, sont des systèmes de jeux vidéo autonomes conçus pour être connectés directement à un téléviseur. Ils comportent souvent des jeux d'arcade classiques ou des jeux de console de salon intégrés. Ces appareils offrent un moyen simple et abordable de découvrir le rétrogaming.</desc>
 	</variables>
-
 </theme>

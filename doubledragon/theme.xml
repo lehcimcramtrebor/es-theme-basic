@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Technōs Japan Corp.</system.manufacturer>
+		<system.fullName>Double Dragon</system.fullName>
+		<desc>Double Dragon is a beat-'em-up video game series created by Technōs Japan. The series stars martial artists Billy and Jimmy Lee, who must fight their way through hordes of enemies to rescue Billy's girlfriend, Marian. The first game in the series was released in 1987, and it was a critical and commercial success.</desc>
+		<desc lang="fr">Double Dragon est une série de jeux vidéo de beat-'em-up créée par Technōs Japan. La série met en scène les artistes martiaux Billy et Jimmy Lee, qui doivent se frayer un chemin à travers des hordes d'ennemis pour sauver la petite amie de Billy, Marian. Le premier jeu de la série est sorti en 1987, et ce fut un succès critique et commercial.</desc>
 	</variables>
-
 </theme>

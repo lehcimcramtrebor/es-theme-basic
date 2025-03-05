@@ -1,23 +1,17 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+        <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<variables><region.priority region="eu"/>
+<system.manufacturer>Various Creators</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.fullName>GB Hacks</system.fullName>
+<system.fullName lang="fr">Hacks GB</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+<desc>Game Boy hacks encompass modified versions of original Game Boy games. These modifications can range from minor tweaks like adjusted color palettes or difficulty settings to more substantial changes involving new levels, stories, characters, and gameplay mechanics. Created by fans and enthusiasts using various tools, these hacks often aim to enhance or reimagine classic Game Boy experiences. Popular examples include hacks that introduce new adventures within existing game worlds, expand storylines, or even create entirely new games using the Game Boy's engine.</desc>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+<desc lang="fr">Les hacks Game Boy comprennent des versions modifiées des jeux Game Boy originaux. Ces modifications peuvent aller de légères modifications comme des palettes de couleurs ajustées ou des paramètres de difficulté à des changements plus importants impliquant de nouveaux niveaux, histoires, personnages et mécanismes de jeu. Créés par des fans et des passionnés à l'aide de divers outils, ces hacks visent souvent à améliorer ou à réimaginer les expériences classiques de Game Boy. Les exemples populaires incluent des hacks qui introduisent de nouvelles aventures dans les mondes de jeux existants, étendent les scénarios ou créent même des jeux entièrement nouveaux en utilisant le moteur de la Game Boy.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

@@ -2,22 +2,22 @@
 
 <theme>
 
-	<formatVersion>7</formatVersion>
+        <formatVersion>7</formatVersion>
 
-    <include>./../theme.xml</include>
+        <include>./../theme.xml</include>
 
-	<variables><region.priority region="eu"/>
+        <variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+        <system.manufacturer>Sega</system.manufacturer>
 
-		<!--<system.fullName>name</system.fullName>-->
+        <system.fullName>Sega Titan Video</system.fullName>
+        <system.fullName lang="fr">Sega Titan Video</system.fullName>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+        <system.releaseYearOrNull>1994</system.releaseYearOrNull>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
+        <desc>The Sega Titan Video (ST-V) was an arcade system board released by Sega in 1994. It was designed to be a cost-effective alternative to the Sega Model 2, offering 2D graphics capabilities comparable to the Sega Saturn. The ST-V shared some hardware similarities with the Saturn, making it easier for developers to port games between the two platforms. It hosted a variety of popular arcade titles, including several fighting games and shoot-'em-ups.</desc>
+        <desc lang="fr">Le Sega Titan Video (ST-V) était une carte système d'arcade lancée par Sega en 1994. Elle a été conçue pour être une alternative économique au Sega Model 2, offrant des capacités graphiques 2D comparables à la Sega Saturn. Le ST-V partageait certaines similitudes matérielles avec la Saturn, ce qui facilitait le portage des jeux entre les deux plateformes par les développeurs. Il a accueilli une variété de titres d'arcade populaires, notamment plusieurs jeux de combat et shoot-'em-ups.</desc>
 
-	</variables>
+</variables>
 
 </theme>

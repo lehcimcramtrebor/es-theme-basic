@@ -1,23 +1,21 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Sega</system.manufacturer>
+        <system.fullName>Mega Drive</system.fullName>
+        <system.fullName region="us">Genesis</system.fullName>
+        <system.fullName region="jp">Mega Drive</system.fullName>
+        <system.releaseYearOrNull>1988</system.releaseYearOrNull>
+        <system.releaseYearOrNull region="us">1989</system.releaseYearOrNull>
+        <system.releaseYearOrNull region="jp">1988</system.releaseYearOrNull>
+        <desc>The Mega Drive, known as the Genesis in North America, is a 16-bit fourth-generation home video game console developed and marketed by Sega. It was Sega's third home console and the successor to the Master System. The Mega Drive was a key player in the fourth generation of video game consoles, competing with the Super Nintendo Entertainment System. It was known for its fast-paced action games and arcade ports.</desc>
+        <desc region="us">The Genesis is a 16-bit fourth-generation home video game console developed and marketed by Sega. It was Sega's third home console and the successor to the Master System. The Genesis was a key player in the fourth generation of video game consoles, competing with the Super Nintendo Entertainment System. It was known for its fast-paced action games and arcade ports.</desc>
+        <desc region="jp">The Mega Drive is a 16-bit fourth-generation home video game console developed and marketed by Sega. It was Sega's third home console and the successor to the Master System. The Mega Drive was a key player in the fourth generation of video game consoles, competing with the Super Nintendo Entertainment System. It was known for its fast-paced action games and arcade ports.</desc>
+        <desc lang="fr">La Mega Drive, connue sous le nom de Genesis en Amérique du Nord, est une console de jeux vidéo domestique 16 bits de quatrième génération développée et commercialisée par Sega. C'était la troisième console domestique de Sega et le successeur de la Master System. La Mega Drive a été un acteur clé de la quatrième génération de consoles de jeux vidéo, en concurrence avec la Super Nintendo Entertainment System. Elle était connue pour ses jeux d'action rapides et ses portages d'arcade.</desc>
+        <desc lang="fr" region="us">La Genesis est une console de jeux vidéo domestique 16 bits de quatrième génération développée et commercialisée par Sega. C'était la troisième console domestique de Sega et le successeur de la Master System. La Genesis a été un acteur clé de la quatrième génération de consoles de jeux vidéo, en concurrence avec la Super Nintendo Entertainment System. Elle était connue pour ses jeux d'action rapides et ses portages d'arcade.</desc>
+        <desc lang="fr" region="jp">La Mega Drive est une console de jeux vidéo domestique 16 bits de quatrième génération développée et commercialisée par Sega. C'était la troisième console domestique de Sega et le successeur de la Master System. La Mega Drive a été un acteur clé de la quatrième génération de consoles de jeux vidéo, en concurrence avec la Super Nintendo Entertainment System. Elle était connue pour ses jeux d'action rapides et ses portages d'arcade.</desc>
+    </variables>
 </theme>

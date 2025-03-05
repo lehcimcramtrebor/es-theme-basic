@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Video System Co., Ltd.</system.manufacturer>
+<system.fullName>Video System Games</system.fullName>
+<desc>Video System Co., Ltd. was a Japanese video game developer and publisher known for producing a variety of arcade and console games, particularly in the shoot 'em up and fighting game genres. They are recognized for titles such as the Aero Fighters series and the Rabio Lepus series. While they primarily focused on arcade development, some of their games were also ported to home consoles.</desc>
+<desc lang="fr">Video System Co., Ltd. était un développeur et éditeur de jeux vidéo japonais connu pour avoir produit une variété de jeux d'arcade et de console, en particulier dans les genres shoot 'em up et jeux de combat. Ils sont reconnus pour des titres tels que la série Aero Fighters et la série Rabio Lepus. Bien qu'ils se soient principalement concentrés sur le développement d'arcade, certains de leurs jeux ont également été portés sur des consoles de salon.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

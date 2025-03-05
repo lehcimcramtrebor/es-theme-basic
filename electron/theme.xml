@@ -1,23 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+        <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
+        <variables>
+        <region.priority region="eu"/>
 
-	<variables><region.priority region="eu"/>
+                <system.manufacturer>Acorn Computers Ltd.</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+                <system.fullName>Acorn Electron</system.fullName>
+                <system.fullName lang="fr">Acorn Electron</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+                <system.releaseYearOrNull>1983</system.releaseYearOrNull>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+                <desc>The Acorn Electron was a budget 8-bit home computer released by Acorn Computers Ltd in 1983. It was a simplified version of the BBC Micro, intended to compete with lower-priced rivals. Despite its limitations, it gained popularity in the UK for its affordability and access to a wide range of educational and entertainment software.</desc>
+                <desc lang="fr">L'Acorn Electron était un ordinateur personnel 8 bits économique lancé par Acorn Computers Ltd en 1983. Il s'agissait d'une version simplifiée du BBC Micro, destinée à rivaliser avec les concurrents à bas prix. Malgré ses limitations, il a gagné en popularité au Royaume-Uni pour son prix abordable et son accès à une large gamme de logiciels éducatifs et de divertissement.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+        </variables>
 </theme>

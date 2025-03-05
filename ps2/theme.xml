@@ -1,23 +1,22 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Sony</system.manufacturer>
+		<system.fullName>PlayStation 2</system.fullName>
+		<system.fullName region="us">PlayStation 2</system.fullName>
+		<system.fullName region="jp">PlayStation 2</system.fullName>
+		<system.fullName lang="fr">PlayStation 2</system.fullName>
+		<system.releaseYearOrNull>2000</system.releaseYearOrNull>
+		<system.releaseYearOrNull region="us">2000</system.releaseYearOrNull>
+		<system.releaseYearOrNull region="jp">2000</system.releaseYearOrNull>
+		<desc>The PlayStation 2 (PS2) is a home video game console developed and marketed by Sony Computer Entertainment. It was first released in Japan on March 4, 2000, in North America on October 26, 2000, in Europe on November 24, 2000, and in Australia on November 30, 2000. It is the successor to the original PlayStation, and is the second installment in the PlayStation lineup of consoles.</desc>
+		<desc region="us">The PlayStation 2 (PS2) is a home video game console developed and marketed by Sony Computer Entertainment. It was first released in Japan on March 4, 2000, in North America on October 26, 2000, in Europe on November 24, 2000, and in Australia on November 30, 2000. It is the successor to the original PlayStation, and is the second installment in the PlayStation lineup of consoles.</desc>
+		<desc region="jp">The PlayStation 2 (PS2) is a home video game console developed and marketed by Sony Computer Entertainment. It was first released in Japan on March 4, 2000, in North America on October 26, 2000, in Europe on November 24, 2000, and in Australia on November 30, 2000. It is the successor to the original PlayStation, and is the second installment in the PlayStation lineup of consoles.</desc>
+		<desc lang="fr">La PlayStation 2 (PS2) est une console de jeux vidéo de salon développée et commercialisée par Sony Computer Entertainment. Elle est sortie pour la première fois au Japon le 4 mars 2000, en Amérique du Nord le 26 octobre 2000, en Europe le 24 novembre 2000 et en Australie le 30 novembre 2000. Elle succède à la PlayStation originale et constitue le deuxième opus de la gamme de consoles PlayStation.</desc>
+		<desc lang="fr" region="us">La PlayStation 2 (PS2) est une console de jeux vidéo de salon développée et commercialisée par Sony Computer Entertainment. Elle est sortie pour la première fois au Japon le 4 mars 2000, en Amérique du Nord le 26 octobre 2000, en Europe le 24 novembre 2000 et en Australie le 30 novembre 2000. Elle succède à la PlayStation originale et constitue le deuxième opus de la gamme de consoles PlayStation.</desc>
+		<desc lang="fr" region="jp">La PlayStation 2 (PS2) est une console de jeux vidéo de salon développée et commercialisée par Sony Computer Entertainment. Elle est sortie pour la première fois au Japon le 4 mars 2000, en Amérique du Nord le 26 octobre 2000, en Europe le 24 novembre 2000 et en Australie le 30 novembre 2000. Elle succède à la PlayStation originale et constitue le deuxième opus de la gamme de consoles PlayStation.</desc>
 	</variables>
-
 </theme>

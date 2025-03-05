@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
+<include>./../theme.xml</include>
 	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+<system.manufacturer>IGS</system.manufacturer>
+<system.fullName>PGM</system.fullName>
+<system.fullName lang="fr">PGM</system.fullName>
+<desc>The PGM (PolyGame Master) is an arcade system board released by IGS in 1997. It was known for its high-quality 2D graphics and its wide range of games, including fighting games, shoot-'em-ups, and platformers. The PGM was popular in Asia, particularly in Taiwan and Hong Kong.</desc>
+<desc lang="fr">La PGM (PolyGame Master) est une carte système d'arcade commercialisée par IGS en 1997. Elle était connue pour ses graphismes 2D de haute qualité et sa large gamme de jeux, y compris les jeux de combat, les shoot-'em-ups et les jeux de plateforme. La PGM était populaire en Asie, en particulier à Taiwan et à Hong Kong.</desc>
+</variables>
 </theme>

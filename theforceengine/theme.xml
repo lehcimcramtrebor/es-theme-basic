@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Open-source project</system.manufacturer>
+<system.fullName>The Force Engine</system.fullName>
+<system.releaseYearOrNull>2019</system.releaseYearOrNull>
+<desc>The Force Engine is an open-source project that aims to provide a modern and enhanced way to play classic games built on the Jedi Engine, such as Star Wars: Dark Forces and Outlaws. It offers features like widescreen support, improved graphics rendering, and compatibility with modern operating systems. The project is driven by a community of developers and enthusiasts dedicated to preserving and enhancing these classic gaming experiences.</desc>
+<desc lang="fr">The Force Engine est un projet open-source qui vise à fournir un moyen moderne et amélioré de jouer à des jeux classiques construits sur le moteur Jedi, tels que Star Wars: Dark Forces et Outlaws. Il offre des fonctionnalités telles que la prise en charge des écrans larges, un rendu graphique amélioré et la compatibilité avec les systèmes d'exploitation modernes. Le projet est animé par une communauté de développeurs et de passionnés dédiés à la préservation et à l'amélioration de ces expériences de jeu classiques.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

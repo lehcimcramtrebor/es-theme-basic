@@ -1,23 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
+    <variables>
+        <region.priority region="eu"/>
 
-	<variables><region.priority region="eu"/>
+        <system.manufacturer>Capcom</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+        <system.fullName>Capcom Play System 3</system.fullName>
+        <system.fullName lang="fr">Capcom Play System 3</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+        <system.releaseYearOrNull>1996</system.releaseYearOrNull>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+        <desc>The Capcom Play System 3 (CPS-3) is an arcade system board developed by Capcom. It was first used in 1996 with the release of Red Earth (Warzard). The CPS-3 is known for its impressive 2D graphics and animation, and it was used for a small but highly regarded selection of arcade games, including Street Fighter III: New Generation, Street Fighter III: 2nd Impact, and Street Fighter III: 3rd Strike. The system's advanced capabilities allowed for fluid character animations and detailed backgrounds, pushing the boundaries of 2D arcade graphics.</desc>
+        <desc lang="fr">Le Capcom Play System 3 (CPS-3) est une carte système d'arcade développée par Capcom. Il a été utilisé pour la première fois en 1996 avec la sortie de Red Earth (Warzard). Le CPS-3 est connu pour ses graphismes et son animation 2D impressionnants, et il a été utilisé pour une petite mais très appréciée sélection de jeux d'arcade, notamment Street Fighter III: New Generation, Street Fighter III: 2nd Impact et Street Fighter III: 3rd Strike. Les capacités avancées du système permettaient des animations de personnages fluides et des arrière-plans détaillés, repoussant les limites des graphismes d'arcade 2D.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    </variables>
 </theme>

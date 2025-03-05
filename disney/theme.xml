@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.fullName>Disney Games</system.fullName>
+		<system.fullName lang="fr">Jeux Disney</system.fullName>
+		<desc>Disney Games is a brand of video games published by Disney Interactive Studios. The brand includes a wide variety of games based on Disney movies and characters, as well as original games.</desc>
+		<desc lang="fr">Disney Games est une marque de jeux vidéo publiée par Disney Interactive Studios. La marque comprend une grande variété de jeux basés sur des films et des personnages Disney, ainsi que des jeux originaux.</desc>
 	</variables>
-
 </theme>

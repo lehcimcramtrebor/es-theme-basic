@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Polyphony Digital</system.manufacturer>
+		<system.fullName>Gran Turismo</system.fullName>
+		<system.releaseYearOrNull>1997</system.releaseYearOrNull>
+		<desc>Gran Turismo is a series of racing simulation video games developed by Polyphony Digital. The series is known for its realistic graphics, accurate physics, and large number of licensed cars. The first game in the series was released in 1997 for the PlayStation. Gran Turismo has been praised by critics for its realism and attention to detail. The series has also been commercially successful, selling over 80 million copies worldwide.</desc>
+		<desc lang="fr">Gran Turismo est une série de jeux vidéo de simulation de course développée par Polyphony Digital. La série est connue pour ses graphismes réalistes, sa physique précise et son grand nombre de voitures sous licence. Le premier jeu de la série est sorti en 1997 pour la PlayStation. Gran Turismo a été salué par la critique pour son réalisme et son souci du détail. La série a également connu un succès commercial, se vendant à plus de 80 millions d'exemplaires dans le monde.</desc>
 	</variables>
-
 </theme>

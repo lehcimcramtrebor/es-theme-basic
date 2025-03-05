@@ -2,22 +2,20 @@
 
 <theme>
 
-	<formatVersion>7</formatVersion>
+    <formatVersion>7</formatVersion>
 
     <include>./../theme.xml</include>
 
-	<variables><region.priority region="eu"/>
+    <variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+    <system.manufacturer>Sega</system.manufacturer>
 
-		<!--<system.fullName>name</system.fullName>-->
+    <system.fullName>Sonic the Hedgehog Series</system.fullName>
+    <system.fullName lang="fr">Série Sonic the Hedgehog</system.fullName>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+    <desc>The Sonic the Hedgehog series is a long-running franchise of platform games developed by Sega. The series follows the adventures of Sonic, a blue hedgehog known for his incredible speed and ability to curl into a ball to attack enemies. The games are known for their fast-paced gameplay, colorful levels, and memorable characters. The series has appeared on various Sega consoles and other platforms, becoming one of the most recognizable and beloved franchises in gaming history.</desc>
+    <desc lang="fr">La série Sonic the Hedgehog est une franchise de jeux de plateforme de longue date développée par Sega. La série suit les aventures de Sonic, un hérisson bleu connu pour sa vitesse incroyable et sa capacité à se mettre en boule pour attaquer ses ennemis. Les jeux sont connus pour leur gameplay rapide, leurs niveaux colorés et leurs personnages mémorables. La série est apparue sur diverses consoles Sega et autres plateformes, devenant l'une des franchises les plus reconnaissables et les plus appréciées de l'histoire du jeu vidéo.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+</variables>
 
 </theme>

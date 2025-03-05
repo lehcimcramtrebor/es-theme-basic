@@ -2,22 +2,22 @@
 
 <theme>
 
-	<formatVersion>7</formatVersion>
+        <formatVersion>7</formatVersion>
 
-    <include>./../theme.xml</include>
+        <include>./../theme.xml</include>
 
-	<variables><region.priority region="eu"/>
+        <variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+        <system.manufacturer>Apogee Software/3D Realms</system.manufacturer>
 
-		<!--<system.fullName>name</system.fullName>-->
+        <system.fullName>Rise of the Triad</system.fullName>
+        <system.fullName lang="fr">Rise of the Triad</system.fullName>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+        <system.releaseYearOrNull>1995</system.releaseYearOrNull>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
+        <desc>Rise of the Triad is a fast-paced first-person shooter known for its over-the-top action, exaggerated violence, and a variety of unique gameplay elements. It features destructible environments, multiple playable characters with distinct attributes, and an arsenal of unconventional weapons. The game's frantic pace and humorous tone have earned it a cult following among fans of classic FPS titles.</desc>
+        <desc lang="fr">Rise of the Triad est un jeu de tir à la première personne au rythme effréné, connu pour son action excessive, sa violence exagérée et une variété d'éléments de gameplay uniques. Il propose des environnements destructibles, plusieurs personnages jouables avec des attributs distincts et un arsenal d'armes non conventionnelles. Le rythme effréné et le ton humoristique du jeu lui ont valu un public culte parmi les fans de titres FPS classiques.</desc>
 
-	</variables>
+</variables>
 
 </theme>

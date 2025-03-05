@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Various</system.manufacturer>
+		<system.fullName>Arcade Games</system.fullName>
+		<system.fullName lang="fr">Jeux d'arcade</system.fullName>
+		<system.releaseYearOrNull>1971</system.releaseYearOrNull>
+		<desc>Arcade games are coin-operated entertainment machines typically installed in public places such as restaurants, bars, and amusement arcades. They are known for their immersive gameplay, high-quality graphics and sound, and their competitive nature. Arcade games have been a popular form of entertainment for decades, and they continue to be enjoyed by people of all ages.</desc>
+		<desc lang="fr">Les jeux d'arcade sont des machines de divertissement payantes généralement installées dans des lieux publics tels que les restaurants, les bars et les salles de jeux. Ils sont connus pour leur gameplay immersif, leurs graphismes et leur son de haute qualité, ainsi que leur nature compétitive. Les jeux d'arcade sont une forme de divertissement populaire depuis des décennies et ils continuent d'être appréciés par les personnes de tous âges.</desc>
 	</variables>
-
 </theme>

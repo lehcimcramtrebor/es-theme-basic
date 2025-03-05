@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>MAME4ALL Team</system.manufacturer>
+        <system.fullName>MAME4ALL</system.fullName>
+        <desc>MAME4ALL is a port of the MAME (Multiple Arcade Machine Emulator) emulator designed for low-powered devices. It focuses on emulating older arcade games from the 1980s and early 1990s, offering a balance between performance and accuracy on resource-constrained hardware.</desc>
+        <desc lang="fr">MAME4ALL est un port de l'émulateur MAME (Multiple Arcade Machine Emulator) conçu pour les appareils à faible puissance. Il se concentre sur l'émulation des anciens jeux d'arcade des années 1980 et du début des années 1990, offrant un équilibre entre performance et précision sur le matériel aux ressources limitées.</desc>
+    </variables>
 </theme>

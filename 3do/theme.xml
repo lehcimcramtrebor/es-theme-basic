@@ -1,23 +1,31 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
+<include>./../theme.xml</include>
 	<variables><region.priority region="eu"/>
+<system.manufacturer>Panasonic</system.manufacturer>
+<system.manufacturer region="us">3DO Company</system.manufacturer>
+<system.manufacturer region="jp">Panasonic</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.fullName>3DO Interactive Multiplayer</system.fullName>
+<system.fullName region="us">3DO Interactive Multiplayer</system.fullName>
+<system.fullName region="jp">3DO Interactive Multiplayer</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+<system.releaseYearOrNull>1993</system.releaseYearOrNull>
+<system.releaseYearOrNull region="us">1993</system.releaseYearOrNull>
+<system.releaseYearOrNull region="jp">1993</system.releaseYearOrNull>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+<desc>The 3DO Interactive Multiplayer, often simply called the 3DO, was a home video game console platform developed by The 3DO Company. Initially designed by Trip Hawkins, the founder of Electronic Arts, the system was intended to be licensed to third-party manufacturers, a unique approach for its time. The 3DO was positioned as a next-generation console capable of delivering superior graphics and multimedia experiences. It supported CD-ROM games, offering full-motion video and enhanced audio capabilities that were cutting-edge for the early 1990s. Despite its innovative features, the 3DO faced challenges due to its high price point and strong competition from other consoles like the Sony PlayStation and Sega Saturn, ultimately leading to its commercial failure.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
+<desc region="us">The 3DO Interactive Multiplayer, often simply called the 3DO, was a home video game console platform developed by The 3DO Company. Initially designed by Trip Hawkins, the founder of Electronic Arts, the system was intended to be licensed to third-party manufacturers, a unique approach for its time. The 3DO was positioned as a next-generation console capable of delivering superior graphics and multimedia experiences. It supported CD-ROM games, offering full-motion video and enhanced audio capabilities that were cutting-edge for the early 1990s. Despite its innovative features, the 3DO faced challenges due to its high price point and strong competition from other consoles like the Sony PlayStation and Sega Saturn, ultimately leading to its commercial failure.</desc>
 
-	</variables>
+<desc region="jp">The 3DO Interactive Multiplayer, often simply called the 3DO, was a home video game console platform developed by The 3DO Company. Initially designed by Trip Hawkins, the founder of Electronic Arts, the system was intended to be licensed to third-party manufacturers, a unique approach for its time. The 3DO was positioned as a next-generation console capable of delivering superior graphics and multimedia experiences. It supported CD-ROM games, offering full-motion video and enhanced audio capabilities that were cutting-edge for the early 1990s. Despite its innovative features, the 3DO faced challenges due to its high price point and strong competition from other consoles like the Sony PlayStation and Sega Saturn, ultimately leading to its commercial failure.</desc>
+
+<desc lang="fr">La 3DO Interactive Multiplayer, souvent appelée simplement la 3DO, était une plate-forme de console de jeux vidéo domestique développée par The 3DO Company. Initialement conçu par Trip Hawkins, le fondateur d'Electronic Arts, le système était destiné à être concédé sous licence à des fabricants tiers, une approche unique pour son époque. La 3DO était positionnée comme une console de nouvelle génération capable de fournir des graphismes supérieurs et des expériences multimédias. Il prenait en charge les jeux sur CD-ROM, offrant une vidéo plein écran et des capacités audio améliorées qui étaient à la pointe de la technologie au début des années 1990. Malgré ses caractéristiques innovantes, la 3DO a été confrontée à des défis en raison de son prix élevé et de la forte concurrence d'autres consoles comme la Sony PlayStation et la Sega Saturn, ce qui a finalement conduit à son échec commercial.</desc>
+
+<desc lang="fr" region="us">La 3DO Interactive Multiplayer, souvent appelée simplement la 3DO, était une plate-forme de console de jeux vidéo domestique développée par The 3DO Company. Initialement conçu par Trip Hawkins, le fondateur d'Electronic Arts, le système était destiné à être concédé sous licence à des fabricants tiers, une approche unique pour son époque. La 3DO était positionnée comme une console de nouvelle génération capable de fournir des graphismes supérieurs et des expériences multimédias. Il prenait en charge les jeux sur CD-ROM, offrant une vidéo plein écran et des capacités audio améliorées qui étaient à la pointe de la technologie au début des années 1990. Malgré ses caractéristiques innovantes, la 3DO a été confrontée à des défis en raison de son prix élevé et de la forte concurrence d'autres consoles comme la Sony PlayStation et la Sega Saturn, ce qui a finalement conduit à son échec commercial.</desc>
+
+<desc lang="fr" region="jp">La 3DO Interactive Multiplayer, souvent appelée simplement la 3DO, était une plate-forme de console de jeux vidéo domestique développée par The 3DO Company. Initialement conçu par Trip Hawkins, le fondateur d'Electronic Arts, le système était destiné à être concédé sous licence à des fabricants tiers, une approche unique pour son époque. La 3DO était positionnée comme une console de nouvelle génération capable de fournir des graphismes supérieurs et des expériences multimédias. Il prenait en charge les jeux sur CD-ROM, offrant une vidéo plein écran et des capacités audio améliorées qui étaient à la pointe de la technologie au début des années 1990. Malgré ses caractéristiques innovantes, la 3DO a été confrontée à des défis en raison de son prix élevé et de la forte concurrence d'autres consoles comme la Sony PlayStation et la Sega Saturn, ce qui a finalement conduit à son échec commercial.</desc>
+</variables>
 
 </theme>

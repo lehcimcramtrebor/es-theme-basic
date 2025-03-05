@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Lutro Team</system.manufacturer>
+        <system.fullName>Lutro</system.fullName>
+        <desc>Lutro is a fantasy console and development environment that allows users to create and play retro-style games. It offers a unique environment for game development with a focus on simplicity and ease of use, making it accessible for both beginners and experienced developers.</desc>
+        <desc lang="fr">Lutro est une console imaginaire et un environnement de développement qui permet aux utilisateurs de créer et de jouer à des jeux de style rétro. Il offre un environnement unique pour le développement de jeux en mettant l'accent sur la simplicité et la facilité d'utilisation, le rendant accessible aux développeurs débutants et expérimentés.</desc>
+    </variables>
 </theme>

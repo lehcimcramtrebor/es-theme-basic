@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Various</system.manufacturer>
+		<system.fullName>Demos</system.fullName>
+		<system.fullName lang="fr">Démos</system.fullName>
+		<desc>A collection of software demonstrations, often used to showcase the capabilities of a system or software.</desc>
+		<desc lang="fr">Une collection de démonstrations de logiciels, souvent utilisées pour mettre en valeur les capacités d'un système ou d'un logiciel.</desc>
 	</variables>
-
 </theme>

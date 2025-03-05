@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Gottlieb</system.manufacturer>
+		<system.fullName>Gottlieb Pinball</system.fullName>
+		<system.releaseYearOrNull>1927</system.releaseYearOrNull>
+		<desc>Gottlieb was an American pinball and arcade game manufacturing company. The company was founded in 1927 by David Gottlieb. Gottlieb was one of the largest pinball manufacturers in the world and produced many innovative and popular pinball machines. Gottlieb also produced a number of arcade games, including video games, but is best known for its pinball machines.</desc>
+		<desc lang="fr">Gottlieb était une société américaine de fabrication de flippers et de jeux d'arcade. La société a été fondée en 1927 par David Gottlieb. Gottlieb était l'un des plus grands fabricants de flippers au monde et a produit de nombreux flippers innovants et populaires. Gottlieb a également produit un certain nombre de jeux d'arcade, y compris des jeux vidéo, mais est surtout connu pour ses flippers.</desc>
 	</variables>
-
 </theme>

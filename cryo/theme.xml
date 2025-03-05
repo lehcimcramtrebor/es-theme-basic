@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Cryo Interactive</system.manufacturer>
+        <system.fullName>Cryo Interactive Games</system.fullName>
+        <desc>Cryo Interactive was a French video game development and publishing company known for its adventure games. Founded in 1990, Cryo gained recognition for titles that often featured intricate storylines, atmospheric settings, and innovative gameplay. Notable games include "Dune," "Atlantis: The Lost Tales," and "Versailles 1685." Cryo's games frequently incorporated historical or literary themes, appealing to players seeking immersive and thought-provoking experiences. Despite facing financial difficulties, Cryo's legacy remains significant in the adventure game genre.</desc>
+        <desc lang="fr">Cryo Interactive était une société française de développement et d'édition de jeux vidéo connue pour ses jeux d'aventure. Fondée en 1990, Cryo s'est fait connaître pour des titres qui présentaient souvent des scénarios complexes, des décors atmosphériques et un gameplay innovant. Les jeux notables incluent "Dune", "Atlantis : Les Légendes Perdues" et "Versailles 1685". Les jeux de Cryo incorporaient fréquemment des thèmes historiques ou littéraires, attirant les joueurs à la recherche d'expériences immersives et stimulantes. Malgré les difficultés financières, l'héritage de Cryo reste important dans le genre des jeux d'aventure.</desc>
+    </variables>
 </theme>

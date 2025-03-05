@@ -2,22 +2,20 @@
 
 <theme>
 
-	<formatVersion>7</formatVersion>
+        <formatVersion>7</formatVersion>
 
-    <include>./../theme.xml</include>
+        <include>./../theme.xml</include>
 
-	<variables><region.priority region="eu"/>
+        <variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+        <system.manufacturer>ScummVM Team</system.manufacturer>
 
-		<!--<system.fullName>name</system.fullName>-->
+        <system.fullName>ScummVM</system.fullName>
+        <system.fullName lang="fr">ScummVM</system.fullName>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+        <desc>ScummVM is a program which allows you to run certain classic graphical point-and-click adventure games, provided you already have their data files. ScummVM provides a replacement executable for them allowing you to play them on systems for which they were never designed! Originally only used for LucasArts SCUMM engine games, it now supports a wide variety of adventure game engines. It's a versatile tool for retro gaming enthusiasts.</desc>
+        <desc lang="fr">ScummVM est un programme qui vous permet d'exécuter certains jeux d'aventure graphiques classiques de type point-and-click, à condition que vous ayez déjà leurs fichiers de données. ScummVM fournit un exécutable de remplacement pour eux, vous permettant de les jouer sur des systèmes pour lesquels ils n'ont jamais été conçus ! Initialement utilisé uniquement pour les jeux du moteur SCUMM de LucasArts, il prend désormais en charge une grande variété de moteurs de jeux d'aventure. C'est un outil polyvalent pour les amateurs de jeux rétro.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+</variables>
 
 </theme>

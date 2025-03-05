@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Apple Computer</system.manufacturer>
+		<system.fullName>Apple IIGS</system.fullName>
+		<system.fullName lang="fr">Apple IIGS</system.fullName>
+		<system.releaseYearOrNull>1986</system.releaseYearOrNull>
+		<desc>The Apple IIGS is the fifth and most powerful model in the Apple II series of personal computers. It was the first Apple II to feature a 16-bit microprocessor and enhanced graphics and sound. The IIGS was also the first Apple computer to feature a mouse and a graphical user interface.</desc>
+		<desc lang="fr">L'Apple IIGS est le cinquième et le plus puissant modèle de la série d'ordinateurs personnels Apple II. Il a été le premier Apple II à être doté d'un microprocesseur 16 bits et de graphismes et de sons améliorés. L'IIGS a également été le premier ordinateur Apple à être doté d'une souris et d'une interface utilisateur graphique.</desc>
 	</variables>
-
 </theme>

@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Capcom</system.manufacturer>
+<system.fullName>Street Fighter</system.fullName>
+<desc>Street Fighter is a fighting game franchise developed by Capcom. It's one of the most iconic and influential series in the genre, known for its diverse cast of characters, strategic gameplay, and competitive scene. The series spans numerous arcade and console releases, with titles like Street Fighter II and Street Fighter V being particularly popular. It's a cornerstone of fighting game culture.</desc>
+<desc lang="fr">Street Fighter est une franchise de jeux de combat développée par Capcom. C'est l'une des séries les plus emblématiques et influentes du genre, connue pour sa distribution diversifiée de personnages, son gameplay stratégique et sa scène compétitive. La série comprend de nombreuses sorties d'arcade et de console, avec des titres comme Street Fighter II et Street Fighter V étant particulièrement populaires. C'est une pierre angulaire de la culture des jeux de combat.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

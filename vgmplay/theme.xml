@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>VGMPlay Team</system.manufacturer>
+<system.fullName>VGMPlay</system.fullName>
+<desc>VGMPlay is a multi-platform command-line program that plays various video game music formats. It supports a wide range of sound chips and audio formats from different consoles, arcade systems, and computers. VGMPlay allows users to listen to and enjoy video game music from various sources on modern devices.</desc>
+<desc lang="fr">VGMPlay est un programme multiplateforme en ligne de commande qui lit divers formats de musique de jeux vidéo. Il prend en charge une large gamme de puces sonores et de formats audio provenant de différentes consoles, systèmes d'arcade et ordinateurs. VGMPlay permet aux utilisateurs d'écouter et d'apprécier la musique de jeux vidéo provenant de diverses sources sur des appareils modernes.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

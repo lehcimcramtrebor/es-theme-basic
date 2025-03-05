@@ -1,23 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+        <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
+        <variables>
+        <region.priority region="eu"/>
 
-	<variables><region.priority region="eu"/>
+                <system.manufacturer>FinalBurn Alpha Team</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+                <system.fullName>FinalBurn Alpha (Libretro)</system.fullName>
+                <system.fullName lang="fr">FinalBurn Alpha (Libretro)</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+                <system.releaseYearOrNull>2012</system.releaseYearOrNull>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+                <desc>FinalBurn Alpha (Libretro) is a Libretro core that emulates arcade games and consoles. It is based on the FinalBurn Alpha emulator, and it offers the same accuracy and compatibility. It is considered one of the best Libretro cores for arcade games.</desc>
+                <desc lang="fr">FinalBurn Alpha (Libretro) est un noyau Libretro qui émule les jeux d'arcade et les consoles. Il est basé sur l'émulateur FinalBurn Alpha, et il offre la même précision et la même compatibilité. Il est considéré comme l'un des meilleurs noyaux Libretro pour les jeux d'arcade.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+        </variables>
 </theme>

@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Nintendo</system.manufacturer>
+        <system.fullName>Mega Play</system.fullName>
+        <system.releaseYearOrNull>1989</system.releaseYearOrNull>
+        <desc>Mega Play is an arcade system developed by Nintendo and released in 1989. It is based on the Nintendo Entertainment System (NES) hardware, but features enhanced graphics and sound capabilities. The system was designed to offer arcade operators a cost-effective way to provide popular NES games to their customers.</desc>
+        <desc lang="fr">Mega Play est un système d'arcade développé par Nintendo et sorti en 1989. Il est basé sur le matériel de la Nintendo Entertainment System (NES), mais offre des capacités graphiques et sonores améliorées. Le système a été conçu pour offrir aux exploitants d'arcades un moyen rentable de fournir des jeux NES populaires à leurs clients.</desc>
+    </variables>
 </theme>

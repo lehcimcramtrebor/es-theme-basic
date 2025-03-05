@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Atari Corporation</system.manufacturer>
+		<system.fullName>Atari ST</system.fullName>
+		<system.fullName lang="fr">Atari ST</system.fullName>
+		<system.releaseYearOrNull>1985</system.releaseYearOrNull>
+		<desc>The Atari ST is a line of home computers from Atari Corporation, first introduced in 1985. It was part of the 16/32-bit generation of home computers, featuring a Motorola 68000 CPU, and was renowned for its graphical user interface, which was similar to that of the Macintosh. The ST was popular for desktop publishing, MIDI sequencing, and gaming, and it had a significant impact on the computer market in the late 1980s and early 1990s.</desc>
+		<desc lang="fr">L'Atari ST est une gamme d'ordinateurs personnels d'Atari Corporation, introduite pour la première fois en 1985. Il faisait partie de la génération d'ordinateurs personnels 16/32 bits, doté d'un processeur Motorola 68000, et était réputé pour son interface utilisateur graphique, similaire à celle du Macintosh. Le ST était populaire pour la publication assistée par ordinateur, le séquençage MIDI et les jeux, et il a eu un impact significatif sur le marché informatique à la fin des années 1980 et au début des années 1990.</desc>
 	</variables>
-
 </theme>

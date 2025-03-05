@@ -2,22 +2,21 @@
 
 <theme>
 
-	<formatVersion>7</formatVersion>
+    <formatVersion>7</formatVersion>
 
     <include>./../theme.xml</include>
 
-	<variables><region.priority region="eu"/>
+    <variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+    <system.manufacturer>SNK</system.manufacturer>
+    <system.manufacturer region="jp">SNK</system.manufacturer>
 
-		<!--<system.fullName>name</system.fullName>-->
+    <system.fullName>SNK</system.fullName>
+    <system.fullName lang="fr">SNK</system.fullName>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+    <desc>SNK (formerly known as Shin Nihon Kikaku) is a Japanese video game hardware and software company. Founded in 1978, SNK is renowned for its contributions to the arcade and home console gaming scene. They are known for creating popular arcade and console systems, including the Neo Geo. They are also recognized for developing iconic fighting game franchises like Fatal Fury, The King of Fighters, and Samurai Shodown, as well as other classic titles like Metal Slug. SNK continues to be a prominent figure in the gaming industry, producing both hardware and software for modern platforms.</desc>
+    <desc lang="fr">SNK (anciennement connu sous le nom de Shin Nihon Kikaku) est une société japonaise de jeux vidéo et de matériel. Fondée en 1978, SNK est réputée pour ses contributions à la scène des jeux d'arcade et de consoles de salon. Ils sont connus pour avoir créé des systèmes d'arcade et de consoles populaires, notamment le Neo Geo. Ils sont également reconnus pour avoir développé des franchises de jeux de combat emblématiques comme Fatal Fury, The King of Fighters et Samurai Shodown, ainsi que d'autres titres classiques comme Metal Slug. SNK continue d'être une figure importante de l'industrie du jeu vidéo, produisant à la fois du matériel et des logiciels pour les plateformes modernes.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+</variables>
 
 </theme>

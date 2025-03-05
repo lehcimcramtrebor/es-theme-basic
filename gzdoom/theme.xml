@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>id Software/ZDoom Community</system.manufacturer>
+		<system.fullName>GZDoom</system.fullName>
+		<system.releaseYearOrNull>2005</system.releaseYearOrNull>
+		<desc>GZDoom is a source port of the first-person shooter video game Doom. It is based on the ZDoom source port, but adds support for OpenGL, allowing for more advanced graphics and effects. GZDoom also supports a variety of other features, such as scripting and modding. It is one of the most popular Doom source ports, and is used by many modders and gamers.</desc>
+		<desc lang="fr">GZDoom est un port source du jeu vidéo de tir à la première personne Doom. Il est basé sur le port source ZDoom, mais ajoute la prise en charge d'OpenGL, ce qui permet des graphismes et des effets plus avancés. GZDoom prend également en charge une variété d'autres fonctionnalités, telles que les scripts et le modding. C'est l'un des ports sources Doom les plus populaires, et il est utilisé par de nombreux moddeurs et joueurs.</desc>
 	</variables>
-
 </theme>

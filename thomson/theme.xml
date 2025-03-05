@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Thomson SA</system.manufacturer>
+<system.fullName>Thomson Micro-Ordinateurs</system.fullName>
+<desc>Thomson was a French electronics company that produced a range of home computers in the 1980s, particularly popular in France and Europe. Their computers, such as the MO5 and TO7, were known for their focus on educational use and featured distinctive designs and capabilities. They played a significant role in the early adoption of home computing technology in France.</desc>
+<desc lang="fr">Thomson était une entreprise d'électronique française qui a produit une gamme d'ordinateurs personnels dans les années 1980, particulièrement populaires en France et en Europe. Leurs ordinateurs, tels que le MO5 et le TO7, étaient connus pour leur accent sur l'utilisation éducative et présentaient des conceptions et des capacités distinctives. Ils ont joué un rôle important dans l'adoption précoce de la technologie informatique domestique en France.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Visco Corporation</system.manufacturer>
+<system.fullName>Visco Games</system.fullName>
+<desc>Visco Corporation was a Japanese video game developer that primarily produced arcade games during the 1990s. They are known for developing several popular shoot 'em up games, including Andro Dunos and Ganryu. While they primarily focused on arcade development, some of their titles were also ported to home consoles.</desc>
+<desc lang="fr">Visco Corporation était un développeur de jeux vidéo japonais qui produisait principalement des jeux d'arcade au cours des années 1990. Ils sont connus pour avoir développé plusieurs jeux de tir populaires, notamment Andro Dunos et Ganryu. Bien qu'ils se soient principalement concentrés sur le développement d'arcade, certains de leurs titres ont également été portés sur des consoles de salon.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

@@ -1,23 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
+<include>./../theme.xml</include>
 	<variables><region.priority region="eu"/>
+<system.manufacturer>Acclaim Entertainment</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.fullName>Acclaim Entertainment Games</system.fullName>
+<system.fullName lang="fr">Jeux Acclaim Entertainment</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+<system.releaseYearOrNull>1987</system.releaseYearOrNull>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+<desc>Acclaim Entertainment was an American video game publisher and developer that was active from 1987 to 2004. Known for publishing and developing games based on popular licenses, such as Mortal Kombat, NBA Jam, and Turok, Acclaim played a significant role in the video game industry during the 1990s. The company also developed and published original titles. Despite its early success, Acclaim faced financial difficulties and ultimately filed for bankruptcy in 2004.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+<desc lang="fr">Acclaim Entertainment était un éditeur et développeur américain de jeux vidéo actif de 1987 à 2004. Connu pour la publication et le développement de jeux basés sur des licences populaires, telles que Mortal Kombat, NBA Jam et Turok, Acclaim a joué un rôle important dans l'industrie du jeu vidéo au cours des années 1990. La société a également développé et publié des titres originaux. Malgré son succès initial, Acclaim a rencontré des difficultés financières et a finalement déposé le bilan en 2004.</desc>
+</variables>
 
 </theme>

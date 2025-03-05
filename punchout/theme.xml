@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Nintendo</system.manufacturer>
+		<system.fullName>Punch-Out!! Series</system.fullName>
+		<system.fullName lang="fr">Série Punch-Out!!</system.fullName>
+		<desc>Punch-Out!! is a boxing arcade game series created by Nintendo. The series is known for its unique blend of arcade-style boxing action and puzzle elements. Players take control of Little Mac, a young boxer who must climb the ranks of the World Video Boxing Association by defeating a series of increasingly difficult opponents.</desc>
+		<desc lang="fr">Punch-Out!! est une série de jeux d'arcade de boxe créée par Nintendo. La série est connue pour son mélange unique d'action de boxe de style arcade et d'éléments de puzzle. Les joueurs prennent le contrôle de Little Mac, un jeune boxeur qui doit gravir les échelons de la World Video Boxing Association en battant une série d'adversaires de plus en plus difficiles.</desc>
 	</variables>
-
 </theme>

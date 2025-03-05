@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Ocean Software</system.manufacturer>
+        <system.fullName>Ocean Games</system.fullName>
+        <system.fullName lang="fr">Jeux Ocean</system.fullName>
+        <system.releaseYearOrNull>1984</system.releaseYearOrNull>
+        <desc>Ocean Software, later known as Infogrames and Atari, was a British video game developer and publisher. Founded in 1984, Ocean was known for its licensed games based on popular movies and television shows, such as Batman, RoboCop, and The Addams Family. Ocean also developed original titles, including the popular platformer series Head Over Heels and the adventure game Hook.</desc>
+        <desc lang="fr">Ocean Software, plus tard connu sous le nom d'Infogrames et Atari, était un développeur et éditeur de jeux vidéo britannique. Fondé en 1984, Ocean était connu pour ses jeux sous licence basés sur des films et des émissions de télévision populaires, tels que Batman, RoboCop et La Famille Addams. Ocean a également développé des titres originaux, notamment la série de jeux de plateforme Head Over Heels et le jeu d'aventure Hook.</desc>
+    </variables>
 </theme>

@@ -1,23 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Nintendo</system.manufacturer>
+        <system.fullName>Nintendo DS</system.fullName>
+        <system.releaseYearOrNull>2004</system.releaseYearOrNull>
+        <system.releaseYearOrNull region="us">2004</system.releaseYearOrNull>
+        <system.releaseYearOrNull region="jp">2004</system.releaseYearOrNull>
+        <desc>The Nintendo DS (NDS) is a dual-screen handheld game console developed and released by Nintendo. It was Nintendo's third handheld game console, following the Game Boy Advance. The NDS was notable for its innovative dual-screen design, which featured a touch screen and a microphone. It also had a wide library of games, including many popular titles such as Mario Kart DS and The Legend of Zelda: Phantom Hourglass.</desc>
+        <desc region="us">The Nintendo DS (NDS) is a dual-screen handheld game console developed and released by Nintendo. It was Nintendo's third handheld game console, following the Game Boy Advance. The NDS was notable for its innovative dual-screen design, which featured a touch screen and a microphone. It also had a wide library of games, including many popular titles such as Mario Kart DS and The Legend of Zelda: Phantom Hourglass.</desc>
+        <desc region="jp">The Nintendo DS (NDS) is a dual-screen handheld game console developed and released by Nintendo. It was Nintendo's third handheld game console, following the Game Boy Advance. The NDS was notable for its innovative dual-screen design, which featured a touch screen and a microphone. It also had a wide library of games, including many popular titles such as Mario Kart DS and The Legend of Zelda: Phantom Hourglass.</desc>
+        <desc lang="fr">La Nintendo DS (NDS) est une console de jeux portable à double écran développée et commercialisée par Nintendo. C'était la troisième console de jeux portable de Nintendo, après la Game Boy Advance. La NDS était remarquable pour sa conception innovante à double écran, qui comportait un écran tactile et un microphone. Elle avait également une large bibliothèque de jeux, comprenant de nombreux titres populaires tels que Mario Kart DS et The Legend of Zelda: Phantom Hourglass.</desc>
+        <desc lang="fr" region="us">La Nintendo DS (NDS) est une console de jeux portable à double écran développée et commercialisée par Nintendo. C'était la troisième console de jeux portable de Nintendo, après la Game Boy Advance. La NDS était remarquable pour sa conception innovante à double écran, qui comportait un écran tactile et un microphone. Elle avait également une large bibliothèque de jeux, comprenant de nombreux titres populaires tels que Mario Kart DS et The Legend of Zelda: Phantom Hourglass.</desc>
+        <desc lang="fr" region="jp">La Nintendo DS (NDS) est une console de jeux portable à double écran développée et commercialisée par Nintendo. C'était la troisième console de jeux portable de Nintendo, après la Game Boy Advance. La NDS était remarquable pour sa conception innovante à double écran, qui comportait un écran tactile et un microphone. Elle avait également une large bibliothèque de jeux, comprenant de nombreux titres populaires tels que Mario Kart DS et The Legend of Zelda: Phantom Hourglass.</desc>
+    </variables>
 </theme>

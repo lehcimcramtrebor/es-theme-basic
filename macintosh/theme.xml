@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Apple</system.manufacturer>
+        <system.fullName>Macintosh</system.fullName>
+        <system.releaseYearOrNull>1984</system.releaseYearOrNull>
+        <desc>The Macintosh, or Mac, is a series of personal computers designed, developed, and marketed by Apple. Introduced in 1984, the Macintosh was the first commercially successful personal computer to feature a mouse-driven graphical user interface rather than a command-line interface. It played a significant role in popularizing the graphical user interface.</desc>
+        <desc lang="fr">Le Macintosh, ou Mac, est une série d'ordinateurs personnels conçus, développés et commercialisés par Apple. Introduit en 1984, le Macintosh a été le premier ordinateur personnel commercialement réussi à présenter une interface utilisateur graphique pilotée par souris plutôt qu'une interface en ligne de commande. Il a joué un rôle important dans la popularisation de l'interface utilisateur graphique.</desc>
+    </variables>
 </theme>

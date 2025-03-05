@@ -1,23 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Creatonic, Videojet, Timlex, Cougar USA</system.manufacturer>
+        <system.fullName>Mega Duck</system.fullName>
+        <system.fullName region="us">Cougar Boy</system.fullName>
+        <system.releaseYearOrNull>1993</system.releaseYearOrNull>
+        <desc>The Mega Duck, also known as Cougar Boy, is a handheld game console created by Creatonic, Videojet, Timlex, and distributed by Cougar USA in South America. It appeared on the video game market in 1993 and was sold at a price of around €60, primarily in France, the Netherlands, and Germany. The Creatonic version, developed in China, was distributed by Cougar USA in South America, mainly in Brazil, and was called Cougar Boy.</desc>
+        <desc region="us">Cougar Boy is a handheld game console created by Creatonic, Videojet, Timlex, and distributed by Cougar USA in South America. It appeared on the video game market in 1993 and was sold at a price of around €60, primarily in France, the Netherlands, and Germany. The Creatonic version, developed in China, was distributed by Cougar USA in South America, mainly in Brazil, and was called Cougar Boy.</desc>
+        <desc lang="fr">La Mega Duck, aussi connue sous le nom Cougar Boy, est une console portable créée par Creatonic, Videojet, Timlex, et distribuée par Cougar USA en Amérique du Sud. Elle est apparue sur le marché du jeu vidéo en 1993 et était vendue à un prix d'environ 60€, principalement en France, aux Pays-Bas et en Allemagne. La version Creatonic, développée en Chine, était distribuée par Cougar USA en Amérique du Sud, principalement au Brésil, et portait le nom Cougar Boy.</desc>
+        <desc lang="fr" region="us">La Cougar Boy est une console portable créée par Creatonic, Videojet, Timlex, et distribuée par Cougar USA en Amérique du Sud. Elle est apparue sur le marché du jeu vidéo en 1993 et était vendue à un prix d'environ 60€, principalement en France, aux Pays-Bas et en Allemagne. La version Creatonic, développée en Chine, était distribuée par Cougar USA en Amérique du Sud, principalement au Brésil, et portait le nom Cougar Boy.</desc>
+    </variables>
 </theme>

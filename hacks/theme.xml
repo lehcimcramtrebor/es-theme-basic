@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Various</system.manufacturer>
+		<system.fullName>Hacks</system.fullName>
+		<system.releaseYearOrNull/>
+		<desc>Hacks refers to modified versions of video games, typically created by fans. These modifications can range from simple alterations to graphics or gameplay, to entirely new games built upon the original game's engine. Hacks are often created to improve or expand upon the original game, or to add new features or content. They can also be used to fix bugs or glitches in the original game.</desc>
+		<desc lang="fr">Le terme "hacks" désigne des versions modifiées de jeux vidéo, généralement créées par des fans. Ces modifications peuvent aller de simples altérations des graphismes ou du gameplay à des jeux entièrement nouveaux construits sur le moteur du jeu original. Les hacks sont souvent créés pour améliorer ou étendre le jeu original, ou pour ajouter de nouvelles fonctionnalités ou du contenu. Ils peuvent également être utilisés pour corriger des bogues ou des problèmes techniques dans le jeu original.</desc>
 	</variables>
-
 </theme>

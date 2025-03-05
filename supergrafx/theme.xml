@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>NEC</system.manufacturer>
+<system.fullName region="jp">SuperGrafx</system.fullName>
+<desc region="jp">The SuperGrafx is a 16-bit video game console developed by NEC, released exclusively in Japan in 1989. It was intended as a high-end upgrade to the PC Engine, offering enhanced graphics capabilities. However, it suffered from a limited game library and was commercially unsuccessful. It's known for its powerful hardware and the few games that showcased its advanced graphical features.</desc>
+<desc lang="fr" region="jp">La SuperGrafx est une console de jeux vidéo 16 bits développée par NEC, sortie exclusivement au Japon en 1989. Elle était conçue comme une mise à niveau haut de gamme de la PC Engine, offrant des capacités graphiques améliorées. Cependant, elle a souffert d'une bibliothèque de jeux limitée et a été un échec commercial. Elle est connue pour son matériel puissant et les quelques jeux qui ont mis en valeur ses fonctionnalités graphiques avancées.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

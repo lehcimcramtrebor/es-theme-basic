@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Moonlight Game Streaming Project</system.manufacturer>
+        <system.fullName>Moonlight</system.fullName>
+        <desc>Moonlight is an open-source implementation of NVIDIA's GameStream protocol. It allows you to stream your collection of local games from a Gamestream-compatible PC to any supported device over the Internet or local network. Enjoy your favorite PC games in up to 4K 120 FPS HDR on a wide range of devices.</desc>
+        <desc lang="fr">Moonlight est une implémentation open-source du protocole GameStream de NVIDIA. Il vous permet de diffuser votre collection de jeux locaux à partir d'un PC compatible Gamestream vers n'importe quel appareil pris en charge via Internet ou un réseau local. Profitez de vos jeux PC préférés jusqu'en 4K 120 FPS HDR sur une large gamme d'appareils.</desc>
+    </variables>
 </theme>

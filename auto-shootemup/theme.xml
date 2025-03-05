@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+  <variables>
+    <region.priority region="eu"/>
+    <system.manufacturer>Various</system.manufacturer>
+    <system.fullName>Shoot 'em up Games</system.fullName>
+    <system.fullName lang="fr">Jeux de shoot'em up</system.fullName>
+    <desc>Shoot 'em up games, also known as shmups, are a genre of video games that involve shooting large numbers of enemies while avoiding their attacks. They are known for their fast-paced action, challenging gameplay, and iconic power-ups.</desc>
+    <desc lang="fr">Les jeux de shoot'em up, également connus sous le nom de shmups, sont un genre de jeux vidéo qui consistent à tirer sur un grand nombre d'ennemis tout en évitant leurs attaques. Ils sont connus pour leur action rapide, leur gameplay stimulant et leurs power-ups emblématiques.</desc>
+  </variables>
 </theme>

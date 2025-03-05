@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Apple Computer</system.manufacturer>
+		<system.fullName>Apple II</system.fullName>
+		<system.fullName lang="fr">Apple II</system.fullName>
+		<system.releaseYearOrNull>1977</system.releaseYearOrNull>
+		<desc>The Apple II is an 8-bit home computer, one of the first highly successful mass-produced microcomputer products. It was designed by Steve Wozniak, manufactured by Apple Computer, and first demonstrated in 1977. The Apple II was a major advancement in personal computing, offering color graphics, a keyboard, and expansion slots for peripherals. It played a significant role in popularizing microcomputers in homes and schools.</desc>
+		<desc lang="fr">L'Apple II est un ordinateur personnel 8 bits, l'un des premiers micro-ordinateurs produits en série avec un grand succès. Il a été conçu par Steve Wozniak, fabriqué par Apple Computer, et a été présenté pour la première fois en 1977. L'Apple II était une avancée majeure dans l'informatique personnelle, offrant des graphiques en couleur, un clavier et des emplacements d'extension pour les périphériques. Il a joué un rôle important dans la popularisation des micro-ordinateurs dans les foyers et les écoles.</desc>
 	</variables>
-
 </theme>

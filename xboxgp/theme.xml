@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Microsoft</system.manufacturer>
+        <system.fullName>Xbox Game Pass</system.fullName>
+        <system.fullName lang="fr">Xbox Game Pass</system.fullName>
+        <desc>Xbox Game Pass is a subscription service from Microsoft that provides access to a rotating catalog of games. It includes a wide variety of titles, from Xbox exclusives and indie games to AAA releases. Subscribers can download and play games directly on their Xbox consoles or PCs. The service offers different tiers, including Game Pass Ultimate, which combines console and PC access with Xbox Live Gold. Xbox Game Pass is known for providing excellent value and access to a diverse library of games, including day-one releases of Microsoft's first-party titles.</desc>
+        <desc lang="fr">Xbox Game Pass est un service d'abonnement de Microsoft qui donne accès à un catalogue tournant de jeux. Il comprend une grande variété de titres, des exclusivités Xbox et jeux indépendants aux sorties AAA. Les abonnés peuvent télécharger et jouer à des jeux directement sur leurs consoles Xbox ou PC. Le service propose différents niveaux, y compris Game Pass Ultimate, qui combine l'accès console et PC avec Xbox Live Gold. Xbox Game Pass est connu pour offrir un excellent rapport qualité-prix et un accès à une bibliothèque diversifiée de jeux, y compris les sorties dès le premier jour des titres de première partie de Microsoft.</desc>
+    </variables>
 </theme>

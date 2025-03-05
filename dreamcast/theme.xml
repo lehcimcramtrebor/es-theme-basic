@@ -1,23 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Sega</system.manufacturer>
+		<system.fullName>Dreamcast</system.fullName>
+		<system.releaseYearOrNull>1998</system.releaseYearOrNull>
+		<system.releaseYearOrNull region="us">1999</system.releaseYearOrNull>
+		<system.releaseYearOrNull region="jp">1998</system.releaseYearOrNull>
+		<desc>The Dreamcast is a home video game console that was released by Sega in 1998. It was the first entry in the sixth generation of video game consoles, preceding the PlayStation 2, Xbox and GameCube. The Dreamcast was Sega's final home console, and it was discontinued in 2001.</desc>
+		<desc lang="fr">La Dreamcast est une console de jeux vidéo domestique commercialisée par Sega en 1998. C'était la première entrée dans la sixième génération de consoles de jeux vidéo, précédant la PlayStation 2, la Xbox et la GameCube. La Dreamcast était la dernière console domestique de Sega et elle a été abandonnée en 2001.</desc>
+		<desc region="us">The Dreamcast is a home video game console that was released by Sega in 1999. It was the first entry in the sixth generation of video game consoles, preceding the PlayStation 2, Xbox and GameCube. The Dreamcast was Sega's final home console, and it was discontinued in 2001.</desc>
+		<desc lang="fr" region="us">La Dreamcast est une console de jeux vidéo domestique commercialisée par Sega en 1999. C'était la première entrée dans la sixième génération de consoles de jeux vidéo, précédant la PlayStation 2, la Xbox et la GameCube. La Dreamcast était la dernière console domestique de Sega et elle a été abandonnée en 2001.</desc>
+		<desc region="jp">The Dreamcast is a home video game console that was released by Sega in 1998. It was the first entry in the sixth generation of video game consoles, preceding the PlayStation 2, Xbox and GameCube. The Dreamcast was Sega's final home console, and it was discontinued in 2001.</desc>
+		<desc lang="fr" region="jp">La Dreamcast est une console de jeux vidéo domestique commercialisée par Sega en 1998. C'était la première entrée dans la sixième génération de consoles de jeux vidéo, précédant la PlayStation 2, la Xbox et la GameCube. La Dreamcast était la dernière console domestique de Sega et elle a été abandonnée en 2001.</desc>
 	</variables>
-
 </theme>

@@ -1,23 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Casio</system.manufacturer>
+		<system.fullName>PV-1000</system.fullName>
+		<system.fullName lang="fr">PV-1000</system.fullName>
+		<system.releaseYearOrNull>1983</system.releaseYearOrNull>
+		<system.releaseYearOrNull region="jp">1983</system.releaseYearOrNull>
+		<desc>The PV-1000 is a home video game console manufactured by Casio and released in Japan in 1983. It was a commercial failure, selling only a few thousand units. The console was discontinued in 1984.</desc>
+		<desc lang="fr">La PV-1000 est une console de jeux vidéo de salon fabriquée par Casio et sortie au Japon en 1983. Ce fut un échec commercial, ne se vendant qu'à quelques milliers d'unités. La console a été abandonnée en 1984.</desc>
 	</variables>
-
 </theme>

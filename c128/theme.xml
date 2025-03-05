@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+  <variables>
+    <region.priority region="eu"/>
+    <system.manufacturer>Commodore Business Machines Inc.</system.manufacturer>
+    <system.fullName>Commodore 128</system.fullName>
+    <system.fullName lang="fr">Commodore 128</system.fullName>
+    <system.releaseYearOrNull>1985</system.releaseYearOrNull>
+    <desc>The Commodore 128, also known as the C128, was an 8-bit home computer released by Commodore Business Machines Inc. in 1985. It was the last 8-bit computer released by Commodore. It featured 128 KB of RAM, a Zilog Z80 CPU, and a MOS Technology 8502 CPU. The C128 was backward compatible with the Commodore 64 and had a CP/M mode.</desc>
+    <desc lang="fr">Le Commodore 128, également connu sous le nom de C128, était un ordinateur personnel 8 bits sorti par Commodore Business Machines Inc. en 1985. Il s'agissait du dernier ordinateur 8 bits sorti par Commodore. Il comportait 128 Ko de RAM, un processeur Zilog Z80 et un processeur MOS Technology 8502. Le C128 était rétrocompatible avec le Commodore 64 et disposait d'un mode CP/M.</desc>
+  </variables>
 </theme>

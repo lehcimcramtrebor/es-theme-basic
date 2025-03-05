@@ -1,23 +1,21 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+        <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
+        <variables>
+        <region.priority region="eu"/>
 
-	<variables><region.priority region="eu"/>
+                <system.manufacturer region="jp">Nintendo</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+                <system.fullName>Family Computer</system.fullName>
+                <system.fullName lang="fr">Family Computer</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+                <system.releaseYearOrNull region="jp">1983</system.releaseYearOrNull>
+                <system.releaseYearOrNull region="us">1985</system.releaseYearOrNull>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+                <desc region="jp">The Family Computer, or Famicom, is an 8-bit home video game console developed by Nintendo. It was released in Japan in 1983 and was a massive success, helping to revitalize the video game industry after the crash of 1983. The Famicom was known for its innovative hardware, its wide variety of games, and its affordable price.</desc>
+        <desc region="us">The Nintendo Entertainment System (NES) is an 8-bit home video game console developed by Nintendo. It was released in North America in 1985 and was a massive success, helping to revitalize the video game industry after the crash of 1983. The NES was known for its innovative hardware, its wide variety of games, and its affordable price.</desc>
+                <desc lang="fr" region="jp">La Family Computer, ou Famicom, est une console de jeux vidéo 8 bits développée par Nintendo. Elle est sortie au Japon en 1983 et a connu un succès massif, contribuant à relancer l'industrie du jeu vidéo après le krach de 1983. La Famicom était connue pour son matériel innovant, sa grande variété de jeux et son prix abordable.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+        </variables>
 </theme>

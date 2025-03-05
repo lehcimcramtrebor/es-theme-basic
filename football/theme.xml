@@ -4,20 +4,15 @@
 
 	<formatVersion>7</formatVersion>
 
-    <include>./../theme.xml</include>
+<include>./../theme.xml</include>
 
 	<variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.fullName>Football games</system.fullName>
+<system.fullName lang="fr">Jeux de football</system.fullName>
+<desc>Football video games simulate association football. These games allow players to control teams and compete in matches, often replicating real-world leagues and tournaments. Popular franchises include FIFA and Pro Evolution Soccer. These games have evolved significantly, offering realistic graphics, player animations, and complex gameplay mechanics. They cater to a broad audience, from casual players to hardcore fans seeking authentic simulation experiences.</desc>
+<desc lang="fr">Les jeux vidéo de football simulent le football d'association. Ces jeux permettent aux joueurs de contrôler des équipes et de participer à des matchs, reproduisant souvent des ligues et des tournois du monde réel. Les franchises populaires incluent FIFA et Pro Evolution Soccer. Ces jeux ont considérablement évolué, offrant des graphismes réalistes, des animations de joueurs et des mécanismes de jeu complexes. Ils s'adressent à un large public, des joueurs occasionnels aux fans inconditionnels à la recherche d'expériences de simulation authentiques.</desc>
 
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+</variables>
 
 </theme>

@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>American Machine and Coin</system.manufacturer>
+		<system.fullName>Amcoe Games</system.fullName>
+		<system.fullName lang="fr">Jeux Amcoe</system.fullName>
+		<system.releaseYearOrNull>1979</system.releaseYearOrNull>
+		<desc>American Machine and Coin (Amcoe) was an American manufacturer of arcade games. The company was founded in 1979 and is best known for developing and publishing the games Exidy Sorcerer and Exidy Targ. Amcoe also developed and published a number of other arcade games.</desc>
+		<desc lang="fr">American Machine and Coin (Amcoe) était un fabricant américain de jeux d'arcade. La société a été fondée en 1979 et est surtout connue pour avoir développé et publié les jeux Exidy Sorcerer et Exidy Targ. Amcoe a également développé et publié un certain nombre d'autres jeux d'arcade.</desc>
 	</variables>
-
 </theme>

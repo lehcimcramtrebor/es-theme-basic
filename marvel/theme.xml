@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Various</system.manufacturer>
+        <system.fullName>Marvel Games</system.fullName>
+        <system.fullName lang="fr">Jeux Marvel</system.fullName>
+        <system.releaseYearOrNull>1982</system.releaseYearOrNull>
+        <desc>Marvel Games is a brand used for video games based on Marvel Comics characters and stories. The brand covers a wide range of genres and platforms, from action-adventure to fighting games, and includes titles developed by various studios.</desc>
+        <desc lang="fr">Marvel Games est une marque utilisée pour les jeux vidéo basés sur les personnages et les histoires de Marvel Comics. La marque couvre un large éventail de genres et de plateformes, des jeux d'action-aventure aux jeux de combat, et comprend des titres développés par divers studios.</desc>
+    </variables>
 </theme>

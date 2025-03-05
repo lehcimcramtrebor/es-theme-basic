@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Various</system.manufacturer>
+		<system.fullName>Fighting Games</system.fullName>
+		<system.fullName lang="fr">Jeux de combat</system.fullName>
+		<desc>Fighting games focus on one-on-one combat, often with a variety of characters and fighting styles. They require strategic thinking, quick reflexes, and precise execution.</desc>
+		<desc lang="fr">Les jeux de combat se concentrent sur le combat en un contre un, souvent avec une variété de personnages et de styles de combat. Ils nécessitent une réflexion stratégique, des réflexes rapides et une exécution précise.</desc>
 	</variables>
-
 </theme>

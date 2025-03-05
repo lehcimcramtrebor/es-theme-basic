@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Sonic Team / Christian Whitehead</system.manufacturer>
+<system.fullName>Sonic 3 A.I.R.</system.fullName>
+<system.releaseYearOrNull>2022</system.releaseYearOrNull>
+<desc>Sonic 3 A.I.R. (Angel Island Revisited) is a fan-made, enhanced remaster of Sonic the Hedgehog 3 &amp; Knuckles. It features widescreen support, improved visuals, and various gameplay enhancements. It's a project by Christian Whitehead, known for his work on Sonic Mania.</desc>
+<desc lang="fr">Sonic 3 A.I.R. (Angel Island Revisited) est une remasterisation améliorée et faite par des fans de Sonic the Hedgehog 3 &amp; Knuckles. Il propose une prise en charge de l'écran large, des graphismes améliorés et diverses améliorations du gameplay. C'est un projet de Christian Whitehead, connu pour son travail sur Sonic Mania.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

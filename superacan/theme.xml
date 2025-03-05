@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Funtech</system.manufacturer>
+<system.fullName region="tw">Super A'Can</system.fullName>
+<desc region="tw">The Super A'Can is a 16-bit video game console developed by Funtech, released exclusively in Taiwan in 1995. It was known for its arcade-style graphics and sound, but faced stiff competition from established consoles like the Super Famicom and Sega Mega Drive. Its library consisted of a limited number of games, including fighting games, platformers, and puzzle games.</desc>
+<desc lang="fr" region="tw">La Super A'Can est une console de jeux vidéo 16 bits développée par Funtech, sortie exclusivement à Taiwan en 1995. Elle était connue pour ses graphismes et son son de style arcade, mais a dû faire face à une forte concurrence de la part de consoles établies comme la Super Famicom et la Sega Mega Drive. Sa bibliothèque était composée d'un nombre limité de jeux, comprenant des jeux de combat, des jeux de plateforme et des jeux de puzzle.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

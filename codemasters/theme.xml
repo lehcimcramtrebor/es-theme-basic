@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Codemasters</system.manufacturer>
+<system.manufacturer region="us">Codemasters</system.manufacturer>
 
-    <include>./../theme.xml</include>
+<system.fullName>Codemasters Games</system.fullName>
+<system.fullName lang="fr">Jeux Codemasters</system.fullName>
 
-	<variables><region.priority region="eu"/>
+<system.releaseYearOrNull>1986</system.releaseYearOrNull>
+<system.releaseYearOrNull region="us">1986</system.releaseYearOrNull>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<desc>Codemasters, founded in 1986, is a British video game developer and publisher known for its racing game franchises, including "Colin McRae Rally," "TOCA," and "F1." They also developed a variety of other genres, such as the "Dizzy" series in their early years. Codemasters is recognized for its technical expertise in creating realistic and immersive racing experiences, and has been a significant player in the video game industry for decades.</desc>
+<desc region="us">Codemasters, founded in 1986, is a British video game developer and publisher known for its racing game franchises, including "Colin McRae Rally," "TOCA," and "F1." They also developed a variety of other genres, such as the "Dizzy" series in their early years. Codemasters is recognized for its technical expertise in creating realistic and immersive racing experiences, and has been a significant player in the video game industry for decades. The company has a presence in the United States.</desc>
 
-		<!--<system.fullName>name</system.fullName>-->
+<desc lang="fr">Codemasters, fondée en 1986, est une société britannique de développement et d'édition de jeux vidéo connue pour ses franchises de jeux de course, notamment "Colin McRae Rally", "TOCA" et "F1". Ils ont également développé une variété d'autres genres, comme la série "Dizzy" à leurs débuts. Codemasters est reconnue pour son expertise technique dans la création d'expériences de course réalistes et immersives, et a été un acteur important de l'industrie du jeu vidéo pendant des décennies.</desc>
+<desc lang="fr" region="us">Codemasters, fondée en 1986, est une société britannique de développement et d'édition de jeux vidéo connue pour ses franchises de jeux de course, notamment "Colin McRae Rally", "TOCA" et "F1". Ils ont également développé une variété d'autres genres, comme la série "Dizzy" à leurs débuts. Codemasters est reconnue pour son expertise technique dans la création d'expériences de course réalistes et immersives, et a été un acteur important de l'industrie du jeu vidéo pendant des décennies. L'entreprise est présente aux États-Unis.</desc>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

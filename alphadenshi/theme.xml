@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Alpha Denshi Co., Ltd.</system.manufacturer>
+		<system.fullName>Alpha Denshi Games</system.fullName>
+		<system.fullName lang="fr">Jeux Alpha Denshi</system.fullName>
+		<system.releaseYearOrNull>1980</system.releaseYearOrNull>
+		<desc>Alpha Denshi Co., Ltd., also known as ADK, was a Japanese video game developer and publisher. The company was founded in 1980 and is best known for developing and publishing the World Heroes and Ninja Commando series of games. Alpha Denshi also developed and published a number of other arcade and console games.</desc>
+		<desc lang="fr">Alpha Denshi Co., Ltd., également connue sous le nom d'ADK, était une société japonaise de développement et d'édition de jeux vidéo. La société a été fondée en 1980 et est surtout connue pour avoir développé et publié les séries de jeux World Heroes et Ninja Commando. Alpha Denshi a également développé et publié un certain nombre d'autres jeux d'arcade et de console.</desc>
 	</variables>
-
 </theme>

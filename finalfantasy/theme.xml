@@ -1,23 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+        <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
+        <variables>
+        <region.priority region="eu"/>
 
-	<variables><region.priority region="eu"/>
+                <system.manufacturer>Square Enix</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+                <system.fullName>Final Fantasy</system.fullName>
+                <system.fullName lang="fr">Final Fantasy</system.fullName>
 
-		<system.fullName>final fantasy</system.fullName>
+                <system.releaseYearOrNull>1987</system.releaseYearOrNull>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+                <desc>Final Fantasy is a long-running and highly acclaimed role-playing video game franchise developed and published by Square Enix. Known for its innovative gameplay, compelling stories, and memorable characters, the series has spanned numerous titles across various platforms, each offering unique worlds and adventures.</desc>
+                <desc lang="fr">Final Fantasy est une franchise de jeux vidéo de rôle de longue date et très acclamée, développée et publiée par Square Enix. Connue pour son gameplay innovant, ses histoires captivantes et ses personnages mémorables, la série a englobé de nombreux titres sur diverses plateformes, chacun offrant des mondes et des aventures uniques.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+        </variables>
 </theme>

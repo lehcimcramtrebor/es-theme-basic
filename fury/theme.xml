@@ -4,20 +4,16 @@
 
 	<formatVersion>7</formatVersion>
 
-    <include>./../theme.xml</include>
+<include>./../theme.xml</include>
 
 	<variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.manufacturer>Voidpoint</system.manufacturer>
+<system.fullName>Ion Fury</system.fullName>
+<system.releaseYearOrNull>2019</system.releaseYearOrNull>
+<desc>Ion Fury is a cyberpunk first-person shooter developed by Voidpoint and published by 3D Realms. Built on a modified version of the Build engine, it emulates the look and feel of 1990s shooters like Duke Nukem 3D. The game features fast-paced action, intricate level design, and a large arsenal of weapons. It has been praised for its authentic retro style and engaging gameplay.</desc>
+<desc lang="fr">Ion Fury est un jeu de tir à la première personne cyberpunk développé par Voidpoint et publié par 3D Realms. Construit sur une version modifiée du moteur Build, il imite l'apparence et la convivialité des jeux de tir des années 1990 comme Duke Nukem 3D. Le jeu propose une action rapide, une conception de niveaux complexe et un grand arsenal d'armes. Il a été salué pour son style rétro authentique et son gameplay engageant.</desc>
 
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+</variables>
 
 </theme>

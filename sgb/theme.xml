@@ -2,22 +2,33 @@
 
 <theme>
 
-	<formatVersion>7</formatVersion>
+    <formatVersion>7</formatVersion>
 
     <include>./../theme.xml</include>
 
-	<variables><region.priority region="eu"/>
+    <variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+    <system.manufacturer>Nintendo</system.manufacturer>
+    <system.manufacturer region="us">Nintendo</system.manufacturer>
+    <system.manufacturer region="jp">Nintendo</system.manufacturer>
 
-		<!--<system.fullName>name</system.fullName>-->
+    <system.fullName>Super Game Boy</system.fullName>
+    <system.fullName region="us">Super Game Boy</system.fullName>
+    <system.fullName region="jp">Super Game Boy</system.fullName>
+    <system.fullName lang="fr">Super Game Boy</system.fullName>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+    <system.releaseYearOrNull>1994</system.releaseYearOrNull>
+    <system.releaseYearOrNull region="us">1994</system.releaseYearOrNull>
+    <system.releaseYearOrNull region="jp">1994</system.releaseYearOrNull>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
+    <desc>The Super Game Boy is a peripheral for the Super Nintendo Entertainment System (SNES) that allows Game Boy games to be played on a television screen. Released in 1994, it offered enhanced color palettes and borders for Game Boy games, providing a unique way to experience handheld titles on a home console. It expanded the SNES library and brought Game Boy games to a larger audience.</desc>
+    <desc region="us">The Super Game Boy is a peripheral for the Super Nintendo Entertainment System (SNES) that allows Game Boy games to be played on a television screen. Released in 1994, it offered enhanced color palettes and borders for Game Boy games.</desc>
+    <desc region="jp">The Super Game Boy is a peripheral for the Super Nintendo Entertainment System (SNES) that allows Game Boy games to be played on a television screen. Released in 1994, it offered enhanced color palettes and borders for Game Boy games.</desc>
 
-	</variables>
+    <desc lang="fr">Le Super Game Boy est un périphérique pour la Super Nintendo Entertainment System (SNES) qui permet de jouer aux jeux Game Boy sur un écran de télévision. Sorti en 1994, il offrait des palettes de couleurs et des bordures améliorées pour les jeux Game Boy, offrant une façon unique de découvrir les titres portables sur une console domestique. Il a élargi la bibliothèque SNES et a apporté les jeux Game Boy à un public plus large.</desc>
+    <desc lang="fr" region="us">Le Super Game Boy est un périphérique pour la Super Nintendo Entertainment System (SNES) qui permet de jouer aux jeux Game Boy sur un écran de télévision. Sorti en 1994, il offrait des palettes de couleurs et des bordures améliorées pour les jeux Game Boy.</desc>
+    <desc lang="fr" region="jp">Le Super Game Boy est un périphérique pour la Super Nintendo Entertainment System (SNES) qui permet de jouer aux jeux Game Boy sur un écran de télévision. Sorti en 1994, il offrait des palettes de couleurs et des bordures améliorées pour les jeux Game Boy.</desc>
+
+</variables>
 
 </theme>

@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Atlus</system.manufacturer>
+		<system.fullName>Atlus Games</system.fullName>
+		<system.fullName lang="fr">Jeux Atlus</system.fullName>
+		<system.releaseYearOrNull>1986</system.releaseYearOrNull>
+		<desc>Atlus is a Japanese video game developer and publisher that was founded in 1986. The company is best known for its role-playing video game franchises, such as Persona, Shin Megami Tensei, and Etrian Odyssey.</desc>
+		<desc lang="fr">Atlus est un développeur et éditeur de jeux vidéo japonais fondé en 1986. L'entreprise est surtout connue pour ses franchises de jeux de rôle vidéo, telles que Persona, Shin Megami Tensei et Etrian Odyssey.</desc>
 	</variables>
-
 </theme>

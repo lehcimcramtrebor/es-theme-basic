@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
+<include>./../theme.xml</include>
 	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+<system.manufacturer>OpenLARA Team</system.manufacturer>
+<system.fullName>OpenLARA</system.fullName>
+<system.fullName lang="fr">OpenLARA</system.fullName>
+<desc>OpenLARA is a free and open-source project that aims to reverse engineer and recreate the classic Tomb Raider games. It focuses on providing a faithful recreation of the original gameplay and visuals while offering improved compatibility and modding capabilities. OpenLARA allows players to experience the iconic adventures of Lara Croft on modern systems with enhanced graphics and performance.</desc>
+<desc lang="fr">OpenLARA est un projet gratuit et open-source qui vise à rétro-ingénierie et à recréer les jeux Tomb Raider classiques. Il se concentre sur la fourniture d'une recréation fidèle du gameplay et des visuels originaux tout en offrant une compatibilité et des capacités de modding améliorées. OpenLARA permet aux joueurs de découvrir les aventures emblématiques de Lara Croft sur les systèmes modernes avec des graphismes et des performances améliorés.</desc>
+</variables>
 </theme>

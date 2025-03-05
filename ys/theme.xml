@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Ys Net</system.manufacturer>
+		<system.fullName>YS</system.fullName>
+		<desc>YS is a series of action role-playing games developed by Nihon Falcom. The series follows the adventures of Adol Christin, an adventurer who travels the world in search of adventure. The games are known for their fast-paced combat, engaging stories, and beautiful soundtracks.</desc>
+		<desc lang="fr">YS est une série de jeux de rôle d'action développée par Nihon Falcom. La série suit les aventures d'Adol Christin, un aventurier qui parcourt le monde à la recherche d'aventures. Les jeux sont connus pour leurs combats rapides, leurs histoires engageantes et leurs magnifiques bandes sonores.</desc>
 	</variables>
-
 </theme>

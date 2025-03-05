@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+  <variables>
+    <region.priority region="eu"/>
+    <system.manufacturer>Various</system.manufacturer>
+    <system.fullName>Simulation Games</system.fullName>
+    <system.fullName lang="fr">Jeux de simulation</system.fullName>
+    <desc>Simulation games attempt to replicate various activities from real life in the form of a game. They can focus on a wide variety of subjects, such as vehicle simulation, life simulation, construction simulation, and more.</desc>
+    <desc lang="fr">Les jeux de simulation tentent de reproduire diverses activités de la vie réelle sous la forme d'un jeu. Ils peuvent se concentrer sur une grande variété de sujets, tels que la simulation de véhicules, la simulation de vie, la simulation de construction, etc.</desc>
+  </variables>
 </theme>

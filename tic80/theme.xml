@@ -1,23 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+  <variables>
+    <region.priority region="eu" />
 
-	<formatVersion>7</formatVersion>
+    <system.manufacturer>Nesbox</system.manufacturer>
+    <system.fullName>TIC-80</system.fullName>
+    <system.releaseYearOrNull>2017</system.releaseYearOrNull>
+    <desc>TIC-80 is a fantasy computer for making, playing and sharing tiny games. It has built-in tools for development: code, sprites, maps, sound editors and the command line, which is enough to create a mini retro game. The game can be exported to a cartridge, which is a single file that can be stored and played on different platforms. The TIC-80 is free and open-source, and has a vibrant community of developers and players.</desc>
+    <desc lang="fr">TIC-80 est un ordinateur fictif pour créer, jouer et partager de petits jeux. Il dispose d'outils de développement intégrés : code, sprites, cartes, éditeurs de son et ligne de commande, ce qui est suffisant pour créer un mini jeu rétro. Le jeu peut être exporté dans une cartouche, qui est un fichier unique qui peut être stocké et lu sur différentes plateformes. Le TIC-80 est gratuit et open-source, et possède une communauté dynamique de développeurs et de joueurs.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+  </variables>
 </theme>

@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Various</system.manufacturer>
+		<system.fullName>Casino Games</system.fullName>
+		<system.fullName lang="fr">Jeux de casino</system.fullName>
+		<desc>Casino games encompass a wide range of gambling activities found in casinos and online platforms. They include classic card games like blackjack and poker, table games such as roulette and craps, and slot machines. These games offer various levels of skill and chance, providing diverse experiences for players.</desc>
+		<desc lang="fr">Les jeux de casino englobent un large éventail d'activités de jeu que l'on trouve dans les casinos et les plateformes en ligne. Ils comprennent des jeux de cartes classiques comme le blackjack et le poker, des jeux de table comme la roulette et le craps, et des machines à sous. Ces jeux offrent divers niveaux d'habileté et de chance, offrant des expériences variées aux joueurs.</desc>
 	</variables>
-
 </theme>

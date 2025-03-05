@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+  <variables>
+    <region.priority region="eu"/>
+    <system.manufacturer>Various</system.manufacturer>
+    <system.fullName>Hunting and Fishing Games</system.fullName>
+    <system.fullName lang="fr">Jeux de chasse et de pêche</system.fullName>
+    <desc>Hunting and fishing games simulate the experience of hunting and fishing, often in realistic environments. They may involve tracking and shooting animals, or casting and reeling in fish.</desc>
+    <desc lang="fr">Les jeux de chasse et de pêche simulent l'expérience de la chasse et de la pêche, souvent dans des environnements réalistes. Ils peuvent impliquer de suivre et de tirer sur des animaux, ou de lancer et de remonter des poissons.</desc>
+  </variables>
 </theme>

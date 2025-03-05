@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+  <variables>
+    <region.priority region="eu"/>
+    <system.manufacturer>Commodore Business Machines Inc.</system.manufacturer>
+    <system.fullName>Commodore 16</system.fullName>
+    <system.fullName lang="fr">Commodore 16</system.fullName>
+    <system.releaseYearOrNull>1984</system.releaseYearOrNull>
+    <desc>The Commodore 16, also known as the C16, was an 8-bit home computer released by Commodore Business Machines Inc. in 1984. Marketed as an entry-level computer, it was designed to be more affordable than the Commodore 64.  However, its limited capabilities and incompatibility with C64 software hindered its success. Despite this, the C16 offered an introduction to computing for many users and holds a place in Commodore's history.</desc>
+    <desc lang="fr">Le Commodore 16, également connu sous le nom de C16, était un ordinateur personnel 8 bits sorti par Commodore Business Machines Inc. en 1984. Commercialisé comme un ordinateur d'entrée de gamme, il a été conçu pour être plus abordable que le Commodore 64. Cependant, ses capacités limitées et son incompatibilité avec les logiciels C64 ont entravé son succès. Malgré cela, le C16 a offert une introduction à l'informatique à de nombreux utilisateurs et occupe une place dans l'histoire de Commodore.</desc>
+  </variables>
 </theme>

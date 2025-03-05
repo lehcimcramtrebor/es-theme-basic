@@ -1,23 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+        <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
+        <variables>
+        <region.priority region="eu"/>
 
-	<variables><region.priority region="eu"/>
+                <system.manufacturer>SNK</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+                <system.fullName>Fatal Fury</system.fullName>
+                <system.fullName lang="fr">Fatal Fury</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+                <system.releaseYearOrNull>1991</system.releaseYearOrNull>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+                <desc>Fatal Fury is a series of fighting games created by SNK. The series is known for its deep fighting mechanics, its diverse cast of characters, and its engaging storylines. Fatal Fury has been ported to a variety of consoles and handhelds, and it has also spawned a number of spin-offs.</desc>
+                <desc lang="fr">Fatal Fury est une série de jeux de combat créée par SNK. La série est connue pour ses mécanismes de combat profonds, son casting varié de personnages et ses scénarios captivants. Fatal Fury a été porté sur une variété de consoles et d'appareils portables, et il a également engendré un certain nombre de spin-offs.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+        </variables>
 </theme>

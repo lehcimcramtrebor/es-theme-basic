@@ -4,20 +4,22 @@
 
 	<formatVersion>7</formatVersion>
 
-    <include>./../theme.xml</include>
+<include>./../theme.xml</include>
 
 	<variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.manufacturer>Nintendo</system.manufacturer>
+<system.fullName>Game Boy</system.fullName>
+<system.releaseYearOrNull>1989</system.releaseYearOrNull>
+<system.releaseYearOrNull region="us">1989</system.releaseYearOrNull>
+<system.releaseYearOrNull region="jp">1989</system.releaseYearOrNull>
+<desc>The Game Boy is an 8-bit handheld game console developed and manufactured by Nintendo. Released in 1989, it became one of the most successful and influential handheld gaming systems. Designed by Gunpei Yokoi and his team, the Game Boy featured a monochrome dot-matrix screen, a simple button layout, and a cartridge-based system. Its portability, durability, and extensive library of games contributed to its widespread popularity. Notable games include Tetris, Pokémon, and Super Mario Land. The Game Boy's success solidified Nintendo's dominance in the handheld gaming market.</desc>
+<desc region="us">The Game Boy is an 8-bit handheld game console developed and manufactured by Nintendo. Released in 1989, it became one of the most successful and influential handheld gaming systems. Designed by Gunpei Yokoi and his team, the Game Boy featured a monochrome dot-matrix screen, a simple button layout, and a cartridge-based system. Its portability, durability, and extensive library of games contributed to its widespread popularity. Notable games include Tetris, Pokémon, and Super Mario Land. The Game Boy's success solidified Nintendo's dominance in the handheld gaming market.</desc>
+<desc region="jp">The Game Boy is an 8-bit handheld game console developed and manufactured by Nintendo. Released in 1989, it became one of the most successful and influential handheld gaming systems. Designed by Gunpei Yokoi and his team, the Game Boy featured a monochrome dot-matrix screen, a simple button layout, and a cartridge-based system. Its portability, durability, and extensive library of games contributed to its widespread popularity. Notable games include Tetris, Pokémon, and Super Mario Land. The Game Boy's success solidified Nintendo's dominance in the handheld gaming market.</desc>
+<desc lang="fr">La Game Boy est une console de jeux portable 8 bits développée et fabriquée par Nintendo. Lancée en 1989, elle est devenue l'un des systèmes de jeux portables les plus réussis et les plus influents. Conçue par Gunpei Yokoi et son équipe, la Game Boy était dotée d'un écran matriciel monochrome, d'une disposition de boutons simple et d'un système à cartouche. Sa portabilité, sa durabilité et sa vaste bibliothèque de jeux ont contribué à sa popularité généralisée. Les jeux notables incluent Tetris, Pokémon et Super Mario Land. Le succès de la Game Boy a consolidé la domination de Nintendo sur le marché des jeux portables.</desc>
+<desc lang="fr" region="us">La Game Boy est une console de jeux portable 8 bits développée et fabriquée par Nintendo. Lancée en 1989, elle est devenue l'un des systèmes de jeux portables les plus réussis et les plus influents. Conçue par Gunpei Yokoi et son équipe, la Game Boy était dotée d'un écran matriciel monochrome, d'une disposition de boutons simple et d'un système à cartouche. Sa portabilité, sa durabilité et sa vaste bibliothèque de jeux ont contribué à sa popularité généralisée. Les jeux notables incluent Tetris, Pokémon et Super Mario Land. Le succès de la Game Boy a consolidé la domination de Nintendo sur le marché des jeux portables.</desc>
+<desc lang="fr" region="jp">La Game Boy est une console de jeux portable 8 bits développée et fabriquée par Nintendo. Lancée en 1989, elle est devenue l'un des systèmes de jeux portables les plus réussis et les plus influents. Conçue par Gunpei Yokoi et son équipe, la Game Boy était dotée d'un écran matriciel monochrome, d'une disposition de boutons simple et d'un système à cartouche. Sa portabilité, sa durabilité et sa vaste bibliothèque de jeux ont contribué à sa popularité généralisée. Les jeux notables incluent Tetris, Pokémon et Super Mario Land. Le succès de la Game Boy a consolidé la domination de Nintendo sur le marché des jeux portables.</desc>
 
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
+</variables>
 
 </theme>

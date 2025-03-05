@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Sony</system.manufacturer>
+		<system.fullName>PocketStation</system.fullName>
+		<system.fullName lang="fr">PocketStation</system.fullName>
+		<desc>The PocketStation was a miniature memory card peripheral by Sony Computer Entertainment for the PlayStation home video game console. It featured a monochrome liquid crystal display (LCD), sound, and real-time clock. It could also be used as a standalone handheld game console.</desc>
+		<desc lang="fr">La PocketStation était un périphérique de carte mémoire miniature de Sony Computer Entertainment pour la console de jeux vidéo PlayStation. Il comportait un écran à cristaux liquides (LCD) monochrome, du son et une horloge en temps réel. Il pouvait également être utilisé comme une console de jeux portable autonome.</desc>
 	</variables>
-
 </theme>

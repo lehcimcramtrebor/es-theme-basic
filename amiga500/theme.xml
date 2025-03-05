@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Commodore</system.manufacturer>
+		<system.fullName>Amiga 500</system.fullName>
+		<system.fullName lang="fr">Amiga 500</system.fullName>
+		<system.releaseYearOrNull>1987</system.releaseYearOrNull>
+		<desc>The Amiga 500 is a home computer that was released by Commodore International in 1987. It was one of the most popular home computers of the late 1980s and early 1990s, and it is considered to be one of the most influential computers of all time. The Amiga 500 was known for its advanced graphics and sound capabilities, which made it popular for gaming and multimedia applications. It was also relatively affordable, which made it accessible to a wide range of consumers. The Amiga 500 was discontinued in 1994, but it remains a popular platform for retro gaming.</desc>
+		<desc lang="fr">L'Amiga 500 est un ordinateur personnel sorti par Commodore International en 1987. C'était l'un des ordinateurs personnels les plus populaires de la fin des années 1980 et du début des années 1990, et il est considéré comme l'un des ordinateurs les plus influents de tous les temps. L'Amiga 500 était connu pour ses capacités graphiques et sonores avancées, ce qui l'a rendu populaire pour les jeux et les applications multimédias. Il était également relativement abordable, ce qui l'a rendu accessible à un large éventail de consommateurs. L'Amiga 500 a été abandonné en 1994, mais il reste une plate-forme populaire pour le rétrogaming.</desc>
 	</variables>
-
 </theme>

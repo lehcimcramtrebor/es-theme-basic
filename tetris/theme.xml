@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Alexey Pajitnov</system.manufacturer>
+<system.fullName>Tetris</system.fullName>
+<system.releaseYearOrNull>1984</system.releaseYearOrNull>
+<desc>Tetris is a tile-matching puzzle video game originally designed and programmed by Alexey Pajitnov in the Soviet Union. It has become one of the most popular and recognizable video games of all time, with versions released on nearly every gaming platform. The game involves rotating and placing falling tetrominoes (shapes composed of four square blocks) to create complete horizontal lines without any gaps. When a line is completed, it disappears, and the blocks above fall down to fill the space. The game continues until the blocks stack up to the top of the playing field. Tetris is known for its simple yet addictive gameplay, and its ability to appeal to players of all ages and skill levels.</desc>
+<desc lang="fr">Tetris est un jeu vidéo de puzzle d'association de tuiles conçu et programmé à l'origine par Alexey Pajitnov en Union soviétique. Il est devenu l'un des jeux vidéo les plus populaires et les plus reconnaissables de tous les temps, avec des versions sorties sur presque toutes les plateformes de jeu. Le jeu consiste à faire pivoter et à placer des tétrominos qui tombent (formes composées de quatre blocs carrés) pour créer des lignes horizontales complètes sans aucun espace. Lorsqu'une ligne est terminée, elle disparaît et les blocs au-dessus tombent pour remplir l'espace. Le jeu continue jusqu'à ce que les blocs s'empilent jusqu'en haut du terrain de jeu. Tetris est connu pour son gameplay simple mais addictif, et sa capacité à plaire aux joueurs de tous âges et de tous niveaux.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

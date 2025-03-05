@@ -2,22 +2,33 @@
 
 <theme>
 
-	<formatVersion>7</formatVersion>
+        <formatVersion>7</formatVersion>
 
-    <include>./../theme.xml</include>
+        <include>./../theme.xml</include>
 
-	<variables><region.priority region="eu"/>
+        <variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+        <system.manufacturer>Sega</system.manufacturer>
+        <system.manufacturer region="us">Sega</system.manufacturer>
+        <system.manufacturer region="jp">Sega</system.manufacturer>
 
-		<!--<system.fullName>name</system.fullName>-->
+        <system.fullName>Sega Saturn</system.fullName>
+        <system.fullName region="us">Sega Saturn</system.fullName>
+        <system.fullName region="jp">Sega Saturn</system.fullName>
+        <system.fullName lang="fr">Sega Saturn</system.fullName>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+        <system.releaseYearOrNull>1994</system.releaseYearOrNull>
+        <system.releaseYearOrNull region="us">1995</system.releaseYearOrNull>
+        <system.releaseYearOrNull region="jp">1994</system.releaseYearOrNull>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
+        <desc>The Sega Saturn is a 32-bit fifth-generation home video game console developed by Sega. It was released in Japan in 1994, and later in North America and Europe in 1995. The Saturn used a dual-CPU architecture and was designed to compete with the PlayStation. It is known for its strong library of 2D games, particularly fighting games and shoot-'em-ups, as well as some innovative 3D titles. Despite its technical capabilities, it faced marketing challenges and intense competition, resulting in lower sales compared to its rivals.</desc>
+        <desc region="us">The Sega Saturn is a 32-bit fifth-generation home video game console developed by Sega. It was released in Japan in 1994, and later in North America in 1995. The Saturn used a dual-CPU architecture and was designed to compete with the PlayStation. It is known for its strong library of 2D games, particularly fighting games and shoot-'em-ups, as well as some innovative 3D titles. Despite its technical capabilities, it faced marketing challenges and intense competition, resulting in lower sales compared to its rivals.</desc>
+        <desc region="jp">The Sega Saturn is a 32-bit fifth-generation home video game console developed by Sega. It was released in Japan in 1994, and later in North America and Europe in 1995. The Saturn used a dual-CPU architecture and was designed to compete with the PlayStation. It is known for its strong library of 2D games, particularly fighting games and shoot-'em-ups, as well as some innovative 3D titles. Despite its technical capabilities, it faced marketing challenges and intense competition, resulting in lower sales compared to its rivals.</desc>
 
-	</variables>
+        <desc lang="fr">La Sega Saturn est une console de jeux vidéo domestique 32 bits de cinquième génération développée par Sega. Elle est sortie au Japon en 1994, puis en Amérique du Nord et en Europe en 1995. La Saturn utilisait une architecture à double processeur et a été conçue pour rivaliser avec la PlayStation. Elle est connue pour sa solide bibliothèque de jeux 2D, en particulier les jeux de combat et les shoot-'em-ups, ainsi que pour certains titres 3D innovants. Malgré ses capacités techniques, elle a rencontré des difficultés marketing et une concurrence intense, ce qui a entraîné des ventes inférieures à celles de ses concurrents.</desc>
+        <desc lang="fr" region="us">La Sega Saturn est une console de jeux vidéo domestique 32 bits de cinquième génération développée par Sega. Elle est sortie au Japon en 1994, puis en Amérique du Nord en 1995. La Saturn utilisait une architecture à double processeur et a été conçue pour rivaliser avec la PlayStation. Elle est connue pour sa solide bibliothèque de jeux 2D, en particulier les jeux de combat et les shoot-'em-ups, ainsi que pour certains titres 3D innovants. Malgré ses capacités techniques, elle a rencontré des difficultés marketing et une concurrence intense, ce qui a entraîné des ventes inférieures à celles de ses concurrents.</desc>
+        <desc lang="fr" region="jp">La Sega Saturn est une console de jeux vidéo domestique 32 bits de cinquième génération développée par Sega. Elle est sortie au Japon en 1994, puis en Amérique du Nord et en Europe en 1995. La Saturn utilisait une architecture à double processeur et a été conçue pour rivaliser avec la PlayStation. Elle est connue pour sa solide bibliothèque de jeux 2D, en particulier les jeux de combat et les shoot-'em-ups, ainsi que pour certains titres 3D innovants. Malgré ses capacités techniques, elle a rencontré des difficultés marketing et une concurrence intense, ce qui a entraîné des ventes inférieures à celles de ses concurrents.</desc>
+
+</variables>
 
 </theme>

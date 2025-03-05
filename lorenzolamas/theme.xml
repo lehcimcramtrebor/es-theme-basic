@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Lorenzolamas</system.manufacturer>
+        <system.fullName>Lorenzolamas VIP Collection</system.fullName>
+        <system.fullName lang="fr">Collection VIP de LorenzoLamas</system.fullName>
+        <desc>This is the exclusive collection curated by LorenzoLamas, a well-known figure in the Retrobat community and an ardent arcade enthusiast. This selection represents the pinnacle of his expertise, featuring only the finest arcade titles. Expect nothing less than perfection.</desc>
+        <desc lang="fr">Voici la collection exclusive organisée par LorenzoLamas, une figure bien connue de la communauté Retrobat et un fervent passionné d'arcade. Cette sélection représente le summum de son expertise, ne présentant que les meilleurs titres d'arcade. Ne vous attendez à rien de moins que la perfection.</desc>
+    </variables>
 </theme>

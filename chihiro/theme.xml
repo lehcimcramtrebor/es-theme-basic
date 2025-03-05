@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Sega</system.manufacturer>
+<system.manufacturer region="jp">Sega</system.manufacturer>
 
-    <include>./../theme.xml</include>
+<system.fullName>Sega Chihiro</system.fullName>
+<system.fullName region="jp">セガChihiro</system.fullName>
 
-	<variables><region.priority region="eu"/>
+<system.releaseYearOrNull>2002</system.releaseYearOrNull>
+<system.releaseYearOrNull region="jp">2002</system.releaseYearOrNull>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<desc>The Sega Chihiro, released in 2002, was an arcade system board based on the Xbox architecture. It allowed for easier porting of games between the arcade and the Xbox console. The Chihiro was known for its high-quality 3D graphics and was used for popular arcade games like "Crazy Taxi 3: High Roller" and "Virtua Fighter 4: Final Tuned."</desc>
+<desc region="jp">セガChihiro, released in 2002 in Japan, was an arcade system board based on the Xbox architecture. It allowed for easier porting of games between the arcade and the Xbox console. The Chihiro was known for its high-quality 3D graphics and was used for popular arcade games like "Crazy Taxi 3: High Roller" and "Virtua Fighter 4: Final Tuned."</desc>
 
-		<!--<system.fullName>name</system.fullName>-->
+<desc lang="fr">La Sega Chihiro, sortie en 2002, était une carte système d'arcade basée sur l'architecture Xbox. Elle permettait de porter plus facilement les jeux entre l'arcade et la console Xbox. La Chihiro était connue pour ses graphismes 3D de haute qualité et était utilisée pour des jeux d'arcade populaires comme "Crazy Taxi 3 : High Roller" et "Virtua Fighter 4 : Final Tuned".</desc>
+<desc lang="fr" region="jp">La Sega Chihiro, sortie en 2002 au Japon, était une carte système d'arcade basée sur l'architecture Xbox. Elle permettait de porter plus facilement les jeux entre l'arcade et la console Xbox. La Chihiro était connue pour ses graphismes 3D de haute qualité et était utilisée pour des jeux d'arcade populaires comme "Crazy Taxi 3 : High Roller" et "Virtua Fighter 4 : Final Tuned".</desc>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

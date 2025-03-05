@@ -2,22 +2,33 @@
 
 <theme>
 
-	<formatVersion>7</formatVersion>
+        <formatVersion>7</formatVersion>
 
-    <include>./../theme.xml</include>
+        <include>./../theme.xml</include>
 
-	<variables><region.priority region="eu"/>
+        <variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+        <system.manufacturer>Sega</system.manufacturer>
+        <system.manufacturer region="us">Sega</system.manufacturer>
+        <system.manufacturer region="jp">Sega</system.manufacturer>
 
-		<!--<system.fullName>name</system.fullName>-->
+        <system.fullName>Sega CD</system.fullName>
+        <system.fullName region="us">Sega CD</system.fullName>
+        <system.fullName region="jp">Mega CD</system.fullName>
+        <system.fullName lang="fr">Sega CD</system.fullName>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+        <system.releaseYearOrNull>1992</system.releaseYearOrNull>
+        <system.releaseYearOrNull region="us">1992</system.releaseYearOrNull>
+        <system.releaseYearOrNull region="jp">1991</system.releaseYearOrNull>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
+        <desc>The Sega CD, known as the Mega CD in Japan, is a CD-ROM add-on for the Sega Genesis/Mega Drive. It expanded the capabilities of the 16-bit console, allowing for full-motion video, CD-quality audio, and larger game sizes. Released in 1992 in North America and Europe, and 1991 in Japan, it offered a range of games that utilized its enhanced features. While it had some notable titles, it faced challenges with high prices and a mixed library, impacting its overall success.</desc>
+        <desc region="us">The Sega CD is a CD-ROM add-on for the Sega Genesis/Mega Drive. It expanded the capabilities of the 16-bit console, allowing for full-motion video, CD-quality audio, and larger game sizes. Released in 1992, it offered a range of games that utilized its enhanced features. While it had some notable titles, it faced challenges with high prices and a mixed library, impacting its overall success.</desc>
+        <desc region="jp">The Mega CD is a CD-ROM add-on for the Mega Drive. It expanded the capabilities of the 16-bit console, allowing for full-motion video, CD-quality audio, and larger game sizes. Released in 1991, it offered a range of games that utilized its enhanced features. While it had some notable titles, it faced challenges with high prices and a mixed library, impacting its overall success.</desc>
 
-	</variables>
+        <desc lang="fr">Le Sega CD, connu sous le nom de Mega CD au Japon, est un module complémentaire CD-ROM pour la Sega Genesis/Mega Drive. Il a étendu les capacités de la console 16 bits, permettant la vidéo plein écran, l'audio de qualité CD et des tailles de jeu plus importantes. Sorti en 1992 en Amérique du Nord et en Europe, et en 1991 au Japon, il offrait une gamme de jeux qui utilisaient ses fonctionnalités améliorées. Bien qu'il ait eu quelques titres notables, il a été confronté à des défis liés aux prix élevés et à une bibliothèque mitigée, ce qui a eu un impact sur son succès global.</desc>
+        <desc lang="fr" region="us">Le Sega CD est un module complémentaire CD-ROM pour la Sega Genesis/Mega Drive. Il a étendu les capacités de la console 16 bits, permettant la vidéo plein écran, l'audio de qualité CD et des tailles de jeu plus importantes. Sorti en 1992, il offrait une gamme de jeux qui utilisaient ses fonctionnalités améliorées. Bien qu'il ait eu quelques titres notables, il a été confronté à des défis liés aux prix élevés et à une bibliothèque mitigée, ce qui a eu un impact sur son succès global.</desc>
+        <desc lang="fr" region="jp">Le Mega CD est un module complémentaire CD-ROM pour la Mega Drive. Il a étendu les capacités de la console 16 bits, permettant la vidéo plein écran, l'audio de qualité CD et des tailles de jeu plus importantes. Sorti en 1991, il offrait une gamme de jeux qui utilisaient ses fonctionnalités améliorées. Bien qu'il ait eu quelques titres notables, il a été confronté à des défis liés aux prix élevés et à une bibliothèque mitigée, ce qui a eu un impact sur son succès global.</desc>
+
+</variables>
 
 </theme>

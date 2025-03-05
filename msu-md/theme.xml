@@ -1,23 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Sega &amp; Community</system.manufacturer>
+        <system.fullName>Mega Drive MSU-1</system.fullName>
+        <system.fullName region="us">Genesis MSU-1</system.fullName>
+        <system.releaseYearOrNull>2018</system.releaseYearOrNull> 
+        <desc>Mega Drive MSU-1 refers to the enhancement of Mega Drive games through the MSU-1 chip, a custom enhancement chip allowing for CD-quality audio, FMV playback, and enhanced graphics. This enhancement unlocks a new level of fidelity and immersion in Mega Drive games, breathing new life into classic titles.</desc>
+        <desc region="us">Genesis MSU-1 refers to the enhancement of Genesis games through the MSU-1 chip, a custom enhancement chip allowing for CD-quality audio, FMV playback, and enhanced graphics. This enhancement unlocks a new level of fidelity and immersion in Genesis games, breathing new life into classic titles.</desc>
+        <desc lang="fr">Mega Drive MSU-1 fait référence à l'amélioration des jeux Mega Drive grâce à la puce MSU-1, une puce d'amélioration personnalisée permettant un son de qualité CD, la lecture FMV et des graphismes améliorés. Cette amélioration débloque un nouveau niveau de fidélité et d'immersion dans les jeux Mega Drive, insufflant une nouvelle vie aux titres classiques.</desc>
+        <desc lang="fr" region="us">Genesis MSU-1 fait référence à l'amélioration des jeux Genesis grâce à la puce MSU-1, une puce d'amélioration personnalisée permettant un son de qualité CD, la lecture FMV et des graphismes améliorés. Cette amélioration débloque un nouveau niveau de fidélité et d'immersion dans les jeux Genesis, insufflant une nouvelle vie aux titres classiques.</desc>
+    </variables>
 </theme>

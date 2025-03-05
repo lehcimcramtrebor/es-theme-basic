@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+  <variables>
+    <region.priority region="eu"/>
+    <system.manufacturer>Bullfrog Productions</system.manufacturer>
+    <system.fullName>Bullfrog Productions Games</system.fullName>
+    <system.fullName lang="fr">Jeux Bullfrog Productions</system.fullName>
+    <system.releaseYearOrNull>1987</system.releaseYearOrNull>
+    <desc>Bullfrog Productions was a British video game developer founded in 1987 by Peter Molyneux and Les Edgar.  The studio was known for its innovative and often quirky games, including Populous, Theme Park, Syndicate, and Dungeon Keeper. Acquired by Electronic Arts in 1995, Bullfrog Productions eventually closed in 2001, but its legacy of creative and groundbreaking titles continues to influence game developers today.</desc>
+    <desc lang="fr">Bullfrog Productions était un développeur de jeux vidéo britannique fondé en 1987 par Peter Molyneux et Les Edgar. Le studio était connu pour ses jeux innovants et souvent décalés, notamment Populous, Theme Park, Syndicate et Dungeon Keeper. Acquis par Electronic Arts en 1995, Bullfrog Productions a finalement fermé ses portes en 2001, mais son héritage de titres créatifs et révolutionnaires continue d'influencer les développeurs de jeux aujourd'hui.</desc>
+  </variables>
 </theme>

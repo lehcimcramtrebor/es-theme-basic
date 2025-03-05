@@ -1,23 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+        <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
+        <variables>
+        <region.priority region="eu"/>
 
-	<variables><region.priority region="eu"/>
+                <system.manufacturer>Flatpak Team</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+                <system.fullName>Flatpak</system.fullName>
+                <system.fullName lang="fr">Flatpak</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+                <system.releaseYearOrNull>2015</system.releaseYearOrNull>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+                <desc>Flatpak is a utility for software deployment and package management for Linux. It provides a sandbox environment in which users can run applications in isolation from the rest of the system. This allows users to run multiple versions of the same application, and makes it easier to install and manage applications.</desc>
+                <desc lang="fr">Flatpak est un utilitaire de déploiement de logiciels et de gestion de paquets pour Linux. Il fournit un environnement sandbox dans lequel les utilisateurs peuvent exécuter des applications isolées du reste du système. Cela permet aux utilisateurs d'exécuter plusieurs versions de la même application et facilite l'installation et la gestion des applications.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+        </variables>
 </theme>

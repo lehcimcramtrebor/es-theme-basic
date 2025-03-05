@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Bandai</system.manufacturer>
+        <system.fullName>WonderSwan</system.fullName>
+        <system.fullName lang="fr">WonderSwan</system.fullName>
+        <system.releaseYearOrNull>1999</system.releaseYearOrNull>
+        <desc>The WonderSwan is a handheld game console developed by Bandai and designed by Koto Laboratory. It was released in 1999 in Japan. The console was notable for its low price, long battery life, and high-quality monochrome display. It was designed by Gunpei Yokoi, the creator of the Game Boy. The WonderSwan library includes a variety of genres, with games like "Final Fantasy" remakes, "Gunpey," and numerous anime and manga tie-ins. Later iterations included the WonderSwan Color and SwanCrystal, which featured color displays. Despite its popularity in Japan, the WonderSwan was never released outside of its home country.</desc>
+        <desc lang="fr">La WonderSwan est une console de jeu portable développée par Bandai et conçue par Koto Laboratory. Elle est sortie en 1999 au Japon. La console était remarquable pour son prix bas, sa longue durée de vie de la batterie et son écran monochrome de haute qualité. Elle a été conçue par Gunpei Yokoi, le créateur de la Game Boy. La bibliothèque WonderSwan comprend une variété de genres, avec des jeux comme les remakes de "Final Fantasy", "Gunpey", et de nombreuses adaptations d'anime et de manga. Les itérations ultérieures comprenaient la WonderSwan Color et la SwanCrystal, qui comportaient des écrans couleur. Malgré sa popularité au Japon, la WonderSwan n'a jamais été commercialisée en dehors de son pays d'origine.</desc>
+    </variables>
 </theme>

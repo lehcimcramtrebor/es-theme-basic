@@ -1,23 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+        <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
+        <variables>
+        <region.priority region="eu"/>
 
-	<variables><region.priority region="eu"/>
+                <system.manufacturer>ECWolf Team</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+                <system.fullName>ECWolf</system.fullName>
+                <system.fullName lang="fr">ECWolf</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+                <system.releaseYearOrNull>2013</system.releaseYearOrNull>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+                <desc>ECWolf is a source port of the classic first-person shooter Wolfenstein 3D. It is designed to be cross-platform, highly compatible, and easily extensible. ECWolf supports a variety of enhancements, including high-resolution graphics, improved sound, and mod support.</desc>
+                <desc lang="fr">ECWolf est un portage du code source du jeu de tir à la première personne classique Wolfenstein 3D. Il est conçu pour être multiplateforme, hautement compatible et facilement extensible. ECWolf prend en charge diverses améliorations, notamment des graphiques haute résolution, un son amélioré et la prise en charge des mods.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+        </variables>
 </theme>

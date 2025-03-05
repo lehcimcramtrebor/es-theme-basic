@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>PiMiga Team</system.manufacturer>
+		<system.fullName>PiMiga</system.fullName>
+		<system.fullName lang="fr">PiMiga</system.fullName>
+		<desc>PiMiga is a distribution of Amiga emulation software for the Raspberry Pi. It provides a complete Amiga experience on the Raspberry Pi, including support for a wide range of Amiga games and software. PiMiga is known for its ease of use and its ability to run Amiga software at full speed.</desc>
+		<desc lang="fr">PiMiga est une distribution de logiciels d'émulation Amiga pour le Raspberry Pi. Il offre une expérience Amiga complète sur le Raspberry Pi, y compris la prise en charge d'une large gamme de jeux et de logiciels Amiga. PiMiga est connu pour sa facilité d'utilisation et sa capacité à exécuter des logiciels Amiga à pleine vitesse.</desc>
 	</variables>
-
 </theme>

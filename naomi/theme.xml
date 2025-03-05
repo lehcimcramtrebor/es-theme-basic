@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Sega</system.manufacturer>
+        <system.fullName>Sega NAOMI</system.fullName>
+        <system.releaseYearOrNull>1998</system.releaseYearOrNull>
+        <desc>The Sega NAOMI (New Arcade Operation Machine Idea) is an arcade system board released by Sega in 1998. It is based on the Dreamcast hardware and features enhanced 3D graphics and sound capabilities. The NAOMI powered several popular arcade games, including Crazy Taxi, Marvel vs. Capcom 2, and The House of the Dead 2. It was also used as the basis for the Atomiswave arcade system board.</desc>
+        <desc lang="fr">Le Sega NAOMI (New Arcade Operation Machine Idea) est une carte système d'arcade commercialisée par Sega en 1998. Il est basé sur le matériel Dreamcast et offre des graphismes 3D et des capacités sonores améliorés. Le NAOMI a alimenté plusieurs jeux d'arcade populaires, dont Crazy Taxi, Marvel vs. Capcom 2 et The House of the Dead 2. Il a également servi de base à la carte système d'arcade Atomiswave.</desc>
+    </variables>
 </theme>

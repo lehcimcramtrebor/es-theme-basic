@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+  <variables>
+    <region.priority region="eu"/>
+    <system.manufacturer>Various</system.manufacturer>
+    <system.fullName>Spinner Games</system.fullName>
+    <system.fullName lang="fr">Jeux de toupie</system.fullName>
+    <desc>Spinner games involve spinning a top or spinner, often with the goal of keeping it spinning for as long as possible or achieving a specific objective. They can be physical games, such as those played with a spinning top, or video games that simulate the experience.</desc>
+    <desc lang="fr">Les jeux de toupie consistent à faire tourner une toupie ou un spinner, souvent dans le but de la maintenir en rotation le plus longtemps possible ou d'atteindre un objectif spécifique. Il peut s'agir de jeux physiques, tels que ceux joués avec une toupie, ou de jeux vidéo qui simulent l'expérience.</desc>
+  </variables>
 </theme>

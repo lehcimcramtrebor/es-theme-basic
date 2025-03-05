@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+  <variables>
+    <region.priority region="eu"/>
+    <system.manufacturer>Various</system.manufacturer>
+    <system.fullName>Music and Dance Games</system.fullName>
+    <system.fullName lang="fr">Jeux de musique et de danse</system.fullName>
+    <desc>Music and dance games challenge players to follow rhythms and perform actions in sync with music. They often involve specialized controllers, such as dance pads or instruments, and provide an energetic and entertaining experience.</desc>
+    <desc lang="fr">Les jeux de musique et de danse mettent les joueurs au défi de suivre des rythmes et d'effectuer des actions en synchronisation avec la musique. Ils impliquent souvent des contrôleurs spécialisés, tels que des tapis de danse ou des instruments, et offrent une expérience énergique et divertissante.</desc>
+  </variables>
 </theme>

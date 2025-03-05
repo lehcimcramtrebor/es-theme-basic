@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Various</system.manufacturer>
+        <system.fullName>MSX1</system.fullName>
+        <desc>The MSX1 is the first generation of the MSX home computer standard. It was released in 1983 and was popular in Japan, South America, and Europe. The MSX1 featured a wide range of games and software, including many titles that were exclusive to the system. It laid the foundation for the MSX platform, which saw several subsequent generations.</desc>
+        <desc lang="fr">Le MSX1 est la première génération de la norme d'ordinateur personnel MSX. Il a été commercialisé en 1983 et était populaire au Japon, en Amérique du Sud et en Europe. Le MSX1 proposait une large gamme de jeux et de logiciels, dont de nombreux titres exclusifs au système. Il a jeté les bases de la plateforme MSX, qui a connu plusieurs générations ultérieures.</desc>
+    </variables>
 </theme>

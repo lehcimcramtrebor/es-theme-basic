@@ -2,22 +2,28 @@
 
 <theme>
 
-	<formatVersion>7</formatVersion>
+    <formatVersion>7</formatVersion>
 
     <include>./../theme.xml</include>
 
-	<variables><region.priority region="eu"/>
+    <variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+    <system.manufacturer>Sega</system.manufacturer>
+    <system.manufacturer region="jp">Sega</system.manufacturer>
 
-		<!--<system.fullName>name</system.fullName>-->
+    <system.fullName>SG-1000</system.fullName>
+    <system.fullName region="jp">SG-1000</system.fullName>
+    <system.fullName lang="fr">SG-1000</system.fullName>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+    <system.releaseYearOrNull>1983</system.releaseYearOrNull>
+    <system.releaseYearOrNull region="jp">1983</system.releaseYearOrNull>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
+    <desc>The Sega SG-1000 is a home video game console manufactured by Sega. It was Sega's first entry into the home video game console market. Released in 1983, it had a limited release, primarily in Japan and a few other markets. Despite its short lifespan, it laid the groundwork for Sega's future console development. It featured a variety of arcade ports and original titles.</desc>
+    <desc region="jp">The SG-1000 is a home video game console manufactured by Sega. It was released in 1983 in Japan. It featured a variety of arcade ports and original titles.</desc>
 
-	</variables>
+    <desc lang="fr">La Sega SG-1000 est une console de jeux vidéo domestique fabriquée par Sega. Elle a été la première incursion de Sega sur le marché des consoles de jeux vidéo domestiques. Sortie en 1983, elle a eu une diffusion limitée, principalement au Japon et dans quelques autres marchés. Malgré sa courte durée de vie, elle a jeté les bases du développement futur des consoles de Sega. Elle proposait une variété de ports d'arcade et de titres originaux.</desc>
+    <desc lang="fr" region="jp">La SG-1000 est une console de jeux vidéo domestique fabriquée par Sega. Elle est sortie en 1983 au Japon. Elle proposait une variété de ports d'arcade et de titres originaux.</desc>
+
+</variables>
 
 </theme>

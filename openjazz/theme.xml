@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
+<include>./../theme.xml</include>
 	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+<system.manufacturer>OpenJazz Team</system.manufacturer>
+<system.fullName>OpenJazz</system.fullName>
+<system.fullName lang="fr">OpenJazz</system.fullName>
+<desc>OpenJazz is a free and open-source recreation of the classic 1994 game Jazz Jackrabbit. It aims to provide a faithful recreation of the original game while offering improved compatibility with modern systems. OpenJazz allows players to experience the fast-paced platforming action of Jazz Jackrabbit on various platforms, preserving the charm and gameplay of the original.</desc>
+<desc lang="fr">OpenJazz est une recréation gratuite et open-source du jeu classique de 1994 Jazz Jackrabbit. Il vise à fournir une recréation fidèle du jeu original tout en offrant une compatibilité améliorée avec les systèmes modernes. OpenJazz permet aux joueurs de découvrir l'action de plateforme rapide de Jazz Jackrabbit sur diverses plates-formes, préservant le charme et le gameplay de l'original.</desc>
+</variables>
 </theme>

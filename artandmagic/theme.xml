@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Art &amp; Magic</system.manufacturer>
+		<system.fullName>Art &amp; Magic Games</system.fullName>
+		<system.fullName lang="fr">Jeux Art &amp; Magic</system.fullName>
+		<system.releaseYearOrNull>1991</system.releaseYearOrNull>
+		<desc>Art &amp; Magic was a Belgian video game development company founded in 1991. The company is best known for developing and publishing the games Ishar and Ishar 2. Art &amp; Magic also developed and published a number of other games, including Transarctica and Dune.</desc>
+		<desc lang="fr">Art &amp; Magic était une société belge de développement de jeux vidéo fondée en 1991. La société est surtout connue pour avoir développé et publié les jeux Ishar et Ishar 2. Art &amp; Magic a également développé et publié un certain nombre d'autres jeux, dont Transarctica et Dune.</desc>
 	</variables>
-
 </theme>

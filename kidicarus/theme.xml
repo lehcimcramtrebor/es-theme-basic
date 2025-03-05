@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+	<variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Nintendo</system.manufacturer>
+        <system.fullName>Kid Icarus Series</system.fullName>
+        <desc>The Kid Icarus series is a platforming and shoot-'em-up video game franchise created by Nintendo. It follows the adventures of Pit, an angel who must save the goddess Palutena and the angelic realm of Angel Land from various threats.</desc>
+        <desc lang="fr">Kid Icarus est une série de jeux vidéo de plateforme et de shoot 'em up créée par Nintendo. Elle suit les aventures de Pit, un ange qui doit sauver la déesse Palutena et le royaume angélique d'Angel Land de diverses menaces.</desc>
+    </variables>
 </theme>

@@ -4,20 +4,19 @@
 
 	<formatVersion>7</formatVersion>
 
-    <include>./../theme.xml</include>
+<include>./../theme.xml</include>
 
 	<variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+<system.manufacturer>Homebrew/Open-source</system.manufacturer>
 
-		<!--<system.fullName>name</system.fullName>-->
+<system.fullName>ResidualVM</system.fullName>
+<system.fullName lang="fr">ResidualVM</system.fullName>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+<desc>ResidualVM is a cross-platform 3D game interpreter which allows you to play 3D adventure games. This is a continuation of the project started by the ScummVM team. It provides enhanced compatibility and features for supported games.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
+<desc lang="fr">ResidualVM est un interpréteur de jeux 3D multiplateforme qui vous permet de jouer à des jeux d'aventure 3D. Il s'agit d'une continuation du projet initié par l'équipe ScummVM. Il offre une compatibilité et des fonctionnalités améliorées pour les jeux pris en charge.</desc>
 
-	</variables>
+</variables>
 
 </theme>

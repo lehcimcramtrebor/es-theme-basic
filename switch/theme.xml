@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Nintendo</system.manufacturer>
+<system.fullName>Nintendo Switch</system.fullName>
+<system.releaseYearOrNull>2017</system.releaseYearOrNull>
+<desc>The Nintendo Switch is a hybrid video game console developed by Nintendo. It can be used as a handheld device or connected to a television for a traditional console experience. It's known for its versatility, innovative Joy-Con controllers, and a diverse library of games, including first-party Nintendo titles and third-party releases. The Switch has been praised for its ability to bridge the gap between portable and home console gaming.</desc>
+<desc lang="fr">La Nintendo Switch est une console de jeux vidéo hybride développée par Nintendo. Elle peut être utilisée comme appareil portable ou connectée à un téléviseur pour une expérience de console traditionnelle. Elle est connue pour sa polyvalence, ses manettes Joy-Con innovantes et une bibliothèque diversifiée de jeux, comprenant des titres Nintendo de première partie et des sorties de tiers. La Switch a été saluée pour sa capacité à combler le fossé entre les jeux portables et les consoles de salon.</desc>
 
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+</variables>
 </theme>

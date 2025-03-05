@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+    <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Sharp</system.manufacturer>
+        <system.fullName>X1</system.fullName>
+        <system.fullName lang="fr">X1</system.fullName>
+        <system.releaseYearOrNull>1982</system.releaseYearOrNull>
+        <desc>The Sharp X1 is a series of home computers released by Sharp Corporation in 1982, initially for the Japanese market. It was known for its high-quality graphics and sound capabilities, making it popular for gaming and multimedia applications. The X1 series featured a unique design with a separate keyboard and monitor, and it supported a wide range of peripherals. Its library included various games, educational software, and productivity tools. The X1 was a significant player in the Japanese home computer market during the 1980s, contributing to the development of the Japanese PC gaming scene.</desc>
+        <desc lang="fr">Le Sharp X1 est une série d'ordinateurs personnels lancée par Sharp Corporation en 1982, initialement pour le marché japonais. Il était connu pour ses capacités graphiques et sonores de haute qualité, ce qui le rendait populaire pour les jeux et les applications multimédias. La série X1 présentait une conception unique avec un clavier et un moniteur séparés, et elle prenait en charge une large gamme de périphériques. Sa bibliothèque comprenait divers jeux, logiciels éducatifs et outils de productivité. Le X1 était un acteur important sur le marché japonais des ordinateurs personnels dans les années 1980, contribuant au développement de la scène du jeu PC japonais.</desc>
+    </variables>
 </theme>

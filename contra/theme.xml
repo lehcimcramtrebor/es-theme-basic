@@ -1,23 +1,25 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
+        <formatVersion>7</formatVersion>
     <include>./../theme.xml</include>
+        <variables>
+                <region.priority region="eu"/>
 
-	<variables><region.priority region="eu"/>
+        <system.manufacturer>Konami</system.manufacturer>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+        <system.fullName>Contra</system.fullName>
+        <system.fullName lang="fr">Contra</system.fullName>
 
-		<!--<system.fullName>name</system.fullName>-->
+        <system.releaseYearOrNull>1987</system.releaseYearOrNull>
+        <system.releaseYearOrNull region="us">1988</system.releaseYearOrNull>
+        <system.releaseYearOrNull region="jp">1987</system.releaseYearOrNull>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+                <desc>Contra is a run-and-gun action game developed and published by Konami. It was originally released as a coin-operated arcade game in 1987 and ported to various home platforms, including the Nintendo Entertainment System (NES) in 1988. The game is known for its intense action, challenging gameplay, and iconic characters, Bill Rizer and Lance Bean. Contra's popularity spawned numerous sequels and spin-offs, making it one of the most influential run-and-gun games of all time.</desc>
+                <desc lang="fr">Contra est un jeu d'action de type "run-and-gun" développé et publié par Konami. Il est sorti à l'origine en tant que jeu d'arcade en 1987 et a été porté sur diverses plateformes domestiques, notamment la Nintendo Entertainment System (NES) en 1988. Le jeu est connu pour son action intense, son gameplay stimulant et ses personnages emblématiques, Bill Rizer et Lance Bean. La popularité de Contra a engendré de nombreuses suites et spin-offs, ce qui en fait l'un des jeux de "run-and-gun" les plus influents de tous les temps.</desc>
+        <desc region="us">Contra was released in 1988 for the Nintendo Entertainment System in North America, becoming a massive hit and solidifying the game's place in video game history.</desc>
+        <desc lang="fr" region="us">Contra est sorti en 1988 sur la Nintendo Entertainment System en Amérique du Nord, devenant un énorme succès et solidifiant la place du jeu dans l'histoire des jeux vidéo.</desc>
+        <desc region="jp">Contra was released in 1987 in Japan as a coin-operated arcade game, capturing the attention of gamers with its fast-paced action and challenging gameplay.</desc>
+        <desc lang="fr" region="jp">Contra est sorti en 1987 au Japon en tant que jeu d'arcade, captivant l'attention des joueurs avec son action rapide et son gameplay stimulant.</desc>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+        </variables>
 </theme>

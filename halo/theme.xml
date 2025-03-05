@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
+	<include>./../theme.xml</include>
+	<variables>
+		<region.priority region="eu"/>
+		<system.manufacturer>Bungie / 343 Industries</system.manufacturer>
+		<system.fullName>Halo</system.fullName>
+		<system.releaseYearOrNull>2001</system.releaseYearOrNull>
+		<desc>Halo is a science fiction first-person shooter video game franchise created by Bungie and now managed and developed by 343 Industries. The series centers on an interstellar war between humanity and an alliance of aliens known as the Covenant. The player primarily assumes the role of the Master Chief, a cybernetically enhanced supersoldier, in their fight against the Covenant. The Halo series is considered one of the most popular and influential video game franchises of all time.</desc>
+		<desc lang="fr">Halo est une franchise de jeux vidéo de tir à la première personne de science-fiction créée par Bungie et maintenant gérée et développée par 343 Industries. La série est centrée sur une guerre interstellaire entre l'humanité et une alliance d'extraterrestres connue sous le nom de Covenant. Le joueur assume principalement le rôle du Master Chief, un super-soldat cybernétiquement amélioré, dans leur lutte contre le Covenant. La série Halo est considérée comme l'une des franchises de jeux vidéo les plus populaires et les plus influentes de tous les temps.</desc>
 	</variables>
-
 </theme>

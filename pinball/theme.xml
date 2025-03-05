@@ -1,23 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+  <variables>
+    <region.priority region="eu"/>
+    <system.manufacturer>Various</system.manufacturer>
+    <system.fullName>Pinball Games</system.fullName>
+    <system.fullName lang="fr">Jeux de flipper</system.fullName>
+    <desc>Pinball games simulate the classic arcade game of pinball, where players use flippers to control a ball on a slanted table, aiming for targets and bumpers to score points.</desc>
+    <desc lang="fr">Les jeux de flipper simulent le jeu d'arcade classique du flipper, où les joueurs utilisent des palmes pour contrôler une balle sur une table inclinée, visant des cibles et des pare-chocs pour marquer des points.</desc>
+  </variables>
 </theme>

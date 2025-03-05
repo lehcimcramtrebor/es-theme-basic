@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+	<variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Incredible Technologies</system.manufacturer>
+        <system.fullName>Incredible Technologies</system.fullName>
+        <desc>Incredible Technologies is an American arcade game developer and manufacturer. They are best known for their Golden Tee Golf series, as well as other arcade games and amusement devices.</desc>
+        <desc lang="fr">Incredible Technologies est un développeur et fabricant américain de jeux d'arcade. Ils sont surtout connus pour leur série Golden Tee Golf, ainsi que pour d'autres jeux d'arcade et appareils de divertissement.</desc>
+    </variables>
 </theme>

@@ -2,22 +2,22 @@
 
 <theme>
 
-	<formatVersion>7</formatVersion>
+        <formatVersion>7</formatVersion>
 
-    <include>./../theme.xml</include>
+        <include>./../theme.xml</include>
 
-	<variables><region.priority region="eu"/>
+        <variables><region.priority region="eu"/>
 
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
+        <system.manufacturer>Sega</system.manufacturer>
 
-		<!--<system.fullName>name</system.fullName>-->
+        <system.fullName>Sega SC-3000</system.fullName>
+        <system.fullName lang="fr">Sega SC-3000</system.fullName>
 
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
+        <system.releaseYearOrNull>1983</system.releaseYearOrNull>
 
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
+        <desc>The Sega SC-3000 is an 8-bit home computer developed by Sega. It was released in 1983, concurrently with the SG-1000 console. The SC-3000 featured a keyboard, allowing for programming and text-based applications, in addition to gaming. It used the same hardware as the SG-1000, but with expanded memory and a different form factor. While not as commercially successful as some of its competitors, it contributed to Sega's early presence in the home computer market.</desc>
+        <desc lang="fr">Le Sega SC-3000 est un ordinateur personnel 8 bits développé par Sega. Il est sorti en 1983, en même temps que la console SG-1000. Le SC-3000 était doté d'un clavier, permettant la programmation et les applications textuelles, en plus des jeux. Il utilisait le même matériel que le SG-1000, mais avec une mémoire étendue et un facteur de forme différent. Bien qu'il n'ait pas eu autant de succès commercial que certains de ses concurrents, il a contribué à la présence précoce de Sega sur le marché des ordinateurs personnels.</desc>
 
-	</variables>
+</variables>
 
 </theme>

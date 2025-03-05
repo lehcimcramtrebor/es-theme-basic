@@ -1,23 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+  <variables>
+    <region.priority region="eu"/>
+    <system.manufacturer>Hudson Soft</system.manufacturer>
+    <system.fullName>Bomberman</system.fullName>
+    <system.fullName lang="fr">Bomberman</system.fullName>
+    <system.releaseYearOrNull>1983</system.releaseYearOrNull>
+    <desc>Bomberman is a strategic, maze-based video game franchise originally developed by Hudson Soft. The series features the Bomberman character, who must strategically place bombs to defeat enemies and navigate through levels. Known for its simple yet addictive gameplay, Bomberman has seen numerous releases across various platforms, solidifying its place as a classic in video game history.</desc>
+    <desc lang="fr">Bomberman est une franchise de jeux vidéo stratégiques en labyrinthe développée à l'origine par Hudson Soft. La série met en scène le personnage de Bomberman, qui doit placer stratégiquement des bombes pour vaincre les ennemis et naviguer à travers les niveaux. Connu pour son gameplay simple mais addictif, Bomberman a connu de nombreuses sorties sur diverses plateformes, consolidant sa place de classique de l'histoire du jeu vidéo.</desc>
+  </variables>
 </theme>

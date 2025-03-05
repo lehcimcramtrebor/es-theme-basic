@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
-    <include>./../theme.xml</include>
-
+<include>./../theme.xml</include>
 	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+<system.manufacturer>NEC</system.manufacturer>
+<system.fullName>PC-FX</system.fullName>
+<system.fullName lang="fr">PC-FX</system.fullName>
+<desc>The PC-FX is a 32-bit home video game console released by NEC in 1994. It was known for its anime-style graphics and its focus on visual novels and dating sims. The PC-FX had a wide range of games, including arcade ports, role-playing games, and adventure games. It was also one of the first consoles to support full-motion video.</desc>
+<desc lang="fr">La PC-FX est une console de jeux vidéo domestique 32 bits commercialisée par NEC en 1994. Elle était connue pour ses graphismes de style anime et son accent sur les romans visuels et les sims de rencontres. La PC-FX avait une large gamme de jeux, y compris les ports d'arcade, les jeux de rôle et les jeux d'aventure. Ce fut également l'une des premières consoles à prendre en charge la vidéo plein écran.</desc>
+</variables>
 </theme>

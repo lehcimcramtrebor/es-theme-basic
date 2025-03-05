@@ -1,23 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
 	<formatVersion>7</formatVersion>
-
     <include>./../theme.xml</include>
-
-	<variables><region.priority region="eu"/>
-
-		<!--<system.manufacturer>manufacturer</system.manufacturer>-->
-
-		<!--<system.fullName>name</system.fullName>-->
-
-		<!--<system.releaseYearOrNull>2023</system.releaseYearOrNull>-->
-
-		<!--<desc>description</desc>-->
-		
-		<!--<desc lang="fr">description</desc>-->
-
-	</variables>
-
+	<variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Konami</system.manufacturer>
+        <system.fullName>Konami</system.fullName>
+        <desc>Konami is a Japanese entertainment conglomerate and video game developer and publisher. They are known for producing a variety of popular video game franchises, including Castlevania, Contra, Metal Gear, and Pro Evolution Soccer.</desc>
+        <desc lang="fr">Konami est un conglomérat de divertissement japonais et un développeur et éditeur de jeux vidéo. Ils sont connus pour avoir produit une variété de franchises de jeux vidéo populaires, notamment Castlevania, Contra, Metal Gear et Pro Evolution Soccer.</desc>
+    </variables>
 </theme>
