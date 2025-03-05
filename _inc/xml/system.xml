@@ -361,23 +361,21 @@
 			extra="true"
 			zIndex="1001"
 			fontSize="0.016"
-			fontPath="./../fonts/${f.mb}"
-			glowColor="${c.base}"
+			fontPath="./../fonts/${f.digital}"
+			color="${c.text}"
+			glowColor="${c.glowColor}"
 			glowOffset="2"
 			glowSize="1"
 			forceUppercase="false"
 			alignment="left"
-			verticalAlignment="top"
+			verticalAlignment="bottom"
 			w="1"
-			origin="0 0"
-			pos ="0 0.6235"
-			opacity="1"
-			color="${c.text}"
-			text="                                                                                                                                                               
-			                                                                                                                                                                     
-			                                                                                                                                                                     
-			                                                                                                                                                                     
-${desc}			                                                                                                                                                         
+			h="0.20"
+			origin="0 1"
+			pos ="0 0.65"
+			opacity="0"
+			text="                              
+${desc}			                                                                                                                                                                 
 			                                                                                                                                                                     
 			                                                                                                                                                                     
 			                                                                                                                                                                     
@@ -388,10 +386,18 @@ ${desc}
 "
 
 			singleLineScroll="true"
-			autoScrollDelay="600"
+			autoScrollDelay="1500"
 		>
 
 			<visible tinyScreen="true">false</visible>
+
+			<storyboard>
+			
+                <animation property="opacity"								to="0.8"			duration="1400"			mode="easeIn"	 begin="1000"																	/>
+                <animation property="w"				from="0"								duration="1400"			mode="easeInOut"	 begin="1000"																/>
+                <animation property="x"				from="0.5"								duration="1400"			mode="easeInOut"	 begin="1000"																/>
+				
+           </storyboard>
 		
 		</text>
 		
