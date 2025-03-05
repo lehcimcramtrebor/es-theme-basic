@@ -324,10 +324,9 @@
 
 			<shader ifSubset="shaders:on">./../shaders/shadow.glsl</shader>
 
-			<storyboard tinyScreen="false">
+			<storyboard tinyScreen="false" repeat="forever">
 			
                 <animation property="scale"		from="0.96"		to="1"		duration="20000"	mode="easeOut"			/>
-                <animation property="opacity"	from="0"		to="1"		duration="175"		mode="easeIn"			/>
 				
            </storyboard>
 		
