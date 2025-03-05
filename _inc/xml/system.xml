@@ -326,7 +326,7 @@
 
 			<storyboard tinyScreen="false" repeat="forever">
 			
-                <animation property="scale"		from="0.96"		to="1"		duration="20000"	mode="easeOut"			/>
+                <animation property="scale"		from="0.96"		to="1"		duration="20000"	mode="easeOut"		autoreverse="true"		/>
 				
            </storyboard>
 		
@@ -375,13 +375,7 @@
 			opacity="0"
 			text="                              
 ${desc}			                                                                                                                                                                 
-			                                                                                                                                                                     
-			                                                                                                                                                                     
-			                                                                                                                                                                     
-			                                                                                                                                                                     
-			                                                                                                                                                                     
-			                                                                                                                                                                     
-			                                                                                                                                                                     
+
 "
 
 			singleLineScroll="true"
