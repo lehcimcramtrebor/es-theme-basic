@@ -4,7 +4,7 @@
         <include>./../theme.xml</include>
         <variables><region.priority region="eu"/>
 
-<system.manufacturer>Core Design (original), Crystal Dynamics (later titles)</system.manufacturer>
+<system.manufacturer>Core Design - Crystal Dynamics</system.manufacturer>
 <system.fullName>Tomb Raider</system.fullName>
 <desc>Tomb Raider is an action-adventure video game franchise featuring the iconic protagonist, Lara Croft. The series is known for its exploration of ancient tombs and ruins, puzzle-solving, and acrobatic combat. The original games, developed by Core Design, established the foundation for the franchise, while later titles by Crystal Dynamics rebooted and expanded the series with new storylines and gameplay mechanics. Tomb Raider has become a cultural phenomenon, with Lara Croft recognized as a prominent figure in video game history.</desc>
 <desc lang="fr">Tomb Raider est une franchise de jeux vidéo d'action-aventure mettant en scène l'emblématique protagoniste, Lara Croft. La série est connue pour son exploration de tombes et de ruines anciennes, la résolution d'énigmes et le combat acrobatique. Les jeux originaux, développés par Core Design, ont établi les bases de la franchise, tandis que les titres ultérieurs de Crystal Dynamics ont redémarré et élargi la série avec de nouveaux scénarios et mécanismes de jeu. Tomb Raider est devenu un phénomène culturel, Lara Croft étant reconnue comme une figure marquante de l'histoire du jeu vidéo.</desc>

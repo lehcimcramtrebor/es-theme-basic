@@ -136,7 +136,6 @@ ocean
 odcommander
 opengoal
 openjazz
-openlara
 pacman
 pcenginegt
 pdark
@@ -196,7 +195,6 @@ taitox
 tetris
 theforceengine
 thextech
-tombraider
 tools
 trackandfield
 tvgame
