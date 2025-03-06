@@ -13,17 +13,14 @@ auto-spinner
 auto-sportswithanimals
 auto-trackball
 auto-various
-battletoads
 bbc
 bbcmicro
 blizzard
 boom3
 build
 bullfrog
-bungie
 c16
 camplynx
-cannonball
 cdogs
 cgenius
 civilization
@@ -102,7 +99,6 @@ j-rpg
 j2me
 jazz2
 karaoke
-kayl
 kidicarus
 kids
 kirby
@@ -113,10 +109,6 @@ lego
 loopy
 lucasarts
 macintosh
-mame-advmame
-mame-libretro
-mame-mame4all
-mame4all
 mario
 mariokart
 marvel
@@ -161,7 +153,6 @@ pinballfx2
 plugnplay
 pocketstation
 pointandclick
-popcap
 ps4
 ps4pro
 ps5
@@ -202,7 +193,6 @@ supersmashbros
 supracan
 systemsp
 taitox
-team17
 tetris
 theforceengine
 thextech
@@ -228,14 +218,12 @@ wiiware
 williams
 windows_installers
 wingcommander
-wonderboy
 worms
 xash3d_fwgs
 xboxgp
 xboxone
 xboxxs
 xegs
-xrick
 ys
 zaccariapinball
 zmachine
