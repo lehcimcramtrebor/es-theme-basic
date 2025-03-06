@@ -92,7 +92,6 @@ hcl
 helmic
 homebrew
 horror
-hurrican
 ieg
 incredibletech
 infogrames
@@ -112,7 +111,6 @@ laser310
 laserdisc
 lego
 loopy
-lorenzolamas
 lucasarts
 macintosh
 mame-advmame
