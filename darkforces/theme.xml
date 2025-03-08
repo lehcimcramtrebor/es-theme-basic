@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+	<variables><region.priority region="eu"/>
+<system.manufacturer>LucasArts</system.manufacturer>
+<system.fullName>Star Wars: Dark Forces</system.fullName>
+<system.releaseYearOrNull>1995</system.releaseYearOrNull>
+<desc>Star Wars: Dark Forces is a first-person shooter video game developed and published by LucasArts. Released in 1995, it is known for its innovative gameplay mechanics, including verticality and interactive environments, which were advanced for its time. The game follows Kyle Katarn, a mercenary working for the Rebel Alliance, as he investigates and combats the Galactic Empire's Dark Trooper project.</desc>
+<desc lang="fr">Star Wars: Dark Forces est un jeu vidéo de tir à la première personne développé et publié par LucasArts. Sorti en 1995, il est connu pour ses mécaniques de jeu innovantes, notamment la verticalité et les environnements interactifs, qui étaient avancés pour son époque. Le jeu suit Kyle Katarn, un mercenaire travaillant pour l'Alliance Rebelle, alors qu'il enquête et combat le projet Dark Trooper de l'Empire Galactique.</desc>
+</variables>
+</theme>

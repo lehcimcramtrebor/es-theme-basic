@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+    <include>./../theme.xml</include>
+	<variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Dynacom</system.manufacturer>
+        <system.fullName>Dynavision</system.fullName>
+        <system.releaseYearOrNull>1990</system.releaseYearOrNull>
+        <desc>The Dynavision is a series of Brazilian NES clones produced by Dynacom, starting in 1990. It gained considerable popularity in Brazil due to its affordability and the vast library of NES games available. It played a significant role in introducing many Brazilians to video games during a time when official Nintendo products were not readily available in the country.</desc>
+        <desc lang="fr">La Dynavision est une série de clones NES brésiliens produits par Dynacom, à partir de 1990. Elle a acquis une popularité considérable au Brésil en raison de son prix abordable et de la vaste bibliothèque de jeux NES disponibles. Elle a joué un rôle important en initiant de nombreux Brésiliens aux jeux vidéo à une époque où les produits Nintendo officiels n'étaient pas facilement disponibles dans le pays.</desc>
+	</variables>
+</theme>
