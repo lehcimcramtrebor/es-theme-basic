@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+	<variables><region.priority region="eu"/>
+<system.manufacturer>IBM</system.manufacturer>
+<system.fullName>Personal Computer</system.fullName>
+<system.releaseYearOrNull>1981</system.releaseYearOrNull>
+<desc>The IBM Personal Computer (PC) was a landmark personal computer introduced in 1981. It revolutionized the home and business computing markets, establishing the x86 architecture and the PC standard that would dominate the industry for decades. Its open architecture allowed for a wide range of third-party hardware and software, fostering innovation and competition. Popular applications included Lotus 1-2-3, WordPerfect, and early PC games.</desc>
+<desc lang="fr">L'IBM Personal Computer (PC) était un ordinateur personnel historique introduit en 1981. Il a révolutionné les marchés de l'informatique domestique et professionnelle, établissant l'architecture x86 et la norme PC qui domineraient l'industrie pendant des décennies. Son architecture ouverte a permis une large gamme de matériel et de logiciels tiers, favorisant l'innovation et la concurrence. Les applications populaires comprenaient Lotus 1-2-3, WordPerfect et les premiers jeux PC.</desc>
+</variables>
+</theme>

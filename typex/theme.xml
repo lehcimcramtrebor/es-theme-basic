@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
+
+<system.manufacturer>Taito</system.manufacturer>
+<system.fullName>Taito X Series</system.fullName>
+<desc>The Taito X Series refers to a line of arcade system boards developed by Taito, based on PC architecture. These systems, including the Taito Type X, Type X2, Type X3, and Type X Zero, offer a flexible platform for arcade game development. They are known for their high-performance capabilities, allowing for detailed graphics and complex gameplay. The series has powered a wide range of arcade titles across various genres.</desc>
+<desc lang="fr">La série Taito X désigne une gamme de cartes de système d'arcade développées par Taito, basées sur l'architecture PC. Ces systèmes, comprenant les Taito Type X, Type X2, Type X3 et Type X Zero, offrent une plateforme flexible pour le développement de jeux d'arcade. Ils sont connus pour leurs capacités de haute performance, permettant des graphismes détaillés et un gameplay complexe. La série a alimenté une large gamme de titres d'arcade dans divers genres.</desc>
+
+</variables>
+</theme>

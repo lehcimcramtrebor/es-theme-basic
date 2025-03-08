@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+        <formatVersion>7</formatVersion>
+    <include>./../theme.xml</include>
+        <variables>
+                <region.priority region="eu"/>
+
+        <system.manufacturer>World Wide Web Consortium (W3C)</system.manufacturer>
+
+        <system.fullName>Internet</system.fullName>
+        <system.fullName lang="fr">Internet</system.fullName>
+
+        <system.releaseYearOrNull>1983</system.releaseYearOrNull>
+
+        <desc>The Internet is a global network of interconnected computer networks that use the Internet protocol suite (TCP/IP) to communicate between networks and devices. It is a network of networks that consists of private, public, academic, business, and government networks of local to global scope, linked by a broad array of electronic, wireless, and optical networking technologies. The Internet carries a vast range of information resources and services, such as the inter-linked hypertext documents and applications of the World Wide Web (WWW), electronic mail, telephony, and file sharing.</desc>
+        <desc lang="fr">Internet est un réseau mondial de réseaux informatiques interconnectés qui utilisent la suite de protocoles Internet (TCP/IP) pour communiquer entre les réseaux et les appareils. Il s'agit d'un réseau de réseaux composés de réseaux privés, publics, universitaires, commerciaux et gouvernementaux de portée locale à mondiale, reliés par un large éventail de technologies de réseau électroniques, sans fil et optiques. L'Internet transporte une vaste gamme de ressources et de services d'information, tels que les documents et applications hypertextes interconnectés du World Wide Web (WWW), le courrier électronique, la téléphonie et le partage de fichiers.</desc>
+
+        </variables>
+</theme>

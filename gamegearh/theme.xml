@@ -1,25 +1,17 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
+        <formatVersion>7</formatVersion>
+    <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
 
-	<formatVersion>7</formatVersion>
+<system.manufacturer>Various Creators</system.manufacturer>
 
-<include>./../theme.xml</include>
+<system.fullName>Game Gear Hacks</system.fullName>
+<system.fullName lang="fr">Hacks Game Gear</system.fullName>
 
-	<variables><region.priority region="eu"/>
+<desc>Game Gear hacks are modified versions of original Sega Game Gear games. These modifications can range from simple alterations like color palette changes or difficulty adjustments to more complex overhauls involving new levels, storylines, characters, and gameplay mechanics. These hacks are created by fans and enthusiasts using various tools and software, often with the aim of enhancing or reimagining classic Game Gear experiences. Popular examples include hacks that improve graphics, add new features, or even create entirely new games using the Game Gear's engine.</desc>
 
-<system.manufacturer>Sega</system.manufacturer>
-<system.fullName>Game Gear</system.fullName>
-<system.releaseYearOrNull>1990</system.releaseYearOrNull>
-<system.releaseYearOrNull region="us">1991</system.releaseYearOrNull>
-<system.releaseYearOrNull region="jp">1990</system.releaseYearOrNull>
-<desc>The Game Gear is an 8-bit handheld game console released by Sega in 1990. It was designed to compete with the Nintendo Game Boy. The Game Gear featured a full-color backlit screen, which was a significant advantage over the Game Boy's monochrome display. It also had a wider library of games, including many arcade and console ports. However, its high power consumption and larger size made it less portable than the Game Boy.</desc>
-<desc region="us">The Game Gear is an 8-bit handheld game console released by Sega in 1991. It was designed to compete with the Nintendo Game Boy. The Game Gear featured a full-color backlit screen, which was a significant advantage over the Game Boy's monochrome display. It also had a wider library of games, including many arcade and console ports. However, its high power consumption and larger size made it less portable than the Game Boy.</desc>
-<desc region="jp">The Game Gear is an 8-bit handheld game console released by Sega in 1990. It was designed to compete with the Nintendo Game Boy. The Game Gear featured a full-color backlit screen, which was a significant advantage over the Game Boy's monochrome display. It also had a wider library of games, including many arcade and console ports. However, its high power consumption and larger size made it less portable than the Game Boy.</desc>
-<desc lang="fr">La Game Gear est une console de jeux portable 8 bits lancée par Sega en 1990. Elle a été conçue pour concurrencer la Nintendo Game Boy. La Game Gear était dotée d'un écran couleur rétroéclairé, ce qui constituait un avantage significatif par rapport à l'écran monochrome de la Game Boy. Elle disposait également d'une bibliothèque de jeux plus large, comprenant de nombreux ports d'arcade et de console. Cependant, sa consommation d'énergie élevée et sa taille plus grande la rendaient moins portable que la Game Boy.</desc>
-<desc lang="fr" region="us">La Game Gear est une console de jeux portable 8 bits lancée par Sega en 1991. Elle a été conçue pour concurrencer la Nintendo Game Boy. La Game Gear était dotée d'un écran couleur rétroéclairé, ce qui constituait un avantage significatif par rapport à l'écran monochrome de la Game Boy. Elle disposait également d'une bibliothèque de jeux plus large, comprenant de nombreux ports d'arcade et de console. Cependant, sa consommation d'énergie élevée et sa taille plus grande la rendaient moins portable que la Game Boy.</desc>
-<desc lang="fr" region="jp">La Game Gear est une console de jeux portable 8 bits lancée par Sega en 1990. Elle a été conçue pour concurrencer la Nintendo Game Boy. La Game Gear était dotée d'un écran couleur rétroéclairé, ce qui constituait un avantage significatif par rapport à l'écran monochrome de la Game Boy. Elle disposait également d'une bibliothèque de jeux plus large, comprenant de nombreux ports d'arcade et de console. Cependant, sa consommation d'énergie élevée et sa taille plus grande la rendaient moins portable que la Game Boy.</desc>
+<desc lang="fr">Les hacks Game Gear sont des versions modifiées des jeux Sega Game Gear originaux. Ces modifications peuvent aller de simples altérations comme des changements de palette de couleurs ou des ajustements de difficulté à des remaniements plus complexes impliquant de nouveaux niveaux, scénarios, personnages et mécanismes de jeu. Ces hacks sont créés par des fans et des passionnés utilisant divers outils et logiciels, souvent dans le but d'améliorer ou de réimaginer les expériences classiques de la Game Gear. Les exemples populaires incluent des hacks qui améliorent les graphismes, ajoutent de nouvelles fonctionnalités ou créent même des jeux entièrement nouveaux en utilisant le moteur de la Game Gear.</desc>
 
 </variables>
-
 </theme>

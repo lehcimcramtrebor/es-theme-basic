@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+    <formatVersion>7</formatVersion>
+    <include>./../theme.xml</include>
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Taito</system.manufacturer>
+        <system.fullName>Taito Type X²</system.fullName>
+        <system.releaseYearOrNull>2007</system.releaseYearOrNull>
+        <desc>The Taito Type X² is an arcade system board released by Taito in 2007. It's the successor to the Taito Type X and offers improved graphics and processing power. It's based on a PC architecture, making it relatively easy to develop games for.</desc>
+        <desc lang="fr">Le Taito Type X² est un système d'arcade sorti par Taito en 2007. Il succède au Taito Type X et offre des graphismes et une puissance de traitement améliorés. Il est basé sur une architecture PC, ce qui facilite relativement le développement de jeux.</desc>
+    </variables>
+</theme>
