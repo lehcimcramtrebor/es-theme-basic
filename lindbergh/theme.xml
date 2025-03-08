@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+        <formatVersion>7</formatVersion>
+    <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
+
+<system.manufacturer>Sega</system.manufacturer>
+
+<system.fullName>Sega Lindbergh</system.fullName>
+
+<system.releaseYearOrNull>2005</system.releaseYearOrNull>
+
+<desc>The Sega Lindbergh is an arcade system board developed by Sega. It was released in 2005 and is based on a PC architecture, using an Intel Pentium 4 processor and Nvidia GeForce graphics. This allowed for higher-resolution graphics and more complex game designs compared to previous Sega arcade systems. Popular games on the Lindbergh include "Virtua Fighter 5," "After Burner Climax," and "Initial D Arcade Stage 4."</desc>
+
+<desc lang="fr">Le Sega Lindbergh est une carte système d'arcade développée par Sega. Il a été lancé en 2005 et est basé sur une architecture PC, utilisant un processeur Intel Pentium 4 et des graphiques Nvidia GeForce. Cela a permis des graphismes de plus haute résolution et des conceptions de jeux plus complexes par rapport aux systèmes d'arcade Sega précédents. Les jeux populaires sur le Lindbergh incluent "Virtua Fighter 5", "After Burner Climax" et "Initial D Arcade Stage 4".</desc>
+
+</variables>
+
+</theme>
