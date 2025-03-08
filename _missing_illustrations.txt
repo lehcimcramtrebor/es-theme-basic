@@ -1,4 +1,5 @@
 a-rpg
+aarch
 arcadia
 archimedes
 artandmagic
@@ -33,6 +34,7 @@ cryo
 crystaldynamics
 custom-collections
 cv
+darkforces
 dc
 desktop
 devilutionx
@@ -45,6 +47,7 @@ dragon64
 dsi
 dsiware
 dxx-rebirth
+dynavision
 easports
 easyrpg
 ecwolf
@@ -56,6 +59,7 @@ electronicarts
 enterprise
 etlegacy
 exidy
+exl100
 fallout1-ce
 fallout2-ce
 fireemblem
@@ -75,7 +79,6 @@ gamepocketcomputer
 gbh
 gemrb
 getupor
-ggh
 gmaster
 gmloader
 gong
@@ -89,10 +92,12 @@ hcl
 helmic
 homebrew
 horror
+ibmpc
 ieg
 incredibletech
 infogrames
 initiald
+internet
 interplay
 iortcw
 j-rpg
@@ -198,6 +203,8 @@ thextech
 tools
 trackandfield
 tvgame
+typex
+typex2
 tyrian
 ubisoft
 vc4000
