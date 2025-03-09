@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<theme>
+
+        <formatVersion>7</formatVersion>
+
+        <include>./../theme.xml</include>
+
+        <variables><region.priority region="eu"/>
+
+        <system.manufacturer>RetroBat</system.manufacturer>
+
+        <system.fullName>Emulators</system.fullName>
+        <system.fullName lang="fr">Émulateurs</system.fullName>
+
+        <desc>RetroBat's core section for managing emulators and configurations. This area provides access to all installed emulators and their individual settings, allowing users to fine-tune performance, input configurations, and display options. It's the central hub for optimizing your retro gaming experience.</desc>
+        <desc lang="fr">La section principale de RetroBat pour la gestion des émulateurs et des configurations. Cette zone donne accès à tous les émulateurs installés et à leurs paramètres individuels, permettant aux utilisateurs d'affiner les performances, les configurations d'entrée et les options d'affichage. C'est le centre névralgique pour optimiser votre expérience de jeu rétro.</desc>
+
+</variables>
+
+</theme>
