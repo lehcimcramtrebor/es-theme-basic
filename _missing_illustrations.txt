@@ -10,9 +10,7 @@ atarixegs
 atom
 auto-demo
 auto-pinball
-auto-spinner
 auto-sportswithanimals
-auto-trackball
 auto-various
 bbc
 bbcmicro
