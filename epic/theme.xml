@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+	<variables><region.priority region="eu"/>
+<system.manufacturer>Epic Games</system.manufacturer>
+
+<system.fullName>EPIC</system.fullName>
+<system.fullName lang="fr">EPIC</system.fullName>
+
+<system.releaseYearOrNull>2018</system.releaseYearOrNull>
+
+<desc>Epic Games, Inc. is an American video game and software developer and publisher based in Cary, North Carolina. The company was founded by Tim Sweeney as Potomac Computer Systems in 1991, originally located in his parents' house in Potomac, Maryland. Following its first commercial video game release, ZZT (1991), the company became Epic MegaGames, Inc. in early 1992 and brought on Mark Rein, who has been its vice president since. After moving the headquarters to Cary in 1999, the studio changed its name to Epic Games.
+Epic Games developed Unreal Engine, a commercially available game engine which also powers its internally developed video games like Fortnite and the Unreal, Gears of War, and Infinity Blade series. In 2014, Unreal Engine was named the "most successful videogame engine" by Guinness World Records.[</desc>
+
+<desc lang="fr">Epic Games, Inc. est un développeur et éditeur américain de jeux vidéo et de logiciels basé à Cary, en Caroline du Nord. La société a été fondée par Tim Sweeney sous le nom de Potomac Computer Systems en 1991, à l'origine dans la maison de ses parents à Potomac, dans le Maryland. Après la sortie de son premier jeu vidéo commercial, ZZT (1991), la société est devenue Epic MegaGames, Inc. au début de l'année 1992 et a recruté Mark Rein, qui en est depuis lors le vice-président. Après avoir déménagé son siège social à Cary en 1999, le studio a changé de nom pour devenir Epic Games.
+Epic Games a développé Unreal Engine, un moteur de jeu disponible dans le commerce qui alimente également ses jeux vidéo développés en interne, tels que Fortnite et les séries Unreal, Gears of War et Infinity Blade. En 2014, Unreal Engine a été désigné « moteur de jeu vidéo le plus performant » par le Guinness World Records.
+</desc>
+</variables>
+
+</theme>
