@@ -1,5 +1,6 @@
 a-rpg
 aarch
+amazon
 arcadia
 archimedes
 artandmagic
@@ -36,6 +37,7 @@ darkforces
 dc
 desktop
 devilutionx
+dice
 dinothawr
 disney
 doom3
@@ -46,6 +48,7 @@ dsi
 dsiware
 dxx-rebirth
 dynavision
+eagames
 easports
 easyrpg
 ecwolf
@@ -55,6 +58,7 @@ elcor2b
 electron
 electronicarts
 enterprise
+epic
 etlegacy
 exidy
 exl100
@@ -79,6 +83,7 @@ gemrb
 getupor
 gmaster
 gmloader
+gog
 gong
 gp32
 granturismo

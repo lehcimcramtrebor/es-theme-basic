@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+	<variables><region.priority region="eu"/>
+<system.manufacturer>DICE</system.manufacturer>
+
+<system.fullName>DICE (Discrete Integrated Circuit Emulator)</system.fullName>
+<system.fullName lang="fr">DICE (Discrete Integrated Circuit Emulator)</system.fullName>
+
+<system.releaseYearOrNull>2008</system.releaseYearOrNull>
+
+<desc>DICE is a Discrete Integrated Circuit Emulator. It emulates computer systems that lack any type of CPU, consisting only of discrete logic components.</desc>
+
+<desc lang="fr">DICE est un émulateur de circuit intégré discret. Il émule des systèmes informatiques dépourvus de tout type de processeur, composés uniquement de composants logiques discrets.</desc>
+</variables>
+
+</theme>

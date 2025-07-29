@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+	<variables><region.priority region="eu"/>
+<system.manufacturer>Amazon</system.manufacturer>
+
+<system.fullName>Amazon Prime Gaming</system.fullName>
+<system.fullName lang="fr">Amazon Prime Gaming</system.fullName>
+
+<system.releaseYearOrNull>2018</system.releaseYearOrNull>
+
+<desc>Amazon Prime Gaming is an extension of Amazon Prime that offers deals and benefits to video game players or gamers. With this Amazon Prime service, Amazon Prime members will be able to enjoy benefits and rewards every month.[</desc>
+
+<desc lang="fr">Amazon Prime Gaming est une extension d’Amazon Prime qui propose des offres et des avantages aux joueurs de jeux vidéo ou gamers. Avec ce service d’Amazon Prime, les membres d’Amazon Prime auront la possibilité de profiter des avantages et des récompenses chaque mois.
+</desc>
+</variables>
+
+</theme>
