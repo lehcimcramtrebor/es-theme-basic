@@ -134,6 +134,7 @@ msdos
 msxturbor
 mz2500
 namco22
+namco3xx
 naruto
 needforspeed
 neogeomvs
