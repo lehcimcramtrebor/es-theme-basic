@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+    <formatVersion>7</formatVersion>
+    <include>./../theme.xml</include>
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Square Enix</system.manufacturer>
+        <system.fullName>Mana Series</system.fullName>
+        <system.fullName lang="fr">Série Mana</system.fullName>
+        <system.releaseYearOrNull>1991</system.releaseYearOrNull>
+        <desc>The Mana series, known in Japan as Seiken Densetsu (聖剣伝説, literally “Legend of the Holy Sword”), is a series of action role-playing video games created in 1991 by Kōichi Ishii for Square.</desc>
+        <desc lang="fr">La série Mana, connue au Japon sous le nom Seiken densetsu (聖剣伝説, littéralement La Légende de l'Épée sacrée), est une série de jeux vidéo d'action-RPG créée en 1991 par Kōichi Ishii pour Square.</desc>
+    </variables>
+</theme>
