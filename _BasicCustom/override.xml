@@ -4,28 +4,20 @@
 
 	<formatVersion>7</formatVersion>
 
-	<!-- THIS SECTION AFFECT SYSTEM BACKGROUNDS, "systemBackgroundsLightShade" is shade applied over background -->
+	<!-- CRT TV 480i OPTIMISATIONS -->
 
-	<!--
-	<view name="system">
+<!--
+	<view name="detailed">
 
-		<image name="systemBackgrounds"
+
+		<text name="md_description" extra="true">
 		
-			saturation="1"
-			color="ffffff"
-			colorEnd="ffffff"
-			gradientType="horizontal"
-			opacity="1"
-			
-		/>
-
-		<image name="systemBackgroundsLightShade"
+			<fontSize tinyScreen="true">0.034</fontSize>
+			<forceUppercase tinyScreen="true">false</forceUppercase>
+			<lineSpacing tinyScreen="true">1.28</lineSpacing>
 		
-			opacity="0"
-			
-		/>
+		</text>
 
 	</view>
-	-->
-	
+-->	
 </theme>
