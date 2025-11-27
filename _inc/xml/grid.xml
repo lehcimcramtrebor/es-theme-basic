@@ -357,30 +357,9 @@
 			autoScrollSpeed="50"
 			lineSpacing="1.37"
 			
-			/>
-						
-		<text name="noDescription"
-		
-			zIndex="1001"
-			extra="true"
-			forceUppercase="false"
-			alignment="left"
-			verticalAlignment="top"
-			fontPath="./../fonts/${f.mri}"
-            pos="0.8799479166666667 0.6648148148148148"
-            size="0.1546875 0.2351851851851852"
-            fontSize="0.022"
-			color="${c.selected}"
-            glowColor="${c.glowColor}"
-			glowOffset="2"
-			glowSize="1"
-			text=" "
-			visible="empty({game:desc})"
-			lineSpacing="1.37"
+			/>						
 
-			/>
-
-		<control name="md_description,noDescription">
+		<control name="md_description">
 
 			<storyboard event="open">
 				<animation property="scale" from="0" to="1" mode="linear" duration="1"/>

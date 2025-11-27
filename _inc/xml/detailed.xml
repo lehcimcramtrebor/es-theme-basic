@@ -236,28 +236,8 @@
 			glowSize="1"
 
 			/>
-			
-		<text name="noDescription"
-		
-			zIndex="1001"
-			extra="true"
-			forceUppercase="false"
-			alignment="left"
-			verticalAlignment="top"
-			fontPath="./../fonts/${f.mri}"
-            pos="0.4526041666666667 0.6148148148148148"
-            size="0.3322916666666667 0.2851851851851852"
-            fontSize="0.024"
-			color="${c.selected}"
-            glowColor="${c.glowColor}"
-			glowOffset="2"
-			glowSize="1"
-			text="${lang.noDesc}"
-			visible="empty({game:desc})"
 
-			/>
-
-		<text name="md_description,noDescription"
+		<text name="md_description"
 		
 			extra="true"
 			
