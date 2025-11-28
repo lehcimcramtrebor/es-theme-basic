@@ -238,7 +238,6 @@
 	
 		displayName="${subset.systemBackgrounds}"
 		appliesTo="${v.allViews}"
-		tinyScreen="false"
 	>
 	
 		<include			name="yes"						displayName="${subset.systemBackgrounds.yes}"				>./_inc/xml/systemBackgrounds-yes.xml</include>
@@ -262,7 +261,6 @@
 	
 	<subset name="fanarts"
 	
-		tinyScreen="false"
 		displayName="${subset.fanarts}"
 		appliesTo="${v.allGamelists}"
 		
@@ -313,7 +311,6 @@
 	<subset name="systemLogoAnimation"
 	
 		displayName="${subset.systemLogoAnimation}"
-		tinyScreen="false"
 	>
 	
 		<include			name="yes"						displayName="${subset.systemLogoAnimation.yes}"				>./_inc/xml/systemLogoAnimation-yes.xml</include>

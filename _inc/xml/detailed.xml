@@ -70,7 +70,6 @@
 		>
 		
 			<shader ifSubset="shaders:on">./../shaders/scanlines.glsl</shader>
-			<visible tinyScreen="true">false</visible>
 
 
 		</image>
