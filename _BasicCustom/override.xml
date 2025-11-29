@@ -5,7 +5,6 @@
 	<formatVersion>7</formatVersion>
 
 	<!-- CRT TV 480i OPTIMISATIONS -->
-
 <!--
 	<view name="detailed">
 
@@ -17,6 +16,44 @@
 			<lineSpacing tinyScreen="true">1.28</lineSpacing>
 		
 		</text>
+
+	</view>
+
+	<view name="system">
+
+		<text name="system.infos.manufacturer"
+		
+			extra="true"
+
+		>
+		
+			<fontSize tinyScreen="true">0.046</fontSize>
+		
+		</text>
+				
+		<text name="system.infos.name"
+		
+			extra="true"
+
+		>
+		
+			<fontSize tinyScreen="true">0.030</fontSize>
+			<offsetY tinyScreen="true">0.018</offsetY>
+		
+		</text>
+		
+		<text name="system.infos.favorites,system.infos.mostPlayed,system.infos.lastPlayed"
+		
+			extra="true"
+
+		>
+		
+			<fontSize tinyScreen="true">0.030</fontSize>
+			<offsetY tinyScreen="true">0.028</offsetY>
+			<forceUppercase tinyScreen="true">false</forceUppercase>
+		
+		</text>
+				
 
 	</view>
 -->	

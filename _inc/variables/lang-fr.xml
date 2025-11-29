@@ -117,11 +117,11 @@
 		<lang.grid_marquees>grille (logos)</lang.grid_marquees>
 
 		<lang.elements>éléments</lang.elements>
-		<lang.favorites>favoris</lang.favorites>
-		<lang.favoritesReplacement>retrouvez ici vos favoris</lang.favoritesReplacement>
+		<lang.favorites>Nombre de favoris</lang.favorites>
+		<lang.favoritesReplacement>Retrouvez ici vos favoris</lang.favoritesReplacement>
 		<lang.played>lancés</lang.played>
-		<lang.mostPlayed>le plus fréquent</lang.mostPlayed>
-		<lang.lastPlayedDate>dernier lancé le</lang.lastPlayedDate>
+		<lang.mostPlayed>Le plus fréquent</lang.mostPlayed>
+		<lang.lastPlayedDate>Dernier lancé le</lang.lastPlayedDate>
 		<lang.at>le</lang.at>
 
 		<lang.developedBy>développé par</lang.developedBy>
