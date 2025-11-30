@@ -8,6 +8,7 @@
 	
 		<v.controllerActivity.imagePath>cube</v.controllerActivity.imagePath>
 		<v.controllerActivity.itemSpacing>0.004</v.controllerActivity.itemSpacing>
+		<v.controllerActivity.itemSpacing tinyScreen="true">0.015</v.controllerActivity.itemSpacing>
 		<v.controllerActivity.x>0.0105</v.controllerActivity.x>
 	
 	</variables>

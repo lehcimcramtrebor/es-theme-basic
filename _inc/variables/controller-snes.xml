@@ -8,6 +8,7 @@
 	
 		<v.controllerActivity.imagePath>snes</v.controllerActivity.imagePath>
 		<v.controllerActivity.itemSpacing>0.014</v.controllerActivity.itemSpacing>
+		<v.controllerActivity.itemSpacing tinyScreen="true">0.035</v.controllerActivity.itemSpacing>
 		<v.controllerActivity.x>0.0152</v.controllerActivity.x>
 	
 	</variables>
