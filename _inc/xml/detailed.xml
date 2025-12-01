@@ -238,20 +238,19 @@
 
 		<text name="md_description"
 		
-			extra="true"
 			
 		>
 		
-			<fontSize tinyScreen="true">0.030</fontSize>
 			<w tinyScreen="true">0.5</w>
 			<h tinyScreen="true">0.18</h>
 			<offsetY tinyScreen="true">0.113</offsetY>
-			<forceUppercase tinyScreen="true">true</forceUppercase>
 			<fontPath tinyScreen="true">./../fonts/${f.mb}</fontPath>
 			<color tinyScreen="true">${c.text}ef</color>
 			<backgroundColor tinyScreen="true">${c.textHeader}05</backgroundColor>
 			<y tinyScreen="true">0.62</y>
-			<lineSpacing tinyScreen="true">1.58</lineSpacing>
+			<fontSize tinyScreen="true">0.034</fontSize>
+			<forceUppercase tinyScreen="true">false</forceUppercase>
+			<lineSpacing tinyScreen="true">1.28</lineSpacing>
 		
 		</text>
 

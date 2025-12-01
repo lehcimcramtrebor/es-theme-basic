@@ -50,7 +50,7 @@
 		>
 		
 			<fontSize tinyScreen="true">0.03</fontSize>
-			<offsetY tinyScreen="true">0.020</offsetY>
+			<offsetY tinyScreen="true">0.018</offsetY>
 		
 		</text>
 		
@@ -65,7 +65,8 @@
 		>
 		
 			<fontSize tinyScreen="true">0.03</fontSize>
-			<offsetY tinyScreen="true">0.03</offsetY>
+			<offsetY tinyScreen="true">0.028</offsetY>
+			<forceUppercase tinyScreen="true">false</forceUppercase>
 		
 		</text>
 				
