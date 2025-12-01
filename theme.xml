@@ -111,7 +111,6 @@
 
     <subset name="controller"
 	
-		tinyScreen="true"
 		displayName="${subset.controller}"
 		
 	>
