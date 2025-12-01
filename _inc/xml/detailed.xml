@@ -222,7 +222,7 @@
 		<text name="md_description"
 		
 			zIndex="1001"
-			forceUppercase="false"
+			forceUppercase="true"
 			alignment="left"
 			verticalAlignment="top"
 			fontPath="./../fonts/${f.mri}"
