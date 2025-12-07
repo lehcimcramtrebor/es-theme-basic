@@ -222,10 +222,10 @@
 		<text name="md_description"
 		
 			zIndex="1001"
-			forceUppercase="true"
+			forceUppercase="false"
 			alignment="left"
 			verticalAlignment="top"
-			fontPath="./../fonts/${f.mri}"
+			fontPath="./../fonts/${f.mr}"
             pos="0.4526041666666667 0.6148148148148148"
             size="0.3322916666666667 0.2851851851851852"
             fontSize="0.024"
@@ -244,7 +244,7 @@
 			<w tinyScreen="true">0.5</w>
 			<h tinyScreen="true">0.18</h>
 			<offsetY tinyScreen="true">0.113</offsetY>
-			<fontPath tinyScreen="true">./../fonts/${f.mb}</fontPath>
+			<fontPath tinyScreen="true">./../fonts/${f.mr}</fontPath>
 			<color tinyScreen="true">${c.text}ef</color>
 			<backgroundColor tinyScreen="true">${c.textHeader}05</backgroundColor>
 			<y tinyScreen="true">0.62</y>
@@ -280,7 +280,7 @@
             pos="0.8114583333333333 0.362962962962963"
             size="0.1369791666666667 0.212037037037037"
             fontSize="0.016"
-			color="${c.text}"
+			color="${c.selected}"
             glowColor="${c.glowColor}"
 			glowOffset="2"
 			glowSize="1"
