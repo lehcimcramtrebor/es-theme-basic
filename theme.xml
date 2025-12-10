@@ -13,10 +13,10 @@
 		<p.custom ifArch="windows">../../../../_BasicCustom</p.custom>
 		<custom.name>${global.cheevos.username}</custom.name>
 		
-		<v.allViews>system,basic,detailed,detailed_unified,library,grid,grid_boxes,grid_marquees</v.allViews>
-		<v.allGamelists>basic,detailed,detailed_unified,library,grid,grid_boxes,grid_marquees</v.allGamelists>
+		<v.allViews>system,basic,detailed,detailed_unified,library,grid,grid_boxes,grid_marquees,grid_flow</v.allViews>
+		<v.allGamelists>basic,detailed,detailed_unified,library,grid,grid_boxes,grid_marquees,grid_flow</v.allGamelists>
 		<v.textGamelists>basic,detailed,detailed_unified,library</v.textGamelists>
-		<v.gridGamelists>grid,grid_boxes,grid_marquees</v.gridGamelists>
+		<v.gridGamelists>grid,grid_boxes,grid_marquees,grid_flow</v.gridGamelists>
 
 		<v.line.hc>1 / ${screen.height}</v.line.hc>
 		<v.line.h>2 / ${screen.height}</v.line.h>
@@ -32,6 +32,7 @@
 		<v.frame.y>0.565</v.frame.y>
 
 		<v.frame.w>0.95</v.frame.w>
+		<v.flow.w>0.76</v.flow.w>
 		<v.frameLeft.w>0.39</v.frameLeft.w>
 		<v.frameRight.w>0.54</v.frameRight.w>
 
@@ -44,6 +45,7 @@
 		<v.frameBorders.h>0.72 + (${v.line.h})</v.frameBorders.h>
 
 		<v.frame.size>${v.frame.w} ${v.frame.h}</v.frame.size>
+		<v.flow.size>${v.flow.w} ${v.frame.h}</v.flow.size>
 		<v.frameLeft.size>${v.frameLeft.w} ${v.frame.h}</v.frameLeft.size>
 		<v.frameRight.size>${v.frameRight.w} ${v.frame.h}</v.frameRight.size>
 
@@ -84,6 +86,7 @@
 	<view name="grid"></view>
 	<customView name="grid_boxes"></customView>
 	<customView name="grid_marquees"></customView>
+	<customView name="grid_flow"></customView>
 	<customView name="library"></customView>
 
 	<subset name="shaders"
@@ -431,6 +434,7 @@
 	<include>./_inc/xml/grid.xml</include>
 	<include>./_inc/xml/grid_boxes.xml</include>
 	<include>./_inc/xml/grid_marquees.xml</include>
+	<include>./_inc/xml/grid_flow.xml</include>
 	<include>./_inc/xml/library.xml</include>
 
 	<include>./_support/support.xml</include>

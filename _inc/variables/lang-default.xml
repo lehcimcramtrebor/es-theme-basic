@@ -114,6 +114,7 @@
 		<lang.library>library</lang.library>
 		<lang.detailed_unified>detailed (unified)</lang.detailed_unified>
 		<lang.grid_boxes>grid (boxes)</lang.grid_boxes>
+		<lang.grid_flow>grid (cover flow)</lang.grid_flow>
 		<lang.grid_marquees>grid (logos)</lang.grid_marquees>
 
 		<lang.elements>items</lang.elements>

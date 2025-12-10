@@ -114,6 +114,7 @@
 		<lang.library>librairie</lang.library>
 		<lang.detailed_unified>détaillé (unifié)</lang.detailed_unified>
 		<lang.grid_boxes>grille (boîtes)</lang.grid_boxes>
+		<lang.grid_flow>grille (cover flow)</lang.grid_flow>
 		<lang.grid_marquees>grille (logos)</lang.grid_marquees>
 
 		<lang.elements>éléments</lang.elements>

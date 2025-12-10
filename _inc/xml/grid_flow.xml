@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<theme>
+
+	<formatVersion>7</formatVersion>
+	
+	<customView name="grid_flow" inherits="grid" displayName="${lang.grid_flow}">
+		<text name="gameName"
+		
+			extra="true"
+			pos="0.416 0.82"
+
+			>
+			
+			<pos tinyScreen="true">0.5 0.82</pos>
+
+		</text>
+
+		<image name="md_image"
+		
+			visible="true"
+
+		>
+
+			<visible tinyScreen="true">false</visible>
+
+		</image>
+		
+		<image name="md_thumbnail"
+		
+			visible="false"
+
+		/>
+		
+		<imagegrid name="gamegrid"
+		
+			imageSource="thumbnail"
+			autoLayout="3 1"
+			centerSelection="true"
+			scrollDirection="horizontal"
+			padding="0.025 0.17 0.025 0.25"
+			autoLayoutSelectedZoom ="1.5"
+			scrollLoop="true"
+			margin="0.08 0"
+		>
+
+			<size tinyScreen="false">${v.flow.size}</size>
+
+			<autoLayout if="${s.notWide}">3 1</autoLayout>
+			<autoLayout if="${s.ultraWide}">5 1</autoLayout>
+
+			<autoLayoutSelectedZoom if="${s.notWide}">1.9</autoLayoutSelectedZoom>
+			<autoLayoutSelectedZoom if="${s.ultraWide}">2.5</autoLayoutSelectedZoom>
+
+			<padding if="${s.notWide}">0.025 0.2 0.025 0.28</padding>
+			<padding if="${s.ultraWide}">0.025 0.22 0.025 0.3</padding>
+
+			<margin if="${s.notWide}">0.1</margin>
+
+		</imagegrid>
+		
+		<gridtile name="default"
+		
+			imageSizeMode="maxSize"
+			reflexion="0 0.3"
+			imageColor="cccccccc"
+			size="0.5 0.5"
+		/>
+
+		<gridtile name="selected"
+		
+			backgroundCenterColor="00000000"
+			backgroundEdgeColor="00000000"
+			imageColor="ffffff"
+			
+		/>
+
+		<ninepatch name="gridtile.background:selected"
+		
+			animateColor="00000000"
+			animateColorTime="160"
+
+		/>
+
+		<text name="gridtile"
+		
+			visible="false"
+			
+		/>
+	
+	</customView>
+
+</theme>
