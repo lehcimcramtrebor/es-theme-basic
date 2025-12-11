@@ -178,7 +178,7 @@
 			imageSizeMode="maxSize"
 			padding="6 6"
 			imageColor="ffffff"
-			reflexion="0 0"
+			reflexion="0.02 0"
 			
 		>
 		
@@ -191,6 +191,7 @@
 			backgroundCenterColor="${c.textHeader}"
 			backgroundEdgeColor="${c.textHeader}"
 			imageColor="ffffff"
+			reflexion="0.04 0"
 			
 		/>
 
