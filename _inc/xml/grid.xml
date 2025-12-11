@@ -165,7 +165,7 @@
 			<autoLayout if="${s.ultraWide}">5 2</autoLayout>
 			<margin tinyScreen="true">0.02 0.03</margin>
 			<padding tinyScreen="true">0.025 0.04 0.025 0.03</padding>
-			<showVideoAtDelay ifSubset="gridVideos:yes">3</showVideoAtDelay>
+			<showVideoAtDelay ifSubset="gridVideos:yes">1000</showVideoAtDelay>
 		</imagegrid>
 
 		<gridtile name="default"
