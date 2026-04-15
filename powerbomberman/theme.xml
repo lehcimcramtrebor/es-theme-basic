@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+    <formatVersion>7</formatVersion>
+    <include>./../theme.xml</include>
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Ports</system.manufacturer>
+        <system.fullName>Power Bomberman</system.fullName>
+        <system.releaseYearOrNull>2009</system.releaseYearOrNull>
+        <desc>FanGame-made Bomberman</desc>
+        <desc lang="fr">Version faite par les fans de Bomberman</desc>
+    </variables>
+</theme>
