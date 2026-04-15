@@ -8,6 +8,7 @@
 	
 		<v.controllerActivity.imagePath>n64</v.controllerActivity.imagePath>
 		<v.controllerActivity.itemSpacing>0.003</v.controllerActivity.itemSpacing>
+		<v.controllerActivity.itemSpacing tinyScreen="true">0.01</v.controllerActivity.itemSpacing>
 		<v.controllerActivity.x>0.0095</v.controllerActivity.x>
 	
 	</variables>

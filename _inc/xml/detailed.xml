@@ -70,7 +70,6 @@
 		>
 		
 			<shader ifSubset="shaders:on">./../shaders/scanlines.glsl</shader>
-			<visible tinyScreen="true">false</visible>
 
 
 		</image>
@@ -226,7 +225,7 @@
 			forceUppercase="false"
 			alignment="left"
 			verticalAlignment="top"
-			fontPath="./../fonts/${f.mri}"
+			fontPath="./../fonts/${f.mr}"
             pos="0.4526041666666667 0.6148148148148148"
             size="0.3322916666666667 0.2851851851851852"
             fontSize="0.024"
@@ -236,43 +235,22 @@
 			glowSize="1"
 
 			/>
-			
-		<text name="noDescription"
-		
-			zIndex="1001"
-			extra="true"
-			forceUppercase="false"
-			alignment="left"
-			verticalAlignment="top"
-			fontPath="./../fonts/${f.mri}"
-            pos="0.4526041666666667 0.6148148148148148"
-            size="0.3322916666666667 0.2851851851851852"
-            fontSize="0.024"
-			color="${c.selected}"
-            glowColor="${c.glowColor}"
-			glowOffset="2"
-			glowSize="1"
-			text="${lang.noDesc}"
-			visible="empty({game:desc})"
 
-			/>
-
-		<text name="md_description,noDescription"
+		<text name="md_description"
 		
-			extra="true"
 			
 		>
 		
-			<fontSize tinyScreen="true">0.030</fontSize>
 			<w tinyScreen="true">0.5</w>
 			<h tinyScreen="true">0.18</h>
 			<offsetY tinyScreen="true">0.113</offsetY>
-			<forceUppercase tinyScreen="true">true</forceUppercase>
-			<fontPath tinyScreen="true">./../fonts/${f.mb}</fontPath>
+			<fontPath tinyScreen="true">./../fonts/${f.mr}</fontPath>
 			<color tinyScreen="true">${c.text}ef</color>
 			<backgroundColor tinyScreen="true">${c.textHeader}05</backgroundColor>
 			<y tinyScreen="true">0.62</y>
-			<lineSpacing tinyScreen="true">1.58</lineSpacing>
+			<fontSize tinyScreen="true">0.034</fontSize>
+			<forceUppercase tinyScreen="true">false</forceUppercase>
+			<lineSpacing tinyScreen="true">1.28</lineSpacing>
 		
 		</text>
 
@@ -302,7 +280,7 @@
             pos="0.8114583333333333 0.362962962962963"
             size="0.1369791666666667 0.212037037037037"
             fontSize="0.016"
-			color="${c.text}"
+			color="${c.selected}"
             glowColor="${c.glowColor}"
 			glowOffset="2"
 			glowSize="1"

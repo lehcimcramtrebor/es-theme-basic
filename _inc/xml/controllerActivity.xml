@@ -20,9 +20,8 @@
 			
 		>
 		
-			<color tinyScreen="true">00000000</color>
-			<activityColor tinyScreen="true">00000000</activityColor>
-			<hotkeyColor tinyScreen="true">00000000</hotkeyColor>
+			<size tinyScreen="true">0.185 0.040</size>
+			<pos tinyScreen="true">${v.controllerActivity.x} 0.005</pos>
 		
 		</controllerActivity>
 		

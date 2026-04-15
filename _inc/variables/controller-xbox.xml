@@ -8,6 +8,7 @@
 	
 		<v.controllerActivity.imagePath>xbox</v.controllerActivity.imagePath>
 		<v.controllerActivity.itemSpacing>0.005</v.controllerActivity.itemSpacing>
+		<v.controllerActivity.itemSpacing tinyScreen="true">0.015</v.controllerActivity.itemSpacing>
 		<v.controllerActivity.x>0.0118</v.controllerActivity.x>
 	
 	</variables>

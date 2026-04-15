@@ -130,7 +130,6 @@
 		>
 		
 			<shader ifSubset="shaders:on">./../shaders/scanlines.glsl</shader>
-			<visible tinyScreen="true">false</visible>
 
 
 		</image>
@@ -166,7 +165,7 @@
 			<autoLayout if="${s.ultraWide}">5 2</autoLayout>
 			<margin tinyScreen="true">0.02 0.03</margin>
 			<padding tinyScreen="true">0.025 0.04 0.025 0.03</padding>
-			<showVideoAtDelay ifSubset="gridVideos:yes">3</showVideoAtDelay>
+			<showVideoAtDelay ifSubset="gridVideos:yes">1000</showVideoAtDelay>
 		</imagegrid>
 
 		<gridtile name="default"
@@ -179,7 +178,7 @@
 			imageSizeMode="maxSize"
 			padding="6 6"
 			imageColor="ffffff"
-			reflexion="0 0"
+			reflexion="0.02 0"
 			
 		>
 		
@@ -192,6 +191,7 @@
 			backgroundCenterColor="${c.textHeader}"
 			backgroundEdgeColor="${c.textHeader}"
 			imageColor="ffffff"
+			reflexion="0.04 0"
 			
 		/>
 
@@ -349,7 +349,7 @@
 			origin="0.5 0"
             pos="0.8799479166666667 0.6648148148148148"
             size="0.1546875 0.2351851851851852"
-            fontSize="0.024"
+            fontSize="0.022"
 			color="${c.selected}"
             glowColor="${c.glowColor}"
 			glowOffset="2"
@@ -357,30 +357,9 @@
 			autoScrollSpeed="50"
 			lineSpacing="1.37"
 			
-			/>
-						
-		<text name="noDescription"
-		
-			zIndex="1001"
-			extra="true"
-			forceUppercase="false"
-			alignment="left"
-			verticalAlignment="top"
-			fontPath="./../fonts/${f.mri}"
-            pos="0.8799479166666667 0.6648148148148148"
-            size="0.1546875 0.2351851851851852"
-            fontSize="0.022"
-			color="${c.selected}"
-            glowColor="${c.glowColor}"
-			glowOffset="2"
-			glowSize="1"
-			text=" "
-			visible="empty({game:desc})"
-			lineSpacing="1.37"
+			/>						
 
-			/>
-
-		<control name="md_description,noDescription">
+		<control name="md_description">
 
 			<storyboard event="open">
 				<animation property="scale" from="0" to="1" mode="linear" duration="1"/>
@@ -434,7 +413,7 @@
             pos="0.8114583333333333 0.362962962962963"
             size="0.1369791666666667 0.212037037037037"
             fontSize="0.016"
-			color="${c.text}"
+			color="${c.selected}"
             glowColor="${c.glowColor}"
 			glowOffset="2"
 			glowSize="1"

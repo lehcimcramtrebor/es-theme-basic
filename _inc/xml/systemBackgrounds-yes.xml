@@ -24,7 +24,6 @@
 		>
 		
 			<shader ifSubset="shaders:on">./../shaders/scanlinesBright.glsl</shader>
-			<visible tinyScreen="true">false</visible>
 			<default>./../parts/default-bg.jpg</default>
 			<path>{random:fanart}</path>
 			<path>./../../${p.custom}/default-bg.png</path>
@@ -66,7 +65,6 @@
 		>
 		
 			<shader ifSubset="shaders:on">./../shaders/scanlinesBright.glsl</shader>
-			<visible tinyScreen="true">false</visible>
 			<opacity ifSubset="shaders:off">0.03</opacity>
 
 		</image>

@@ -8,6 +8,7 @@
 	
 		<v.controllerActivity.imagePath>psx</v.controllerActivity.imagePath>
 		<v.controllerActivity.itemSpacing>0.007</v.controllerActivity.itemSpacing>
+		<v.controllerActivity.itemSpacing tinyScreen="true">0.02</v.controllerActivity.itemSpacing>
 		<v.controllerActivity.x>0.0122</v.controllerActivity.x>
 	
 	</variables>
