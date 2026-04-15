@@ -1,3 +1,4 @@
+2ship
 a-rpg
 aarch
 amazon
@@ -15,12 +16,17 @@ auto-sportswithanimals
 auto-various
 bbc
 bbcmicro
+bennugd
+bk
 blizzard
 boom3
+bstone
+bsyndrome
 build
 bullfrog
 c16
 camplynx
+cassettevision
 cdogs
 cgenius
 civilization
@@ -62,6 +68,7 @@ epic
 etlegacy
 exidy
 exl100
+exodos
 fallout1-ce
 fallout2-ce
 fireemblem
@@ -81,6 +88,7 @@ gamepocketcomputer
 gbh
 gemrb
 getupor
+ghostship
 gmaster
 gmloader
 gog
@@ -90,6 +98,7 @@ granturismo
 guiltygear
 gzdoom
 hacks
+halflife
 halo
 hcl
 helmic
@@ -112,6 +121,7 @@ kids
 kirby
 krisalis
 laser310
+laseractive
 laserdisc
 lego
 loopy
@@ -161,6 +171,7 @@ pinballfx2
 plugnplay
 pocketstation
 pointandclick
+powerbomberman
 ps4
 ps4pro
 ps5
@@ -169,6 +180,7 @@ psygnosis
 punchout
 pv1000
 pyxel
+Quake2
 quake3
 raze
 rca
@@ -177,6 +189,7 @@ residualvm
 rng
 rockstar
 rott
+rtcw
 sc-3000
 sc3000
 scv-alt

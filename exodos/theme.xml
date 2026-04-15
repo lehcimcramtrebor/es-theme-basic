@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+    <formatVersion>7</formatVersion>
+    <include>./../theme.xml</include>
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Microsoft</system.manufacturer>
+        <system.fullName>eXoDOS</system.fullName>
+        <system.releaseYearOrNull>1981</system.releaseYearOrNull>
+        <desc>eXoDOS is an attempt to catalog, obtain, and make playable every game developed for the DOS and PC Booter platform</desc>
+        <desc lang="fr">eXoDOS est un projet visant à répertorier, à acquérir et à rendre jouables tous les jeux développés pour les plateformes DOS et PC Booter</desc>
+    </variables>
+</theme>

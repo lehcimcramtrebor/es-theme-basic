@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+        <formatVersion>7</formatVersion>
+        <include>./../theme.xml</include>
+        <variables><region.priority region="eu"/>
+
+<system.manufacturer>Ports</system.manufacturer>
+<system.fullName>Blake Stone</system.fullName>
+<desc>Game engine to play Aliens of Gold and Planet Strike</desc>
+<desc lang="fr">Moteur de jeu permettant de jouer à Aliens of Gold et Planet Strike</desc>
+</variables>
+</theme>

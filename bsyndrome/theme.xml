@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+    <formatVersion>7</formatVersion>
+    <include>./../theme.xml</include>
+    <variables>
+        <region.priority region="eu"/>
+        <system.manufacturer>Ports</system.manufacturer>
+        <system.fullName>Bermuda Syndrome</system.fullName>
+        <system.releaseYearOrNull>1995</system.releaseYearOrNull>
+        <desc>Decompilation project of the Bermuda Syndrome game.</desc>
+        <desc lang="fr">Projet de décompilation du jeu Bermuda Syndrome.</desc>
+    </variables>
+</theme>
