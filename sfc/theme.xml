@@ -21,14 +21,6 @@
     <system.releaseYearOrNull region="us">1991</system.releaseYearOrNull>
     <system.releaseYearOrNull region="jp">1990</system.releaseYearOrNull>
 
-    <desc>The Super Nintendo Entertainment System (SNES) is a 16-bit home video game console developed by Nintendo. It was released in 1990 in Japan as the Super Famicom, 1991 in North America, and 1992 in Europe. The SNES is Nintendo's second home console, following the Nintendo Entertainment System. It featured advanced graphics and sound capabilities compared to its predecessor, and is considered one of the greatest video game consoles of all time. Popular games include Super Mario World, The Legend of Zelda: A Link to the Past, and Super Metroid.</desc>
-    <desc region="us">The Super Nintendo Entertainment System (SNES) is a 16-bit home video game console developed by Nintendo. It was released in 1991 in North America. Popular games include Super Mario World, The Legend of Zelda: A Link to the Past, and Super Metroid.</desc>
-    <desc region="jp">The Super Famicom is a 16-bit home video game console developed by Nintendo. It was released in 1990 in Japan. Popular games include Super Mario World, The Legend of Zelda: A Link to the Past, and Super Metroid.</desc>
-
-    <desc lang="fr">La Super Nintendo Entertainment System (SNES) est une console de jeux vidéo domestique 16 bits développée par Nintendo. Elle est sortie en 1992 en Europe. La SNES est la deuxième console domestique de Nintendo, succédant à la Nintendo Entertainment System. Elle présentait des capacités graphiques et sonores avancées par rapport à son prédécesseur et est considérée comme l'une des plus grandes consoles de jeux vidéo de tous les temps. Les jeux populaires incluent Super Mario World, The Legend of Zelda: A Link to the Past et Super Metroid.</desc>
-    <desc lang="fr" region="us">La Super Nintendo Entertainment System (SNES) est une console de jeux vidéo domestique 16 bits développée par Nintendo. Elle est sortie en 1991 en Amérique du Nord. Les jeux populaires incluent Super Mario World, The Legend of Zelda: A Link to the Past et Super Metroid.</desc>
-    <desc lang="fr" region="jp">La Super Famicom est une console de jeux vidéo domestique 16 bits développée par Nintendo. Elle est sortie en 1990 au Japon. Les jeux populaires incluent Super Mario World, The Legend of Zelda: A Link to the Past et Super Metroid.</desc>
-
 </variables>
 
 </theme>

@@ -7,7 +7,5 @@
         <system.manufacturer>Various</system.manufacturer>
         <system.fullName>LaserDisc Games</system.fullName>
         <system.fullName lang="fr">Jeux LaserDisc</system.fullName>
-        <desc>LaserDisc games are a type of video game that uses LaserDisc technology to store and play back video and audio. They often feature full-motion video sequences and interactive elements.</desc>
-        <desc lang="fr">Les jeux LaserDisc sont un type de jeu vidéo qui utilise la technologie LaserDisc pour stocker et lire de la vidéo et de l'audio. Ils comportent souvent des séquences vidéo plein écran et des éléments interactifs.</desc>
     </variables>
 </theme>

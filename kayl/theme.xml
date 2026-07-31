@@ -6,7 +6,5 @@
         <region.priority region="eu"/>
         <system.fullName>Kayl V.I.P. Collection</system.fullName>
         <system.fullName lang="fr">Collection V.I.P. de Kayl</system.fullName>
-        <desc>The Kayl V.I.P. Collection is a curated selection of games chosen by Kayl, the lead developer of Retrobat. This collection represents their personal favorites and highlights their dedication to retro gaming.</desc>
-        <desc lang="fr">La collection V.I.P. de Kayl est une sélection de jeux choisis par Kayl, le développeur principal de Retrobat. Cette collection représente ses favoris personnels et souligne son dévouement au rétrogaming.</desc>
     </variables>
 </theme>

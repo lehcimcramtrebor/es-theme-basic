@@ -7,7 +7,5 @@
 		<system.manufacturer>Various</system.manufacturer>
 		<system.fullName>Compilation Games</system.fullName>
 		<system.fullName lang="fr">Compilations de jeux</system.fullName>
-		<desc>Compilation games are collections of previously released titles, often from a specific franchise or era. They offer players a convenient way to experience multiple games in a single package.</desc>
-		<desc lang="fr">Les compilations de jeux sont des collections de titres publiés précédemment, souvent issus d'une franchise ou d'une époque spécifique. Elles offrent aux joueurs un moyen pratique de découvrir plusieurs jeux dans un seul package.</desc>
 	</variables>
 </theme>

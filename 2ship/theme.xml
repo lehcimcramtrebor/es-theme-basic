@@ -7,7 +7,5 @@
         <system.manufacturer>Ports</system.manufacturer>
         <system.fullName>2 Ship 2 Harkinian</system.fullName>
         <system.releaseYearOrNull>2000</system.releaseYearOrNull>
-        <desc>Game engine to play Majora's Mask.</desc>
-        <desc lang="fr">Moteur de jeu permettant de jouer à Majora's Mask.</desc>
     </variables>
 </theme>

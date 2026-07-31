@@ -86,7 +86,6 @@
 		<subset.systemBackgrounds.no>non</subset.systemBackgrounds.no>
 		<subset.systemBackgrounds.yes>oui</subset.systemBackgrounds.yes>
 
-		<subset.textDesc>autoriser le texte défilant dans le caroussel</subset.textDesc>
 		<subset.textDesc.no>non</subset.textDesc.no>
 		<subset.textDesc.yes>oui</subset.textDesc.yes>
 

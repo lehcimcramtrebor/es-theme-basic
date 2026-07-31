@@ -8,7 +8,5 @@
         <system.fullName>Mortal Kombat Series</system.fullName>
         <system.fullName lang="fr">Série Mortal Kombat</system.fullName>
         <system.releaseYearOrNull>1992</system.releaseYearOrNull>
-        <desc>Mortal Kombat is a fighting game franchise created by Ed Boon and John Tobias. It is known for its high level of violence, including its signature finishing moves known as Fatalities. The series has spawned numerous sequels, spin-offs, and adaptations.</desc>
-        <desc lang="fr">Mortal Kombat est une franchise de jeux de combat créée par Ed Boon et John Tobias. Elle est connue pour son niveau de violence élevé, y compris ses mouvements de finition emblématiques connus sous le nom de Fatalités. La série a donné naissance à de nombreuses suites, spin-offs et adaptations.</desc>
     </variables>
 </theme>

@@ -7,7 +7,5 @@
 		<system.manufacturer>Various</system.manufacturer>
 		<system.fullName>All Games</system.fullName>
 		<system.fullName lang="fr">Tous les jeux</system.fullName>
-		<desc>A comprehensive collection of video games from various platforms, genres, and eras.</desc>
-		<desc lang="fr">Une collection complète de jeux vidéo de diverses plateformes, genres et époques.</desc>
 	</variables>
 </theme>

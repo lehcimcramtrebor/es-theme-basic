@@ -7,7 +7,5 @@
 		<system.manufacturer>Voidpoint</system.manufacturer>
 		<system.fullName>Raze</system.fullName>
 		<system.fullName lang="fr">Raze</system.fullName>
-		<desc>Raze is a source port of the Build Engine, originally developed by 3D Realms. It allows players to experience classic Build Engine games like Duke Nukem 3D, Blood, Redneck Rampage, and Shadow Warrior with modern enhancements and features.</desc>
-		<desc lang="fr">Raze est un portage du moteur de jeu Build Engine, développé à l'origine par 3D Realms. Il permet aux joueurs de découvrir les jeux classiques Build Engine tels que Duke Nukem 3D, Blood, Redneck Rampage et Shadow Warrior avec des améliorations et des fonctionnalités modernes.</desc>
 	</variables>
 </theme>

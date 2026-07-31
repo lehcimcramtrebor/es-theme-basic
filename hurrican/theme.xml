@@ -6,7 +6,5 @@
         <region.priority region="eu"/>
         <system.manufacturer>Loriciels</system.manufacturer>
         <system.fullName>Hurrican</system.fullName>
-        <desc>Hurrican is a freeware side-scrolling shooter game inspired by the Turrican series. It features fast-paced action, diverse levels, and a variety of weapons.</desc>
-        <desc lang="fr">Hurrican est un jeu de tir à défilement latéral gratuit inspiré de la série Turrican. Il propose une action rapide, des niveaux variés et une multitude d'armes.</desc>
     </variables>
 </theme>

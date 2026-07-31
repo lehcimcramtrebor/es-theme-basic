@@ -12,8 +12,5 @@
 
                 <system.releaseYearOrNull>2007</system.releaseYearOrNull>
 
-                <desc>EasyRPG Player is a free, open-source, cross-platform interpreter for games created with RPG Maker 2000 and RPG Maker 2003. It allows you to play your favorite RPG Maker games on a variety of devices and operating systems.</desc>
-                <desc lang="fr">EasyRPG Player est un interpréteur multiplateforme libre et open-source pour les jeux créés avec RPG Maker 2000 et RPG Maker 2003. Il vous permet de jouer à vos jeux RPG Maker préférés sur une variété d'appareils et de systèmes d'exploitation.</desc>
-
         </variables>
 </theme>

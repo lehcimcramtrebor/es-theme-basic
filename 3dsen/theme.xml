@@ -10,9 +10,6 @@
 
 <system.releaseYearOrNull>2018</system.releaseYearOrNull>
 
-<desc>3dSen is a Nintendo Entertainment System emulator that allows users to play NES games in 3D. The emulator works by converting 2D sprites into 3D models. It also includes a VR mode that allows users to play games in virtual reality.</desc>
-
-<desc lang="fr">3dSen est un émulateur Nintendo Entertainment System qui permet aux utilisateurs de jouer à des jeux NES en 3D. L'émulateur fonctionne en convertissant des sprites 2D en modèles 3D. Il inclut également un mode VR qui permet aux utilisateurs de jouer à des jeux en réalité virtuelle.</desc>
 </variables>
 
 </theme>

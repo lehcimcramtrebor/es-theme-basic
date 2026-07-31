@@ -7,7 +7,5 @@
     <system.manufacturer>Various</system.manufacturer>
     <system.fullName>Sports Games</system.fullName>
     <system.fullName lang="fr">Jeux de sport</system.fullName>
-    <desc>Sports games simulate the playing of various sports, often with realistic physics and player movements. They can feature individual sports, such as tennis or golf, or team sports, such as football or basketball.</desc>
-    <desc lang="fr">Les jeux de sport simulent la pratique de divers sports, souvent avec une physique et des mouvements de joueurs réalistes. Ils peuvent présenter des sports individuels, tels que le tennis ou le golf, ou des sports d'équipe, tels que le football ou le basket-ball.</desc>
   </variables>
 </theme>

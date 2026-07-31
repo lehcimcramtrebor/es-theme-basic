@@ -6,7 +6,5 @@
         <region.priority region="eu"/>
         <system.fullName>Horror games</system.fullName>
         <system.fullName lang="fr">Jeux d'horreur</system.fullName>
-        <desc>Horror games are video games designed to evoke feelings of fear and dread in the player. They often feature elements of suspense, psychological horror, and survival horror.</desc>
-        <desc lang="fr">Les jeux d'horreur sont des jeux vidéo conçus pour évoquer des sentiments de peur et d'effroi chez le joueur. Ils comportent souvent des éléments de suspense, d'horreur psychologique et de survival horror.</desc>
     </variables>
 </theme>

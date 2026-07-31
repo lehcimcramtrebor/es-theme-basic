@@ -7,7 +7,5 @@
 		<system.manufacturer>Various</system.manufacturer>
 		<system.fullName>Action RPGs</system.fullName>
 		<system.fullName lang="fr">Jeux de rôle d'action</system.fullName>
-		<desc>Action RPGs blend elements of action and role-playing games, emphasizing real-time combat and character progression. They often feature open worlds, intricate storylines, and customizable characters, providing a more immersive experience compared to traditional RPGs.</desc>
-		<desc lang="fr">Les jeux de rôle d'action mélangent des éléments de jeux d'action et de rôle, en mettant l'accent sur le combat en temps réel et la progression du personnage. Ils comportent souvent des mondes ouverts, des scénarios complexes et des personnages personnalisables, offrant une expérience plus immersive par rapport aux RPG traditionnels.</desc>
 	</variables>
 </theme>

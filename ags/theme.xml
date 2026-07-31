@@ -10,9 +10,6 @@
 
 <system.releaseYearOrNull>1997</system.releaseYearOrNull>
 
-<desc>Adventure Game Studio (AGS) is a free and open-source development tool for creating adventure games. It is known for its ease of use and its wide range of features. AGS games can be played on Windows, Linux, and macOS.</desc>
-
-<desc lang="fr">Adventure Game Studio (AGS) est un outil de développement gratuit et open-source pour créer des jeux d'aventure. Il est connu pour sa facilité d'utilisation et sa large gamme de fonctionnalités. Les jeux AGS peuvent être joués sur Windows, Linux et macOS.</desc>
 </variables>
 
 </theme>

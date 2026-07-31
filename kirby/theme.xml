@@ -6,7 +6,5 @@
         <region.priority region="eu"/>
         <system.manufacturer>HAL Laboratory</system.manufacturer>
         <system.fullName>Kirby Series</system.fullName>
-        <desc>The Kirby series is a platforming video game franchise created by HAL Laboratory and Nintendo. It follows the adventures of Kirby, a pink spherical creature with the ability to inhale objects and enemies to gain their abilities.</desc>
-        <desc lang="fr">Kirby est une série de jeux vidéo de plateforme créée par HAL Laboratory et Nintendo. Elle suit les aventures de Kirby, une créature sphérique rose capable d'inhaler des objets et des ennemis pour acquérir leurs capacités.</desc>
     </variables>
 </theme>

@@ -7,7 +7,5 @@
 		<system.manufacturer>Various</system.manufacturer>
 		<system.fullName>Favoris</system.fullName>
 		<system.fullName lang="fr">Favoris</system.fullName>
-		<desc>A collection of your favorite games from various platforms, genres, and eras.</desc>
-		<desc lang="fr">Une collection de vos jeux préférés de diverses plateformes, genres et époques.</desc>
 	</variables>
 </theme>

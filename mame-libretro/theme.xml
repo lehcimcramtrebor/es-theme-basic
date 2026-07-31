@@ -6,7 +6,5 @@
         <region.priority region="eu"/>
         <system.manufacturer>Libretro Team</system.manufacturer>
         <system.fullName>MAME (Libretro)</system.fullName>
-        <desc>MAME (Libretro) is a port of the MAME (Multiple Arcade Machine Emulator) emulator to the Libretro API. This allows MAME to be run as a core within the RetroArch emulator, offering cross-platform compatibility and integration with RetroArch's features.</desc>
-        <desc lang="fr">MAME (Libretro) est un port de l'émulateur MAME (Multiple Arcade Machine Emulator) vers l'API Libretro. Cela permet à MAME d'être exécuté en tant que noyau au sein de l'émulateur RetroArch, offrant une compatibilité multiplateforme et une intégration avec les fonctionnalités de RetroArch.</desc>
     </variables>
 </theme>

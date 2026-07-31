@@ -7,7 +7,5 @@
     <system.manufacturer>Various</system.manufacturer>
     <system.fullName>Last Played Games</system.fullName>
     <system.fullName lang="fr">Derniers jeux joués</system.fullName>
-    <desc>A collection of the most recently played games, offering quick access to continue your gaming sessions.</desc>
-    <desc lang="fr">Une collection des jeux les plus récemment joués, offrant un accès rapide pour continuer vos sessions de jeu.</desc>
   </variables>
 </theme>

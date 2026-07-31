@@ -8,7 +8,5 @@
         <system.fullName>Mario Kart Series</system.fullName>
         <system.fullName lang="fr">Série Mario Kart</system.fullName>
         <system.releaseYearOrNull>1992</system.releaseYearOrNull>
-        <desc>Mario Kart is a series of kart racing video games developed and published by Nintendo. The series features characters from the Mario franchise competing in races on various tracks. Known for its accessible gameplay and use of power-ups, the series has become one of Nintendo's most successful franchises.</desc>
-        <desc lang="fr">Mario Kart est une série de jeux vidéo de course de karts développée et publiée par Nintendo. La série met en vedette des personnages de la franchise Mario qui s'affrontent dans des courses sur divers circuits. Reconnue pour son gameplay accessible et l'utilisation de bonus, la série est devenue l'une des franchises les plus réussies de Nintendo.</desc>
     </variables>
 </theme>

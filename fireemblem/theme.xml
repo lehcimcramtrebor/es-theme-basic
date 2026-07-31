@@ -12,8 +12,5 @@
 
                 <system.releaseYearOrNull>1990</system.releaseYearOrNull>
 
-                <desc>Fire Emblem is a tactical role-playing game series developed by Intelligent Systems and published by Nintendo. The series is known for its strategic gameplay, its complex characters, and its engaging storylines. Fire Emblem has been ported to a variety of consoles and handhelds, and it has also spawned a number of spin-offs.</desc>
-                <desc lang="fr">Fire Emblem est une série de jeux de rôle tactiques développée par Intelligent Systems et publiée par Nintendo. La série est connue pour son gameplay stratégique, ses personnages complexes et ses scénarios captivants. Fire Emblem a été porté sur une variété de consoles et d'appareils portables, et il a également engendré un certain nombre de spin-offs.</desc>
-
         </variables>
 </theme>

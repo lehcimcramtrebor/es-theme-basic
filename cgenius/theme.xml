@@ -7,7 +7,5 @@
     <system.manufacturer>Unknown</system.manufacturer>
     <system.fullName>Commander Genius</system.fullName>
     <system.fullName lang="fr">Commander Genius</system.fullName>
-    <desc>Commander Genius is a port of the classic Commodore 64 game Genius, a puzzle game where players must arrange colored tiles to create a complete circuit. This version allows players to experience the challenging and addictive gameplay on modern platforms.</desc>
-    <desc lang="fr">Commander Genius est un portage du jeu classique Genius pour Commodore 64, un jeu de puzzle où les joueurs doivent disposer des tuiles colorées pour créer un circuit complet. Cette version permet aux joueurs de découvrir le gameplay stimulant et addictif sur les plateformes modernes.</desc>
   </variables>
 </theme>

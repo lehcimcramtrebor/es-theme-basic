@@ -7,7 +7,5 @@
         <system.manufacturer>Ports</system.manufacturer>
         <system.fullName>Power Bomberman</system.fullName>
         <system.releaseYearOrNull>2009</system.releaseYearOrNull>
-        <desc>FanGame-made Bomberman</desc>
-        <desc lang="fr">Version faite par les fans de Bomberman</desc>
     </variables>
 </theme>

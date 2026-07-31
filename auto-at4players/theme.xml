@@ -7,7 +7,5 @@
 		<system.manufacturer>Various</system.manufacturer>
 		<system.fullName>4 Players Games</system.fullName>
 		<system.fullName lang="fr">Jeux à 4 joueurs</system.fullName>
-		<desc>A collection of games designed for four players, offering competitive or cooperative gameplay experiences.</desc>
-		<desc lang="fr">Une collection de jeux conçus pour quatre joueurs, offrant des expériences de jeu compétitives ou coopératives.</desc>
 	</variables>
 </theme>

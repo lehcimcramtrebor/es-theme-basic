@@ -7,7 +7,5 @@
     <system.manufacturer>Various</system.manufacturer>
     <system.fullName>Puzzle Games</system.fullName>
     <system.fullName lang="fr">Jeux de puzzle</system.fullName>
-    <desc>Puzzle games challenge players to solve logic puzzles, riddles, or spatial challenges. They require critical thinking and problem-solving skills, often featuring a variety of mechanics and difficulty levels.</desc>
-    <desc lang="fr">Les jeux de puzzle mettent les joueurs au défi de résoudre des énigmes logiques, des énigmes ou des défis spatiaux. Ils nécessitent une pensée critique et des compétences en résolution de problèmes, et présentent souvent une variété de mécanismes et de niveaux de difficulté.</desc>
   </variables>
 </theme>

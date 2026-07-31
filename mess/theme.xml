@@ -6,7 +6,5 @@
         <region.priority region="eu"/>
         <system.manufacturer>MESS Team</system.manufacturer>
         <system.fullName>MESS</system.fullName>
-        <desc>MESS (Multi Emulator Super System) is a free and open-source emulator for a variety of home computers, video game consoles, and arcade machines. It focuses on accuracy and preservation, aiming to emulate as many systems as possible.</desc>
-        <desc lang="fr">MESS (Multi Emulator Super System) est un émulateur gratuit et open-source pour une variété d'ordinateurs personnels, de consoles de jeux vidéo et de machines d'arcade. Il se concentre sur la précision et la préservation, visant à émuler autant de systèmes que possible.</desc>
     </variables>
 </theme>

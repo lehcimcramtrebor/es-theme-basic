@@ -7,7 +7,5 @@
     <system.manufacturer>Various</system.manufacturer>
     <system.fullName>Race Driving Games</system.fullName>
     <system.fullName lang="fr">Jeux de course automobile</system.fullName>
-    <desc>Race driving games simulate the experience of driving a race car, often in realistic environments. They may involve competing against other drivers, or against the clock.</desc>
-    <desc lang="fr">Les jeux de course automobile simulent l'expérience de la conduite d'une voiture de course, souvent dans des environnements réalistes. Ils peuvent impliquer de rivaliser avec d'autres pilotes ou contre la montre.</desc>
   </variables>
 </theme>

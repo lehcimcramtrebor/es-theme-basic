@@ -7,7 +7,5 @@
 		<system.manufacturer>Various</system.manufacturer>
 		<system.fullName>Educational Games</system.fullName>
 		<system.fullName lang="fr">Jeux éducatifs</system.fullName>
-		<desc>Educational games are designed to teach players specific skills or knowledge. They often incorporate learning objectives into gameplay, making education more engaging and fun.</desc>
-		<desc lang="fr">Les jeux éducatifs sont conçus pour enseigner aux joueurs des compétences ou des connaissances spécifiques. Ils intègrent souvent des objectifs d'apprentissage dans le gameplay, rendant l'éducation plus attrayante et amusante.</desc>
 	</variables>
 </theme>

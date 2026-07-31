@@ -7,7 +7,5 @@
     <system.manufacturer>Various</system.manufacturer>
     <system.fullName>RetroAchievements Games</system.fullName>
     <system.fullName lang="fr">Jeux RetroAchievements</system.fullName>
-    <desc>A collection of games that are supported by the RetroAchievements platform, allowing players to earn achievements while playing classic titles.</desc>
-    <desc lang="fr">Une collection de jeux pris en charge par la plateforme RetroAchievements, permettant aux joueurs de gagner des succès en jouant à des titres classiques.</desc>
   </variables>
 </theme>

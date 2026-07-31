@@ -12,8 +12,5 @@
 
                 <system.releaseYearOrNull>2015</system.releaseYearOrNull>
 
-                <desc>Flatpak is a utility for software deployment and package management for Linux. It provides a sandbox environment in which users can run applications in isolation from the rest of the system. This allows users to run multiple versions of the same application, and makes it easier to install and manage applications.</desc>
-                <desc lang="fr">Flatpak est un utilitaire de déploiement de logiciels et de gestion de paquets pour Linux. Il fournit un environnement sandbox dans lequel les utilisateurs peuvent exécuter des applications isolées du reste du système. Cela permet aux utilisateurs d'exécuter plusieurs versions de la même application et facilite l'installation et la gestion des applications.</desc>
-
         </variables>
 </theme>

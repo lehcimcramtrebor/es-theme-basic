@@ -6,7 +6,5 @@
         <region.priority region="eu"/>
         <system.fullName>Helmic V.I.P. collection</system.fullName>
         <system.fullName lang="fr">Collection Helmic V.I.P.</system.fullName>
-        <desc>The Helmic V.I.P. collection is a curated compilation of video games, focusing on high-quality and critically acclaimed titles. It spans various genres and platforms, offering a premium gaming experience.</desc>
-        <desc lang="fr">La collection Helmic V.I.P. est une compilation de jeux vidéo sélectionnés, axée sur les titres de haute qualité et acclamés par la critique. Elle couvre divers genres et plateformes, offrant une expérience de jeu haut de gamme.</desc>
     </variables>
 </theme>

@@ -6,8 +6,6 @@
 
 <system.manufacturer>Nintendo</system.manufacturer>
 <system.fullName>WiiWare</system.fullName>
-<desc>WiiWare is a service that allowed users to download video games and other software directly to their Wii consoles. It offered a variety of titles, including original games, classic games, and independent games. WiiWare was discontinued in 2019.</desc>
-<desc lang="fr">WiiWare est un service qui permettait aux utilisateurs de télécharger des jeux vidéo et d'autres logiciels directement sur leurs consoles Wii. Il offrait une variété de titres, notamment des jeux originaux, des jeux classiques et des jeux indépendants. WiiWare a été abandonné en 2019.</desc>
 
 </variables>
 </theme>

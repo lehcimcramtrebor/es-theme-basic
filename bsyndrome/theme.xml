@@ -7,7 +7,5 @@
         <system.manufacturer>Ports</system.manufacturer>
         <system.fullName>Bermuda Syndrome</system.fullName>
         <system.releaseYearOrNull>1995</system.releaseYearOrNull>
-        <desc>Decompilation project of the Bermuda Syndrome game.</desc>
-        <desc lang="fr">Projet de décompilation du jeu Bermuda Syndrome.</desc>
     </variables>
 </theme>

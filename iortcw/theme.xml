@@ -6,7 +6,5 @@
         <region.priority region="eu"/>
         <system.manufacturer>open-source project</system.manufacturer>
         <system.fullName>iortcw</system.fullName>
-        <desc>iortcw (ioquake3 Return to Castle Wolfenstein) is a source port of the game Return to Castle Wolfenstein. It improves the game's graphics, adds new features, and supports cross-platform play.</desc>
-        <desc lang="fr">iortcw (ioquake3 Return to Castle Wolfenstein) est un portage source du jeu Return to Castle Wolfenstein. Il améliore les graphismes du jeu, ajoute de nouvelles fonctionnalités et prend en charge le jeu multiplateforme.</desc>
     </variables>
 </theme>

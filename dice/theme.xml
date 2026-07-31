@@ -10,9 +10,6 @@
 
 <system.releaseYearOrNull>2008</system.releaseYearOrNull>
 
-<desc>DICE is a Discrete Integrated Circuit Emulator. It emulates computer systems that lack any type of CPU, consisting only of discrete logic components.</desc>
-
-<desc lang="fr">DICE est un émulateur de circuit intégré discret. Il émule des systèmes informatiques dépourvus de tout type de processeur, composés uniquement de composants logiques discrets.</desc>
 </variables>
 
 </theme>

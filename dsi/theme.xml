@@ -6,7 +6,5 @@
 		<region.priority region="eu"/>
 		<system.manufacturer>Delphine Software International</system.manufacturer>
 		<system.fullName>Delphine Software</system.fullName>
-		<desc>Delphine Software International was a French video game developer founded in 1988. They were known for their cinematic platformers and adventure games, such as Another World, Flashback, and Fade to Black.</desc>
-		<desc lang="fr">Delphine Software International était un développeur de jeux vidéo français fondé en 1988. Ils étaient connus pour leurs jeux de plateforme cinématiques et leurs jeux d'aventure, tels que Another World, Flashback et Fade to Black.</desc>
 	</variables>
 </theme>

@@ -15,10 +15,6 @@
 
 <system.releaseYearOrNull>2023</system.releaseYearOrNull>
 
-<desc>Reminiscence is an open-source reimplementation of the engine used in the game "Flashback: The Quest for Identity". It allows users to play the game on modern systems with improved compatibility and features.</desc>
-
-<desc lang="fr">Réminiscence est une réimplémentation open-source du moteur utilisé dans le jeu "Flashback: The Quest for Identity". Il permet aux utilisateurs de jouer au jeu sur des systèmes modernes avec une compatibilité et des fonctionnalités améliorées.</desc>
-
 </variables>
 
 </theme>

@@ -12,8 +12,5 @@
 
                 <system.releaseYearOrNull>2000</system.releaseYearOrNull>
 
-                <desc>FinalBurn Alpha (FBA) is an emulator of arcade games and consoles. It is known for its accuracy and compatibility, and it is considered one of the best emulators for arcade games.</desc>
-                <desc lang="fr">FinalBurn Alpha (FBA) est un émulateur de jeux d'arcade et de consoles. Il est connu pour sa précision et sa compatibilité, et il est considéré comme l'un des meilleurs émulateurs pour les jeux d'arcade.</desc>
-
         </variables>
 </theme>

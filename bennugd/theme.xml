@@ -7,7 +7,5 @@
         <system.manufacturer>Ports</system.manufacturer>
         <system.fullName>BennuGD</system.fullName>
         <system.releaseYearOrNull>2007</system.releaseYearOrNull>
-        <desc>BennuGD is a high-level, open-source game development suite that focuses on modularity and portability, making it an excellent choice for cross-platform game development.</desc>
-        <desc lang="fr">BennuGD est une suite de développement de jeux vidéo open source de haut niveau qui met l'accent sur la modularité et la portabilité, ce qui en fait un excellent choix pour le développement de jeux multiplateformes.</desc>
     </variables>
 </theme>

@@ -12,8 +12,5 @@
 
                 <system.releaseYearOrNull>1982</system.releaseYearOrNull>
 
-                <desc>Electronic Arts (EA) is an American video game company founded in 1982. It is one of the largest video game companies in the world, known for publishing popular franchises such as FIFA, Madden NFL, The Sims, and Battlefield. EA has also developed a number of its own game engines, including Frostbite and Ignite.</desc>
-                <desc lang="fr">Electronic Arts (EA) est une société américaine de jeux vidéo fondée en 1982. C'est l'une des plus grandes sociétés de jeux vidéo au monde, connue pour avoir publié des franchises populaires telles que FIFA, Madden NFL, Les Sims et Battlefield. EA a également développé un certain nombre de ses propres moteurs de jeu, notamment Frostbite et Ignite.</desc>
-
         </variables>
 </theme>

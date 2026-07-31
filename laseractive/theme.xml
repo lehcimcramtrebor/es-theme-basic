@@ -7,7 +7,5 @@
         <system.manufacturer>Pioneer</system.manufacturer>
         <system.fullName>Pioneer Laserdisc</system.fullName>
         <system.releaseYearOrNull>1993</system.releaseYearOrNull>
-        <desc>The LaserActive (Japanese: レーザーアクティブ, Hepburn: Rēzā Akutibu) is a hybrid LaserDisc player and home video game console released by Pioneer Corporation in 1993. Marketed as a high-end, modular entertainment system, it was designed to combine movies, music, and video games into a single unit. Out of the box, the base unit could natively play standard LaserDiscs and compact discs, but support for video games required optional expansion modules known as PACs. Each PAC enabled compatibility with a specific gaming platform and its media formats. </desc>
-        <desc lang="fr">Le LaserActive (en japonais : レーザーアクティブ, Hepburn : Rēzā Akutibu) est un appareil hybride, à la fois lecteur de LaserDisc et console de jeux vidéo domestique, commercialisé par Pioneer Corporation en 1993. Commercialisé comme un système de divertissement modulaire haut de gamme, il a été conçu pour réunir films, musique et jeux vidéo en un seul appareil. Dès sa sortie de l'emballage, l'unité de base pouvait lire nativement les LaserDiscs standard et les CD, mais la prise en charge des jeux vidéo nécessitait des modules d'extension optionnels appelés PAC. Chaque PAC assurait la compatibilité avec une plateforme de jeu spécifique et ses formats de médias.</desc>
     </variables>
 </theme>

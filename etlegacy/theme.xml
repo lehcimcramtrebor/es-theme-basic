@@ -12,8 +12,5 @@
 
                 <system.releaseYearOrNull>2008</system.releaseYearOrNull>
 
-                <desc>ET: Legacy is an open-source project that aims to keep the free and open-source multiplayer game, Wolfenstein: Enemy Territory, alive. It improves the game's engine with bug fixes, security enhancements, and new features, while maintaining compatibility with the original game. It allows the community to host and play the game on modern systems.</desc>
-                <desc lang="fr">ET: Legacy est un projet open-source qui vise à maintenir en vie le jeu multijoueur libre et open-source, Wolfenstein: Enemy Territory. Il améliore le moteur du jeu avec des corrections de bugs, des améliorations de sécurité et de nouvelles fonctionnalités, tout en maintenant la compatibilité avec le jeu original. Il permet à la communauté d'héberger et de jouer au jeu sur les systèmes modernes.</desc>
-
         </variables>
 </theme>

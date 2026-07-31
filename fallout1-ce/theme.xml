@@ -12,8 +12,5 @@
 
                 <system.releaseYearOrNull>2023</system.releaseYearOrNull>
 
-                <desc>Fallout Community Edition (Fallout-CE) is a community-driven, open-source project aimed at enhancing the original Fallout game. It provides bug fixes, improvements to the game engine, and adds new features, while staying true to the original game's spirit. This edition ensures that the classic Fallout experience is preserved and accessible on modern systems.</desc>
-                <desc lang="fr">Fallout Community Edition (Fallout-CE) est un projet open-source, dirigé par la communauté, visant à améliorer le jeu Fallout original. Il fournit des corrections de bugs, des améliorations du moteur de jeu et ajoute de nouvelles fonctionnalités, tout en restant fidèle à l'esprit du jeu original. Cette édition garantit que l'expérience classique de Fallout est préservée et accessible sur les systèmes modernes.</desc>
-
         </variables>
 </theme>

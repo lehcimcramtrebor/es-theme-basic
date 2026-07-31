@@ -6,7 +6,5 @@
         <region.priority region="eu"/>
         <system.manufacturer>Infogrames</system.manufacturer>
         <system.fullName>Infogrames</system.fullName>
-        <desc>Infogrames was a French video game developer and publisher. They were known for publishing and developing a wide range of games across various platforms, including Alone in the Dark, Driver, and Test Drive.</desc>
-        <desc lang="fr">Infogrames était un développeur et éditeur français de jeux vidéo. Ils étaient connus pour publier et développer une large gamme de jeux sur diverses plates-formes, notamment Alone in the Dark, Driver et Test Drive.</desc>
     </variables>
 </theme>

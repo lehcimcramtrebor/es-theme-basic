@@ -6,7 +6,5 @@
 		<region.priority region="eu"/>
 		<system.manufacturer>Enix (Square Enix)</system.manufacturer>
 		<system.fullName>Dragon Quest</system.fullName>
-		<desc>Dragon Quest, originally published as Dragon Warrior in North America, is a long-running Japanese role-playing video game franchise. The series is known for its traditional turn-based combat, charming characters, and captivating storylines. It's one of the most popular and influential RPG series in Japan.</desc>
-		<desc lang="fr">Dragon Quest, initialement publié sous le nom de Dragon Warrior en Amérique du Nord, est une franchise de jeux vidéo de rôle japonais de longue date. La série est connue pour son combat traditionnel au tour par tour, ses personnages charmants et ses scénarios captivants. C'est l'une des séries RPG les plus populaires et les plus influentes au Japon.</desc>
 	</variables>
 </theme>

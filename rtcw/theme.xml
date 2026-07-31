@@ -7,7 +7,5 @@
         <system.manufacturer>Ports</system.manufacturer>
         <system.fullName>Return To Castle Wolfenstein</system.fullName>
         <system.releaseYearOrNull>2020</system.releaseYearOrNull>
-        <desc>Return To Castle Wolfenstein port</desc>
-        <desc lang="fr">Portage de Return To Castle Wolfenstein</desc>
     </variables>
 </theme>

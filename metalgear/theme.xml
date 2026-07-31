@@ -8,7 +8,5 @@
         <system.fullName>Metal Gear Series</system.fullName>
         <system.fullName lang="fr">Série Metal Gear</system.fullName>
         <system.releaseYearOrNull>1987</system.releaseYearOrNull> 
-        <desc>Metal Gear is a series of stealth action-adventure video games created by Hideo Kojima and published by Konami. The series is known for its intricate storylines, political themes, and innovative gameplay mechanics. It has been praised for its cinematic presentation and has had a significant impact on the stealth game genre.</desc>
-        <desc lang="fr">Metal Gear est une série de jeux vidéo d'action-aventure furtifs créée par Hideo Kojima et publiée par Konami. La série est connue pour ses scénarios complexes, ses thèmes politiques et ses mécanismes de jeu innovants. Elle a été saluée pour sa présentation cinématographique et a eu un impact significatif sur le genre du jeu furtif.</desc>
     </variables>
 </theme>

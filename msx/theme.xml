@@ -7,7 +7,5 @@
         <system.manufacturer>Various</system.manufacturer>
         <system.fullName>MSX</system.fullName>
         <system.releaseYearOrNull>1983</system.releaseYearOrNull>
-        <desc>The MSX is a standardized home computer architecture created by Microsoft and ASCII Corporation. It was popular in Japan, South America, and Europe during the 1980s and early 1990s. The MSX platform featured a wide range of games and software, including many titles that were exclusive to the system.</desc>
-        <desc lang="fr">Le MSX est une architecture d'ordinateur personnel normalisée créée par Microsoft et ASCII Corporation. Il était populaire au Japon, en Amérique du Sud et en Europe dans les années 1980 et au début des années 1990. La plateforme MSX proposait une large gamme de jeux et de logiciels, dont de nombreux titres exclusifs au système.</desc>
     </variables>
 </theme>

@@ -7,7 +7,5 @@
         <system.manufacturer>Sega</system.manufacturer>
         <system.fullName>Hikaru</system.fullName>
         <system.releaseYearOrNull>1999</system.releaseYearOrNull>
-        <desc>The Sega Hikaru is an arcade system board that was released by Sega in 1999. It was designed to provide high-performance 3D graphics and was used for a small number of arcade games.</desc>
-        <desc lang="fr">Le Sega Hikaru est une carte système d'arcade sortie par Sega en 1999. Il a été conçu pour fournir des graphiques 3D hautes performances et a été utilisé pour un petit nombre de jeux d'arcade.</desc>
     </variables>
 </theme>

@@ -7,7 +7,5 @@
 		<system.manufacturer>Various</system.manufacturer>
 		<system.fullName>Adventure Games</system.fullName>
 		<system.fullName lang="fr">Jeux d'aventure</system.fullName>
-		<desc>Adventure games emphasize exploration, puzzle-solving, and storytelling. They often feature intricate plots, memorable characters, and atmospheric environments, providing a captivating and immersive experience.</desc>
-		<desc lang="fr">Les jeux d'aventure mettent l'accent sur l'exploration, la résolution d'énigmes et la narration. Ils comportent souvent des intrigues complexes, des personnages mémorables et des environnements atmosphériques, offrant une expérience captivante et immersive.</desc>
 	</variables>
 </theme>

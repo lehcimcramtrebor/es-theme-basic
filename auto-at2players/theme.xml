@@ -7,7 +7,5 @@
 		<system.manufacturer>Various</system.manufacturer>
 		<system.fullName>2 Players Games</system.fullName>
 		<system.fullName lang="fr">Jeux à 2 joueurs</system.fullName>
-		<desc>A collection of games designed for two players, offering competitive or cooperative gameplay experiences.</desc>
-		<desc lang="fr">Une collection de jeux conçus pour deux joueurs, offrant des expériences de jeu compétitives ou coopératives.</desc>
 	</variables>
 </theme>

@@ -8,7 +8,5 @@
 		<system.fullName>Atari XE Video Game System</system.fullName>
 		<system.fullName lang="fr">Atari XE Video Game System</system.fullName>
 		<system.releaseYearOrNull>1987</system.releaseYearOrNull>
-		<desc>The Atari XE Video Game System (XEGS) is a home video game console that was released by Atari Corporation in 1987. It is known for its backward compatibility with the Atari 8-bit family of computers, as well as its unique design, which includes a detachable keyboard. The XEGS was not a commercial success, but it is considered to be an important part of Atari's history.</desc>
-		<desc lang="fr">L'Atari XE Video Game System (XEGS) est une console de jeux vidéo domestique sortie par Atari Corporation en 1987. Il est connu pour sa rétrocompatibilité avec la famille d'ordinateurs Atari 8 bits, ainsi que pour sa conception unique, qui comprend un clavier détachable. Le XEGS n'a pas été un succès commercial, mais il est considéré comme une partie importante de l'histoire d'Atari.</desc>
 	</variables>
 </theme>

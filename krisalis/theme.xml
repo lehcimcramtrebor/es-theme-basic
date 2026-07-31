@@ -6,7 +6,5 @@
         <region.priority region="eu"/>
         <system.manufacturer>Krisalis Software</system.manufacturer>
         <system.fullName>Krisalis</system.fullName>
-        <desc>Krisalis Software was a British video game developer and publisher. They were known for producing a variety of games across different genres, including simulations, sports games, and platformers.</desc>
-        <desc lang="fr">Krisalis Software était un développeur et éditeur de jeux vidéo britannique. Ils étaient connus pour produire une variété de jeux dans différents genres, notamment des simulations, des jeux de sport et des jeux de plateforme.</desc>
     </variables>
 </theme>

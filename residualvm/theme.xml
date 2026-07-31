@@ -13,10 +13,6 @@
 <system.fullName>ResidualVM</system.fullName>
 <system.fullName lang="fr">ResidualVM</system.fullName>
 
-<desc>ResidualVM is a cross-platform 3D game interpreter which allows you to play 3D adventure games. This is a continuation of the project started by the ScummVM team. It provides enhanced compatibility and features for supported games.</desc>
-
-<desc lang="fr">ResidualVM est un interpréteur de jeux 3D multiplateforme qui vous permet de jouer à des jeux d'aventure 3D. Il s'agit d'une continuation du projet initié par l'équipe ScummVM. Il offre une compatibilité et des fonctionnalités améliorées pour les jeux pris en charge.</desc>
-
 </variables>
 
 </theme>

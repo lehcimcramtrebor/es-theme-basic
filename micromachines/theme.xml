@@ -8,7 +8,5 @@
         <system.fullName>Micro Machines Series</system.fullName>
         <system.fullName lang="fr">Série Micro Machines</system.fullName>
         <system.releaseYearOrNull>1991</system.releaseYearOrNull>
-        <desc>Micro Machines is a series of racing video games developed by Codemasters and based on the Micro Machines toy line. The games are known for their top-down perspective, fast-paced gameplay, and miniature-sized vehicles racing on various household tracks. The series has spanned multiple generations of consoles and remains a beloved classic among racing game fans.</desc>
-        <desc lang="fr">Micro Machines est une série de jeux vidéo de course développée par Codemasters et basée sur la ligne de jouets Micro Machines. Les jeux sont connus pour leur perspective descendante, leur gameplay rapide et leurs véhicules miniatures courant sur diverses pistes domestiques. La série a couvert plusieurs générations de consoles et reste un classique bien-aimé parmi les fans de jeux de course.</desc>
     </variables>
 </theme>

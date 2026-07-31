@@ -6,7 +6,5 @@
         <region.priority region="eu"/>
         <system.manufacturer>Sega</system.manufacturer>
         <system.fullName>Initial D</system.fullName>
-        <desc>Initial D is a series of arcade racing games based on the manga and anime of the same name. It features touge (mountain pass) racing, drift techniques, and a wide variety of Japanese cars.</desc>
-        <desc lang="fr">Initial D est une série de jeux de course d'arcade basée sur le manga et l'anime du même nom. Il propose des courses de touge (col de montagne), des techniques de drift et une grande variété de voitures japonaises.</desc>
     </variables>
 </theme>
