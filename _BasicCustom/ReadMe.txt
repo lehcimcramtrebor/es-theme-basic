@@ -15,7 +15,7 @@ Donc admettons que vous souhaitiez personnaliser la Mégadrive, vous dupliquez "
 
 	- infos.xml:
 
-		Ce fichier permet de personnaliser les informations de chaque système comme le nom du fabriquant, l'année de parution ou encore la description.
+		Ce fichier permet de personnaliser les informations de chaque système comme le nom du fabriquant, l'année de parution.
 		Par exemble, si vous souhaitez 	modifier l'année de sortie, vous devez supprimer les <!-- et --> avant et après la variable.
 	
 		Avant modification vous aviez:
@@ -25,9 +25,6 @@ Donc admettons que vous souhaitiez personnaliser la Mégadrive, vous dupliquez "
 		vous devez avoir ceci:
 
 		<system.releaseYearOrNull>2023</system.releaseYearOrNull>
-
-	
-		Toutes les informations y compris la description doivent toujours n'utiliser qu'une seule ligne.
 
 
 	-art.png:
@@ -125,7 +122,7 @@ So let's say you want to personalize the Megadrive, you duplicate "_TEMPLATE_" a
 
 		- info.xml:
 
-		This file allows you to personalize the information of each system such as the name of the manufacturer, the year of publication or even the description.
+		This file allows you to personalize the information of each system such as the name of the manufacturer, the year of publication.
 		For example, if you want to change the year of release, you must remove the <!-- and --> before and after the variable.
 
 		Before modification you had:
@@ -135,9 +132,6 @@ So let's say you want to personalize the Megadrive, you duplicate "_TEMPLATE_" a
 		you must have this:
 
 		<system.releaseYearOrNull>2023</system.releaseYearOrNull>
-
-
-		All information including the description should always use only one line.
 
 
 		-art.png:
