@@ -156,7 +156,21 @@
 		
 	>
 	
+		<include			name="readyPlayerOne"			displayName="${subset.themeColors.readyPlayerOne}"			>./_inc/variables/themeColors-readyPlayerOne.xml</include>
 		<include			name="tronLegacy"				displayName="${subset.themeColors.tronLegacy}"				>./_inc/variables/themeColors-tronLegacy.xml</include>
+		<include			name="strangerThings"			displayName="${subset.themeColors.strangerThings}"			>./_inc/variables/themeColors-strangerThings.xml</include>
+		<include			name="akiraNeoTokyo"			displayName="${subset.themeColors.akiraNeoTokyo}"			>./_inc/variables/themeColors-akiraNeoTokyo.xml</include>
+		<include			name="cyberpunkNeon"			displayName="${subset.themeColors.cyberpunkNeon}"			>./_inc/variables/themeColors-cyberpunkNeon.xml</include>
+		<include			name="dbzSuperSaiyan"			displayName="${subset.themeColors.dbzSuperSaiyan}"			>./_inc/variables/themeColors-dbzSuperSaiyan.xml</include>
+		<include			name="ghostbusters"				displayName="${subset.themeColors.ghostbusters}"			>./_inc/variables/themeColors-ghostbusters.xml</include>
+		<include			name="tmntMutagen"				displayName="${subset.themeColors.tmntMutagen}"				>./_inc/variables/themeColors-tmntMutagen.xml</include>
+		<include			name="subZeroIce"				displayName="${subset.themeColors.subZeroIce}"				>./_inc/variables/themeColors-subZeroIce.xml</include>
+		<include			name="donkeyKong"				displayName="${subset.themeColors.donkeyKong}"				>./_inc/variables/themeColors-donkeyKong.xml</include>
+		<include			name="pacmanArcade"				displayName="${subset.themeColors.pacmanArcade}"			>./_inc/variables/themeColors-pacmanArcade.xml</include>
+		<include			name="matrixRain"				displayName="${subset.themeColors.matrixRain}"				>./_inc/variables/themeColors-matrixRain.xml</include>
+		<include			name="batmanGotham"				displayName="${subset.themeColors.batmanGotham}"			>./_inc/variables/themeColors-batmanGotham.xml</include>
+		<include			name="barbiePink"				displayName="${subset.themeColors.barbiePink}"				>./_inc/variables/themeColors-barbiePink.xml</include>
+		<include			name="unicornMagic"				displayName="${subset.themeColors.unicornMagic}"			>./_inc/variables/themeColors-unicornMagic.xml</include>
 		<include			name="heinsenberg"				displayName="${subset.themeColors.heinsenberg}"				>./_inc/variables/themeColors-heinsenberg.xml</include>
 		<include			name="smokeBlue"				displayName="${subset.themeColors.smokeBlue}"				>./_inc/variables/themeColors-smokeBlue.xml</include>
 		<include			name="redAstaire"				displayName="${subset.themeColors.redAstaire}"				>./_inc/variables/themeColors-redAstaire.xml</include>

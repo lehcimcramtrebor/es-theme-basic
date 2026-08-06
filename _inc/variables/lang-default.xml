@@ -38,18 +38,32 @@
 		<subset.helpIcons.xboxOne>xbox one</subset.helpIcons.xboxOne>
 
 		<subset.themeColors>colorset</subset.themeColors>
-		<subset.themeColors.heinsenberg>heinsenberg</subset.themeColors.heinsenberg>
+		<subset.themeColors.readyPlayerOne>ready player one (oasis vr cyan & anorak copper gold)</subset.themeColors.readyPlayerOne>
 		<subset.themeColors.tronLegacy>tron legacy (grid cyan & solar orange)</subset.themeColors.tronLegacy>
-		<subset.themeColors.redAstaire>red astaire</subset.themeColors.redAstaire>
-		<subset.themeColors.pinkman>pink man</subset.themeColors.pinkman>
-		<subset.themeColors.tribeca>tribeca</subset.themeColors.tribeca>
-		<subset.themeColors.reactorPluid>reactor pluid</subset.themeColors.reactorPluid>
-		<subset.themeColors.smoke>smoke</subset.themeColors.smoke>
-		<subset.themeColors.smokeBlue>smoke / blue</subset.themeColors.smokeBlue>
-		<subset.themeColors.smokeRed>smoke / red</subset.themeColors.smokeRed>
-		<subset.themeColors.smokePink>smoke / pink</subset.themeColors.smokePink>
-		<subset.themeColors.smokeOrange>smoke / orange</subset.themeColors.smokeOrange>
-		<subset.themeColors.smokeGreen>smoke / green</subset.themeColors.smokeGreen>
+		<subset.themeColors.strangerThings>stranger things (80s neon red & upside down black)</subset.themeColors.strangerThings>
+		<subset.themeColors.akiraNeoTokyo>akira (neo-tokyo capsule red & carbon black)</subset.themeColors.akiraNeoTokyo>
+		<subset.themeColors.cyberpunkNeon>cyberpunk neon (cyan & neon fuchsia)</subset.themeColors.cyberpunkNeon>
+		<subset.themeColors.dbzSuperSaiyan>dragon ball z (super saiyan gold aura & kamehameha blue)</subset.themeColors.dbzSuperSaiyan>
+		<subset.themeColors.ghostbusters>ghostbusters (slimer green & proton laser red)</subset.themeColors.ghostbusters>
+		<subset.themeColors.tmntMutagen>tmnt (mutagen slime green & pizza orange)</subset.themeColors.tmntMutagen>
+		<subset.themeColors.subZeroIce>sub-zero ice frost (crystalline ice white & glacier cyan)</subset.themeColors.subZeroIce>
+		<subset.themeColors.donkeyKong>donkey kong jungle (banana yellow & dk tie red)</subset.themeColors.donkeyKong>
+		<subset.themeColors.pacmanArcade>pac-man arcade (pac-man yellow & blinky red)</subset.themeColors.pacmanArcade>
+		<subset.themeColors.matrixRain>matrix digital rain (glowing green & terminal black)</subset.themeColors.matrixRain>
+		<subset.themeColors.batmanGotham>batman gotham (bat-signal yellow & carbon black)</subset.themeColors.batmanGotham>
+		<subset.themeColors.barbiePink>barbie (barbie hot pink & magenta)</subset.themeColors.barbiePink>
+		<subset.themeColors.unicornMagic>unicorn magic (pastel pink & cyan)</subset.themeColors.unicornMagic>
+		<subset.themeColors.heinsenberg>classic • heinsenberg</subset.themeColors.heinsenberg>
+		<subset.themeColors.redAstaire>classic • red astaire</subset.themeColors.redAstaire>
+		<subset.themeColors.pinkman>classic • pink man</subset.themeColors.pinkman>
+		<subset.themeColors.tribeca>classic • tribeca</subset.themeColors.tribeca>
+		<subset.themeColors.reactorPluid>classic • reactor pluid</subset.themeColors.reactorPluid>
+		<subset.themeColors.smoke>classic • smoke</subset.themeColors.smoke>
+		<subset.themeColors.smokeBlue>classic • smoke / blue</subset.themeColors.smokeBlue>
+		<subset.themeColors.smokeRed>classic • smoke / red</subset.themeColors.smokeRed>
+		<subset.themeColors.smokePink>classic • smoke / pink</subset.themeColors.smokePink>
+		<subset.themeColors.smokeOrange>classic • smoke / orange</subset.themeColors.smokeOrange>
+		<subset.themeColors.smokeGreen>classic • smoke / green</subset.themeColors.smokeGreen>
 
 		<subset.neogeo>neogeo type</subset.neogeo>
 		<subset.neogeo.mvs>multi video system</subset.neogeo.mvs>

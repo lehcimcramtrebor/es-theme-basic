@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<theme>
+
+	<formatVersion>7</formatVersion>
+	
+	<variables>
+	
+		<c.frame>0c0d12</c.frame>
+		<c.base>06070a</c.base>
+		<c.scroll>ffe600</c.scroll>
+		<c.menubg>101524</c.menubg>
+		<c.textHeader>ffe600</c.textHeader>
+		<c.main>${c.textHeader}</c.main>
+		<c.menuSelector>ff0000</c.menuSelector>
+		<ce.menuSelector>cc0000</ce.menuSelector>
+	
+	</variables>
+
+</theme>
