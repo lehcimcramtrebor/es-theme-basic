@@ -156,6 +156,7 @@
 		
 	>
 	
+		<include			name="tronLegacy"				displayName="${subset.themeColors.tronLegacy}"				>./_inc/variables/themeColors-tronLegacy.xml</include>
 		<include			name="heinsenberg"				displayName="${subset.themeColors.heinsenberg}"				>./_inc/variables/themeColors-heinsenberg.xml</include>
 		<include			name="smokeBlue"				displayName="${subset.themeColors.smokeBlue}"				>./_inc/variables/themeColors-smokeBlue.xml</include>
 		<include			name="redAstaire"				displayName="${subset.themeColors.redAstaire}"				>./_inc/variables/themeColors-redAstaire.xml</include>
@@ -167,7 +168,6 @@
 		<include			name="reactorPluid"				displayName="${subset.themeColors.reactorPluid}"			>./_inc/variables/themeColors-reactorPluid.xml</include>
 		<include			name="smokeGreen"				displayName="${subset.themeColors.smokeGreen}"				>./_inc/variables/themeColors-smokeGreen.xml</include>
 		<include			name="smoke"					displayName="${subset.themeColors.smoke}"					>./_inc/variables/themeColors-smoke.xml</include>
-	
 	</subset>
 	
 	<subset name="neogeo"

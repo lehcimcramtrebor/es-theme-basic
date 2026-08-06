@@ -39,6 +39,7 @@
 
 		<subset.themeColors>couleurs du thème</subset.themeColors>
 		<subset.themeColors.heinsenberg>heinsenberg</subset.themeColors.heinsenberg>
+		<subset.themeColors.tronLegacy>tron legacy (cyan & orange solaire)</subset.themeColors.tronLegacy>
 		<subset.themeColors.redAstaire>red astaire</subset.themeColors.redAstaire>
 		<subset.themeColors.pinkman>pink man</subset.themeColors.pinkman>
 		<subset.themeColors.tribeca>tribeca</subset.themeColors.tribeca>
