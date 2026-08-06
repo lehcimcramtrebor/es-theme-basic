@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <theme>
 
@@ -111,6 +111,7 @@
 		<subset.gridNames.system>jeu et système</subset.gridNames.system>
 
 		<lang.library>librairie</lang.library>
+		<lang.content>grille (contenus)</lang.content>
 		<lang.detailed_unified>détaillé (unifié)</lang.detailed_unified>
 		<lang.grid_boxes>grille (boîtes)</lang.grid_boxes>
 		<lang.grid_flow>grille (cover flow)</lang.grid_flow>

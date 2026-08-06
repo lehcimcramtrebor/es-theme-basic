@@ -13,10 +13,10 @@
 		<p.custom ifArch="windows">../../../../_BasicCustom</p.custom>
 		<custom.name>${global.cheevos.username}</custom.name>
 		
-		<v.allViews>system,basic,detailed,detailed_unified,library,grid,grid_boxes,grid_marquees,grid_flow</v.allViews>
-		<v.allGamelists>basic,detailed,detailed_unified,library,grid,grid_boxes,grid_marquees,grid_flow</v.allGamelists>
+		<v.allViews>system,basic,detailed,detailed_unified,library,grid,grid_boxes,grid_marquees,grid_flow,content</v.allViews>
+		<v.allGamelists>basic,detailed,detailed_unified,library,grid,grid_boxes,grid_marquees,grid_flow,content</v.allGamelists>
 		<v.textGamelists>basic,detailed,detailed_unified,library</v.textGamelists>
-		<v.gridGamelists>grid,grid_boxes,grid_marquees,grid_flow</v.gridGamelists>
+		<v.gridGamelists>grid,grid_boxes,grid_marquees,grid_flow,content</v.gridGamelists>
 
 		<v.line.hc>1 / ${screen.height}</v.line.hc>
 		<v.line.h>2 / ${screen.height}</v.line.h>
@@ -87,6 +87,7 @@
 	<customView name="grid_boxes"></customView>
 	<customView name="grid_marquees"></customView>
 	<customView name="grid_flow"></customView>
+	<customView name="content"></customView>
 	<customView name="library"></customView>
 
 	<subset name="shaders"
@@ -309,7 +310,7 @@
 	
 	</subset>
 
-	<view name="system,basic,detailed,grid">
+	<view name="system,basic,detailed,grid,content">
 	
 		<image name="hide"
 		
@@ -425,6 +426,7 @@
 	<include>./_inc/xml/grid_marquees.xml</include>
 	<include>./_inc/xml/grid_flow.xml</include>
 	<include>./_inc/xml/library.xml</include>
+	<include>./_inc/xml/content.xml</include>
 
 	<include>./_support/support.xml</include>
 
