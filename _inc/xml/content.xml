@@ -26,6 +26,27 @@
 			<visible>true</visible>
 			<opacity>1</opacity>
 			<scale>1</scale>
+			
+			<storyboard event="open">
+				<animation property="scale" from="0" to="1" mode="linear" duration="1"/>
+				<animation property="opacity" from="0" to="0" mode="linear" duration="10"/>
+				<animation property="opacity" from="0" to="1" mode="linear" duration="50" begin="10"/>
+			</storyboard>
+			<storyboard event="activateNext">
+				<animation property="scale" from="0" to="1" mode="linear" duration="1"/>
+				<animation property="opacity" from="0" to="0" mode="linear" duration="10"/>
+				<animation property="opacity" from="0" to="1" mode="linear" duration="50" begin="10"/>
+			</storyboard>
+			<storyboard event="activatePrev">
+				<animation property="scale" from="0" to="1" mode="linear" duration="1"/>
+				<animation property="opacity" from="0" to="0" mode="linear" duration="10"/>
+				<animation property="opacity" from="0" to="1" mode="linear" duration="50" begin="10"/>
+			</storyboard>
+			<storyboard event="deactivatePrev">
+			</storyboard>
+			<storyboard event="deactivateNext">
+			</storyboard>
+
 		</image>
 
 		<image name="md_image">
