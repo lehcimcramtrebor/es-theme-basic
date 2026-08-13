@@ -25,6 +25,10 @@
 		<subset.shaders.on>on</subset.shaders.on>
 		<subset.shaders.off>off</subset.shaders.off>
 
+		<subset.crt>crt effect </subset.crt>
+		<subset.crt.on>on</subset.crt.on>
+		<subset.crt.off>off</subset.crt.off>
+
 		<subset.arts>system arts</subset.arts>
 		<subset.arts.yes>yes</subset.arts.yes>
 		<subset.arts.no>no</subset.arts.no>

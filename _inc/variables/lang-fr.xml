@@ -25,6 +25,10 @@
 		<subset.shaders.on>activées</subset.shaders.on>
 		<subset.shaders.off>désactivées</subset.shaders.off>
 
+		<subset.crt>effet crt</subset.crt>
+		<subset.crt.on>activé</subset.crt.on>
+		<subset.crt.off>désactivé</subset.crt.off>
+
 		<subset.arts>illustrations du système</subset.arts>
 		<subset.arts.yes>oui</subset.arts.yes>
 		<subset.arts.no>non</subset.arts.no>

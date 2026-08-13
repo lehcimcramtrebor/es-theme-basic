@@ -102,6 +102,18 @@
 	
 	</subset>
 
+	<subset name="crt" ifSubset="shaders:on"
+	
+		displayName="${subset.crt}"
+		
+	>
+	
+		<include			name="off"					displayName="${subset.crt.off}"					tinyScreen="true"		/>
+		<include			name="on"					displayName="${subset.crt.on}"											/>
+		<include			name="off"					displayName="${subset.crt.off}"					tinyScreen="false"		/>
+	
+	</subset>
+
 	<subset name="arts"
 	
 		displayName="${subset.arts}"
@@ -441,6 +453,7 @@
 	<include>./_inc/xml/grid_flow.xml</include>
 	<include>./_inc/xml/library.xml</include>
 	<include>./_inc/xml/content.xml</include>
+	<include ifSubset="shaders:on">./_inc/xml/screen_shader.xml</include>
 
 	<include>./_support/support.xml</include>
 

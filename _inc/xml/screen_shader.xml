@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<theme>
+
+	<formatVersion>7</formatVersion>
+
+  <view name="screen">
+        <screenshader name="hmrCrtShader" extra="true" ifSubset="crt:on">
+            <pos>0 0</pos>
+            <size>1 1</size>
+            <path>./../shaders/hmr_crt.glsl</path>
+            <zIndex>5000</zIndex>
+        </screenshader>  
+  </view>
+
+</theme>
