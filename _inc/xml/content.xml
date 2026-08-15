@@ -251,7 +251,7 @@
 						</container>
 						<container name="spacer2" w="0.007"/>
 						<container name="atright">
-							<padding>10 10 15 10</padding>
+							<padding>8 6 12 6</padding>
 							<container>
 								<stackpanel reverse="true">
 									<stackpanel name="panelFav" orientation="vertical" w="{grid:h} * 0.21" separator="4">
@@ -327,14 +327,14 @@
 										<stackpanel>
 											<size>1 0.3</size>
 											<pos>0 0</pos>
-											<separator>6</separator>
+											<separator>4</separator>
 											<text name="the_game_name">
 												<pos>0 0</pos>
 												<origin>0 0</origin>
-												<size>1 0.3</size>
+												<size>0 1</size>
 												<text>{game:nameShort}</text>
 												<fontPath>./../fonts/${f.mb}</fontPath>
-												<fontSize>0.024</fontSize>
+												<fontSize>0.018</fontSize>
 												<forceUppercase>true</forceUppercase>
 												<verticalAlignment>bottom</verticalAlignment>
 												<multiLine>false</multiLine>
@@ -342,6 +342,13 @@
 												<glowColor>${c.glowColor}</glowColor>
 												<glowOffset>2</glowOffset>
 												<glowSize>1</glowSize>
+												<autoScrollDelay>1</autoScrollDelay>
+												<storyboard event="activate">
+													<animation property="autoScroll" to="horizontal"/>
+												</storyboard>
+												<storyboard event="deactivate">
+													<animation property="autoScroll" to="false"/>
+												</storyboard>
 											</text>
 											<text name="the_game_extra">
 												<pos>0 0</pos>
@@ -354,11 +361,17 @@
 												<glowOffset>2</glowOffset>
 												<glowSize>1</glowSize>
 												<fontPath>./../fonts/${f.mr}</fontPath>
-												<fontSize>0.016</fontSize>
+												<fontSize>0.014</fontSize>
 												<forceUppercase>true</forceUppercase>
-												<padding>0 0 0 0.08</padding>
 												<verticalAlignment>bottom</verticalAlignment>
 												<multiLine>false</multiLine>
+												<autoScrollDelay>1</autoScrollDelay>
+												<storyboard event="activate">
+													<animation property="autoScroll" to="horizontal"/>
+												</storyboard>
+												<storyboard event="deactivate">
+													<animation property="autoScroll" to="false"/>
+												</storyboard>
 											</text>
 										</stackpanel>
 										<stackpanel name="stars_and_system">
