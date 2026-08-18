@@ -43,8 +43,10 @@
 				<animation property="opacity" from="0" to="1" mode="linear" duration="50" begin="10"/>
 			</storyboard>
 			<storyboard event="deactivatePrev">
+				<animation property="opacity" from="1" to="0" mode="linear" duration="1" begin="0"/>
 			</storyboard>
 			<storyboard event="deactivateNext">
+				<animation property="opacity" from="1" to="0" mode="linear" duration="1" begin="0"/>
 			</storyboard>
 
 		</image>
