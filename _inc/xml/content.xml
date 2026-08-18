@@ -99,25 +99,16 @@
 							<color>${c.frame}</color>
 							<roundCorners>${corners}</roundCorners>
 							<zIndex>2</zIndex>
-							<image name="shade">
-								<visible>!exists({game:thumbnail})</visible>
-								<path>./../parts/bg.png</path>
-								<pos>0 0</pos>
-								<origin>0 0</origin>
-								<size>1 1</size>
-								<color>FFFFFF16</color>
-								<roundCorners>${corners}</roundCorners>
-							</image>
 						</image>
 						<container clipChildren="true">
 							<image name="backgroundOfTile" if="!${simpleMode}">
-								<path>{game:thumbnail}</path>
+								<path>./../parts/white.png</path>
 								<origin>0.5</origin>
 								<pos>0.5</pos>
 								<minSize>1 1</minSize>
 								<linearSmooth>true</linearSmooth>
 								<zIndex>3</zIndex>
-								<color>FFFFFF1A</color>
+								<color>${c.selector}</color>
 								<roundCorners>${corners}</roundCorners>
 								<storyboard event="activate" repeat="forever">
 									<animation property="scale" from="1" to="1.1" duration="5000"/>
