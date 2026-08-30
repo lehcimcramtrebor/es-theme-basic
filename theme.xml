@@ -109,8 +109,8 @@
 	>
 	
 		<include			name="off"					displayName="${subset.crt.off}"					tinyScreen="true"		/>
-		<include			name="on"					displayName="${subset.crt.on}"											/>
 		<include			name="off"					displayName="${subset.crt.off}"					tinyScreen="false"		/>
+		<include			name="on"					displayName="${subset.crt.on}"											/>
 	
 	</subset>
 
@@ -120,8 +120,8 @@
 		
 	>
 	
-		<include			name="yes"					displayName="${subset.arts.yes}"								/>
 		<include			name="no"					displayName="${subset.arts.no}"									/>
+		<include			name="yes"					displayName="${subset.arts.yes}"								/>
 	
 	</subset>
 
@@ -202,8 +202,8 @@
 		
 	>
 	
-		<include			name="mvs"						displayName="${subset.neogeo.mvs}"							/>
 		<include			name="aes"						displayName="${subset.neogeo.aes}"							>./_inc/variables/neogeo-aes.xml</include>
+		<include			name="mvs"						displayName="${subset.neogeo.mvs}"							/>
 	
 	</subset>
  
@@ -233,9 +233,9 @@
 		
 	>
 	
+		<include			name="no"						displayName="${subset.randomVideo.no}"						/>
 		<include			name="justVideo"				displayName="${subset.randomVideo.justVideo}"				>./_inc/xml/randomVideo-justVideo.xml</include>
 		<include			name="yes"						displayName="${subset.randomVideo.yes}"						>./_inc/xml/randomVideo-yes.xml</include>
-		<include			name="no"						displayName="${subset.randomVideo.no}"						/>
 	
 	</subset>
 	
@@ -246,9 +246,9 @@
 		
 	>
 	
+		<include			name="no"						displayName="${subset.randomGames.no}"						/>
 		<include			name="marquees"					displayName="${subset.randomGames.marquees}"				>./_inc/xml/randomGames.xml</include>
 		<include			name="thumbnails"				displayName="${subset.randomGames.thumbnails}"				>./_inc/xml/randomGames.xml</include>
-		<include			name="no"						displayName="${subset.randomGames.no}"						/>
 	
 	</subset>
 	
