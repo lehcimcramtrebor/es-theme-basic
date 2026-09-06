@@ -222,8 +222,6 @@
 		<image name="logo"
 		
 			maxSize="0.28 0.1203703703703704"
-			origin="0.5 0.5"
-			pos="0.5 0.12"
 			
 		>
 		
@@ -232,6 +230,28 @@
 		
 		</image>
 		
+	</view>
+
+	<view name="basic">
+	
+		<image name="logo"
+		
+			origin="0.5 0.5"
+			pos="0.5 0.12"
+			
+		/>
+				
+	</view>
+
+	<view name="detailed,grid">
+	
+		<image name="logo"
+		
+			origin="0 0.5"
+			pos="0.025 0.12"
+			
+		/>
+				
 	</view>
 	
 </theme>

@@ -133,14 +133,7 @@
 
 
 		</image>
-
-		<image name="logo"
 		
-			origin="0 0.5"
-			x="0.025"
-		
-		/>
-
 		<imagegrid name="gamegrid"
 		
 			zIndex="1001"

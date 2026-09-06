@@ -99,13 +99,6 @@
 			opacity="0.5"
 			
 		/>
-
-		<image name="logo"
-		
-			origin="0 0.5"
-			x="0.025"
-		
-		/>
 		
 		<textlist name="gamelist"
 		
