@@ -218,7 +218,7 @@
 	</view>
 
 	<view name="basic,detailed,grid">
-	
+
 		<image name="logo"
 		
 			maxSize="0.28 0.1203703703703704"
@@ -252,6 +252,63 @@
 			
 		/>
 				
+	</view>
+
+	<view name="system,basic,detailed,grid">
+	
+		<text name="logoTextDynamic" 
+		
+			extra="true" 
+			tinyscreen="false"
+			zIndex="5000" 
+			size="1 1" offsetY="0.008" 
+			verticalAlignment="top" 
+			alignment="center" 
+			forceUppercase="true" 
+			color="${c.text}" 
+			glowColor="${c.glowColor}"
+			glowSize="2"
+			glowOffset="3"
+			opacity="0.7" 
+			fontSize="0.016" 
+			fontPath="./../fonts/${f.digital}"
+			
+		>
+		
+			<text>{game:system:fullName} + ' - ' + {game:name}</text>
+		
+		</text>
+
+	</view>
+
+	<view name="system">
+	
+		<text name="logoTextDynamic" 
+		
+			extra="true" 
+			tinyscreen="false"
+			
+		>
+		
+			<text>${system.fullName}</text>
+		
+		</text>
+
+	</view>
+
+	<view name="basic,detailed,grid">
+	
+		<text name="logoTextDynamic" 
+		
+			extra="true" 
+			tinyscreen="false"
+			
+		>
+		
+			<text>{game:name} + ' [ ' + {game:system:name} + ' ]'</text>
+		
+		</text>
+
 	</view>
 	
 </theme>
