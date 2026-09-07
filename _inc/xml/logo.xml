@@ -254,7 +254,7 @@
 				
 	</view>
 
-	<view name="system,basic,detailed,grid">
+	<view name="basic,detailed,grid">
 	
 		<text name="logoTextDynamic" 
 		
@@ -274,38 +274,8 @@
 			fontPath="./../fonts/${f.digital}"
 			
 		>
-		
-			<text>{game:system:fullName} + ' - ' + {game:name}</text>
-		
-		</text>
 
-	</view>
-
-	<view name="system">
-	
-		<text name="logoTextDynamic" 
-		
-			extra="true" 
-			tinyscreen="false"
-			
-		>
-		
-			<text>${system.fullName}</text>
-		
-		</text>
-
-	</view>
-
-	<view name="basic,detailed,grid">
-	
-		<text name="logoTextDynamic" 
-		
-			extra="true" 
-			tinyscreen="false"
-			
-		>
-		
-			<text>{game:name} + ' [ ' + {game:system:name} + ' ]'</text>
+			<text>{game:system:fullName}</text>
 		
 		</text>
 
