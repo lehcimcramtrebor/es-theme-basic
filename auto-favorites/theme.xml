@@ -5,7 +5,7 @@
 	<variables>
 		<region.priority region="eu"/>
 		<system.manufacturer>Various</system.manufacturer>
-		<system.fullName>Favoris</system.fullName>
+		<system.fullName>Favorites</system.fullName>
 		<system.fullName lang="fr">Favoris</system.fullName>
 	</variables>
 </theme>
